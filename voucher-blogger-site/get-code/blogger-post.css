@@ -1,0 +1,58 @@
+  .ty-author-box{display:none}
+/*block bôi đen*/
+  body{
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+  }
+  #mainCode{position:relative;}
+  .coupon-code {
+      color: #444444;
+      background: linear-gradient(
+  315deg, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0) 15%, rgba(0, 0, 0, 0) 35%, rgba(0, 0, 0, 0.06) 40%, rgba(0, 0, 0, 0.06) 60%, rgba(0, 0, 0, 0) 65%, rgba(0, 0, 0, 0) 85%, rgba(0, 0, 0, 0.06) 90%) repeat scroll 0 0/6px 6px rgba(0, 0, 0, 0);
+      text-align: right;
+      padding: 5px 15px;
+      font-size: 20px;
+      border: 2px solid #DDDDDD;
+      position: relative;
+  }  
+  .coupon-code .get-code {
+    z-index:999999999;
+    position: absolute;
+    left: -2px;
+    top: -2px;
+    background: #fc8c99;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 0px 15px 14px 14px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    transition: all 0.5s ease;
+  }
+  .coupon-code .get-code:after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-top: 40px solid transparent;
+    border-left: 45px solid #fc8c99;
+    position: absolute;
+    right: -44px;
+    top: 0;
+  }
+  .coupon-code .get-code:hover {
+    padding-right: 5px;
+    transition: all 0.5s ease;
+  } 
+  .code-text {
+    text-transform: uppercase;
+  }
+  #NotifyCopiedVoucherCode{text-align:center;font-size:2rem;display:none}
+/*block point input*/
+  .code-text input {
+    disabled: true;
+  	pointer-events: none;
+  } 
