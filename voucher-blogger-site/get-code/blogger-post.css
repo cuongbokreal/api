@@ -8,6 +8,11 @@
   -o-user-select: none;
   user-select: none;
   }
+.code-text input{
+  background-color: transparent;
+  border: 0px solid;
+  color: #CCC;
+}/*xóa border input*/
   #mainCode{position:relative;}
   .coupon-code {
       color: #444444;
