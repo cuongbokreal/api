@@ -13,6 +13,7 @@ var getUrlParameter = function getUrlParameter(sParam) {
     }
 };
 var hostNameVoucherSite = window.location.hostname;
+var pathNameVoucherSite = window.location.pathname;
 var updateTime = new Date();
 var ctv = getUrlParameter('ctv');
 var jsMain = document.createElement("SCRIPT");
@@ -54,9 +55,11 @@ function createMariquee(){
         let innerSurf = "";
         for(let i=3;i<titleVouchers.length;i++){
             innerSurf+=`<a class="vouchers-tag-link" href="?ctv=vouchers_click&utm_source=vouchers_a_tag_click&utm_medium=${titleVouchers[i].innerText}#couponTab" title="Mã tại TrumGiamGia: ${titleVouchers[i].innerText}" alt="Mã tại TrumGiamGia: ${titleVouchers[i].innerText}">${titleVouchers[i].innerText}</a>   |   `
+        }
+        if(pathNameVoucherSite = '/'){
+            surf.innerHTML = innerSurf;
+            innerVouchers.innerHTML = innerSurf;
         }    
-        surf.innerHTML = innerSurf;
-        innerVouchers.innerHTML = innerSurf;
     }, 5000);
 }    
 createMariquee();
