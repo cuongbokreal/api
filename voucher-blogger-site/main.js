@@ -12,6 +12,7 @@ var getUrlParameter = function getUrlParameter(sParam) {
         }
     }
 };
+var accessKey = "5353514789844343379";
 var hostNameVoucherSite = window.location.hostname;
 var pathNameVoucherSite = window.location.pathname;
 var updateTime = new Date();
@@ -19,7 +20,7 @@ var ctv = getUrlParameter('ctv');
 var jsMain = document.createElement("SCRIPT");
 jsMain.src = 'https://static.accesstrade.vn/coupon/v2/js/main.js';
 jsMain.id = 'atScript6626';
-jsMain.setAttribute("data-accesskey", "5353514789844343379");
+jsMain.setAttribute("data-accesskey", accessKey);
 jsMain.setAttribute("data-filters", `
 {"merchant":"4742147753565840242,4348611690224153209,5127139956446111602,4348611682079477428","category":"","campaign":"4751584435713464237,4348614231480407268,5127144557053758578,4348614229221512955,"}
 `); 
