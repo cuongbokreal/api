@@ -208,12 +208,12 @@ function displayToc(filter) {
    tocTable += '</tr>';
    for (var i = 0; i < postTitle.length; i++) {
       if (filter == '') {
-         tocTable += '<tr><td class="toc-entry-col1"><a href="' + postUrl[i] + '" title="' + postSum[i] + '">' + postTitle[i] + '</a></td><td class="toc-entry-col2">' + postDate[i] + '</td><td class="toc-entry-col3">' + postLabels[i] + '</td></tr>';
+         tocTable += '<tr><td class="toc-entry-col1"><a href="' + postUrl[i] + '" alt="' + postSum[i] + '" title="' + postSum[i] + '">' + postTitle[i] + '</a></td><td class="toc-entry-col2">' + postDate[i] + '</td><td class="toc-entry-col3">' + postLabels[i] + '</td></tr>';
          numDisplayed++;
       } else {
           z = postLabels[i].lastIndexOf(filter);
           if ( z!= -1) {
-             tocTable += '<tr><td class="toc-entry-col1"><a href="' + postUrl[i] + '" title="' + postSum[i] + '">' + postTitle[i] + '</a></td><td class="toc-entry-col2">' + postDate[i] + '</td><td class="toc-entry-col3">' + postLabels[i] + '</td></tr>';
+             tocTable += '<tr><td class="toc-entry-col1"><a href="' + postUrl[i] + '" alt="' + postSum[i] + '" title="' + postSum[i] + '">' + postTitle[i] + '</a></td><td class="toc-entry-col2">' + postDate[i] + '</td><td class="toc-entry-col3">' + postLabels[i] + '</td></tr>';
              numDisplayed++;
           }
         }
