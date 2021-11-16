@@ -16,14 +16,14 @@
         window.location.href = aMainCode.getAttribute("data-href");
       }, 10);  
     }
-    document.body.setAttribute("oncopy", "copyVoucherCode()");
+    //document.body.setAttribute("oncopy", "copyVoucherCode()");
     mainCode.setAttribute("oncopy", "copyVoucherCode()");
 
     setInterval(function(){
 	copyCodeButton.style.display ='block';
       	copyCodeButton.setAttribute("class", "get-code");
 	mainCode.setAttribute("oncopy", "copyVoucherCode()");
-	document.body.setAttribute("oncopy", "copyVoucherCode()");
+	//document.body.setAttribute("oncopy", "copyVoucherCode()");
     	mainCode.setAttribute("oncopy", "copyVoucherCode()");
 	if(document.oncontextmenu=null){
 		blockContextMenu()
