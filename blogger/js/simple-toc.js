@@ -200,10 +200,10 @@ function displayToc(filter) {
    tocTable += '<a href="javascript:toggleTitleSort();" title="' + tocTool1 + '" alt="' + tocTool1 + '">' + tocHead1 + '</a>';
    tocTable += '</td>';
    tocTable += '<td class="toc-header-col2">';
-   tocTable += '<a href="javascript:toggleDateSort();" title="' + tocTool2 + '" alt="' + tocTool1 + '">' + tocHead2 + '</a>';
+   tocTable += '<a href="javascript:toggleDateSort();" title="' + tocTool2 + '" alt="' + tocTool2 + '">' + tocHead2 + '</a>';
    tocTable += '</td>';
    tocTable += '<td class="toc-header-col3">';
-   tocTable += '<a href="javascript:allPosts();" title="' + tocTool3 + '" alt="' + tocTool1 + '">' + tocHead3 + '</a>';
+   tocTable += '<a href="javascript:allPosts();" title="' + tocTool3 + '" alt="' + tocTool2 + '">' + tocHead3 + '</a>';
    tocTable += '</td>';
    tocTable += '</tr>';
    for (var i = 0; i < postTitle.length; i++) {
