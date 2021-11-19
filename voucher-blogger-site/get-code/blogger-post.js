@@ -3,7 +3,7 @@
     var copyCodeButton = document.querySelector('#mainCode > span');
     var NotifyCopiedVoucherCode = document.getElementById('NotifyCopiedVoucherCode');
     mainCode.value = window.atob(voucherCode);
-    mainCode.setAttribute("size", "15");
+    mainCode.setAttribute("size", "18");
 
     function copyVoucherCode() {
       NotifyCopiedVoucherCode.style.display = 'block';
