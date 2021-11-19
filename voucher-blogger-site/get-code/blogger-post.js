@@ -1,7 +1,7 @@
     var aMainCode = document.querySelector('#mainCode');
     var mainCode = document.querySelector('#mainCode > .code-text > input');
     var copyCodeButton = document.querySelector('#mainCode > span');
-    var NotifyCopiedVoucherCode = document.getElementById('NotifyCopiedVoucherCode')
+    var NotifyCopiedVoucherCode = document.getElementById('NotifyCopiedVoucherCode');
     mainCode.value = window.atob(voucherCode);
     mainCode.setAttribute("size", "15");
 
