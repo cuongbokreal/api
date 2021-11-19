@@ -29,7 +29,7 @@
     position: absolute;
     left: -2px;
     top: -2px;
-    background: #fc8c99;
+    background: #6bb764;
     color: #FFFFFF;
     font-size: 16px;
     padding: 0px 15px 14px 14px;
@@ -43,7 +43,7 @@
     width: 0;
     height: 0;
     border-top: 40px solid transparent;
-    border-left: 45px solid #fc8c99;
+    border-left: 45px solid #6bb764;
     position: absolute;
     right: -44px;
     top: 0;
@@ -61,3 +61,11 @@
     disabled: true;
   	pointer-events: none;
   } 
+
+
+/*
+Note: CopyCode color:   .coupon-code .get-code, after: #fc8c99
+cam: #ff7135
+xanh lá: #6bb764
+
+*/
