@@ -11,7 +11,7 @@
 .code-text input{
   background-color: transparent;
   border: 0px solid;
-  color: #CCC;
+  color: #000;
 }/*xóa border input*/
   #mainCode{position:relative;}
   .coupon-code {
