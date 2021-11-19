@@ -3,6 +3,8 @@
     var copyCodeButton = document.querySelector('#mainCode > span');
     var NotifyCopiedVoucherCode = document.getElementById('NotifyCopiedVoucherCode')
     mainCode.value = window.atob(voucherCode);
+    mainCode.setAttribute("size", "15");
+
     function copyVoucherCode() {
       NotifyCopiedVoucherCode.style.display = 'block';
       NotifyCopiedVoucherCode.innerHTML = `Đã copy mã Voucher!`;    
