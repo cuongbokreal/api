@@ -46,7 +46,7 @@ var pathname = window.location.pathname;
       console.log("Copied the code: " + copyCode.value);
       setTimeout(function(){
       	//window.open(window.location.href);
-        window.location.href = `${aMainCode.getAttribute("data-href")}&utm_campaign=${listAd[p].id}&utm_content=Tên: ${listAd[p].name} mã:${window.atob(voucherCode)} url: ${pathname}`;
+        window.location.href = `${aMainCode.getAttribute("data-href")}`;
       }, 10);  
     }
     //document.body.setAttribute("oncopy", "copyVoucherCode()");
