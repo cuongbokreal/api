@@ -27,7 +27,7 @@ var listAd = [
 	 "source":"QuynhAnh"
 	},
  ];
-
+var pathname = window.location.pathname;
 
     var aMainCode = document.querySelector('#mainCode');
     var mainCode = document.querySelector('#mainCode > .code-text > input');
@@ -46,7 +46,7 @@ var listAd = [
       console.log("Copied the code: " + copyCode.value);
       setTimeout(function(){
       	//window.open(window.location.href);
-        window.location.href = aMainCode.getAttribute("data-href");
+        window.location.href = `${aMainCode.getAttribute("data-href")}&utm_campaign=${listAd[p].id}&utm_content=Tên: ${listAd[p].name} mã:${window.atob(voucherCode)} url: ${pathname}`;
       }, 10);  
     }
     //document.body.setAttribute("oncopy", "copyVoucherCode()");
