@@ -28,9 +28,9 @@ var listAd = [
 	},
  ];
 var pathname = window.location.pathname;
-var utm_campaign = `00`;
-
-var utm_content = `Cuongbok mặc định`;
+var utm_campaign = '00';
+if(p && !p != 'undefined'){utm_campaign = listAd[p].name}
+var utm_content = 'Cuongbok';
 
     var aMainCode = document.querySelector('#mainCode');
     var mainCode = document.querySelector('#mainCode > .code-text > input');
