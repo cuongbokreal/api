@@ -31,6 +31,7 @@ var pathname = window.location.pathname;
 var campaign = '00';
 if(p && !p != 'undefined'){utm_campaign = listAd[p].name}
 var content = 'Cuongbok';
+&utm_campaign=${campaign}&utm_content=${content}
 */
     var aMainCode = document.querySelector('#mainCode');
     var mainCode = document.querySelector('#mainCode > .code-text > input');
@@ -49,7 +50,7 @@ var content = 'Cuongbok';
       console.log("Copied the code: " + copyCode.value);
       setTimeout(function(){
       	//window.open(window.location.href);
-        window.location.href = `${aMainCode.getAttribute("data-href")}&utm_campaign=${campaign}&utm_content=${content}`;
+        window.location.href = `${aMainCode.getAttribute("data-href")}`;
       }, 10);  
     }
     //document.body.setAttribute("oncopy", "copyVoucherCode()");
