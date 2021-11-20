@@ -3,7 +3,6 @@ var getUrlParameter = function getUrlParameter(sParam) {
         sURLVariables = sPageURL.split('&'),
         sParameterName,
         i;
- 
     for (i = 0; i < sURLVariables.length; i++) {
         sParameterName = sURLVariables[i].split('=');
  
@@ -28,9 +27,9 @@ var listAd = [
 	},
  ];
 var pathname = window.location.pathname;
-var utm_campaign = '00';
+var campaign = '00';
 if(p && !p != 'undefined'){utm_campaign = listAd[p].name}
-var utm_content = 'Cuongbok';
+var content = 'Cuongbok';
 
     var aMainCode = document.querySelector('#mainCode');
     var mainCode = document.querySelector('#mainCode > .code-text > input');
@@ -49,7 +48,7 @@ var utm_content = 'Cuongbok';
       console.log("Copied the code: " + copyCode.value);
       setTimeout(function(){
       	//window.open(window.location.href);
-        window.location.href = `${aMainCode.getAttribute("data-href")}&utm_campaign=${utm_campaign}&utm_content=${utm_content}`;
+        window.location.href = `${aMainCode.getAttribute("data-href")}&utm_campaign=${campaign}&utm_content=${content}`;
       }, 10);  
     }
     //document.body.setAttribute("oncopy", "copyVoucherCode()");
