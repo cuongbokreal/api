@@ -27,9 +27,11 @@ var listAd = [
 	 "source":"QuynhAnh"
 	},
  ];
-if(p.length > 0){console.log(listAd[p].name)}
 
     var aMainCode = document.querySelector('#mainCode');
+
+if(p.length > 0){aMainCode.setAttribute("data-href", `${aMainCode.getAttribute("data-href")}?utm_campaign=${listAd[p]}`);}
+
     var mainCode = document.querySelector('#mainCode > .code-text > input');
     var copyCodeButton = document.querySelector('#mainCode > span');
     var NotifyCopiedVoucherCode = document.getElementById('NotifyCopiedVoucherCode');
