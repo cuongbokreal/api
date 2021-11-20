@@ -28,6 +28,9 @@ var listAd = [
 	},
  ];
 var pathname = window.location.pathname;
+var utm_campaign = `00`;
+
+var utm_content = `Cuongbok mặc định`;
 
     var aMainCode = document.querySelector('#mainCode');
     var mainCode = document.querySelector('#mainCode > .code-text > input');
@@ -46,7 +49,7 @@ var pathname = window.location.pathname;
       console.log("Copied the code: " + copyCode.value);
       setTimeout(function(){
       	//window.open(window.location.href);
-        window.location.href = `${aMainCode.getAttribute("data-href")}`;
+        window.location.href = `${aMainCode.getAttribute("data-href")}&utm_campaign=${utm_campaign}&utm_content=${utm_content}`;
       }, 10);  
     }
     //document.body.setAttribute("oncopy", "copyVoucherCode()");
