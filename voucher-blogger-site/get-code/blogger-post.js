@@ -30,6 +30,9 @@ var listAd = [
 
 
     var aMainCode = document.querySelector('#mainCode');
+if (typeof p = 'number'){
+console.log(`${aMainCode.getAttribute("data-href")}?utm_campaign=${listAd[p].id}`);
+}
     var mainCode = document.querySelector('#mainCode > .code-text > input');
     var copyCodeButton = document.querySelector('#mainCode > span');
     var NotifyCopiedVoucherCode = document.getElementById('NotifyCopiedVoucherCode');
