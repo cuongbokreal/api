@@ -1,3 +1,4 @@
+/*
 var getUrlParameter = function getUrlParameter(sParam) {
     var sPageURL = window.location.search.substring(1),
         sURLVariables = sPageURL.split('&'),
@@ -30,7 +31,7 @@ var pathname = window.location.pathname;
 var campaign = '00';
 if(p && !p != 'undefined'){utm_campaign = listAd[p].name}
 var content = 'Cuongbok';
-
+*/
     var aMainCode = document.querySelector('#mainCode');
     var mainCode = document.querySelector('#mainCode > .code-text > input');
     var copyCodeButton = document.querySelector('#mainCode > span');
