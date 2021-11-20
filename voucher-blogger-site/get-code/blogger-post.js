@@ -27,7 +27,6 @@ var listAd = [
 	 "source":"QuynhAnh"
 	},
  ];
-console.log(typeoff p);
 
 
     var aMainCode = document.querySelector('#mainCode');
