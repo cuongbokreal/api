@@ -6,7 +6,8 @@ document.getElementById('thbao').innerText = loiNoi;
 if(ngay.length == 1){ngay = '0'+ngay}
 if(thang.length == 1){thang = '0'+thang}
 const yourDate = new Date(`${nam}-${thang}-${ngay}T07:00:00`);
-var regYoutube = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#\&\?]*).*/;  
+var regYoutube = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#\&\?]*).*/; 
+if (linkYoutube.length == 0){linkYoutube = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';}
 if (linkYoutube.length >= 5){
   	var innerYoutube = `<iframe style="margin: 0 auto;" width="560" height="315" src="https://www.youtube.com/embed/${linkYoutube.match(regYoutube)[7]}?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
   }
