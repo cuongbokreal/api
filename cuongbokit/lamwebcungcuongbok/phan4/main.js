@@ -20,4 +20,4 @@ var CuongbokAvt = document.getElementById('avt');
   CuongbokLinkMes.href = linkMes;
   CuongbokLinkTiktok.href = linkTiktok;
 
-console.log('Cuongbok')
+console.log('2021 Share bởi Cuongbok | CuongbokIT - https://cuongbokit.blogspot.com - Tiktok: @cuongbokreal - FB: //fb.com/cuongbok')
