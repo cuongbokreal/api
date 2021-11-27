@@ -19,3 +19,5 @@ var CuongbokAvt = document.getElementById('avt');
   CuongbokLinkFb.href = linkFb;
   CuongbokLinkMes.href = linkMes;
   CuongbokLinkTiktok.href = linkTiktok;
+
+console.log('Cuongbok')
