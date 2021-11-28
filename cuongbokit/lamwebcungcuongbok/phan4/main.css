@@ -163,7 +163,8 @@ p {
 }
 .profile-social-links {
     width: 218px;        
-    display: inline-block;
+    justify-content: center;
+    display: flex;
     float: right;
     margin: 0px;
     padding: 15px 20px;
