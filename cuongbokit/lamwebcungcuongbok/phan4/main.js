@@ -11,6 +11,8 @@ var CuongbokAvt = document.getElementById('avt');
   if( linkMes.length == 0){ linkMes ='#'}
   if( linkTiktok.length == 0){ linkTiktok ='#'}
 
+var listSocial = document.getElementsByClassName('listSocial');
+if( linkFb.length == 0){ listSocial[0].style.display = 'none'; listSocial.style.width = '50%'}
   
   CuongbokAvt.src = avt;
   CuongbokName.innerText = name;
