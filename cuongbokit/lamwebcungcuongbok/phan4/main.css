@@ -162,9 +162,7 @@ p {
     animation: moveIn 1s 3.1s ease forwards;
 }
 .profile-social-links {
-    width: 100%;        
-    justify-content: center;
-    display: flex;
+    width: 288px;        
     float: right;
     margin: 0px;
     padding: 15px 20px;
@@ -280,8 +278,8 @@ p {
     }
     .profile-social-links {
         width: 100%;       
-        //display: block;
-        //float: none; 
+        display: block;
+        float: none; 
     }
 }
 @media screen and (min-aspect-ratio: 4/3) {
