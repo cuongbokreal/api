@@ -7,12 +7,14 @@ var CuongbokAvt = document.getElementById('avt');
   var CuongbokLinkTiktok = document.getElementById('linkTiktok');
   
   if(avt.length == 0){avt='https://i.imgur.com/mbQElNp.jpg'}
-  if( linkFb.length == 0){ linkFb ='#'}
-  if( linkMes.length == 0){ linkMes ='#'}
-  if( linkTiktok.length == 0){ linkTiktok ='#'}
 
 var listSocial = document.getElementsByClassName('listSocial');
-if( linkFb.length == 0){ listSocial[0].style.display = 'none'; listSocial.style.width = '50%'}
+if( linkFb.length == 0){ listSocial[0].style.display = 'none'; listSocial[1].style.width = '50%'; listSocial[2].style.width = '50%'}
+if( linkMes.length == 0){ listSocial[1].style.display = 'none'; listSocial[0].style.width = '50%'; listSocial[2].style.width = '50%'}
+if( linkTiktok.length == 0){ listSocial[2].style.display = 'none'; listSocial[0].style.width = '50%'; listSocial[1].style.width = '50%'}
+  if( linkFb.length == 0 && linkMes.length == 0){listSocial[2].style.width = 'inherit';}
+  if( linkMes.length == 0 && linkTiktok.length == 0){listSocial[0].style.width = 'inherit';}
+  if( linkTiktok.length == 0 && linkFb.length == 0){listSocial[1].style.width = 'inherit';}
   
   CuongbokAvt.src = avt;
   CuongbokName.innerText = name;
