@@ -34,6 +34,7 @@ var jsSlick = document.createElement('SCRIPT');
 jsSlick.setAttribute("type","text/javascript");
 jsSlick.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/slick/slick.min.js");
 var jsVoucher = document.createElement('SCRIPT');
+jsVoucher.id = 'atScript6626';
 jsVoucher.setAttribute("type","text/javascript");
 jsVoucher.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/main_at_v2.js");
 jsVoucher.setAttribute("data-filters", `
