@@ -19,6 +19,32 @@ head.appendChild(cssVoucher);
 head.appendChild(cssBoostrap);
 head.appendChild(cssSlick);
 head.appendChild(cssSlickTheme);
+
+var jsJquery = document.createElement('SCRIPT');
+cssFontAwe.setAttribute("type","text/javascript");
+cssFontAwe.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/jquery-1.11.1.min.js");
+var jsPopper = document.createElement('SCRIPT');
+jsPopper.setAttribute("type","text/javascript");
+jsPopper.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/popper.min.js");
+var jsBoostrap = document.createElement('SCRIPT');
+jsBoostrap.setAttribute("type","text/javascript");
+jsBoostrap.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/bootstrap.min.js");
+var jsSlick = document.createElement('SCRIPT');
+jsSlick.setAttribute("type","text/javascript");
+jsSlick.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/slick/slick.min.js");
+var jsVoucher = document.createElement('SCRIPT');
+jsVoucher.setAttribute("type","text/javascript");
+jsVoucher.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/main_at_v2.js");
+jsVoucher.setAttribute("data-filters", `
+{"merchant":"4742147753565840242,4348611690224153209,5127139956446111602,4348611682079477428","category":"","campaign":"4751584435713464237,4348614231480407268,5127144557053758578,4348614229221512955,"}
+`); 
+var body = document.body;
+body.appendChild(jsJquery);
+body.appendChild(jsPopper);
+body.appendChild(jsBoostrap);
+body.appendChild(jsSlick);
+body.appendChild(jsVoucher);
+
 var mainDivInner = `
 <div id="layout-wrapper">
       <main class="atEQPOIVFSDFSDG-voucher-main">
@@ -203,27 +229,3 @@ var mainDivInner = `
       </main>
       </div>
 `;
-var jsJquery = document.createElement('SCRIPT');
-cssFontAwe.setAttribute("type","text/javascript");
-cssFontAwe.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/jquery-1.11.1.min.js");
-var jsPopper = document.createElement('SCRIPT');
-jsPopper.setAttribute("type","text/javascript");
-jsPopper.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/popper.min.js");
-var jsBoostrap = document.createElement('SCRIPT');
-jsBoostrap.setAttribute("type","text/javascript");
-jsBoostrap.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/bootstrap.min.js");
-var jsSlick = document.createElement('SCRIPT');
-jsSlick.setAttribute("type","text/javascript");
-jsSlick.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/slick/slick.min.js");
-var jsVoucher = document.createElement('SCRIPT');
-jsVoucher.setAttribute("type","text/javascript");
-jsVoucher.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/main_at_v2.js");
-jsVoucher.setAttribute("data-filters", `
-{"merchant":"4742147753565840242,4348611690224153209,5127139956446111602,4348611682079477428","category":"","campaign":"4751584435713464237,4348614231480407268,5127144557053758578,4348614229221512955,"}
-`); 
-var body = document.body;
-body.appendChild(jsJquery);
-body.appendChild(jsPopper);
-body.appendChild(jsBoostrap);
-body.appendChild(jsSlick);
-body.appendChild(jsVoucher);
