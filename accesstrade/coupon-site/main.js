@@ -1,0 +1,9 @@
+<html>
+  <head></head>
+<body></body>
+<script src="https://cuongbokreal.github.io/api/accesstrade/coupon-site.js" type="text/javascript"></script>
+<script>
+document.body.innerHTML = mainDivInner;
+</script>
+      
+</html>
