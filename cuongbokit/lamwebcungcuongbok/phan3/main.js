@@ -5,7 +5,7 @@ document.getElementById('avt2').src = avt2;
 document.getElementById('thbao').innerText = loiNoi;
 if(ngay.length == 1){ngay = '0'+ngay}
 if(thang.length == 1){thang = '0'+thang}
-const yourDate = new Date(`${nam}-${thang}-${ngay}T07:00:00`);
+const yourDate = new Date(`${nam}-${thang}-${ngay}T00:00:00`);
 var regYoutube = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#\&\?]*).*/; 
 if (linkYoutube.length == 0){linkYoutube = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';}
 if (linkYoutube.length >= 5){
