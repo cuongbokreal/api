@@ -1,3 +1,4 @@
+var accessKey = "5353514789844343379";
 var cssFontAwe = document.createElement('LINK');
 cssFontAwe.setAttribute("rel","stylesheet");
 cssFontAwe.setAttribute("src","//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css");
@@ -38,6 +39,7 @@ jsVoucher.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/main_at_v2.js
 jsVoucher.setAttribute("data-filters", `
 {"merchant":"4742147753565840242,4348611690224153209,5127139956446111602,4348611682079477428","category":"","campaign":"4751584435713464237,4348614231480407268,5127144557053758578,4348614229221512955,"}
 `); 
+jsVoucher.setAttribute("data-accesskey", accessKey);
 var body = document.body;
 body.appendChild(jsJquery);
 body.appendChild(jsPopper);
