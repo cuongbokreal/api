@@ -57,7 +57,7 @@ body.appendChild(jsVoucher);
 */
 function appendJs(){
 document.body.innerHTML += `
-<script defer type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/jquery-1.11.1.min.js"></script> <script type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/popper.min.js"></script> <script type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/bootstrap.min.js"></script> <script type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/slick/slick.min.js"></script>
+<script type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/jquery-1.11.1.min.js"></script> <script type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/popper.min.js"></script> <script type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/bootstrap.min.js"></script> <script type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/slick/slick.min.js"></script>
 `;
 }
 function appendJsVoucher(){
