@@ -22,9 +22,11 @@ head.appendChild(cssBoostrap);
 head.appendChild(cssSlick);
 head.appendChild(cssSlickTheme);
 */
+function appendCss(){
 document.head.innerHTML += `
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" /> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta name="HandheldFriendly" content="true" /> <meta name="apple-touch-fullscreen" content="yes"/> <meta name="description" content="Default Description" /> <meta name="keywords" content="" /> <meta name="robots" content="INDEX,FOLLOW" /> <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/v2/css/bootstrap.min.css" media="all" /> <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/v2/css/css-voucher_at_v2.css" media="all" /> <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/v2/js/slick/slick.css" media="all" /> <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/v2/js/slick/slick-theme.css" media="all" />
 `;
+}
 /*
 var jsJquery = document.createElement('SCRIPT');
 jsJquery.setAttribute("type","text/javascript");
@@ -53,13 +55,14 @@ body.appendChild(jsBoostrap);
 body.appendChild(jsSlick);
 body.appendChild(jsVoucher);
 */
-
+function appendJs(){
 document.body.innerHTML += `
 <script defer type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/jquery-1.11.1.min.js"></script> <script type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/popper.min.js"></script> <script type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/bootstrap.min.js"></script> <script type="text/javascript" src="https://static.accesstrade.vn/coupon/v2/js/slick/slick.min.js"></script>
 `;
-setTimeout(function(){ 
+}
+function appendJsVoucher(){
 document.body.innerHTML += `<script type="text/javascript" id="atScript6626" data-sub1="" data-sub2="" data-sub3="" data-sub4="" data-sub5="" data-utm-source="" data-utm-medium="" data-utm-campaign="" data-utm-content="" data-filters='{"merchant":"4742147753565840242,4348611690224153209,5127139956446111602,","category":"E-COMMERCE,","campaign":"4751584435713464237,4348614231480407268,5127144557053758578,"}' data-accesskey="5353514789844343379" src="https://static.accesstrade.vn/coupon/v2/js/main_at_v2.js"></script>`;
-}, 3000);
+}
 var mainDivInner = `
 <div id="layout-wrapper">
       <main class="atEQPOIVFSDFSDG-voucher-main">
