@@ -23,7 +23,7 @@ head.appendChild(cssSlick);
 head.appendChild(cssSlickTheme);
 */
 document.head.innerHTML += `
-<link rel="stylesheet" src="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"><link rel="stylesheet" src="https://static.accesstrade.vn/coupon/v2/css/css-voucher_at_v2.css"><link rel="stylesheet" src="https://static.accesstrade.vn/coupon/v2/css/bootstrap.min.css"><link rel="stylesheet" src="https://static.accesstrade.vn/coupon/v2/js/slick/slick.css"><link rel="stylesheet" src="https://static.accesstrade.vn/coupon/v2/js/slick/slick-theme.css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" /> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta name="HandheldFriendly" content="true" /> <meta name="apple-touch-fullscreen" content="yes"/> <meta name="description" content="Default Description" /> <meta name="keywords" content="" /> <meta name="robots" content="INDEX,FOLLOW" /> <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/v2/css/bootstrap.min.css" media="all" /> <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/v2/css/css-voucher_at_v2.css" media="all" /> <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/v2/js/slick/slick.css" media="all" /> <link rel="stylesheet" type="text/css" href="https://static.accesstrade.vn/coupon/v2/js/slick/slick-theme.css" media="all" />
 `;
 /*
 var jsJquery = document.createElement('SCRIPT');
