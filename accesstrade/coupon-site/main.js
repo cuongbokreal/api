@@ -21,8 +21,8 @@ head.appendChild(cssSlick);
 head.appendChild(cssSlickTheme);
 
 var jsJquery = document.createElement('SCRIPT');
-cssFontAwe.setAttribute("type","text/javascript");
-cssFontAwe.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/jquery-1.11.1.min.js");
+jsJquery.setAttribute("type","text/javascript");
+jsJquery.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/jquery-1.11.1.min.js");
 var jsPopper = document.createElement('SCRIPT');
 jsPopper.setAttribute("type","text/javascript");
 jsPopper.setAttribute("src","//static.accesstrade.vn/coupon/v2/js/popper.min.js");
