@@ -1,13 +1,14 @@
+var inputKq = document.createElement('input');
+inputKq.id = 'inputKq';
+inputKq.style.display = 'none';
+document.body.append(inputKq);
+
 var getChip = document.getElementsByClassName('chip');
 let kqChip = "";
 for(let i=0; i< getChip.length; i++){
 	kqChip += `<a class="chip" alt="${getChip[i].innerText}" title="${getChip[i].innerText}" data-href="/search?q=${getChip[i].innerText}" href="/search?q=${getChip[i].innerText}" target="_blank">${getChip[i].innerText}</a>`
 }
-var inputKq = document.createElement('input');
-inputKq.id = 'inputKq';
-inputKq.style.display = 'none';
 inputKq.value = kqChip;
-document.body.append(inputKq);
 
 var copyText = document.getElementById("inputKq");
         copyText.select();
