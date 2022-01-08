@@ -6,7 +6,7 @@ document.body.append(inputKq);
 var getChip = document.getElementsByClassName('chip');
 let kqChip = "";
 for(let i=0; i< getChip.length; i++){
-	kqChip += `<a class="chip" alt="${getChip[i].innerText}" title="${getChip[i].innerText}" data-href="/search?q=${getChip[i].innerText}" href="/search?q=${getChip[i].innerText}" target="_blank">${getChip[i].innerText}</a>`
+	kqChip += `<a itemprop="url" class="chip" alt="${getChip[i].innerText}" title="${getChip[i].innerText}" data-href="/search?q=${getChip[i].innerText}" href="/search?q=${getChip[i].innerText}" target="_blank">${getChip[i].innerText}</a>`
 }
 inputKq.value = kqChip;
 
