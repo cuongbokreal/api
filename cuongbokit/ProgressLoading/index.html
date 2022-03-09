@@ -1,38 +1,44 @@
-<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
-<style>
-.progress {
-  margin: 10px;
-  width: 700px;
-  margin: auto;
-  margin-top: 150px;
-}
-</style>
-
-<div class="progress">
-  <div id="dynamic" class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
-    <span id="current-progress"></span>
+<!DOCTYPE html>
+<head>
+  <meta charset='UTF-8'/>
+  <meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/>
+  <meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+  <style>
+  .progress {
+    margin: 10px;
+    width: 700px;
+    margin: auto;
+    margin-top: 150px;
+  }
+  </style>
+</head>
+<body>
+  <div class="progress">
+    <div id="dynamic" class="progress-bar progress-bar-success progress-bar-striped active" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%">
+      <span id="current-progress"></span>
+    </div>
   </div>
-</div>
 
-
+</body>
   <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
-<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
-      <script id="rendered-js" >
-$(function () {
-  var current_progress = 0;
-  var interval = setInterval(function () {
-  	var randomPlus = Math.floor(Math.random() * 10);
-    current_progress += randomPlus;
-    if(current_progress >= 100){current_progress = 100}
-    $("#dynamic").
-    css("width", current_progress + "%").
-    attr("aria-valuenow", current_progress).
-    text(current_progress + "% Complete");
-    if (current_progress >= 100)
-    clearInterval(interval);
-  }, 1000);
-});
-//# sourceURL=pen.js
-    </script>
+  <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
+  <script id="rendered-js" >
+    $(function () {
+      var current_progress = 0;
+      var interval = setInterval(function () {
+        var randomPlus = Math.floor(Math.random() * 10);
+        current_progress += randomPlus;
+        if(current_progress >= 100){current_progress = 100}
+        $("#dynamic").
+        css("width", current_progress + "%").
+        attr("aria-valuenow", current_progress).
+        text(current_progress + "% Complete");
+        if (current_progress >= 100)
+        clearInterval(interval);
+      }, 1000);
+    });
+  </script>
 
  
+</html>
