@@ -1,22 +1,58 @@
-<link href='https://use.fontawesome.com/releases/v5.15.2/css/all.css' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
-<a target="_blank" rel="nofollow" aria-label="Tải xuống" class="button buynow" href="https://static-cdn.lusogamer.com/apps/Moshup-APK-v1.031.apk"><i class="icon download"></i></a>
-
+<br/>
+<a class="buynow grow">Mua ngay <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
 
 
 <style>
-.buynow{flex-shrink:0;display:flex;align-items:center;justify-content:center; width:50px;height:50px; padding:10px; background:#f1f1f0;border-radius:10px}
-.buynow{background-color:var(--link-bg);color:#fefefe; margin:0;padding:10px 12px;border-radius:3px; width:auto;height:auto; line-height:20px;font-size:13px}
-.buynow:after{content:attr(aria-label)}
- @media screen and (max-width:480px){.downloadInfo{padding:12px}
-.buynow{width:50px;height:50px;border-radius:10px}
-.buynow:after{display:none}
-.buynow .icon{margin:0}
+.buynow{font-family: "Roboto", sans-serif;text-transform: uppercase;outline: 0;background: #4CAF50;width: 100%;border: 0;padding: 15px;color: #FFFFFF;font-size: 14px;-webkit-transition: all 0.3 ease;transition: all 0.3 ease;cursor: pointer;}
+.buynow:hover,.buynow:active,.buynow:focus {
+  background: #43A047;
 }
 
 
-/* Button */
-.button{display:inline-flex;align-items:center; margin:12px 12px 12px 0;padding:10px 15px;outline:0;border:0; border-radius:2px;line-height:20px; color:#fefefe; background-color:var(--link-bg); font-size:13px;font-family:var(--font-body); white-space:nowrap;overflow:hidden;max-width:100%} .button.outline{color:inherit; background-color:transparent; border:1px solid var(--body-altColor)} .button.outline:hover{border-color:var(--link-bg)} .button.whatsapp{background-color:#25D366} .buttonInfo{display:flex;flex-wrap:wrap;justify-content:center; margin:12px 0 0} .buttonInfo > *{margin:0 12px 12px 0} .buttonInfo > *:last-child{margin-right:0} @media screen and (max-width:480px){.buttonInfo > *{flex-grow:1;justify-content:center} .buttonInfo > *:last-child{flex:0 0 auto}}
+.buynow:focus {
+  outline: 0;
+}
+.buynow:before {
+  content:'';
+  display: block;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.5);
+  width: 60px;
+  height: 100%;
+  left: 0;
+  top: 0;
+  opacity: 0.5;
+  filter: blur(30px);
+  transform: translateX(-100px) skewX(-15deg);
+}
+.buynow:after {
+  content: "";
+  display: block;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.2);
+  width: 30px;
+  height: 100%;
+  left: 30px;
+  top: 0;
+  opacity: 0;
+  filter: blur(5px);
+  transform: translateX(-100px) skewX(-15deg);
+}
+.buynow:hover {
+  background: #338033;
+  cursor: pointer;
+}
+.buynow:hover:before {
+  transform: translateX(300px) skewX(-15deg);
+  opacity: 0.6;
+  transition: 0.7s;
+}
+.buynow:hover:after {
+  transform: translateX(300px) skewX(-15deg);
+  opacity: 1;
+  transition: 0.7s;
+}
 </style>
-
