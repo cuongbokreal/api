@@ -29,7 +29,7 @@ function buyItem(element) {
 
   if (elonFortune - Number(element.dataset.price) >= 0) {
     elonFortune -= Number(element.dataset.price);
-    totalPercentage = (elonFortune * 100) / 217000000000;
+    totalPercentage = (elonFortune * 100) / 274000000000;
 
     // Item name
     let itemName = element.parentElement.querySelector('#name').textContent;
@@ -84,7 +84,7 @@ function sellItem(element) {
   // change default data to new data
 
   elonFortune += Number(element.dataset.price);
-  totalPercentage = (elonFortune * 100) / 217000000000;
+  totalPercentage = (elonFortune * 100) / 274000000000;
 
   // Item name
   let itemName = element.parentElement.querySelector('p').textContent;
