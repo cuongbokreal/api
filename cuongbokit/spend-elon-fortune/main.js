@@ -177,7 +177,7 @@ function updateReceiptItem(receiptItem) {
 function updateReceipt() {
   let title = `<h1>Receipt</h1>`;
   let receipt = '';
-  let total = formatMoney(217000000000 - elonFortune);
+  let total = formatMoney(274000000000 - elonFortune);
 
   for (let i = 0; i < receiptItemsArr.length; i++) {
     let itemX = receiptItemsArr[i];
