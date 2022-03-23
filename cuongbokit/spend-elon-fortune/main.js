@@ -7,7 +7,7 @@ let sellButtons = document.querySelectorAll('#sell');
 const appContainer = document.querySelector('.app-container');
 
 // Default data
-let elonFortune = 217000000000;
+let elonFortune = 274000000000;
 let totalPercentage = 100;
 
 let elements = [];
