@@ -2,39 +2,33 @@ var goiY = document.querySelectorAll('.app-tooltip > div > div')
 
 var kqZone = `
 <link href="https://cuongbokreal.github.io/api/cuongbokit/vuot-chuong-ngai-vat-nghien-vl/menu.css" rel="stylesheet"/>
+
 <div id="kq">
-<a href="#" id="actKq" onclick="actKq('off')">Tắt</a>
-
-<div class="wrapper" id="kq">
-  <!-- First mobile menu design -->
-  <div class="section sectionOne">
-    <div class="mobile">
-      <div class="hamburger-menu">
-          <div class="bar"></div>	
-      </div>
-    </div>  
-
-  <div class="mobile-nav hide">
+  <div id="hamburger" class="close">
+    <span></span>
+    <span></span>
+    <span></span>  
+  </div>
+  <div id="nav" class="visible">
     <ul>
-      <div id="kqZone"></div>
+	<div id="kqZone"></div>
     </ul>
   </div>
-</div>
 </div>
 <style>
 #actKq{position:fixed; bottom:0; right:0;}
 #kqZone{position:fixed; top:0; right:0; max-width:25%;}
 #kq{position:fixed; top:0; right:0; max-width:25%;}
 </style>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-      <script id="rendered-js" >
-(function () {
-  $('.hamburger-menu').on('click', function () {
-    $('.bar').toggleClass('animate');
-    var mobileNav = $('.mobile-nav');
-    mobileNav.toggleClass('hide show');
+
+<script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+<script>
+$(function () {
+  $('#hamburger').on('click', function () {
+    $(this).toggleClass('close');
+    $('#nav').toggleClass('visible');
   });
-})();
+});
 </script>
 `;
 document.body.innerHTML += kqZone;
@@ -46,17 +40,5 @@ function ketqua(){
     getKqZone.innerHTML = iframeKq
 }
 
-function actKq(x){
-	if(x == 'on'){
-      getKqZone.style.display = 'block';
-      actKq.onclick = actKq('off');
-      actKq.innerText = 'Tắt';
-    }else
-    if(x == 'off'){
-      getKqZone.style.display = 'none';
-      actKq.onclick = actKq('on');
-      actKq.innerText = 'Bật';
-    }
-}
 console.log(goiY.length)
 ketqua()
