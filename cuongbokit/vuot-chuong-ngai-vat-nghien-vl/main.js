@@ -5,7 +5,7 @@ var kqZone = `
 <div id="kq">
 <a href="#" id="actKq" onclick="actKq('off')">Tắt</a>
 
-<div class="wrapper">
+<div class="wrapper" id="kq">
   <!-- First mobile menu design -->
   <div class="section sectionOne">
     <div class="mobile">
@@ -24,6 +24,7 @@ var kqZone = `
 <style>
 #actKq{position:fixed; bottom:0; right:0;}
 #kqZone{position:fixed; top:0; right:0; max-width:25%;}
+#kq{position:fixed; top:0; right:0; max-width:25%;}
 </style>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
       <script id="rendered-js" >
