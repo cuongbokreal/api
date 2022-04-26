@@ -17,22 +17,13 @@ var kqZone = `
 </div>
 <style>
 #actKq{position:fixed; bottom:0; right:0;}
-#kqZone{position:fixed; top:0; right:0; max-width:25%;}
+#kqZone{position:fixed; top:0; right:0; max-width:100%;}
 #kq{position:fixed; top:0; right:0; max-width:100%;}
 </style>
 
 <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
-<script>
-$(function () {
-  $('#hamburger').on('click', function () {
-    $(this).toggleClass('close');
-    $('#nav').toggleClass('visible');
-  });
-});
-</script>
 `;
 document.body.innerHTML += kqZone;
-
 var getKqZone = document.getElementById('kqZone');
 
 function ketqua(){
@@ -40,5 +31,11 @@ function ketqua(){
     getKqZone.innerHTML = iframeKq
 }
 
-console.log(goiY.length)
+$(function () {
+  $('#hamburger').on('click', function () {
+    $(this).toggleClass('close');
+    $('#nav').toggleClass('visible');
+  });
+});
+
 ketqua()
