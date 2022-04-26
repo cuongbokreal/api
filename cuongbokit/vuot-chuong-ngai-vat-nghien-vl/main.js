@@ -18,7 +18,7 @@ var kqZone = `
 <style>
 #actKq{position:fixed; bottom:0; right:0;}
 #kqZone{position:fixed; top:0; right:0; max-width:25%;}
-#kq{position:fixed; top:0; right:0; max-width:25%;}
+#kq{position:fixed; top:0; right:0; max-width:100%;}
 </style>
 
 <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
