@@ -1,7 +1,17 @@
 /*=== Toast Message ===*/
     
 #toast {position: fixed;top: 32px;right: 32px;z-index: 999999;}
-.toast {display: flex;align-items: center;background-color: #fff;border-radius: 2px;padding: 10px 0;min-width: 325px;max-width: 450px;border-left: 4px solid;box-shadow: 0 5px 8px rgba(0, 0, 0, 0.08);transition: all linear 0.3s;}
+.toast {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 2px;
+    padding: 10px 0;
+    min-width: 325px;
+    max-width: 450px;
+    border-left: 4px solid;
+    box-shadow: 4px 4px 5px 1px rgb(0 0 0 / 10%)
+    transition: all linear 0.3s;}
 @keyframes slideInLeft {
   from {
     opacity: 0;
