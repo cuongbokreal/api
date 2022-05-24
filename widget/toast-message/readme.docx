@@ -15,3 +15,16 @@ type:
 - info 
 - warning 
 - error
+
+Demo:
+<link href="https://cuongbokreal.github.io/api/widget/toast-message/main.css" rel="stylesheet"/>
+<div id='toast'></div>
+<script src="https://cuongbokreal.github.io/api/widget/toast-message/main.js"></script>
+<script>
+      toast({
+            title: 'Hello',
+            message: ``,
+            type: "success",
+            duration: 3000
+      });
+</script>
