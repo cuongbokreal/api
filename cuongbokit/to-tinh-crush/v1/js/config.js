@@ -20,22 +20,24 @@ var getUrlParameter = function getUrlParameter(sParam) {
   var getReply = getUrlParameter('reply');
   var getMessLink = getUrlParameter('messlink');
 const CONFIG = {
-    introTitle: getInTit,
-    introDesc: getInDes,
+    introTitle: replaceSpaceFromParam(getInTit),
+    introDesc: replaceSpaceFromParam(getInDes),
     btnIntro: 'Oki',
-    title: getTitle,
-    desc: getDes,
+    title: replaceSpaceFromParam(getTitle),
+    desc: replaceSpaceFromParam(getDes),
     btnYes: `Đồng ý!`,
     btnNo: `Không`,
-    question:getQuest,
+    question:replaceSpaceFromParam(getQuest),
     btnReply: 'Gửi',
-    reply: getReply,
+    reply: replaceSpaceFromParam(getReply),
     mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
     btnAccept: 'Okiiiii lun <3',
     messLink: getMessLink //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 
-
+function replaceSpaceFromParam(c){
+    return c.replaceAll('+',' ').replaceAll('%20',' ')
+}
 // introTit: Title mới đầu vào
 // introDes: Des mới đầu vào
