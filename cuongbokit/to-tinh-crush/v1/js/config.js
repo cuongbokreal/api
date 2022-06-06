@@ -39,7 +39,7 @@ const CONFIG = {
 
 var music = getUrlParameter('music');
 var musicTheme = document.getElementById('musicTheme');
-if(music == 0){musicTheme.setAttribute('autoplay', 'false')}
+if(music == 0){musicTheme.autoplay = false}
 
 function replaceSpaceFromParam(c){
     return c.replaceAll('+',' ').replaceAll('%20',' ')
