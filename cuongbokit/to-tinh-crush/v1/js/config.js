@@ -19,6 +19,7 @@ var getUrlParameter = function getUrlParameter(sParam) {
   var getQuest = getUrlParameter('quest');
   var getReply = getUrlParameter('reply');
   var getMessLink = getUrlParameter('messlink');
+
 const CONFIG = {
     introTitle: replaceSpaceFromParam(getInTit),
     introDesc: replaceSpaceFromParam(getInDes),
@@ -35,6 +36,10 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: getMessLink //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
+
+var music = getUrlParameter('music');
+var musicTheme = document.getElementById('musicTheme');
+if(music == 0){musicTheme.setAttribute('autoplay', 'false')}
 
 function replaceSpaceFromParam(c){
     return c.replaceAll('+',' ').replaceAll('%20',' ')
