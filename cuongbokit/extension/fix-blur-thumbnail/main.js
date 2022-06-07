@@ -6,7 +6,7 @@ if (document.querySelectorAll('.itemThumbnail > a > div')){
   if(elm_thumbnail.length >= 6){
     
       for(let i=0; i<elm_thumbnail.length;i++){
-        elm_thumbnail[i].style.background = `url(${elm_thumbnail[i].getAttribute('data-bg').replaceAll('=s72-', '=s260-').replaceAll(/(-c$)|(-c\/)/g,'-a-k-no-nu')})`;
+        elm_thumbnail[i].style.background = `url(${elm_thumbnail[i].getAttribute('data-bg').replaceAll('=s72-', '=s260-').replaceAll(/(-c$)|(-c\/)/g,'-a-k-no-nu/')})`;
       }
     }
   }
