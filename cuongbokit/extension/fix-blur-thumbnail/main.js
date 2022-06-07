@@ -1,4 +1,4 @@
-while (document.querySelectorAll('.itemThumbnail > a > div') != null){
+if (document.querySelectorAll('.itemThumbnail > a > div') != null){
   var elm_thumbnail = document.querySelectorAll('.itemThumbnail > a > div')
   if(elm_thumbnail.length >= 6){
     function replaceThumbnail(){
