@@ -42,7 +42,15 @@ var musicTheme = document.getElementById('musicTheme');
 if(music == 0){musicTheme.autoplay = false}
 
 function replaceSpaceFromParam(c){
-    return c.replaceAll('+',' ').replaceAll('%20',' ')
+    if(typeof c == 'undefined' || c.length < 1){return '%20'}
+    else
+    if(c.length >= 1){ return c.replaceAll('+',' ').replaceAll('%20',' ')}
+}
+
+function fixValueParam(c){
+    if(typeof c == 'undefined' || c.length < 1){
+        return '%20'
+    }else{return c}
 }
 // introTit: Title mới đầu vào
 // introDes: Des mới đầu vào
