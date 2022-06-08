@@ -49,7 +49,7 @@ function replaceSpaceFromParam(c){
 
 function fixValueParam(c){
     if(typeof c == 'undefined' || c.length < 1){
-        return '%20'
+        return ''
     }else{return c}
 }
 // introTit: Title mới đầu vào
