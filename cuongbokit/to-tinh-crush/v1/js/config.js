@@ -22,8 +22,8 @@ var getUrlParameter = function getUrlParameter(sParam) {
     var getOutTit = getUrlParameter('outroTit');
     var getOutDes = getUrlParameter('outroDes');
 
-if(typeof getOutTit == 'undefined' || getOutTit.length < 1 || getOutTit == '%20' || getOutTit == ''){getOutTit = 'Tớ biết mà 🥰. Love you 300.000 😘😘'}
-if(typeof getOutDes == 'undefined' || getOutDes.length < 1 || getOutDes == '%20' || getOutDes == ''){getOutDes = 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.'}
+if(typeof getOutTit == 'undefined' || getOutTit.length <= 1 || getOutTit == '%20' || getOutTit == ''){getOutTit = 'Tớ biết mà 🥰. Love you 300.000 😘😘'}
+if(typeof getOutDes == 'undefined' || getOutDes.length <= 1 || getOutDes == '%20' || getOutDes == ''){getOutDes = 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.'}
 
 const CONFIG = {
     introTitle: replaceSpaceFromParam(getInTit),
