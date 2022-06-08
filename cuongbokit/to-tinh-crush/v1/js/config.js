@@ -19,6 +19,11 @@ var getUrlParameter = function getUrlParameter(sParam) {
   var getQuest = getUrlParameter('quest');
   var getReply = getUrlParameter('reply');
   var getMessLink = getUrlParameter('messlink');
+    var getOutTit = getUrlParameter('outroTit');
+    var getOutDes = getUrlParameter('outroDes');
+
+if(typeof getOutTit == 'undefined' || getOutTit.length < 1 || getOutTit == '%20'){getOutTit = 'Tớ biết mà 🥰. Love you 300.000 😘😘'}
+if(typeof getOutDes == 'undefined' || getOutDes.length < 1 || getOutDes == '%20'){getOutDes = 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.'}
 
 const CONFIG = {
     introTitle: replaceSpaceFromParam(getInTit),
@@ -31,8 +36,8 @@ const CONFIG = {
     question:replaceSpaceFromParam(getQuest),
     btnReply: 'Gửi',
     reply: replaceSpaceFromParam(getReply),
-    mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
-    messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
+    mess: replaceSpaceFromParam(getOutTit),
+    messDesc: replaceSpaceFromParam(getOutDes),
     btnAccept: 'Okiiiii lun <3',
     messLink: getMessLink //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
