@@ -42,6 +42,8 @@ const CONFIG = {
     messLink: getMessLink //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 
+console.log(CONFIG)
+
 var music = getUrlParameter('music');
 var musicTheme = document.getElementById('musicTheme');
 if(music == 0){musicTheme.autoplay = false}
