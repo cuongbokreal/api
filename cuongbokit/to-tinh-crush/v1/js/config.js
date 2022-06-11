@@ -39,7 +39,7 @@ const CONFIG = {
     mess: replaceSpaceFromParam(getOutTit),
     messDesc: replaceSpaceFromParam(getOutDes),
     btnAccept: 'Okiiiii lun <3',
-    messLink: getMessLink //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: getMess(getMessLink) //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 
 console.log(CONFIG)
@@ -61,3 +61,11 @@ function fixValueParam(c){
 }
 // introTit: Title mới đầu vào
 // introDes: Des mới đầu vào
+
+function getMess(c){
+    if(c.length > 10){
+        return c
+    }else{return 'https://cuongbokit.blogspot.com/'}
+}
+
+
