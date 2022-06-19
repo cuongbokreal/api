@@ -1,0 +1,27 @@
+
+
+<script>
+function showrecentcomments(c){
+var dataRecentComments = '';
+var dataComment = c.feed.entry;
+Object.entries(dataComment).forEach(key => {
+	console.log(dataComment[key[0]])
+    
+	dataRecentComments += `
+    <p class="comment_name">${dataComment[key[0]].author[0].name.$t}</p> đã bình luận ở
+    <p>${getTitlePostByURL(dataComment[key[0]].link[2].href)}</p>
+    `;
+
+})
+console.log(dataRecentComments)
+}
+
+
+function getTitlePostByURL(c){
+	var titlePostCmt = c.match(/https:\/\/.+\/.+\?/g)[0].replaceAll(/https:\/\/.+\//g,'').replaceAll(/\.html.+/g,'').replaceAll(/-|_/g,' ');
+	return titlePostCmt.charAt(0).toUpperCase() + titlePostCmt.slice(1);
+}
+
+</script>
+
+<script src="https://cuongbokit.blogspot.com/feeds/comments/default?alt=json-in-script&callback=showrecentcomments"></script>
