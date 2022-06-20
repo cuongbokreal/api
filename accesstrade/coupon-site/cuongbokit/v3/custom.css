@@ -8,25 +8,20 @@
 .atEQPOIVFSDFSDG-voucher-main {
     padding: 0;
 }
-
 .atEQPOIVFSDFSDG-btn-search {
     border: none;
 }
-  
-  .blogContent .widget input[type=text], .blogContent .widget input[type=email], .blogContent .widget textarea {
-    display: block;
-    width: 100%;
-    border-radius: 2px;
-    outline: 0;
-    padding: 5px;
-    margin-bottom: 0;
-  }
-  .atEQPOIVFSDFSDG-input-search {
-    border: 1.5px #ffc4c4;
-	}
+.atEQPOIVFSDFSDG-btn-keyword {
+    border: 1px dashed #f36c44;
+    background: #fdfdfd;
+}
+.atEQPOIVFSDFSDG-input-search {
+	border: 1.5px #ffc4c4;
+}
+
 @media screen and (max-width:640px){
   .atEQPOIVFSDFSDG-at-modal-content {
-    margin: ;
+    margin: auto;
   }
 }
 
