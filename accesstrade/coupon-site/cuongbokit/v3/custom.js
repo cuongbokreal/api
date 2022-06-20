@@ -10,7 +10,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
 });
 function couponTab() {
 	location.hash = "";
-	location.hash = "second-block";
+	location.hash = "first-block";
 }
 
 
