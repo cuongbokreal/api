@@ -8,9 +8,17 @@ window.addEventListener('DOMContentLoaded', (event) => {
 	const pageItem = document.querySelectorAll('.atEQPOIVFSDFSDG-pagination > .atEQPOIVFSDFSDG-page-item');
 	pageItem.forEach((element) => {element.addEventListener("click", couponTab);});
 });
-
-
 function couponTab() {
 	location.hash = "";
 	location.hash = "second-block";
 }
+
+
+/*
+document.querySelectorAll('.atEQPOIVFSDFSDG-voucher-main')[0].addEventListener('DOMContentLoaded', (event) => {
+	console.log('DOM fully loaded and parsed');
+	//location.hash coupon main when click next
+	const pageItem = document.querySelectorAll('.atEQPOIVFSDFSDG-pagination > .atEQPOIVFSDFSDG-page-item');
+	pageItem.forEach((element) => {element.addEventListener("click", couponTab);});
+});
+*/
