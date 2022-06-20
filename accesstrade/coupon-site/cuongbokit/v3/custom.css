@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 #layout-wrapper{overflow: hidden;}
 .atEQPOIVFSDFSDG-voucher-main{overflow: hidden; background: #fefefe;}
 
