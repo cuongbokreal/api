@@ -22,6 +22,18 @@ html {
 	border: 1.5px #ffc4c4;
 }
 
+.atEQPOIVFSDFSDG-code-coupon{
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    pointer-events: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+
 @media screen and (max-width:640px){
   .atEQPOIVFSDFSDG-at-modal-content {
     margin: auto;
