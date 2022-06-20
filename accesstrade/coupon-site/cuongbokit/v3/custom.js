@@ -12,5 +12,5 @@ window.addEventListener('DOMContentLoaded', (event) => {
 
 function couponTab() {
 	location.hash = "";
-	location.hash = "second-block"
+	location.hash = "second-block";
 }
