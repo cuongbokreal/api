@@ -1,8 +1,11 @@
-const searchParams = new URLSearchParams(window.location.href);
-const ctv_id = searchParams.get('ref');
+const searchParams = new URL(window.location.href);
+const ctv_id = searchParams.searchParams.get('ref');
+var atScript6626 = document.getElementById('atScript6626');
 
-if(ctv_id && searchParams.get('ref') !== null && ctv_id.length > 1 && ctv_id != ''){
-	console.log(ctv_id)
+if(ctv_id && ctv_id !== null && ctv_id.length >= 1 && ctv_id != ''){
+	console.log(ctv_id);
+    atScript6626.setAttribute('data-utm-source','ctv');
+    atScript6626.setAttribute('data-utm-medium',`ctv_${ctv_id}`);
 }
 
 var updateTime = new Date(); //updateTime
