@@ -1,7 +1,6 @@
 const searchParams = new URL(window.location.href);
 const ctv_id = searchParams.searchParams.get('ref');
 var atScript6626 = document.getElementById('atScript6626');
-
 if(ctv_id && ctv_id !== null && ctv_id.length >= 1 && ctv_id != ''){
 	console.log(ctv_id);
 	if(ctv_id.match(/[0-9]{6}/g)){
@@ -14,7 +13,6 @@ if(ctv_id && ctv_id !== null && ctv_id.length >= 1 && ctv_id != ''){
 		atScript6626.setAttribute('data-utm-campaign',`CuongbokIT REF: ${window.location.pathname}`);
 	}
 }
-
 
 var updateTime = new Date(); //updateTime
 var today = `${updateTime.getDate()}.${updateTime.getMonth() + 1}`;
