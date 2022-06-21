@@ -48,3 +48,18 @@
     transform: scale(1.0005);
     border: 1px solid #ff6800;
 }
+
+
+/*=== DARK MODE ===*/
+.darkMode .mainContent, .atEQPOIVFSDFSDG-container, .sectionInner {
+    background: #1e1e1e;
+}
+.darkMode .atEQPOIVFSDFSDG-voucher-main, .darkMode .atEQPOIVFSDFSDG-search, ..darkMode .atEQPOIVFSDFSDG-input-search, .darkMode .atEQPOIVFSDFSDG-filter-keyword, .darkMode .atEQPOIVFSDFSDG-title-tabs, .darkMode .atEQPOIVFSDFSDG-filters-and-delete-search, .darkMode .atEQPOIVFSDFSDG-voucher-dealcoupon, .darkMode .atEQPOIVFSDFSDG-coupon-grid, .darkMode .atEQPOIVFSDFSDG-at-modal-content {background: #1e1e1e;}
+
+.darkMode .dealpromo-item-cta, .darkMode .atEQPOIVFSDFSDG-remain .atEQPOIVFSDFSDG-item-timer, .darkMode atEQPOIVFSDFSDG-loading span, .darkMode .atEQPOIVFSDFSDG-details-description p {color: #ffffff;}
+
+/*
+.darkMode 
+.darkMode 
+.darkMode 
+*/
