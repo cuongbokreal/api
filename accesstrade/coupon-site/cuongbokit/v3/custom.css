@@ -65,13 +65,13 @@
 .darkMode .atEQPOIVFSDFSDG-coupon-grid, 
 .darkMode .atEQPOIVFSDFSDG-at-modal-content, 
 .darkMode .atEQPOIVFSDFSDG-delete-search {
-	background: #1e1e1e;
+	background: #1e1e1e!important;
 }
 .darkMode .dealpromo-item-cta, 
 .darkMode .atEQPOIVFSDFSDG-remain .atEQPOIVFSDFSDG-item-timer, 
 .darkMode .atEQPOIVFSDFSDG-loading span, 
 .darkMode .atEQPOIVFSDFSDG-details-description p {
-	color: #ffffff;
+	color: #ffffff!important;
 }
 
 /*Mobile*/
