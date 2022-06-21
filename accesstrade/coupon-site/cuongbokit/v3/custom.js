@@ -24,6 +24,9 @@ window.addEventListener('DOMContentLoaded', (event) => {
 	const pageItem = document.querySelectorAll('.atEQPOIVFSDFSDG-pagination > .atEQPOIVFSDFSDG-page-item');
 	pageItem.forEach((element) => {element.addEventListener("click", couponTab);});
 });
+
+document.querySelectorAll('[name="viewport"]')[0].setAttribute('content','width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=1');
+
 function couponTab() {
 	location.hash = "";
 	location.hash = "first-block";
