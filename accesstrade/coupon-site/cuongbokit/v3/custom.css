@@ -70,7 +70,8 @@
 .darkMode .dealpromo-item-cta, 
 .darkMode .atEQPOIVFSDFSDG-remain .atEQPOIVFSDFSDG-item-timer, 
 .darkMode .atEQPOIVFSDFSDG-loading span, 
-.darkMode .atEQPOIVFSDFSDG-details-description p {
+.darkMode .atEQPOIVFSDFSDG-details-description p,
+.darkMode .atEQPOIVFSDFSDG-item-loading-desk {
 	color: #ffffff!important;
 }
 
@@ -79,5 +80,5 @@
 /*
 
 
-.darkMode 
+
 */
