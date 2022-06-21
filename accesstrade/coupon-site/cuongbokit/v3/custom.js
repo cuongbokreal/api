@@ -4,9 +4,17 @@ var atScript6626 = document.getElementById('atScript6626');
 
 if(ctv_id && ctv_id !== null && ctv_id.length >= 1 && ctv_id != ''){
 	console.log(ctv_id);
-    atScript6626.setAttribute('data-utm-source','ctv');
-    atScript6626.setAttribute('data-utm-medium',`ctv_${ctv_id}`);
+	if(ctv_id.match(/[0-9]{6}/g)){
+		atScript6626.setAttribute('data-utm-source','ctv');
+		atScript6626.setAttribute('data-utm-medium',`ctv_${ctv_id}`);
+		atScript6626.setAttribute('data-utm-campaign',`CuongbokIT CTV: ${window.location.pathname}`);
+	}else{
+		atScript6626.setAttribute('data-utm-source','ref');
+		atScript6626.setAttribute('data-utm-medium',`ref_${ctv_id}`);
+		atScript6626.setAttribute('data-utm-campaign',`CuongbokIT REF: ${window.location.pathname}`);
+	}
 }
+
 
 var updateTime = new Date(); //updateTime
 var today = `${updateTime.getDate()}.${updateTime.getMonth() + 1}`;
