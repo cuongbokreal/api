@@ -1,3 +1,10 @@
+const searchParams = new URLSearchParams(window.location.href);
+const ctv_id = searchParams.get('ref');
+
+if(ctv_id && searchParams.get('ref') !== null && ctv_id.length > 1 && ctv_id != ''){
+	console.log(ctv_id)
+}
+
 var updateTime = new Date(); //updateTime
 var today = `${updateTime.getDate()}.${updateTime.getMonth() + 1}`;
 document.querySelectorAll('.postTitle')[0].innerHTML += today;
