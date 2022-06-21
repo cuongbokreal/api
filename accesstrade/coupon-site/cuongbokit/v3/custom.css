@@ -18,7 +18,7 @@
 	border: 1.5px #ffc4c4;
 }
 
-.atEQPOIVFSDFSDG-code-coupon{
+.atEQPOIVFSDFSDG-details-description p, .atEQPOIVFSDFSDG-code-coupon{
 	white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
