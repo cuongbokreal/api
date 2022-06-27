@@ -31,7 +31,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
 	console.log('DOM fully loaded and parsed');
 	var voucherLen = document.querySelectorAll('.atEQPOIVFSDFSDG-nav-item > .atEQPOIVFSDFSDG-nav-link > em');
 	var totalVoucher = parseInt(replaceBrackets(voucherLen[0].innerText)) + parseInt(replaceBrackets(voucherLen[1].innerText));
-	document.querySelectorAll('.postTitle')[0].innerHTML += ` (<span style="color:red">${totalVoucher}</span>) mã`
+	//document.querySelectorAll('.postTitle')[0].innerHTML += ` (<span style="color:red">${totalVoucher}</span>) mã`
 	
 	var filterSort = document.querySelectorAll('.atEQPOIVFSDFSDG-filter-sort')
 	filterSort[1].style.display = 'none'
