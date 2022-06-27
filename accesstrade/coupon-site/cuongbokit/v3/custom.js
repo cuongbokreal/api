@@ -32,6 +32,10 @@ window.addEventListener('DOMContentLoaded', (event) => {
 	var voucherLen = document.querySelectorAll('.atEQPOIVFSDFSDG-nav-item > .atEQPOIVFSDFSDG-nav-link > em');
 	var totalVoucher = parseInt(replaceBrackets(voucherLen[0].innerText)) + parseInt(replaceBrackets(voucherLen[1].innerText));
 	document.querySelectorAll('.postTitle')[0].innerHTML += ` (<span style="color:red">${totalVoucher}</span>) mã`
+	
+	var filterSort = document.querySelectorAll('.atEQPOIVFSDFSDG-filter-sort')
+	filterSort[1].style.display = 'none'
+	
 	//location.hash coupon main when click next
 	const pageItem = document.querySelectorAll('.atEQPOIVFSDFSDG-pagination > .atEQPOIVFSDFSDG-page-item');
 	pageItem.forEach((element) => {element.addEventListener("click", couponTab);});
