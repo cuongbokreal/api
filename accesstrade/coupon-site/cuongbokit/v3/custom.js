@@ -16,17 +16,22 @@ if(ctv_id && ctv_id !== null && ctv_id.length >= 1 && ctv_id != ''){
 
 var updateTime = new Date(); //updateTime
 var today = `${updateTime.getDate()}.${updateTime.getMonth() + 1}`;
-
+document.querySelectorAll('.postTitle')[0].innerHTML += `${today} `;
+/*
 var voucherLen = document.querySelectorAll('.atEQPOIVFSDFSDG-nav-item > .atEQPOIVFSDFSDG-nav-link > em')
 var totalVoucher = parseInt(replaceBrackets(voucherLen[0].innerText)) + parseInt(replaceBrackets(voucherLen[1].innerText))
 function replaceBrackets(c){
 	return c.replaceAll(/\(|\)/g,'');
 }
+*/
 
-document.querySelectorAll('.postTitle')[0].innerHTML += `${today} <span style="color:red">(${totalVoucher})</span> mã`;
+
 
 window.addEventListener('DOMContentLoaded', (event) => {
 	console.log('DOM fully loaded and parsed');
+	var voucherLen = document.querySelectorAll('.atEQPOIVFSDFSDG-nav-item > .atEQPOIVFSDFSDG-nav-link > em');
+	var totalVoucher = parseInt(replaceBrackets(voucherLen[0].innerText)) + parseInt(replaceBrackets(voucherLen[1].innerText));
+	document.querySelectorAll('.postTitle')[0].innerHTML += ` (<span style="color:red">${totalVoucher}</span>) mã`
 	//location.hash coupon main when click next
 	const pageItem = document.querySelectorAll('.atEQPOIVFSDFSDG-pagination > .atEQPOIVFSDFSDG-page-item');
 	pageItem.forEach((element) => {element.addEventListener("click", couponTab);});
@@ -39,7 +44,9 @@ function couponTab() {
 	location.hash = "first-block";
 }
 
-
+function replaceBrackets(c){
+	return c.replaceAll(/\(|\)/g,'');
+}
 /*
 document.querySelectorAll('.atEQPOIVFSDFSDG-voucher-main')[0].addEventListener('DOMContentLoaded', (event) => {
 	console.log('DOM fully loaded and parsed');
