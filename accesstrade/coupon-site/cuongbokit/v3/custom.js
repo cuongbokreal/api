@@ -56,8 +56,9 @@ function replaceBrackets(c){
 	return c.replaceAll(/\(|\)/g,'');
 }
 function add0To1Length(c){
-	if(c < 10){c = parseInt(`0${c}`)}
+	if(c < 10){c = `0${c}`}
 	return c
+	/*parseInt()*/
 }
 /*
 document.querySelectorAll('.atEQPOIVFSDFSDG-voucher-main')[0].addEventListener('DOMContentLoaded', (event) => {
