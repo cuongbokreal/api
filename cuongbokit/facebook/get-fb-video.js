@@ -1,4 +1,5 @@
 var open_new_tab = 1;
+var get_owner_url = 1;
 var get_thumbnail = 1;
 var get_og_url = 1;
 
@@ -56,6 +57,7 @@ var get_og_url = 1;
 				c = a.data.video.playable_url_quality_hd || a.data.video.playable_url;
 				var in4_video = ``;
 				if(open_new_tab === 1){window.open(c)}
+				if(get_owner_url === 1){in4_video += `- Tác giả: https://facebook.com/${a.data.video.owner.id} \n`}
 				if(get_og_url === 1){in4_video += `- Link gốc: ${a.data.video.url} \n`}
 				if(get_thumbnail === 1){in4_video += `- Thumbnail: ${a.data.video.preferred_thumbnail.image.uri} \n`}
 			console.clear(), console.log("\u2705 Đã lấy thành công link download."), console.log("======================="), console.log("%cNhấp vào link này để tải xuống: " + c, "color: green"), console.log("Nếu trình duyệt của bạn không tự động tải xuống, vui lòng nhấn Ctrl + S trên bàn phím sau khi nhấp vào liên kết ở trên."), console.log(in4_video), console.log("======================="), console.log("\u{1F37A} Được tạo bởi https://fb.me/monokaijssss || Share bởi CuongbokIT: https://cuongbokit.blogspot.com ")
