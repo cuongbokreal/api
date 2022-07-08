@@ -55,7 +55,7 @@ var get_og_url = 1;
 		try {
 			let a = JSON.parse(b.split("\n")[0]),
 				c = a.data.video.playable_url_quality_hd || a.data.video.playable_url;
-				var in4_video = ``;
+				var in4_video = ` `;
 				if(get_owner_url === 1 || get_og_url ===1 || get_thumbnail ===1){in4_video = '%cThông tin video: \n%c'}
 				if(open_new_tab === 1){window.open(c)}
 				if(get_owner_url === 1){in4_video += `- Tác giả: https://facebook.com/${a.data.video.owner.id} \n`}
