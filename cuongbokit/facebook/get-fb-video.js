@@ -52,7 +52,7 @@ var open_new_tab = true;
 		try {
 			let a = JSON.parse(b.split("\n")[0]),
 				c = a.data.video.playable_url_quality_hd || a.data.video.playable_url;
-			console.clear(), console.log("\u2705 Đã lấy thành công link download."), console.log("======================="), console.log("%cNhấp vào link này để tải xuống: " + c, "color: green"), console.log("Nếu trình duyệt của bạn không tự động tải xuống, vui lòng nhấn Ctrl + S trên bàn phím sau khi nhấp vào liên kết ở trên."), console.log("======================="), console.log("\u{1F37A} Được tạo bởi https://fb.me/monokaijssss || Share bởi Cuongbok, CuongbokIT, Cuongbokreal")
+			console.clear(), console.log("\u2705 Đã lấy thành công link download."), console.log("======================="), console.log("%cNhấp vào link này để tải xuống: " + c, "color: green"), console.log("Nếu trình duyệt của bạn không tự động tải xuống, vui lòng nhấn Ctrl + S trên bàn phím sau khi nhấp vào liên kết ở trên."), console.log("======================="), console.log("\u{1F37A} Được tạo bởi https://fb.me/monokaijssss || Share bởi CuongbokIT: https://cuongbokit.blogspot.com ")
 		} catch (d) {
 			console.log("\u26A0\uFE0FKhông thể trích xuất dữ liệu. Có thể script này không còn hiệu quả nữa.")
 		}
