@@ -1,5 +1,5 @@
 (() => {
-	let a = 'https://www.facebook.com/reel/432844225032298'.match(/\/(?:videos|reel|watch)(?:\/?)(?:\?v=)?(\d+)/);
+	let a = window.location.href.match(/\/(?:videos|reel|watch)(?:\/?)(?:\?v=)?(\d+)/);
 	if (a.length < 2) {
 		console.log("Please open a video before running this script.");
 		return
