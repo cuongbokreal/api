@@ -3,7 +3,7 @@ var open_new_tab = true;
 (() => {
 	let a = window.location.href.match(/\/(?:videos|reel|watch)(?:\/?)(?:\?v=)?(\d+)/);
 	if (a.length < 2) {
-		console.log("Please open a video before running this script.");
+		console.log("Vui lòng mở video trước khi chạy tập lệnh này.");
 		return
 	}
 	let c = function(d, e) {
@@ -30,7 +30,7 @@ var open_new_tab = true;
 				})
 			})
 		};
-	console.log("Getting info..."), b("5279476072161634", {
+	console.log("Đang lấy dữ liệu..."), b("5279476072161634", {
 		UFI2CommentsProvider_commentsKey: "CometTahoeSidePaneQuery",
 		caller: "CHANNEL_VIEW_FROM_PAGE_TIMELINE",
 		displayCommentsContextEnableComment: null,
