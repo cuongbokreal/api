@@ -60,7 +60,7 @@ var get_og_url = 1;
 				if(get_owner_url === 1){in4_video += `- Tác giả: https://facebook.com/${a.data.video.owner.id} \n`}
 				if(get_og_url === 1){in4_video += `- Link gốc: ${a.data.video.url} \n`}
 				if(get_thumbnail === 1){in4_video += `- Thumbnail: ${a.data.video.preferred_thumbnail.image.uri} \n`}
-			console.clear(), console.log("\u2705 Đã lấy thành công link download."), console.log("======================="), console.log("%cNhấp vào link này để tải xuống: " + c, "color: green"), console.log("Nếu trình duyệt của bạn không tự động tải xuống, vui lòng nhấn Ctrl + S trên bàn phím sau khi nhấp vào liên kết ở trên."), console.log(in4_video), console.log("======================="), console.log("\u{1F37A} Được tạo bởi https://fb.me/monokaijssss || Share bởi CuongbokIT: https://cuongbokit.blogspot.com ")
+			console.clear(), console.log("\u2705 Đã lấy thành công link download."), console.log("======================="), console.log("%cNhấp vào link này để tải xuống: " + c, "color: green"), console.log("Nếu trình duyệt của bạn không tự động tải xuống, vui lòng nhấn Ctrl + S trên bàn phím sau khi nhấp vào liên kết ở trên."), console.log(in4_video), console.log("======================="), console.log("\u{1F37A} Được tạo bởi https://fb.me/monokaijssss || Chỉnh sửa, thêm chức năng bởi CuongbokIT: https://cuongbokit.blogspot.com ")
 		} catch (d) {
 			console.log("\u26A0\uFE0FKhông thể trích xuất dữ liệu. Có thể script này không còn hiệu quả nữa.")
 		}
