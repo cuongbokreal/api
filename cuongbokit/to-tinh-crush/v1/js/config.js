@@ -63,7 +63,7 @@ function fixValueParam(c){
 // introDes: Des mới đầu vào
 
 function getMess(c){
-    if(c.length > 10){
+    if(c || typeof c !== undefined || c.length > 10){
         return c
     }else{return 'https://cuongbokit.blogspot.com/'}
 }
