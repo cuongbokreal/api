@@ -49,7 +49,7 @@ var musicTheme = document.getElementById('musicTheme');
 if(music == 0){musicTheme.autoplay = false}
 
 function replaceSpaceFromParam(c){
-    if(typeof c == 'undefined' || c.length < 1){return '%20'}
+    if(typeof c == 'undefined' || c.length < 1){return ''}
     else
     if(c.length >= 1){ return c.replaceAll('+',' ').replaceAll('%20',' ')}
 }
