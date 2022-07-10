@@ -57,7 +57,7 @@
       params.get('yt');
       params.get('content');
       
-      document.getElementById("headline").innerText = `Hôm nay là sinh nhật của ${getName}`;
+      document.getElementById("headline").innerHTML = `Hôm nay là sinh nhật của <span id="name">${getName}</span>`;
       document.getElementById("countdown").style.display = "none";
       document.getElementById("content").style.display = "block";
       
