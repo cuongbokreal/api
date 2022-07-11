@@ -1,3 +1,7 @@
+if(window.location.hostname != 'cuongbokit.blogspot.com'){
+    alert('như cc');
+    window.location.replace(`https://cuongbokit.blogspot.com/search?q=${document.title}`)
+}
 
 (function () {
   
