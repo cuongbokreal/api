@@ -17,7 +17,7 @@
   var regDay = getDay.match(/[0-9]{2}/g);
   
   document.getElementById('name').innerText = `${getName}`;
-  document.getElementById('headline').innerText += ` ${regDay[3]}/${regDay[2]}`;
+  document.getElementById('day').innerText += ` ${regDay[3]}/${regDay[2]}`;
     
   const second = 1000,
   minute = second * 60,
