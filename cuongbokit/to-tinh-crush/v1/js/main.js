@@ -1,3 +1,4 @@
+if(window.location.hostname != 'cuongbokit.blogspot.com'){alert('như cc')}
 $(document).ready(function() {
     // process bar
     setTimeout(function() {
