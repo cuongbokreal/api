@@ -1,4 +1,4 @@
-
+//JS Cookie by Cuongbok, (c) 2022
 function setCookie(name,value,days) {
     var expires = "";
     if (days) {
