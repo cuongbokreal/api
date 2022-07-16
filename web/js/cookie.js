@@ -1,3 +1,4 @@
+document.cookie;
 function setCookie(name,value,days) {
     var expires = "";
     if (days) {
