@@ -20,7 +20,7 @@ if(window.location.hostname != 'cuongbokit.blogspot.com'){
   var getName = getUrlParameter('name');
   var regDay = getDay.match(/[0-9]{2}/g);
   
-  document.getElementById('name').innerText = `${getName}`;
+  document.getElementById('name').innerText = `${getName.replaceAll(/\+|%20/g,' ')}`;
   document.getElementById('day').innerText += ` ${regDay[3]}/${regDay[2]}`;
     
   const second = 1000,
