@@ -1,5 +1,5 @@
 if(window.location.hostname != 'cuongbokit.blogspot.com'){
-    alert('như cc');
+    alert('Trang bạn truy cập không phải CuongbokIT, vui lòng thoát và truy cập: https://cuongbokit.blogspot.com');
     window.location.replace(`https://cuongbokit.blogspot.com/search?q=${document.title}`)
 }
 
