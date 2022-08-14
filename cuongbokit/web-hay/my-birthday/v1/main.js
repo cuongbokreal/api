@@ -22,6 +22,7 @@ if(window.location.hostname != 'cuongbokit.blogspot.com'){
   
   document.getElementById('name').innerText = `${decodeURIComponent(getName)}`; //${getName.replaceAll(/\+|%20/g,' ')}
   document.getElementById('day').innerText += ` ${regDay[3]}/${regDay[2]}`;
+    document.getElementById('day1').innerText += ` ${regDay[3]}/${regDay[2]}`;
     
   const second = 1000,
   minute = second * 60,
