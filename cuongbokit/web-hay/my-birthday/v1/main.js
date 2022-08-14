@@ -17,7 +17,7 @@ if(window.location.hostname != 'cuongbokit.blogspot.com'){
   //2018-07-22
 
   var getDay = getUrlParameter('day');
-  var getName = getUrlParameter('name');
+  var getName = getUrlParameter('name').replaceAll('+','');
   var regDay = getDay.match(/[0-9]{2}/g);
   
   document.getElementById('name').innerText = `${getName.replaceAll(/\+|%20/g,' ')}`;
