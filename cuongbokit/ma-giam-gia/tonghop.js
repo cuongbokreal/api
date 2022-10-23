@@ -173,7 +173,7 @@ var api_mgg_content = `
 
 `
 
-document.getElementById('tonghop').innerHTML = api_mgg_content;
+document.getElementById('tonghop').innerHTML = api_mgg_content.replaceAll('\n', '<br/>');
   
 $("#tonghop").each(function(){
    $(this).html( $(this).html().replace(/((http|https|ftp):\/\/[\w?=&.\/-;#~%-]+(?![\w\s?&.\/;#~%"=-]*>))/g, '<a rel="nofollow" target="_blank" href="$1">$1</a> ') );
