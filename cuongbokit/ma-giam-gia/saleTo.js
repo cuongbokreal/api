@@ -1,6 +1,6 @@
 var content_dday = `
 
-Bật mí sớm 97% mã SHOPEE + LAZADA sale  𝟐𝟓.𝟏𝟎
+Bật mí sớm 99% mã SHOPEE + LAZADA sale  𝟐𝟓.𝟏𝟎
 .
 <b>A.SHOPEE</b>
 🔥 Áp toàn sàn
