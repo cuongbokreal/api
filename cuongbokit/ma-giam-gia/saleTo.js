@@ -8,3 +8,7 @@ if (thisDate == 15 || thisDate == 25 || thisDate = (updateTime.getMonth() + 1)){
   mgg_saleTo.innerHTML = content_saleTo.replacaAll('\n', '<br/>')
 }
 
+$("#mgg_saleTo").each(function(){
+   $(this).html( $(this).html().replace(/((http|https|ftp):\/\/[\w?=&.\/-;#~%-]+(?![\w\s?&.\/;#~%"=-]*>))/g, '<a rel="nofollow" target="_blank" href="$1">$1</a> ') );
+});
+
