@@ -243,7 +243,7 @@ if (content_dday.length >= 20){
   mgg_dday.innerHTML = content_dday.replaceAll('\n', '<br/>')
 }
 
-$("#mgg_saleTo").each(function(){
+$("#mgg_dday").each(function(){
    $(this).html( $(this).html().replace(/((http|https|ftp):\/\/[\w?=&.\/-;#~%-]+(?![\w\s?&.\/;#~%"=-]*>))/g, '<a rel="nofollow" target="_blank" href="$1">$1</a> ') );
 });
 
