@@ -1,7 +1,6 @@
 var content_saleTo = `
 
 🍋𝗠𝗔̃ 𝗡𝗚𝗔̀𝗬 𝗦𝗔𝗟𝗘 𝗡𝗚𝗢𝗡, 𝗩𝗔̀𝗢 𝗟𝗨̛𝗨 𝗦𝗔̆̃𝗡 Đ𝗜 Ạ🍋
-
 .
 📌 Áp toàn sàn
 ◼ 0h: STAIPR2510KW2 giảm 30K Từ 99K áp list: https://shorten.asia/URNaBnae 
