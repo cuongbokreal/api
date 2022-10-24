@@ -237,7 +237,7 @@ Săn deal 1k, 9k các khung giờ
 var updateTime = new Date(); //updateTime
 var mgg_saleTo = document.querySelector('#mgg_saleTo')
 thisDate = updateTime.getDate()
-if (thisDate == 15 || thisDate == 25 || thisDate = (updateTime.getMonth() + 1)){
+if (content_saleTo.length >= 20){
   content_saleTo = `<h4>Tổng Hợp Mã Giảm Giá ngày SALE <span style="color:red">${updateTime.getDate()}.${updateTime.getMonth() + 1}</span></h4>` + content_saleTo
   mgg_saleTo.style.display = 'block';
   mgg_saleTo.innerHTML = content_saleTo.replacaAll('\n', '<br/>')
