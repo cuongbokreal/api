@@ -50,7 +50,7 @@ document.querySelectorAll('[name="viewport"]')[0].setAttribute('content','width=
 
 function couponTab() {
 	location.hash = "";
-	location.hash = "first-block";
+	location.hash = "second-block";
 }
 function replaceBrackets(c){
 	return c.replaceAll(/\(|\)/g,'');
