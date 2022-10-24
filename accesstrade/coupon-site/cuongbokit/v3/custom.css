@@ -2,7 +2,8 @@
 .atEQPOIVFSDFSDG-voucher-main{overflow: hidden; background: #fefefe;}
 
 .atEQPOIVFSDFSDG-first-block, .atEQPOIVFSDFSDG-second-block{
-    box-shadow: 10px -10px 15px -5px rgb(61 63 64 / 10%);
+    /*box-shadow: 10px -10px 15px -5px rgb(61 63 64 / 10%);*/
+	box-shadow: 5px -1px 10px 1px rgb(0 0 0 / 20%);
     border-radius: 4px;
     border: 1px solid #f2f2f2;
   }
