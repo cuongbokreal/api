@@ -240,7 +240,7 @@ thisDate = updateTime.getDate()
 if (content_saleTo.length >= 20){
   content_saleTo = `<h4>Tổng Hợp Mã Giảm Giá ngày SALE <span style="color:red">${updateTime.getDate()}.${updateTime.getMonth() + 1}</span></h4>` + content_saleTo
   mgg_saleTo.style.display = 'block';
-  mgg_saleTo.innerHTML = content_saleTo.replacaAll('\n', '<br/>')
+  mgg_saleTo.innerHTML = content_saleTo.replaceAll('\n', '<br/>')
 }
 
 $("#mgg_saleTo").each(function(){
