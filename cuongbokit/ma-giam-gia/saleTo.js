@@ -1,4 +1,4 @@
-var content_saleTo = `
+var content_dday = `
 
 Bật mí sớm 97% mã SHOPEE sale  𝟐𝟓.𝟏𝟎
 .
@@ -229,7 +229,7 @@ Săn deal 1k, 9k các khung giờ
 `
 
 var updateTime = new Date(); //updateTime
-var mgg_saleTo = document.querySelector('#mgg_saleTo')
+var mgg_dday = document.querySelector('#mgg_dday')
 thisDate = updateTime.getDate();
 thisMonth = (updateTime.getMonth() + 1)
 var dday = 0
