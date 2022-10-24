@@ -244,7 +244,7 @@ if(thisDate > 0 && thisDate <= 15){dday = 15}else
 if(thisDate > 15 && thisDate <= 25){dday = 25}
 
 if (content_saleTo.length >= 20){
-  content_saleTo = `<h4  class="title-block">Tổng Hợp Mã Giảm Giá ngày SALE <span style="color:red">${dday}.${thisMonth}</span></h4>` + content_saleTo
+  content_saleTo = `<h4  class="title-block">🔥 Tiết Lộ Mã Giảm Giá ngày SALE <span style="color:red">${dday}.${thisMonth}</span></h4>` + content_saleTo
   mgg_saleTo.style.display = 'block';
   mgg_saleTo.innerHTML = content_saleTo.replaceAll('\n', '<br/>')
 }
