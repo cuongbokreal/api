@@ -1,7 +1,5 @@
 var api_mgg_content = `
 
-
-
 ⏰SHOPEE, LAZADA CUỐI NGÀY 24/10:
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
