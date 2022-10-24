@@ -9,6 +9,9 @@
   }
 .atEQPOIVFSDFSDG-search-title{display: none;}
 .atEQPOIVFSDFSDG-at-filters:nth-child(1){color:red}
+.atEQPOIVFSDFSDG-filter-sort{
+	cursor: pointer;
+}
 .atEQPOIVFSDFSDG-voucher-main {
     padding: 0;
 }
