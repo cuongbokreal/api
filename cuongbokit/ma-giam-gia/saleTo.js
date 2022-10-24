@@ -241,7 +241,7 @@ thisMonth = (updateTime.getMonth() + 1)
 var dday = 0
 if(thisDate == thisMonth){dday = thisDate}
 if(thisDate > 0 && thisDate <= 15){dday = 15}else
-if(thisDate > 15 && thisDate <= 25){dday = 25}else
+if(thisDate > 15 && thisDate <= 25){dday = 25}
 
 if (content_saleTo.length >= 20){
   content_saleTo = `<h4  class="title-block">Tổng Hợp Mã Giảm Giá ngày SALE <span style="color:red">${dday}.${thisMonth}</span></h4>` + content_saleTo
