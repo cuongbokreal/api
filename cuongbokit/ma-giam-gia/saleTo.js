@@ -1,6 +1,6 @@
 var content_dday = `
 
-Bật mí sớm 99% mã SHOPEE + LAZADA sale  𝟐𝟓.𝟏𝟎
+Full mã SHOPEE + LAZADA sale  𝟐𝟓.𝟏𝟎 (xem mã khung giờ ở phía dưới)
 .
 <b>A.SHOPEE</b>
 ⭐️ 1. Tổng hợp list deal cực hot 25/10:
