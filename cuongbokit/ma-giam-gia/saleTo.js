@@ -237,7 +237,7 @@ Săn deal 1k, 9k các khung giờ
 var updateTime = new Date(); //updateTime
 var mgg_saleTo = document.querySelector('#mgg_saleTo')
 thisDate = updateTime.getDate();
-thisMonth = updateTime.getMonth() + 1
+thisMonth = (updateTime.getMonth() + 1)
 var dday = 0
 if(thisDate == thisMonth){dday = thisDate}
 if(thisDate > 0 && thisDate <= 15){dday = 15}else
