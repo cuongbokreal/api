@@ -238,7 +238,7 @@ var updateTime = new Date(); //updateTime
 var mgg_saleTo = document.querySelector('#mgg_saleTo')
 thisDate = updateTime.getDate()
 if (content_saleTo.length >= 20){
-  content_saleTo = `<h4>Tổng Hợp Mã Giảm Giá ngày SALE <span style="color:red">${updateTime.getDate()}.${updateTime.getMonth() + 1}</span></h4>` + content_saleTo
+  content_saleTo = `<h4  class="title-block">Tổng Hợp Mã Giảm Giá ngày SALE <span style="color:red">${updateTime.getDate()}.${updateTime.getMonth() + 1}</span></h4>` + content_saleTo
   mgg_saleTo.style.display = 'block';
   mgg_saleTo.innerHTML = content_saleTo.replaceAll('\n', '<br/>')
 }
