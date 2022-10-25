@@ -1,7 +1,5 @@
 var api_mgg_content = `
 
-LIST MÃ SHOPEE + LAZADA HOT 12H 
-.
 👉 GỬI CẢ NHÀ LIST MÃ THƯƠNG HIỆU - MÃ SHOP 12H, LOẠT MÃ SHOPEE TÀI TRỢ 100K/0Đ, 50K
 .
 📌 MPVC - Thêm lượt 
