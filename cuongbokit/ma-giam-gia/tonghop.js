@@ -115,6 +115,62 @@ var api_mgg_content = `
 .
 🔥THỬ THÁCH SHOPEE: https://shorten.asia/57NXJeeJ 
 
+<b>LAZADA</b>
+🎉 Ưu đãi LAZADA
+.
+🔥 Voucher độc quyền của Trum Giảm Giá: https://shorten.asia/Pa7K9XsW
+ ► 12H (25/10 - 27/10): Lưu ngay mã giảm 25k đơn từ 99k toàn sàn Lazada.
+.
+🔥 11H (25/10 - 27/10): Lưu ngay mã giảm 25k đơn từ 99k toàn sàn Lazada: https://shorten.asia/M55UjGhh
+.
+🔥 0H (25/10 - 27/10): Lưu ngay mã giảm 25k đơn từ 99k toàn sàn Lazada: https://shorten.asia/26KTEhtZ
+.
+🔸 Siêu Sale Super Sports: https://shorten.asia/xB7pSc7t
+► Giảm tới 60%
+► Voucher giảm thêm đến 600k
+► Mua 3 giảm thêm 20% trên giá đã giảm
+.
+🔸 Sale cuối tháng lương về (25/10 - 27/10): https://shorten.asia/w7XeSsgt
+ ► Voucher giảm 10%, flashsale thương hiệu giảm tới 50%
+.
+🔸 LazFlash Max : https://shorten.asia/pwCNjXJC
+ ► Chương trình flash sale do Lazada trợ giá các sản phẩm bán chạy. Rất nhiều deal siêu tốt với mức trợ giá lên đến 200K. Áp dụng thêm các voucher khác nữa thì giá tốt nhất thị trường luôn
+.
+🔸 Top bán chạy: https://shorten.asia/yhbcvP3v
+► Giảm đến nửa giá voucher 50K
+.
+🔸 Rẻ vô cực: https://shorten.asia/8JgJeVep
+► GIẢM ĐẾN 50% MUA HẾT DƯỚI 99K
+.
+🔸 Tự Hào Hàng Việt: https://shorten.asia/FjMMwwGa
+► GIẢM ĐẾN 50% TOP DEAL XU HƯỚNG
+.
+🔸 Siêu Tiệc Thương Hiệu: https://shorten.asia/n37GR7pj
+► 0H, 20H: Sale Thương Hiệu GIẢM ĐẾN 50%  VOUCHER 60K
+.
+🔸 Shop Xịn Uy Tín Chất Lượng: https://shorten.asia/KMZrjWvn
+► MUA LÀ FREESHIP GIAO HÀNG SIÊU NHANH
+.
+🔸 Freeship Max: https://shorten.asia/A2W9Qwss
+► Giảm 15k đơn từ 29k cho mọi đơn hàng.
+► Giảm 30k đơn từ 300k.
+.
+🔸 Hoàn tiền Max 6% tối đa 50K đơn từ 49K: https://shorten.asia/wbmptGZb
+.
+🔸Hoàn tiền Max 6% tối đa 300K đơn từ 49K cho LazMall: https://shorten.asia/wbmptGZb
+.
+🔸 VoucherMax Mua là giảm tối đa 20K, 30K đơn từ 69K: https://shorten.asia/7bEp2AKy 
+.
+🔸 Lưu Voucher từ các đối tác thanh toán ngân hàng: https://shorten.asia/UEueMFq5   
+.
+🔸 Lưu mã zalopay 25K, 20K, 10K: https://shorten.asia/jFBQYdGS   
+.
+🔸 Lưu mã momo 20K, 15K: https://shorten.asia/H8MDkXsh
+
+<b>TIKI</b>
+✨ Tiki ngon: https://shorten.asia/earBSNjs 
+► Lưu thêm các voucher từ shop bán tại banner.
+
 `
 
 document.getElementById('tonghop').innerHTML = api_mgg_content.replaceAll('\n', '<br/>');
