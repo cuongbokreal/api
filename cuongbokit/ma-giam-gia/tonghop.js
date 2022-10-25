@@ -20,118 +20,175 @@ var api_mgg_content = `
 
 🔥MÃ CỰC HOT 26.10 (9H, 12H, 18H back)🔥
 .
-🚛MIỄN PHÍ VẬN CHUYỂN:
-• 0H: Lưu mã giảm 15K/0Đ, 25K/100K tại: https://shorten.asia/QvQH5Z4f  (còn back vào 9H, 12H, 18H)
-• 0H: Lưu mã giảm 10K/0Đ tại: https://shorten.asia/QvQH5Z4f  (còn back vào 9H, 12H, 21H)
-• 0H: Lưu mã Freeship giảm 25K/25K tại các live: https://shorten.asia/zYxVhe2Y  (còn back vào 9H, 12H, 15H, 18H)
-• 0H: Lưu mã Freeship giảm 25K/50K lọc sp: https://shorten.asia/9Jy3Aj9q  (còn back vào 9H, 12H): 
-• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://shorten.asia/cS9QPhqW 
-• Quay mã Freeship 0Đ: https://shorten.asia/RgU2AYhC 
+🚛 Lưu mã miễn phí vận chuyển: https://tinyurl.com/23ynwu85  
 .
-🔥MÃ TOÀN SÀN - NHẬP TAY: 
-• 0H: STAIPRWEDTR8 giảm 40K đơn từ 250K. List sản phẩm áp mã: https://shorten.asia/P3Mwut3m 
-• 0H: 2610GIAM10K0PH hoặc 2610GIAM10K1PH hoặc 2610GIAM10K2PH giảm 10K đơn từ 150K(còn back vào 9H, 12H, 21H)
+⭐️ 1. Thứ 4 hàng tuần – Siêu Sale Freeship trên Shopee: https://tinyurl.com/274zep5t
 .
-🔥SIÊU SALE VOUCHER - MÃ TOÀN SÀN: một số mã đã lưu sớm được
-• 0H: Mã giảm 44K đơn từ 44K
-• 0H, 9H, 12H: Mã giảm 20K đơn từ 99K
-=> Lưu mã tại: https://shorten.asia/ZCAZGmyk 
+► 0h: Lưu trên banner 1 Mã Freeship 15K đơn từ 0Đ và 3 mã Freeship 25K đơn từ 100k toàn sàn Shopee (back thêm lượt lúc 9H, 12H, 21H): https://tinyurl.com/274zep5t
 .
-🔥KOL AFFILIATE - MÃ TOÀN SÀN: đúng giờ load trang lưu mã, dễ
-• 0H: Mã giảm 30K đơn từ 150K
-=> Lưu mã tại: https://shorten.asia/UQh2Khmu 
+► 0h: 2610GIAM50K1 giảm 5% tối đa 50K đơn từ 350k toàn sàn Shopee. List sản phẩm áp mã: https://tinyurl.com/2xsujmt6
 .
-🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - NHẬP TAY:
-• 0H: 263110HOAN40K0PH hoặc 263110HOAN40K1PH hoặc 263110HOAN40K2PH  hoàn 5%, tối đa 40K đơn từ 500K(còn back vào 9H, 12H, 21H)
-• 0H: 263110MALL50K0PH hoặc 263110MALL50K1PH hoặc 263110MALL50K2PH hoàn 5%, tối đa 50K đơn từ 250K ShopeeMall(còn back vào 9H, 12H, 21H)
+► 0h: BATREND30KT4FSD4 giảm 8% tối đa 30K đơn từ 200k cho list sản phẩm bắt trend giá sốc: https://tinyurl.com/2ysgpbky
 .
-🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - LƯU BANNER: còn back vào 9H, 12H, 18H
-• 0H: Mã hoàn 6% tối đa 100K đơn từ 50K
-• 9H: Mã hoàn 6% tối đa 200K đơn từ 400K
-=> Lưu mã tại: https://shorten.asia/Ba8bEkGd 
+► 9H: 2610BATNGOTHU4 Giảm 20K cho Đơn đơn từ 99K toàn sàn Shopee (mã sẽ back thêm lượt lúc 15H và 18H). List sản phẩm áp mã: https://tinyurl.com/2cpk7wsa
 .
-🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Freeship Xtra”: 
-• 9H: 2610BATNGOTHU4 giảm 20K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/Hp2p6c2c  (còn back vào 12H, 18H, 20H)
-• 0H: 2610GIAM50K1 giảm 5% tối đa 50K đơn từ 350K 
+► 15h: Lưu trước trên banner mã giảm 10K đơn từ 0đ toàn sàn Shopee (sử dụng lúc 17H)
+
+► 15h30: Lưu trước trên banner mã giảm 20K đơn từ 0đ toàn sàn Shopee (sử dụng lúc 17H)
+
+► 16h: Lưu trước trên banner mã giảm 30K đơn từ 0đ toàn sàn Shopee (sử dụng lúc 17H)
+
+► 16h30: Lưu trước trên banner mã giảm 50K đơn từ 0đ toàn sàn Shopee (sử dụng lúc 17H)
 .
-🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
-• Sau 12H: Mã giảm 50% tối đa 30K đơn từ 0Đ toàn sàn tag Shopee Live: https://shorten.asia/99v5J2D5  mục live
-• 12H: Mã giảm 20K/100K, 40K/250K. Lưu mã tại: https://shorten.asia/ne63GXKt  mục Live, gần giờ săn shop sẽ lên live
-• 12H: Mã giảm 30K/100K, 50K/250K. Lưu mã tại: https://shorten.asia/zYxVhe2Y  mục “SĂN DEAL HOT”
+⭐️ 2. Săn Sale Cùng KOL: https://tinyurl.com/27gsguw5 
 .
-🔥THÚ CƯNG: https://shorten.asia/zcg6g7ze 
-• PET20K giảm 20K đơn từ 250K
-• PET50 giảm 8% tối đa 50K đơn từ 350K
-• Voucher, ưu đãi từ các shop bán.
+► Lưu trước trên banner tại link này https://tinyurl.com/27gsguw5  dùng lúc 0H ngày 26/10 mã giảm 30K đơn từ 150k toàn sàn shopee.
+
+► Lưu trước trên banner tại link này https://tinyurl.com/27gsguw5  dùng lúc 0H ngày 26/10 mã giảm 5% tối đa 50K đơn từ 350k toàn sàn shopee.
+
+► Lưu trước trên banner tại link này https://tinyurl.com/27gsguw5  dùng lúc 0H ngày 26/10 mã giảm 6% tối đa 200K đơn từ 400k toàn sàn shopee.
+
+► Lưu trước trên banner tại link này https://tinyurl.com/27gsguw5  dùng lúc 0H ngày 26/10 mã giảm 6% tối đa 100K đơn từ 0đ toàn sàn shopee.
 .
-🔥Mum Club: https://shorten.asia/NWkNmkY4 
-• FMCGMEXNEW10 giảm 30K đơn từ 0Đ(thành viên mới đăng kí)
-• FMCGMEXWEDS10H giảm 8% tối đa 80K đơn từ 500K
-• FMCGMEXWEDS10L giảm 15K đơn từ 99K
-• FMCGMEXMKB10 hoàn 50K đơn từ 499K
-• FMCGMEXTK10 hoàn 15% tối đa 30K đơn từ 99K
-• Voucher ưu đãi từ các shop bán
+⭐️ 3. Siêu Sale Voucher: https://tinyurl.com/245qg9se 
 .
-🔥SHOPEEPAY: https://shorten.asia/hPGZq7hv 
-• SPPP3OCTMBS80K giảm 8K đơn từ 80K
-• SPPP3OCTGMV50K giảm 5% tối đa 40K đơn từ 400K
-@All 
-🔥THỜI TRANG XU HƯỚNG: https://shorten.asia/GF6K9HU1 
-• 0H: SKAMLTS2610 giảm 15K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/EG9gJRZX 
-• 0H: SKAMLTB2610 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/DzJqMP1s 
-• SKAMT4T10 giảm 10% tối đa 40K đơn từ 99K
-• Săn deal đồng giá 1K, 9K, 15K, 25K
-• Voucher, ưu đãi từ các shop bán
+► Lưu trước trên banner tại link này https://tinyurl.com/245qg9se  dùng lúc 0H ngày 26/10 mã giảm 44K đơn từ 44k toàn sàn shopee. List sản phẩm áp mã: https://tinyurl.com/29ca2y6u
 .
-🔥VOUCHER SĂN TRƯỚC GIỜ G - MÃ ÁP SẢN PHẨM CÓ MÁC “Freeship Xtra”: 
-• 15H: Lưu sớm mã giảm 10K đơn từ 0Đ
-• 15H30: Lưu sớm mã giảm 20K đơn từ 0Đ
-• 16H: Lưu sớm mã giảm 30K đơn từ 0Đ
-• 16H30: Lưu sớm mã giảm 50K đơn từ 0Đ
-• 17H: Dùng các mã đã lưu ở trên 
-=> Lưu mã tại: https://shorten.asia/fpnvBnUB 
-[theo lịch trên mới hiện mã để lưu, sau mỗi 30p mã sẽ bị ẩn]
+► Lưu trước trên banner tại link này https://tinyurl.com/245qg9se  dùng lúc 0H ngày 26/10 mã giảm 20K đơn từ 99k toàn sàn shopee. List sản phẩm áp mã: https://tinyurl.com/24hrcz6z  
 .
-🔥MÃ ÁP MỘT SỐ SẢN PHẨM CÒN LƯỢT:
-• 0H: BATREND30KT4FSD4 giảm 8% tối đa 30K đơn từ 200K. List sản phẩm áp mã: https://shorten.asia/DzJqMP1s 
-• SKAMLTB2410 giảm 20K đơn từ 0Đ. List sản phấm áp mã: https://shorten.asia/mvNZzQND 
-• AFF10TZW giảm 25K đơn từ 68K. List sản phẩm áp mã: https://shorten.asia/x5H4gQUe 
-• SKAMLTB1110 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/axv9WCxT 
-• SKAMLTS1110 giảm 15K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/TsS2Jhz1 
-• LIFEMC10G giảm 50K đơn từ 350K. List sản phẩm áp mã: https://shorten.asia/G3v1KEWP 
+⭐️ 4. Tham khảo thêm deal xịn ở đây nha:
+
+► Duy nhất Thứ 4 – Sale sốc 40% : https://tinyurl.com/29ktxynk
 .
-🔥MỘT SỐ MÃ SHOP CÒN LƯỢT:
-• COOLP35 giảm 50% tối đa 100K đơn từ 0Đ cho shop Coolmom: https://shorten.asia/bg7bTuwh 
-• THEBXLILY (mã shop) giảm 100K đơn từ 500K cho shop The Bad Good: https://shorten.asia/Nucqk1cN 
-• LOVIVNABI giảm 50% không giới hạn. List sản phẩm áp mã: https://shorten.asia/GDFR5P7W 
-• LMCA2010, LMCA1910, LMCA19102 giảm 50% tối đa 100K đơn từ 0Đ cho LMcation: https://shorten.asia/73sVwRT2 
+► Gì cũng rẻ đơn từ 100K: https://tinyurl.com/2yzlnnvh
 .
-🔥VÀO ĐâY: https://shorten.asia/hKAxUVyZ  NHẬP:
-• SMIC1x thay x bằng các số từ 3192 đến 3657 để tạo thành mã shop giảm 50% tối đa 50K đơn từ 0Đ
-• SMIC1x thay x bằng các số từ 1696 đến 2186 để tạo thành mã shop giảm 50% tối đa 50K đơn từ 0Đ
+► Gì cũng rẻ đơn từ 350K: https://tinyurl.com/2yzlnnvh
 .
-🔥LƯU SỚM LOẠT MÃ CHO SALE 11/11:
-• Mã giảm 15K đơn từ 0Đ(Freeship) 
-• Mã giảm 50% tối đa 200K đơn từ 400K(ShopeePay)
-• Mã hoàn 15% tối đa 500K đơn từ 500K(Hoàn Xu Xtra)
-• Mã hoàn 50% tối đa 1tr5 đơn từ 3tr(Hoàn Xu Xtra)
-• Mã hoàn 10% tối đa 70K đơn từ 500K(Hoàn Xu Xtra)
-• Mã hoàn 15% tối đa 15K đơn từ 99K(Hoàn Xu Xtra)
-• Mã hoàn 10% tối đa 50K đơn từ 250K(Hoàn Xu Xtra, ShopeeMall)
-• Mã hoàn 25K đơn từ 150K ngành thời trang, quốc tế, đời sống(Hoàn Xu Xtra)
-• Mã hoàn 10% tối đa 100K đơn từ 500K ngành tiêu dùng(Hoàn Xu Xtra)
-• Mã hoàn 6% tối đa 1tr đơn từ 3tr ngành công nghệ(Hoàn Xu Xtra)
-=> Lưu sớm mã tại: https://shorten.asia/QvQH5Z4f 
+► Gì cũng rẻ đơn từ 400K: https://tinyurl.com/24j3r3ex  
 .
-🔥MỞ HỘP QUÀ NHẬN XU: lượt mới 0H
-• Link 1: https://shorten.asia/vMMAStab 
-• Link 2: https://shorten.asia/SrP3eZWH  lọc user
+⭐️ 5. Khung giờ săn sale: https://tinyurl.com/27f3my3j
 .
-🔥0H: GIẢI ĐỐ SĂN MÃ GIẢM 20K: https://shorten.asia/qD6a38pf 
+► Lưu mã miễn phí vận chuyển 10K/0đ
+
+► AFF10FSW giảm 30k đơn từ 90k cho sản phẩm thuộc ngành hàng thời trang. List sản phẩm áp mã: https://tinyurl.com/2dbu67ap
 .
-🔥 0H: MUA GÓI SVC 30K: https://shorten.asia/Yk7qnvqK 
+► AFF10TZW giảm 25k đơn từ 69k cho sản phẩm thuộc ngành hàng điện tử. List sản phẩm áp mã: https://tinyurl.com/2cd6a8ot  
 .
-🔥THỬ THÁCH SHOPEE: https://shorten.asia/57NXJeeJ 
+⭐️ 6. Các voucher áp dụng cho các shop livestream:
+
+► 0H, 12H: Lấy mã 50k/250k, 30k/100k tại tab Shop thịnh hành – Săn deal hot: https://tinyurl.com/2ac3sf2x  
+.
+⭐️ 7. Siêu Sale FreeShip: https://tinyurl.com/274zep5t
+.
+► 0H: 263110HOAN40K0PH hoặc 263110HOAN40K1PH hoặc 263110HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K cho hoàn xu Xtra. List sản phẩm áp mã: https://tinyurl.com/2y7gtjwu
+.
+► 0H: 2610GIAM10K0PH hoặc 2610GIAM10K1PH hoặc 2610GIAM10K2PH giảm 10K đơn từ 150K cho Shopee Mall. List sản phẩm áp mã: https://tinyurl.com/22j362rb
+.
+► 0H: 263110MALL50K0PH hoặc 263110MALL50K1PH hoặc 263110MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K cho Shopee Mall. List sản phẩm áp mã: https://tinyurl.com/2a2m2dab
+.
+► Lưu thêm 4 mã MPVC tại banner.
+.
+⭐️ 8. Gì cũng rẻ: https://tinyurl.com/2yy9p8tt
+.
+► Lưu mã MPVC 25k tại banner.
+
+► SPPP2OCTMBS80K giảm 10% tối đa 8k đơn từ 80k
+
+► SPPP2OCTGMV50K giảm 5% tối đa 40k đơn từ 400k
+
+► 0H: Săn mã MPVC 25k đơn từ 50k tại: https://tinyurl.com/2ac3sf2x  
+.
+⭐️ 9. ShopeePay: https://tinyurl.com/27xgckhu
+.
+► SPPP2OCTMBS80K giảm 10% tối đa 8k đơn từ 80k
+
+► SPPP2OCTGMV50K giảm 5% tối đa 40k đơn từ 400k
+
+► Lưu thêm các mã khác tại banner
+.
+⭐️ 10. Hoàn Xu Xtra: https://tinyurl.com/2ch8nbfg
+.
+► 0H: Lưu trên banner tại link này https://tinyurl.com/2ch8nbfg  + Dùng ngay mã hoàn 5% tối đa 200k đơn từ 400k cho sản phẩm có logo Hoàn Xu Xtra. 
+
+► Dùng ngay mã hoàn 5% tối đa 200k đơn từ 400K (đã có sẵn trong ví). Mọi người kiểm tra tại đây nhé: https://tinyurl.com/27cvbxkl
+.
+► 0H: Lưu trên banner tại link này https://tinyurl.com/2ch8nbfg  + Dùng ngay mã hoàn 5% tối đa 100k đơn từ 0đ cho sản phẩm có logo Hoàn Xu Xtra.
+
+► Dùng ngay mã hoàn 5% tối đa 100k đơn từ 0đ (đã có sẵn trong ví). Mọi người kiểm tra tại đây nhé: https://tinyurl.com/27cvbxkl  
+.
+⭐️ 11. Shopee Rewards: https://tinyurl.com/24vp56la
+.
+► 0h: Đổi xu lấy freeship 50% tối đa 40k
+
+► Thử thách đua đơn nhận xu
+.
+⭐️ 12. Mum Club: https://tinyurl.com/2bnmjjqe
+.
+► FMCGMEXMKB10 hoàn 50k đơn từ 499k
+
+► FMCGMEXTK10 hoàn 15% tối đa 30k đơn từ 99k
+
+► Voucher ưu đãi từ các thương hiệu, shop
+.
+⭐️ 13. Thú Cưng: https://tinyurl.com/23ejvlrj
+.
+► Voucher ưu đãi từ các shop
+.
+⭐️ 14. Thời Trang Xu Hướng: https://tinyurl.com/29pqmrj6
+.
+► 0h: SKAMLTB2610 giảm 20k đơn từ 0đ
+
+► 0h: SKAMLTS2610 giảm 15k đơn từ 0đ
+
+► SKAMT4T10 giảm 10% tối đa 40k đơn từ 99k
+.
+► Voucher giảm tới 50k từ các shop bán.
+
+► Săn deal đồng giá 1k, 9k
+.
+⭐️15. Mẹ bé: https://tinyurl.com/2ctmwxlz
+.
+ ► Voucher giảm tới 70k từ ngành hàng.
+.
+► Voucher ưu đãi từ các shop bán.
+.
+► Săn deal đồng giá 1k, x9k
+.
+⭐️ 16. Từ Coolmate: https://tinyurl.com/2crwckbk
+.
+ ► MABRSBD4 giảm 12% tối đa 15k từ 99k
+.
+► MABRSBD1 giảm 12% tối đa 30k từ 199k
+.
+► MABRSBD2 giảm 12% tối đa 50k từ 399k
+.
+► MABRSBD3 giảm 12% tối đa 15k từ 99k
+.
+► Voucher giảm tới 100k từ shop bán.
+.
+► Quà tặng 0đ cho các đơn hàng.
+
+► Ưu đãi mua 2 giảm 30%
+
+► Săn voucher các khung giờ:
+
+► 0h: COOLM260 (mã shop) giảm 300k đơn từ 0đ. List sản phẩm áp mã: https://tinyurl.com/22w5my44  
+.
+⭐️ 17. Từ GSK: https://tinyurl.com/2aohzq52
+.
+► Voucher giảm tới 40k từ shop bán.
+.
+► Ưu đãi mua 1 tặng 1, deal giảm 30%
+.
+► Quà tặng 0đ cho các đơn hàng.
+.
+⭐️ 18. Ngày hội SPFood: https://tinyurl.com/246fgx6n
+.
+► Voucher ưu đãi giảm tới 99k
+.
+► Ưu đãi đối tác giảm tới 50k.
+.
+► Săn voucher các khung giờ.
 
 <b>LAZADA</b>
 🎉 Ưu đãi LAZADA
