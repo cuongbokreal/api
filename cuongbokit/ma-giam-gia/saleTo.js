@@ -18,8 +18,8 @@ Full mã SHOPEE + LAZADA sale  𝟐𝟓.𝟏𝟎 (xem mã khung giờ ở phía 
 • SKAMLTB1110 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/R5grdqfZ 
 • SKAMLTS1110 giảm 15K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/Npcu57AP 
 • LIFEMC10G giảm 50K đơn từ 350K. List sản phẩm áp mã: https://shorten.asia/JAaznU1J 
-.
-🔥LAZADA 16H - 17H 25.10🔥 
+
+<b>B.LAZADA</b>
 📌 Áp toàn sàn
 ◼️ 16h: giảm 50% tối đa 40k
 ◼️ 17h: giảm 50% tối đa 50k
@@ -34,59 +34,6 @@ Load trang nhanh: Bấm vào "  Voucher chớp nhoáng 50% "
 ◼️ Lưu mã tại: https://shorten.asia/QmbBsDfF 
 .
 📌 16H: Lưu hoàn tiền 12%: https://shorten.asia/JhZPXz1r  
-
-<b>B.LAZADA</b>
-LAZADA 25.10  
-.
-📌 Áp toàn sàn 
-◼️ Banner 1: 0H: 9H, 12H, 16H: Lưu mã 30k đơn 500k,  500k đơn 0Đ: https://shorten.asia/fcTbURvu    ( 0H load trang có thể lên thêm  lên mã mới ) 
-◼️ Banner 2: 0H: Lưu mã 25k đơn 99k tại: https://shorten.asia/bK1dwVhC  ( có thể lên mã ) 
-◼️ Banner 3: 11H: Lưu mã 25k đơn 99k tại:  https://shorten.asia/jBjEKHSf   
-◼️ Banner 3: 12H: Lưu mã 25k đơn 99k tại: https://shorten.asia/nMjamKHb   
-.
-📌 2 Banner dưới canh back 0H, 9H, 12H, 16H 
-◼️ Banenr 1: https://shorten.asia/uR2ggrUP  
-◼️ Banner 2: https://shorten.asia/GZXFsJWJ    
-.
-📌 Áp thương hiệu 
-◼️ 0H, 20H: Lưu mã 60k đơn 400k tại: https://shorten.asia/AvkdwGTn  
-.
-📌 Siêu sale FreeShip ( Thứ 3 hàng tuần ) 
-◼️ 0H: Lưu mã FS 20k/0Đ, 15k/99k, 15k/29k
-◼️ Lưu mã tại: https://shorten.asia/e7TfD5Zs 
-.
-📌 0H, 9H, 12H, 16H: Lưu hoàn tiền 12%: https://shorten.asia/hq8dAKuf  
-.
-📌 0H, 2H, 9H, 12H, 18H:  Deal trợ giá vào link phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc ...: https://shorten.asia/fBhct38t    
-.
-📌 Sale ốp - Phụ kiện 1k
-◼️ Săn ốp đồng giá 1k: https://shorten.asia/6edJgJPf 
-.
-📌Mua deal mỹ phẩm 0đ, 1K, 9K: https://shorten.asia/sueh5Ggy 
-
-📌 0H: Lên mã đổi xu: https://shorten.asia/e7NBH17a 
-.
-📌 0H: Lên mã đổi sao: https://shorten.asia/GSzz76N9 
-.
-📌 Ưu đãi ngân hàng 
-◼ 9h: Lưu mã ngân hàng tại: https://shorten.asia/ktsgPyZZ  
-.
-📌 Thanh toán zalo, momo, vnpt - Thêm lượt 
-◼ 9h: Lưu các mã momo, zalo, vnpt tại:  https://shorten.asia/XUN1cjR3     
-.
-📌 Áp toàn sàn
-◼️ 15h: giảm 50% tối đa 30k
-◼️ 16h: giảm 50% tối đa 40k
-◼️ 17h: giảm 50% tối đa 50
-◼️ Lưu mã tại: https://shorten.asia/e7TfD5Zs  
-.
-📌 1 Số banner khác lưu thêm mã từ thương hiệu 
-◼️ Siêu sale shop xịn: https://shorten.asia/N62mWPzN  
-◼️Top deal bán chạy: https://shorten.asia/AWaSgJx7  
-◼️ Mua là Freeship: https://shorten.asia/FcEwufBH  
-◼️ Rẻ vô cực: https://shorten.asia/MJBxTTrx  
-◼️ Tự hào hàng việt: https://shorten.asia/qZJWM4hM  
-◼️ Shop xịn uy tín: https://shorten.asia/8rqf63YT 
 
 `
 
