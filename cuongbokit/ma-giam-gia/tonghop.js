@@ -1,6 +1,24 @@
 var api_mgg_content = `
 
-🔥BẬT MÍ SỚM MÃ CỰC HOT 26.10🔥
+❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 26/10 ❤️
+.
+🍒 1. Khám phá thị trấn Halloween (25/10 - 2/11): https://shorten.asia/GGpphHRJ 
+.
+📚 CẨM NANG THỊ TRẤN:
+► Từ 19/10 đến 31/10: Tuần Lễ Thời Trang - Shopee Thú Cưng
+► Từ 25/10 đến 02/11: Đại Náo Đập Kẹo nhận đến 100K xu - Shopee Đập Kẹo
+► Từ 26/10 đến 31/10: Săn Combo Tiệc đổi 11K xu - Quà Tặng Shopee 
+► Từ 30/10 đến 01/11: Đổi xu khủng 30K - Shopee Máy Gắp Thú
+.
+🍒 2. Thử Thách Shopee 0H: https://shorten.asia/57NXJeeJ          
+.
+🍒 3. Hộp Quà Thần Kỳ – LỌC TK: https://shorten.asia/SrP3eZWH               
+.
+🍒 4. Shopee Máy Gắp Thú: https://shorten.asia/Ksvpy43q  
+.
+🍒 5. Quà Tặng Shopee: Săn Combo Tiệc đổi 11K xu: https://shorten.asia/J2KWKKRc 
+
+🔥MÃ CỰC HOT 26.10 (9H, 12H, 18H back)🔥
 .
 🚛MIỄN PHÍ VẬN CHUYỂN:
 • 0H: Lưu mã giảm 15K/0Đ, 25K/100K tại: https://shorten.asia/QvQH5Z4f  (còn back vào 9H, 12H, 18H)
