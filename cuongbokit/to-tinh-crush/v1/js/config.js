@@ -41,7 +41,7 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     messLink: getMess(getMessLink) //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
-
+console.log(getMess(getMessLink))
 console.log(CONFIG)
 
 var music = getUrlParameter('music');
