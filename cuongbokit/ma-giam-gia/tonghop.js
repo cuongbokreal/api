@@ -1,6 +1,5 @@
 var api_mgg_content = `
 
-➖➖➖➖SHOPEE➖➖➖➖
 ❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 27/10 ❤️
 .
 🍒 1. Khám phá thị trấn Halloween (25/10 – 2/11): https://shorten.asia/GGpphHRJ  
@@ -20,6 +19,9 @@ var api_mgg_content = `
 .
 🍒 6. Nông Trại Shopee: Ngày hội bạn bè: https://shorten.asia/cbsg7kSS 
 
+➖➖➖➖SHOPEE➖➖➖➖
+📌 Lưu thêm FS 10k đơn 0Đ : https://shorten.asia/UTgsaxTG 
+Cập nhật thêm trong zalo: https://zalo.me/g/fqehfa279 
 
 <b>LAZADA</b>
 #LAZADA 0H SIÊU SALE CUỐI THÁNG
