@@ -66,7 +66,7 @@ function getMess(c){
     //if(c || typeof c !== undefined || c.length > 10){
     if(c.length > 10){
         return c
-    }else{return 'https://cuongbokit.blogspot.com/'}
+    }else{return 'https://cuongbokit.blogspot.com/2021/09/tao-web-to-tinh-crush-cuc-don-gian.html?utm_source=redirect_mine&utm_medium=to-tinh-v1'}
 }
 
 
