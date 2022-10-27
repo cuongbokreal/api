@@ -77,7 +77,20 @@ Các mã dưới còn lượt
 ◼️ Lưu sớm loạt mã ngày 11.11: https://shorten.asia/QvQH5Z4f     
 
 <b>LAZADA</b>
-📌  18H: Deal trợ giá vào link phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc ...:  https://shorten.asia/AM1N8HZ5 
+#LAZADA 0H 
+✡️  Siêu sale Canifa: https://shorten.asia/qU7UASSB 
+🚥Cuối tháng sale sốc: https://shorten.asia/1142z3Ff 
+.
+✡️  Mã Giảm Giá Lazada Toàn Sàn 8% 10% 30k + freeship: https://shorten.asia/fcTbURvu 
+🔴 Mã ngân hàng: https://shorten.asia/XUN1cjR3 
+💥ZALOPAY: https://shorten.asia/8pywTkg6 
+💥MOMO: https://shorten.asia/8zthRWub 
+🚥Trang voucher cộng đồng mã 25k/99k 50k/399k: https://shorten.asia/bK1dwVhC 
+.
+🔴 CÁC CHƯƠNG TRÌNH HOT
+🔸 Chơi game Lazzie Star nhận voucher Lazada toàn sàn, voucher tích lũy: https://shorten.asia/n1x7tU1N 
+🔸 Chơi game happy Match tích sao đổi voucher Lazada: https://shorten.asia/GSzz76N9 
+🔸 Hoàn tiền Max: https://shorten.asia/hq8dAKuf 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
