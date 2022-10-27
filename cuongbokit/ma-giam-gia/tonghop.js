@@ -1,6 +1,6 @@
 var api_mgg_content = `
 
-❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 27/10 ❤️
+❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 28/10 ❤️
 .
 🍒 1. Khám phá thị trấn Halloween (25/10 – 2/11): https://shorten.asia/GGpphHRJ  
 📚 CẨM NANG THỊ TRẤN:
