@@ -59,14 +59,23 @@ var api_mgg_content = `
 
 <b>LAZADA</b>
 ➖➖➖➖LAZADA➖➖➖➖
-🔥16H: MÃ ĐỜI SỐNG GIẢM 350K ĐƠN TỪ 1TR(mục “Tặng Homey”): canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/Zagtf45M 
+🔥 Ngày hội thương hiệu đa ngành hàng duy nhất ngày mai 31/10 trên Lazada.
 .
-🔥18H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc…”
-=> Xem chi tiết tại: https://shorten.asia/kxsMyUAN 
+❤️ Cơ hội cho mọi người mua sắm Hàng Xịn Deal Hời mà không cần chờ đợi:
 .
-🔥MÃ TOÀN SÀN, FREESHIP, MÃ KHÁC:
-=> Lưu mã tại: https://shorten.asia/T3mJ8H4U 
+👉 Với sự tham gia của Các thương hiệu LazMall lớn, uy tín từ rất nhiều ngành hàng khác nhau.
+👉 Giảm đến 50%
+👉 Voucher chất đỉnh x3 ưu đãi
+👉 Flashsale giá cực sốc
+.
+👉 Ghé xem chương trình để nhận nhiều Deal cực Xốc nhé cả nhà: https://shorten.asia/1ZDf1BTr 
+.
+👉 Tặng mã độc quyền từ Blog Giảm Giá mã giảm 20% tối đa 40K cho sản phẩm thương hiệu Anessa, L'Oreal Paris, Senka, CJ Innerb cho cả nhà chốt đơn nè: https://shorten.asia/gMhM4QqK 
+.
+👉 Tặng mã độc quyền từ Blog Giảm Giá từ các thương hiệu bên dưới (Các mã độc quyền bên dưới có thể áp cùng mã trên)
+.
+- Mã độc quyền của Trum Giảm Gia cho sản phẩm thương hiệu Anessa: https://shorten.asia/VHX6nhyw 
+- Mã độc quyền của Trum Giảm Gia cho sản phẩm thương hiệu CJ InnerB: https://shorten.asia/R8uSxarJ 
 
 
 <b>TIKI</b>
