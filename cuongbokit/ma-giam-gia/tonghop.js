@@ -1,23 +1,23 @@
 var api_mgg_content = `
 
-❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 30/10 ❤️
+🌸❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 02/11 ❤️
 .
-🍒 1. Khám phá thị trấn Halloween (25/10 – 2/11): https://shorten.asia/GGpphHRJ  
+🍒 1. Thử Thách Shopee + Thử Thách Shopee Mall:  https://shorten.asia/UWVxrdHP         
+.
+🍒 2. Nông trại Shopee: tưới chéo 50G: https://shorten.asia/pSmmaAeu 
+.
+🍒 3. Hộp Quà Thần Kỳ – LỌC TK: https://shorten.asia/NfVCgdS2                 
+.
+🍒 4. Shopee Máy Gắp Thú: https://shorten.asia/PwjRRWNB  
+.
+🍒 5. Vòng Quay Freeship: xu thưởng 11K,1.111K: https://shorten.asia/sx9KseHh 
+.
+🍒 6. Quà Tặng Shopee: 0H mở quà nhận 5K xu: https://shorten.asia/yg4dv382   
+
+🍒 8. Khám phá thị trấn Halloween (25/10 – 2/11): https://shorten.asia/qjGczuXd  
+.
 📚 CẨM NANG THỊ TRẤN:
-► Từ 19/10 đến 31/10: Tuần Lễ Thời Trang – Shopee Thú Cưng
 ► Từ 25/10 đến 02/11: Đại Náo Đập Kẹo nhận đến 100K xu – Shopee Đập Kẹo
-► Từ 26/10 đến 31/10: Săn Combo Tiệc đổi 11K xu – Quà Tặng Shopee 
-► Từ 30/10 đến 01/11: Đổi xu khủng 30K – Shopee Máy Gắp Thú
-.
-🍒 2. Thử Thách Shopee 0H: https://shorten.asia/57NXJeeJ           
-.
-🍒 3. Hộp Quà Thần Kỳ – LỌC TK: https://shorten.asia/SrP3eZWH                
-.
-🍒 4. Shopee Máy Gắp Thú: https://shorten.asia/Ksvpy43q   
-.
-🍒 5. Quà Tặng Shopee: Săn Combo Tiệc đổi 11K xu: https://shorten.asia/J2KWKKRc  
-.
-🍒 6. Nông Trại Shopee: Ngày hội bạn bè: https://shorten.asia/cbsg7kSS 
 
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
