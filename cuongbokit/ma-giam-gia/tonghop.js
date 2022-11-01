@@ -72,28 +72,28 @@ var api_mgg_content = `
 
 
 <b>LAZADA</b>
-➖➖➖➖LAZADA➖➖➖➖
-🔥12H: MÃ NGâN HÀNG: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/mQHHtS3R 
-.
-🔥12H: MÃ ZALOPAY + MOMO + VNPT: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/cJggkH4R 
-.
-🔥12H: MÃ FREESHIP GIẢM 20K ĐƠN TỪ 0Đ, 15K ĐƠN TỪ 99K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/g1qZ2XTy 
-.
-🔥12H: MÃ ĐỜI SỐNG GIẢM 350K ĐƠN TỪ 1TR(mục “Tặng Homey”): canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/Zagtf45M 
-.
-🔥12H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc…”
-=> Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
+🎉 Ưu đãi LAZADA 02.11:
 
+🔸 Sale đời sống nhà cửa (28.10 - 3.11): https://shorten.asia/Zagtf45M 
+► Canh back lượt mã giảm 350K/1 triệu cho ngành hàng nhà cửa đời sống
+🔸 LazFlash Max : https://shorten.asia/qDagTeUw 
+ ► Chương trình flash sale do Lazada trợ giá các sản phẩm bán chạy. Rất nhiều deal siêu tốt với mức trợ giá lên đến 200K. Áp dụng thêm các voucher khác nữa thì giá tốt nhất thị trường luôn
+🔸 Freeship Max: https://shorten.asia/g1qZ2XTy    
+► Giảm 15k đơn từ 29k cho mọi đơn hàng.
+► Giảm 50k đơn từ 300k.
+🔸 Hoàn tiền Max 6% tối đa 50K đơn từ 49K: https://shorten.asia/y3yA4p2Z     
+🔸Hoàn tiền Max 6% tối đa 300K đơn từ 49K cho LazMall: https://shorten.asia/y3yA4p2Z  
+🔸 VoucherMax Mua là giảm tối đa 20K, 30K đơn từ 69K: https://shorten.asia/5BdAgw7r     
+🔸 Lưu Voucher từ các đối tác thanh toán ngân hàng: https://shorten.asia/mQHHtS3R      
+🔸 Lưu mã zalopay: https://shorten.asia/J9jrGECs     
+🔸 Lưu mã momo: https://shorten.asia/hgvhP2NF    
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
 ► Lưu thêm các voucher từ shop bán tại banner.
-🔥Chốt đơn săn Mercedes: https://shorten.asia/qb4pV7WZ 
-🔥12H Flash sale: https://shorten.asia/pKN8xGHC 
+🎉 Ưu đãi TIKI 02.11:
+🔥Bí kíp săn sale 11.11: https://shorten.asia/yTXgx1Hb 
+🔥0H Flash sale: https://shorten.asia/pKN8xGHC 
 🔥Hot deal Freeship: https://shorten.asia/yt3geKFX 
 🔥Super Fashion day: https://shorten.asia/1Mg3t1pk 
 🔥Voucher Moca giảm 1 triệu: https://shorten.asia/xxCZvB6F 
@@ -105,11 +105,12 @@ var api_mgg_content = `
 • Giảm đến 50%
 • Mua 2 giảm 20%
 => Chi tiết tại: https://shorten.asia/znBjs7Qr 
+🔥TFNOVM3 Giảm 3% cho đơn từ 599K (Tefal): https://shorten.asia/f2QXMMry 
 🔥Từ Biti's Freeship: https://shorten.asia/Znha4rRu 
 🔥Từ Pepsico giảm 25k: https://shorten.asia/vshWUt8h
 🔥Từ Wilmar giảm 50k: https://shorten.asia/RJ1m8rTZ
 🔥Từ VNGO giảm 10k: https://shorten.asia/CRktpGjW 
-🔥Từ SOBIE giảm 5%: https://shorten.asia/GuGrjKd2
+🔥Từ SOBIE giảm 5%: https://shorten.asia/GuGrjKd2 
 `
 
 document.getElementById('tonghop').innerHTML = api_mgg_content.replaceAll('\n', '<br/>');
