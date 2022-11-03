@@ -117,19 +117,45 @@ var api_mgg_content = `
 🔥THỬ THÁCH SHOPEE, SHOPEEMALL: https://shorten.asia/UWVxrdHP 
 
 <b>LAZADA</b>
-🔥12H: MÃ NGâN HÀNG: 
+🔥MÃ TOÀN SÀN - LƯU BANNER: đúng giờ load trang lưu mã
+• 0H: Mã giảm 40K đơn từ 200K. Lưu mã tại: https://shorten.asia/XCWvGTYg 
+• 0H: Mã giảm 30K đơn từ 150K. Lưu mã tại: https://shorten.asia/Q3jdNUN5 
+• 0H: Mã giảm 30K đơn từ 101K. Lưu mã tại: https://shorten.asia/QFdmzUp6 
+• 12H: Mã giảm 40K đơn từ 200K. Lưu mã tại: https://shorten.asia/6tvj94Sm 
+• 20H: Mã giảm 100K đơn từ 1tr5, 50K đơn từ 500K. Lưu mã tại: https://shorten.asia/uwTUg3tu 
+.
+🔥VOUCHER TÍCH LŨY GIẢM ĐẾN 800K: mở thu thập từ 0H ngày 04/11 cho ngày 11/11 dùng
+• 0H: Thập thập voucher tích lũy hàng ngày tại: https://shorten.asia/uwTUg3tu 
+• 0H: Thu thập thêm voucher tích lũy dưới sản phẩm hàng ngày tại: https://shorten.asia/GK8gcDVJ 
+• 0H: Làm nhiệm vụ thu thập thêm voucher tích luỹ hàng ngày tại: https://shorten.asia/TPmdvGNH 
+=> Giảm ngay 15K cho mỗi 150K, giảm ngay 50K cho mỗi 650K
+.
+🔥0H, 9H, 12H, 20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc…”
+=> Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
+.
+🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K: chọn mục “SĂN VOUCHER TẠI ĐâY” ở góc phải màn hình
+=> Lưu mã tại: https://shorten.asia/MTpSEUPV 
+.
+🔥0H, 9H, 12H, 16H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K: 
+=> Lưu mã tại: https://shorten.asia/d92tNffX 
+.
+🔥9H, 12H: MÃ NGâN HÀNG: load trang liên tục - có thể lên sớm hoặc muộn hơn
 => Lưu mã tại: https://shorten.asia/mQHHtS3R 
 .
-🔥12H, 16H: MÃ ĐỜI SỐNG GIẢM 350K ĐƠN TỪ 1TR, 150K ĐƠN TỪ 450K canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/Zagtf45M 
-.
-🔥12H, 20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc…”
-=> Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
+🔥9H: MÃ ZALOPAY + MOMO + VNPT: canh back - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://shorten.asia/uwTUg3tu 
 .
 🔥MÃ TOÀN SÀN, FREESHIP, MÃ KHÁC:
 => Lưu mã tại: https://shorten.asia/T3mJ8H4U 
 .
-🔥Sản phẩm dùng thử giá 9K, x9K: https://shorten.asia/sFyCKxv4 
+🔥Ưu đãi đặt cọc trước từ 25/10 đến 10/11: https://shorten.asia/YyQKnGDP 
+.
+🔥Sản phẩm dùng thử giá 0Đ, 9K, x9K: https://shorten.asia/sFyCKxv4 
+.
+🔥0H: Lên mã đổi xu: https://shorten.asia/sFyCKxv4 
+.
+🔥0H: Lên mã đổi sao: https://shorten.asia/qj3EpFGv 
+
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
