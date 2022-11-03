@@ -1,23 +1,22 @@
 var api_mgg_content = `
 
-🌸❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 02/11 ❤️
+❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 04/11 ❤️
 .
-🍒 1. Thử Thách Shopee + Thử Thách Shopee Mall:  https://shorten.asia/UWVxrdHP         
+🍒 1. Thử Thách Shopee + Thử Thách Shopee Mall: https://shorten.asia/UWVxrdHP             
 .
-🍒 2. Nông trại Shopee: tưới chéo 50G: https://shorten.asia/pSmmaAeu 
+🍒 2. Đại Chiến Phá Đảo - Kho xu 32 triệu: https://shorten.asia/SgFr83MK     
 .
-🍒 3. Hộp Quà Thần Kỳ – LỌC TK: https://shorten.asia/NfVCgdS2                 
+🍒 2. Nông trại Shopee: tưới chéo 50G: https://shorten.asia/pSmmaAeu  
 .
-🍒 4. Shopee Máy Gắp Thú: https://shorten.asia/PwjRRWNB  
+🍒 3. Hộp Quà Thần Kỳ – LỌC TK: https://shorten.asia/NfVCgdS2                  
 .
-🍒 5. Vòng Quay Freeship: xu thưởng 11K,1.111K: https://shorten.asia/sx9KseHh 
+🍒 4. Shopee Máy Gắp Thú: https://shorten.asia/PwjRRWNB     
 .
-🍒 6. Quà Tặng Shopee: 0H mở quà nhận 5K xu: https://shorten.asia/yg4dv382   
-
-🍒 8. Khám phá thị trấn Halloween (25/10 – 2/11): https://shorten.asia/qjGczuXd  
+🍒 5. Vòng Quay Freeship: xu thưởng 11K,1.111K: https://shorten.asia/xkkwTVza  
 .
-📚 CẨM NANG THỊ TRẤN:
-► Từ 25/10 đến 02/11: Đại Náo Đập Kẹo nhận đến 100K xu – Shopee Đập Kẹo
+🍒 6. Quà Tặng Shopee: 0H mở quà nhận 5K xu: https://shorten.asia/sx9KseHh   
+.
+🍒 7. Shopee Số Gì Đây: Chọn số nhận 1K – 5K xu: https://shorten.asia/yg4dv382 
 
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
