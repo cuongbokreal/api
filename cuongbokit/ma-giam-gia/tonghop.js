@@ -4,19 +4,17 @@ var api_mgg_content = `
 .
 🍒 1. Thử Thách Shopee + Thử Thách Shopee Mall: https://shorten.asia/UWVxrdHP             
 .
-🍒 2. Đại Chiến Phá Đảo - Kho xu 32 triệu: https://shorten.asia/SgFr83MK     
+🍒 2. Vòng Quay Freeship: xu thưởng 10K - 1.111K: https://shorten.asia/xkkwTVza   
 .
-🍒 2. Nông trại Shopee: tưới chéo 50G: https://shorten.asia/pSmmaAeu  
+🍒 3. Nông trại Shopee - trồng cây săn 11K xu: https://shorten.asia/pSmmaAeu  
 .
-🍒 3. Hộp Quà Thần Kỳ – LỌC TK: https://shorten.asia/NfVCgdS2                  
+🍒 4. Hộp Quà Thần Kỳ – LỌC TK: https://shorten.asia/NfVCgdS2                  
 .
-🍒 4. Shopee Máy Gắp Thú: https://shorten.asia/PwjRRWNB     
+🍒 5. Shopee Máy Gắp Thú - Săn xu bí ẩn 11K - 111K: https://shorten.asia/PwjRRWNB     
 .
-🍒 5. Vòng Quay Freeship: xu thưởng 11K,1.111K: https://shorten.asia/xkkwTVza  
+🍒 6. Quà Tặng Shopee - mở quà nhận 11K xu: https://shorten.asia/sx9KseHh   
 .
-🍒 6. Quà Tặng Shopee: 0H mở quà nhận 5K xu: https://shorten.asia/sx9KseHh   
-.
-🍒 7. Shopee Số Gì Đây: Chọn số nhận 1K – 5K xu: https://shorten.asia/yg4dv382 
+🍒 7. Shopee Số Gì Đây - 0H chọn số nhận 11K xu: https://shorten.asia/yg4dv382 
 
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
