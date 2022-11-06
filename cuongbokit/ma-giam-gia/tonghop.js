@@ -1,6 +1,6 @@
 var api_mgg_content = `
 
-❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 06/11 ❤️
+❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 07/11 ❤️
 .
 🍒 1. Thử Thách Shopee + Thử Thách Shopee Mall: https://shorten.asia/UWVxrdHP             
 .
@@ -138,7 +138,7 @@ var api_mgg_content = `
 🔥MUA GÓI SVC 30K: https://shorten.asia/Zyh1e3vj 
 
 <b>LAZADA</b>
-MÃ TOÀN SÀN - LƯU BANNER: đúng giờ load trang lưu mã
+🔥MÃ TOÀN SÀN - LƯU BANNER: đúng giờ load trang lưu mã
 • 0H: Mã giảm 40K đơn từ 200K. Lưu mã tại: https://shorten.asia/XCWvGTYg 
 • 0H: Mã giảm 30K đơn từ 150K. Lưu mã tại: https://shorten.asia/Q3jdNUN5 
 • 0H: Mã giảm 30K đơn từ 150K. Lưu mã tại: https://shorten.asia/6192YUU9 
@@ -155,22 +155,23 @@ MÃ TOÀN SÀN - LƯU BANNER: đúng giờ load trang lưu mã
 • Làm nhiệm vụ thu thập thêm voucher tích luỹ hàng ngày tại: https://shorten.asia/TPmdvGNH 
 => Giảm ngay 15K cho mỗi 150K, giảm ngay 50K cho mỗi 650K
 .
-🔥0H, 9H, 12H, 20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy”
-=> Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
-.
-🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K: chọn mục “SĂN VOUCHER TẠI ĐâY” ở góc phải màn hình
+🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K: chọn “SĂN VOUCHER TẠI ĐâY” ở góc phải màn hình(lưu ý mã này đã mở lưu sớm từ 2 hôm trước và hết lượt lưu rồi nhé, nếu back lại ad sẽ báo lên nhóm zalo, tele)
 => Lưu mã tại: https://shorten.asia/MTpSEUPV 
+.
+🔥0H: MÃ VNPT GIẢM 10K ĐƠN TỪ 99K: 
+=> Lưu mã tại: https://shorten.asia/uwTUg3tu 
+.
+🔥0H, 9H, 12H, 20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: mục “LazFlash Crazy”
+=> Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
 .
 🔥9H, 12H: MÃ NGâN HÀNG: load trang liên tục - có thể lên sớm hoặc muộn hơn
 => Lưu mã tại: https://shorten.asia/mQHHtS3R 
 .
-🔥9H: MÃ ZALOPAY + MOMO: canh back - có thể lên sớm hoặc muộn hơn
+🔥9H: MÃ ZALOPAY + MOMO + VNPT: canh back - có thể lên sớm hoặc muộn hơn
 => Lưu mã tại: https://shorten.asia/uwTUg3tu 
 .
 🔥MÃ TOÀN SÀN, FREESHIP, MÃ KHÁC:
 => Lưu mã tại: https://shorten.asia/T3mJ8H4U 
-.
-🔥MINIGAME TẶNG SON M.A.C: https://shorten.asia/T3mJ8H4U 
 .
 🔥Ưu đãi đặt cọc trước từ 25/10 đến 10/11: https://shorten.asia/YyQKnGDP 
 .
@@ -179,10 +180,6 @@ MÃ TOÀN SÀN - LƯU BANNER: đúng giờ load trang lưu mã
 🔥Lưu sớm mã Adidas giảm 20%: https://shorten.asia/SZyzDzGF 
 .
 🔥0H: Lên mã đổi xu: https://shorten.asia/SZyzDzGF 
-.
-🔥0H: Lên mã đổi sao: https://shorten.asia/SZyzDzGF
-
-
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
