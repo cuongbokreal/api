@@ -1,20 +1,20 @@
 var api_mgg_content = `
 
-❤️ CÁC SỰ KIỆN GAME SHOPEE❤️
+❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 10/11 ❤️
 .
-🍒 1. Thử Thách Shopee + Thử Thách Shopee Mall: https://shorten.asia/UWVxrdHP             
+🍒 1. Chiếc Phao Bí Mật - Voucher 500K, 100K, chia kho xu 1.5tr: https://shorten.asia/T5SByNky     
 .
-🍒 2. Vòng Quay Freeship: xu thưởng 10K - 1.111K: https://shorten.asia/xkkwTVza   
+🍒 2. Thử Thách Shopee + Thử Thách Shopee Mall: https://shorten.asia/matYfAEq           
 .
-🍒 3. Nông trại Shopee - trồng cây săn 11K xu: https://shorten.asia/pSmmaAeu  
+🍒 3. Quà Tặng Shopee: Truy Tìm Nhẫn Vàng đổi 3K xu (có thể xả voucher thương hiệu): https://shorten.asia/Ymja81mu   
 .
-🍒 4. Hộp Quà Thần Kỳ – LỌC TK: https://shorten.asia/NfVCgdS2                  
+🍒 4. Hộp Quà Thần Kỳ – LỌC TK: https://shorten.asia/GGrF3KsG                  
 .
-🍒 5. Shopee Máy Gắp Thú - Săn xu bí ẩn 11K - 111K: https://shorten.asia/PwjRRWNB     
+🍒 5. Vòng Quay Freeship: https://shorten.asia/pd67vQyE         
 .
-🍒 6. Quà Tặng Shopee - mở quà nhận 11K xu: https://shorten.asia/sx9KseHh   
+🍒 6. Shopee Máy Gắp Thú: https://shorten.asia/ZrTp4TtW        
 .
-🍒 7. Shopee Số Gì Đây - 0H chọn số nhận 11K xu: https://shorten.asia/yg4dv382 
+🍒 7. Chuỗi sự kiện: TRIỆU PHÚ SHOPEE: https://shorten.asia/7cY8A2az 
 
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
@@ -204,30 +204,39 @@ var api_mgg_content = `
 • 12H: Mã giảm 50K đơn từ 399K. Lưu mã tại: https://shorten.asia/dvZWDYPu 
 • 12H: Mã giảm 60K đơn từ 800K, 20K đơn từ 350K. Lưu mã tại: https://shorten.asia/uwTUg3tu  (mã back, lưu sớm cho 11/11)
 • 20H: Mã giảm 25K đơn từ 99K. Lưu mã tại: https://shorten.asia/jgx9NMqj 
+• 15H, 20H: Mã giảm 100K đơn từ 1500K. Lưu mã tại: https://shorten.asia/uwTUg3tu  (mã back, lưu sớm cho 11/11)
+.
+🔥0H, 9H, 12H, 20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: mục “LazFlash Crazy”
+=> Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
+.
+🔥0H, 9H, 12H, 16H, 20H: MÃ HOÀN TIỀN MAX 10%, 12%: canh back - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://shorten.asia/y3yA4p2Z 
+.
+🔥9H, 12H: MÃ NGâN HÀNG: load trang liên tục - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://shorten.asia/mQHHtS3R 
+.
+🔥9H: MÃ ZALOPAY GIẢM 10K, 30K + MOMO + VNPT GIẢM 10K: canh back - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://shorten.asia/uwTUg3tu 
+.
+🔥10H-22H: SIÊU HỘI CHÉM GIÁ: 
+• Săn deal độc quyền 1K-11K-111K, giảm đến 50%
+• Mã Freeship 0Đ, toàn sàn 
+=> Xem live tại: https://shorten.asia/44byuGfD 
+.
+🔥20H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K: 
+=> Lưu sớm mã tại: https://shorten.asia/TC4mV7Fm 
+.
+🔥MÃ TOÀN SÀN, FREESHIP, MÃ KHÁC:
+=> Lưu mã tại: https://shorten.asia/uwTUg3tu 
+.
+🔥GAME SĂN MÃ GIẢM 2 TRIỆU TOÀN SÀN: https://shorten.asia/5BT3nSw6 
+=> Xem chi tiết thể lệ tại: https://shorten.asia/mXWgENTH 
 .
 🔥VOUCHER TÍCH LŨY GIẢM ĐẾN 800K: cho ngày 11/11 dùng
 • Thập thập voucher tích lũy hàng ngày tại: https://shorten.asia/uwTUg3tu 
 • Thu thập thêm voucher tích lũy dưới sản phẩm hàng ngày tại: https://shorten.asia/GK8gcDVJ 
 • Làm nhiệm vụ thu thập thêm voucher tích luỹ hàng ngày tại: https://shorten.asia/TPmdvGNH 
 => Giảm ngay 15K cho mỗi 150K, giảm ngay 50K cho mỗi 650K
-.
-🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K: chọn “SĂN VOUCHER TẠI ĐâY” ở góc phải màn hình
-=> Lưu mã tại: https://shorten.asia/MTpSEUPV 
-.
-🔥0H, 9H, 12H, 20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: mục “LazFlash Crazy”
-=> Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
-.
-🔥9H, 12H: MÃ NGâN HÀNG: load trang liên tục - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/mQHHtS3R 
-.
-🔥9H: MÃ ZALOPAY + MOMO + VNPT: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/uwTUg3tu 
-.
-🔥9H, 12H, 16H: MÃ HOÀN TIỀN MAX 10%: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/y3yA4p2Z 
-.
-🔥MÃ TOÀN SÀN GIẢM 100K/1500K, FREESHIP, MÃ KHÁC:
-=> Lưu mã tại: https://shorten.asia/uwTUg3tu 
 .
 🔥Ưu đãi đặt cọc trước từ 25/10 đến 10/11: https://shorten.asia/YyQKnGDP 
 .
