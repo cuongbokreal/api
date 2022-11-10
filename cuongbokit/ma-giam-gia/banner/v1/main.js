@@ -3,7 +3,7 @@
     data: [],
     container: {
       'max-width': '100%',
-      height: `250px`,
+      height: `220px`,
       'max-height': '450px'
     },
     captionFontCSS: {"font-size": "25px" },
