@@ -1,6 +1,4 @@
 var content_dday = `
-GỬI SỚM MÃ SHOPEE SIÊU SALE 11/11
-.
 🚛 MIỄN PHÍ VẬN CHUYỂN: Làm mới 22 lượt dùng FS
 📌 Mã săn khung giờ:
 ► 0H: Lên 5 mã FS 0đ, Extra + lọc sp 25K/50K
@@ -88,7 +86,7 @@ GỬI SỚM MÃ SHOPEE SIÊU SALE 11/11
 ► Lên mã giảm 50% tối đa 100K/150K áp thương hiệu Unilever, Pampers, Maybeline, Inissfree, L'Oreal,...
 => Xem live tại trang ( chọn mục "Live" ): https://shorten.asia/9wvYde4u 
 => Hoặc link live này: https://shorten.asia/d4rW2krG 
-
+.
 📌 Shop live: lọc sp live
 ► 0H, 9H, 12H, 15H, 18H, 20H: Lên mã giảm 25K/50K, 50K/100K + mã FS giảm 99K/25K
 => Vào chọn mục "Live": https://shorten.asia/713vJmXX 
@@ -166,6 +164,70 @@ GỬI SỚM MÃ SHOPEE SIÊU SALE 11/11
 .
 📌 Deal 11K kèm mã shop:
 ► 0H: Tớ bổ sung sau: https://shorten.asia/acD2NQZB 
+.
+🔥 BANNER NGÀNH TIÊU DÙNG: https://shorten.asia/aKyQ6sg6 
+► 1111EBVFMCG100K hoàn 10% tối đa 100K đơn 500K
+► FMCGHOT giảm 10% tối đa 90k đơn từ 600k
+► FMCG100K giảm 100k đơn từ 1tr
+► COSLUX11 giảm 120k đơn từ 1500k
+► COSLUX11A giảm 150k đơn từ 1500k
+► COSLUX11B giảm 10% tối đa 300k đơn từ 2tr
+► FMCGMEXMKB11 hoàn 50K đơn từ 499K
+► FMCGMEXTK11 hoàn 15% tối đa 30k đơn từ 99k
+► Săn deal đồng giá 1K, 9K
+► Lưu voucher từ các thương hiệu, shop bán
+► Ưu đãi mua 1 tặng 1, quà tặng ngập tràn
+.
+📌 Sức Khỏe Sắc Đẹp: https://shorten.asia/x7f3exKJ 
+► COSBEAUTY25K11 hoàn 25K đơn từ 250K
+► COSSBC50K11 giảm 10% tối đa 50k đơn từ 499k
+► COSSBC100K11 giảm 10% tối đa 100k đơn từ 99k
+► Voucher ưu đãi từ các shop bán.
+► Deal đồng giá 1k, x9k, quà tặng 0đ
+.
+🎲 BANNER NGÀNH QUỐC TẾ: https://shorten.asia/uWKrJ37P 
+► 1111EBVCB25K hoàn 25K đơn 150K
+.
+📌 Quốc tế Hàn: https://shorten.asia/MGyK6kDJ 
+► 0H: KOREA0H giảm 50% tối đa 100K đơn 150K cho list sp: https://shorten.asia/nRqpC6Ms 
+► 0H: Săn deal đồng giá 59K mỹ phẩm Hàn
+.
+🔥 BANNER NGÀNH ĐỜI SỐNG: https://shorten.asia/gGkfPPHB 
+► 1111EBVLS25K hoàn 25K đơn 150K
+► LIFE1111A giảm 10% tối đa 10K đơn 50K
+► LIFE1111B giảm 8% tối đa 100K đơn 300K
+► BMINC50 giảm 10% tối đa 50k đơn từ 99k
+► BMLTA50 giảm 10% tối đa 50k đơn từ 99k
+► LIFESBC11 giảm 10% tối đa 15K đơn từ 20K
+► LIFESBCWG11 giảm 15% tối đa 20K đơn 0đ
+► 0H, 12H: săn deal đồng giá 1K, 9K
+► 1H, 9H, 12H, 18H, 22H: Săn mã giảm 40K/0đ, 70K/300K, 100K/500K, 200K/1tr, 500K/2tr: https://shorten.asia/gGkfPPHB 
+► Tặng mã giảm 10%, 12% tối đa 100K, 50K đã có trong kho voucher: https://shorten.asia/EpqZ7kaK 
+.
+📌 Thương hiệu Đời sống: https://shorten.asia/3GHRg5QH 
+► Voucher ưu đãi từ shop bán, deal x9k
+.
+📌 Ưu đãi HomeClub: https://shorten.asia/rcZdxMgR 
+► LIFESHC11WG giảm 20K đơn từ 20K
+► Lưu thêm mã Freeship 15K, 50K cho HomeClub
+► Săn sale đồng giá 1k, x9k
+.
+🔥 SHOP XU HƯỚNG: https://shorten.asia/WsF6RvZD 
+► 0H: List mã shop giảm 100K/0đ, 25K/0đ
+► 8H: Làm mới list mã shop giảm 111K/0đ
+► 12H: Làm mới list mã shop giảm 99K/0đ
+► 15H: Làm mới list mã shop giảm 50K/0đ
+► INCU300 giảm 10% tối đa 300K đơn từ 499K
+.
+🔥 HÀNG HIỆU GIÁ TỐT: https://shorten.asia/eFtAhY2v 
+► BATREND30K1111 giảm 8% tối đa 30K đơn từ 180K
+► BMLTM50 giảm 10% tối đa 50K đơn từ 99K
+► BMINC50 giảm 10% tối đa 50K đơn từ 99K
+► BMLTA50 giảm 10% tối đa 50K đơn từ 99K
+► BMLTM300 giảm 10% tối đa 300K đơn từ 499K
+► BMLT300 giảm 10% tối đa 300K đơn từ 499K
+► Voucher, ưu đãi từ các thương hiệu
+
 `
 
 var updateTime = new Date(); //updateTime
