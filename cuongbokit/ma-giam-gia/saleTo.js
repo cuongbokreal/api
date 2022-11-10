@@ -89,6 +89,84 @@ GỬI SỚM MÃ SHOPEE SIÊU SALE 11/11
 => Xem live tại trang ( chọn mục "Live" ): https://shorten.asia/9wvYde4u 
 => Hoặc link live này: https://shorten.asia/d4rW2krG 
 
+> Tất tần tận mã giảm giá Shopee:
+📌 Shop live: lọc sp live
+► 0H, 9H, 12H, 15H, 18H, 20H: Lên mã giảm 25K/50K, 50K/100K + mã FS giảm 99K/25K
+=> Vào chọn mục "Live": https://shorten.asia/713vJmXX 
+.
+🔥 MỘT SỐ MÃ KHÁC:
+📌 0H - Lưu mã Hóa đơn điện - nước giảm 50% tđ 111K ( có thể lên mã ): https://shorten.asia/P17SHZpw 
+.
+📌 Áp Hoàn xu Extra: 
+► 1111EBVHOAN70K hoàn 10% tối đa 70K đơn 500K cho list sp: https://shorten.asia/AVTau1da 
+► 1111EBVHOAN15K hoàn 15% tối đa 15K đơn 99K cho list sp: https://shorten.asia/AVTau1da 
+► 1111EBVMALL50K hoàn 10% tối đa 50K đơn 250K cho list sp: https://shorten.asia/AVTau1da 
+.
+📌 Voucher lưu sớm sale 11.11:
+► Lưu trước mã toàn sàn giảm 111K/111K, 30K/150K, 50K/300K: https://shorten.asia/EambK3fX 
+► Lưu sớm tùm lum mã toàn sàn, ngành hàng, FS 0đ giảm đến 1tr2: https://shorten.asia/Y5rSnJHe 
+► Voucher bao la: https://shorten.asia/H4pN9Mck 
+► Lưu trước 12 mã giảm 30k/99K - kéo xuống bên dưới xem tên mã: https://shorten.asia/T5SByNky 
+.
+🔥 LIST MÃ LỌC SP:
+📌 Shop mới lên sàn:
+► SRNOV11 giảm 50% tối đa 20K đơn 0đ cho list sp: https://shorten.asia/DXFexTsx 
+► SRNOV11B hoàn 20K đơn 50K cho list sp: https://shorten.asia/Qupaxv1T 
+► 9H, 12H: Canh back lượt, lưu + dùng mã giảm 20K/50K, 15K/0đ: https://shorten.asia/ev38FkVA 
+► 9H, 12H: SROCT0131 giảm 20K đơn từ 0đ ( back lượt ) cho list sp: https://shorten.asia/EHXmhMuR 
+.
+📌 Áp lọc sp:
+► AFFVOTDI giảm 15% tối đa 30K đơn 99K cho list sp: https://shorten.asia/murTrt1q 
+► AFF11PKDR giảm 25K đơn 99K cho list sp: https://shorten.asia/Jr8HU5K1 
+► AFF11PKCB hoàn 20% tối đa 25K đơn 99K cho list sp: https://shorten.asia/WpCBmn8A 
+► AFFCBTOI15 hoàn 15K đơn 99K cho list sp:  https://shorten.asia/zvtjFcke 
+► AFF11VE / AFF11SO / AFF11NHA / AFFTAN15K giảm 15k đơn 99K cho list sp: https://shorten.asia/M3BweMVj 
+► 1011SHOPEETV2 giảm 9K đơn 50K
+► Cập nhật thêm sau...
+.
+📌 Ngành Điện tử: Lưu + dùng mã giảm 15K, 20K đơn 0đ còn lượt: https://shorten.asia/JKcEr1eM 
+.
+🔥 LIST DEAL ĐỒNG GIÁ:
+► 0H: Thời trang - list deal đồng giá 1K, 9K: https://shorten.asia/jnvcjEXv 
+► 9H, 12H, 15H, 18H, 21H: Thời trang - làm mới list deal đồng giá 1K: https://shorten.asia/acD2NQZB 
+.
+► 0H: Đời sống - list deal đồng giá 1K: https://shorten.asia/KGMvx621 
+► 0H: Đời sống - list deal đồng giá 9K: https://shorten.asia/dNEaA2yF 
+► 12H: Đời sống - làm mới list deal đồng giá 1K, 9K: https://shorten.asia/gGkfPPHB 
+.
+► 0H: Shop mới - list 1 deal đồng giá 1K: https://shorten.asia/BHy9nWsw 
+► 0H: Shop mới - list 2 deal đồng giá 1K: https://shorten.asia/82nRVjUE 
+► 0H: Shop mới - list 1 deal đồng giá 9K: https://shorten.asia/VyyjFNcJ 
+► 12H, 21H: Shop mới - làm mới list deal đồng giá 1K: https://shorten.asia/ev38FkVA 
+.
+► 0H: Shop xu hướng - list deal đồng giá 1K: https://shorten.asia/zsZe7mQa 
+► 0H: Shop xu hướng - list deal đồng giá 11K: https://shorten.asia/zvEAaDZg 
+.
+🔥 BANNER NGÀNH CÔNG NGHỆ: https://shorten.asia/kAg1ctVv 
+► 1111EBVEL1000K hoàn 6% tối đa 1tr đơn 3tr
+► Lưu trước mã giảm 1tr5, 1tr, 500K,...
+► Săn deal hot công nghệ các khung giờ.
+.
+📌 Công Nghệ Mall: https://shorten.asia/kAg1ctVv 
+► ELRE1TR5 giảm 8% tối đa 1500k đơn từ 5000k
+► ELMALL5 giảm 5% tối đa 500k đơn từ 300k
+► ELRE500 giảm 10% tối đa 500k đơn từ 500k
+► Săn deal hot công nghệ các khung giờ.
+.
+🎲 BANNER NGÀNH THỜI TRANG: https://shorten.asia/acD2NQZB 
+► 1111EBVFA25K hoàn 25K đơn 150K
+► Lưu voucher từ các thương hiệu, shop bán hàng
+► Săn voucher 222K, 440k shop Mall các khung giờ
+► 0H, 9H, 12H, 15H, 18H, 21H: Săn list deal đồng giá 1K, 9K
+.
+📌 Mã shop Mall: mã shop
+► 0H18s: PIXI222K1 giảm 222K đơn 600K cho shop Pixie VN: https://shorten.asia/QQMUmzyp 
+► 0H: NEWS222K  giảm 222K đơn 0đ cho shop NEWSEVEN: https://shorten.asia/CKXgMSzm 
+► 0H: ANNA222K giảm 222K đơn 0đ cho shop Kính Mắt Anna: https://shorten.asia/KXM1saYn 
+► 0H: LATA222K giảm 222K đơn 600K cho shop Latashop: https://shorten.asia/hDfwG1Uq 
+.
+📌 Deal 11K kèm mã shop:
+► 0H: Tớ bổ sung sau: https://shorten.asia/acD2NQZB 
 `
 
 var updateTime = new Date(); //updateTime
