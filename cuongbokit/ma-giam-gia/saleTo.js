@@ -89,7 +89,6 @@ GỬI SỚM MÃ SHOPEE SIÊU SALE 11/11
 => Xem live tại trang ( chọn mục "Live" ): https://shorten.asia/9wvYde4u 
 => Hoặc link live này: https://shorten.asia/d4rW2krG 
 
-> Tất tần tận mã giảm giá Shopee:
 📌 Shop live: lọc sp live
 ► 0H, 9H, 12H, 15H, 18H, 20H: Lên mã giảm 25K/50K, 50K/100K + mã FS giảm 99K/25K
 => Vào chọn mục "Live": https://shorten.asia/713vJmXX 
