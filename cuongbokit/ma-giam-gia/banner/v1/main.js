@@ -18,7 +18,7 @@
       data = JSON.parse(data.value);
       console.log(data);
       Object.keys(data).forEach(key => {
-        obj.data.push({"caption": data[key].title,"src":data[key].src,"link":`${deeplink}?url=${data[key].url}`,
+        obj.data.push({"caption": data[key].title,"src":data[key].src,"link":`${deeplink}?url=${encodeURIComponent(data[key].url)}&utm_source=cbi&utm_medium=/p/ma-giam-gia.html_banner`,
                       })
         console.log(obj.data)
       })
