@@ -76,47 +76,14 @@ TỔNG HỢP MÃ SHOPEE TỪ 18H - 20H NGÀY 11/11:
 
 <b>LAZADA</b>
 ➖➖➖➖LAZADA➖➖➖➖
-🔥MÃ TOÀN SÀN - LƯU BANNER: 
-• 12H: Mã giảm 30K/400K, 50K/500K, 60K/800K, 100K/1500K. Lưu mã tại: https://shorten.asia/uwTUg3tu 
-• 12H: Mã giảm 30K đơn từ 99K. Lưu mã tại: https://shorten.asia/6tvj94Sm 
-• 12H: Mã giảm 50K đơn từ 399K. Lưu mã tại: https://shorten.asia/dvZWDYPu 
+🔥18H: MÃ TOÀN SÀN GIẢM 100K ĐƠN TỪ 1500K:
+=> Lưu mã tại: https://shorten.asia/uwTUg3tu 
 .
-🔥12H: MÃ ZALOPAY GIẢM 10K/59K, 30K/199K, 50K/499K + MOMO GIẢM 10K/149K, 20K/299K, 50K/999K + VNPT GIẢM 10K/99K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/cJggkH4R  
-.
-🔥12H: MÃ NGâN HÀNG: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/mQHHtS3R 
-.
-🔥12H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy”
-=> Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
-.
-🔥12H: MÃ LAZMALL GIẢM 45K/400K, 100K/1500K: mục “Độc Quyền” - có thể back
-=> Lưu mã tại: https://shorten.asia/TC4mV7Fm 
-.
-🔥12H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 500K ĐƠN TỪ 999K: 
-=> Lưu mã tại: https://shorten.asia/y3yA4p2Z 
-.
-🔥12H: MÃ GIẢM 111K, 20% + DEAL 1K, 11K, X9K TỪ CÁC THƯƠNG HIỆU:
-=> Link lưu mã 1 - Bách hóa: https://shorten.asia/d25vEhDX 
-=> Link lưu mã 2 - Mẹ bé: https://shorten.asia/s3NJGjWK 
-=> Link lưu mã 3 - Làm đẹp: https://shorten.asia/UxHe54fw 
-=> Link lưu mã 4 - Sức khỏe: https://shorten.asia/GM94tV7V 
-=> Link lưu mã 5 - Chăm sóc gia đình: https://shorten.asia/gHgyhshd  
-.
-🔥12H: SĂN DEAL ĐỒNG GIÁ 11K + 20H: MÃ GIẢM 30% TỪ CÁC THƯƠNG HIỆU THỜI TRANG:
-=> Link lưu mã 1 - Thời trang nữ: https://shorten.asia/CQXGs221 
-=> Link lưu mã 2 - Túi balo, phụ kiện: https://shorten.asia/sFDWHVYt 
-=> Link lưu mã 3 - Thời trang nam: https://shorten.asia/dMWgkG1t 
-=> Link lưu mã 4 - Thể thao, dã ngoại: https://shorten.asia/82Ba6fnn 
-.
-🔥12H: MÃ GIẢM 20%, 30%, X11K + DEAL 11K TỪ CÁC THƯƠNG HIỆU:
-=> Link lưu mã 1 - Nấu ăn & dọn dẹp: https://shorten.asia/7RZnSujZ 
-=> Link lưu mã 2 - Sửa chữa nhà cửa: https://shorten.asia/t8VbTxwR 
-=> Link lưu mã 3 - Sở thích, thể thao & học tập: https://shorten.asia/SneK5pwQ 
-=> Link lưu mã 4 - Dệt may & trang trí: https://shorten.asia/nDrJZr1p 
-=> Link lưu mã 5 - Xe máy, ô tô, xe đạp: https://shorten.asia/BSHBVxcE 
-=> Link lưu mã 6 - Nội thất và đồ đạc: https://shorten.asia/Y7DsJnHE 
-=> Link lưu mã 7 - Chăm sóc thú cưng: https://shorten.asia/sGdC7NaW 
+🔥18H: MÃ GIẢM 20% TỪ CÁC THƯƠNG HIỆU: 
+=> Link lưu mã 1 - Càng mua càng giảm: https://shorten.asia/gqSnsQxy 
+=> Link lưu mã 2 - Top bán chạy: https://shorten.asia/Ekf7cx66 
+=> Link lưu mã 3 - Rẻ vô cực: https://shorten.asia/bHBW7p2Q 
+Cập nhật thêm tại zalo https://zalo.me/g/cvpxza602
 `
 
 var updateTime = new Date(); //updateTime
