@@ -1,4 +1,14 @@
 var content_dday = `
+🔥 AD đã kiểm tra chắc chắn 100% rồi nhé!
+🔥Các link bên dưới chắc chắn 18H sẽ lên mới mã 20K/99K toàn sàn Shopee (đúng 18H mã mới xuất hiện, ai không thấy là bị lọc user):
+► Guh: https://shorten.asia/VR1nbW85 
+► Link dd8 (20K/99K): https://shorten.asia/xBQpJKNj 
+► Link 76P (20K/99K): https://shorten.asia/Z9aXgUVu 
+► Link nxq (20K/99K): https://shorten.asia/vhMpGK4n 
+► Link 6SY (20K/99K):https://shorten.asia/4ZZaGwYG 
+► Link fGr (20K/99K): https://shorten.asia/ptt8GzJW 
+► Link 0GK (20K/99K): https://shorten.asia/KUkT5uRF 
+
 TỔNG HỢP MÃ SHOPEE TỪ 18H - 20H NGÀY 11/11:
 🚛MIỄN PHÍ VẬN CHUYỂN: dùng tối đa 23 lượt
 • 18H: Lưu mã Freeship 0Đ, 30K/99K tại: https://shorten.asia/g7V52wWQ  (back)
