@@ -1,5 +1,4 @@
 var content_dday = `
-TỔNG HỢP MÃ SHOPEE TỪ 12H - 14H NGÀY 11/11:
 🚛MIỄN PHÍ VẬN CHUYỂN: dùng tối đa 23 lượt
 • 12H: Lưu các mã Freeship 0Đ, 30K/99K, 25K/50K tại: https://shorten.asia/g7V52wWQ  (back)
 • 12H: Lưu mã Freeship giảm 90K/25K, 15K tại các live bất kì: https://shorten.asia/9Bg7Cyvv  (back)
