@@ -1,4 +1,40 @@
 var content_dday = `
+⚠️ AD đã dùng tool quét mã kiểm tra kỹ rồi nhé!
+🔥Các link bên dưới chắc chắn 12H trưa nay sẽ lên mới mã 20K/99K toàn sàn Shopee (đúng 12H mã mới xuất hiện, ai không thấy là bị lọc user):
+► Link Xg1 (30K/99K): https://shorten.asia/pJDKpCDm  
+► Link VLI (20K/99K): https://shorten.asia/tBmRHNtr  
+► Link sCt (20K/99K): https://shorten.asia/3KMpyrPm 
+► Link 0bQ (20K/99K): https://shorten.asia/DumDDGYf 
+► Link uYY (20K/99K):  https://shorten.asia/ydJATR3y 
+► Link Byh (20K/99K): https://shorten.asia/rtnHEPJv 
+► Link UKo (20K/99K): https://shorten.asia/K7MjCScw 
+► Link KT8 (20K/99K): https://shorten.asia/PG1hM6Qh 
+► Link Nsh (20K/99K): https://shorten.asia/sHwyz3gY 
+► Link E5L (20K/99K): https://shorten.asia/4D38Eh15 
+► Link ABV (20K/99K): https://shorten.asia/ZEzFtSRE 
+► Link Mof (20K/99K): https://shorten.asia/fnXBzFaK 
+► Link daN (20K/99K): https://shorten.asia/14tcKCGr 
+► Link fnK (20K/99K): https://shorten.asia/krwnCeqb 
+► Link GfE (20K/99K): https://shorten.asia/cYejgAcs 
+► Link tPB (20K/99K): https://shorten.asia/9AEgBy3w 
+► Link fJS (20K/99K): https://shorten.asia/3Z5b4rqs 
+► Link dTv (20K/99K): https://shorten.asia/YKBy6tWE 
+► Link ju5 (20K/99K): https://shorten.asia/vMtxzNXc  
+► Link TGP (20K/99K): https://shorten.asia/ngEsB8ZE    
+► Link 6el (20K/99K): https://shorten.asia/TWprUmEc     
+► Link t4C (20K/99K): https://shorten.asia/UAEr7AcJ     
+► Link 0Ht (20K/99K): https://shorten.asia/S1PXcE8b   
+► Link ic7 (20K/99K): https://shorten.asia/tR1HqKxt  
+► Link PDL (20K/99K): https://shorten.asia/rfV55qYm  
+► Link dd8 (20K/99K): https://shorten.asia/xBQpJKNj 
+► Link 76P (20K/99K): https://shorten.asia/Z9aXgUVu 
+► Link nxq (20K/99K): https://shorten.asia/vhMpGK4n 
+► Link 6SY (20K/99K):https://shorten.asia/4ZZaGwYG 
+► Link dd8 (20K/99K): https://shorten.asia/xBQpJKNj 
+► Link fGr (20K/99K): https://shorten.asia/ptt8GzJW 
+► Link 0GK (20K/99K): https://shorten.asia/KUkT5uRF 
+
+
 🚛MIỄN PHÍ VẬN CHUYỂN: dùng tối đa 23 lượt
 • 12H: Lưu các mã Freeship 0Đ, 30K/99K, 25K/50K tại: https://shorten.asia/g7V52wWQ  (back)
 • 12H: Lưu mã Freeship giảm 90K/25K, 15K tại các live bất kì: https://shorten.asia/9Bg7Cyvv  (back)
