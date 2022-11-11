@@ -1,137 +1,67 @@
 var content_dday = `
-⚠️ AD đã dùng tool quét mã kiểm tra kỹ rồi nhé!
-🔥Các link bên dưới chắc chắn 12H trưa nay sẽ lên mới mã 20K/99K toàn sàn Shopee (đúng 12H mã mới xuất hiện, ai không thấy là bị lọc user):
-► Link Xg1 (30K/99K): https://shorten.asia/pJDKpCDm  
-► Link VLI (20K/99K): https://shorten.asia/tBmRHNtr  
-► Link sCt (20K/99K): https://shorten.asia/3KMpyrPm 
-► Link 0bQ (20K/99K): https://shorten.asia/DumDDGYf 
-► Link uYY (20K/99K):  https://shorten.asia/ydJATR3y 
-► Link Byh (20K/99K): https://shorten.asia/rtnHEPJv 
-► Link UKo (20K/99K): https://shorten.asia/K7MjCScw 
-► Link KT8 (20K/99K): https://shorten.asia/PG1hM6Qh 
-► Link Nsh (20K/99K): https://shorten.asia/sHwyz3gY 
-► Link E5L (20K/99K): https://shorten.asia/4D38Eh15 
-► Link ABV (20K/99K): https://shorten.asia/ZEzFtSRE 
-► Link Mof (20K/99K): https://shorten.asia/fnXBzFaK 
-► Link daN (20K/99K): https://shorten.asia/14tcKCGr 
-► Link fnK (20K/99K): https://shorten.asia/krwnCeqb 
-► Link GfE (20K/99K): https://shorten.asia/cYejgAcs 
-► Link tPB (20K/99K): https://shorten.asia/9AEgBy3w 
-► Link fJS (20K/99K): https://shorten.asia/3Z5b4rqs 
-► Link dTv (20K/99K): https://shorten.asia/YKBy6tWE 
-► Link ju5 (20K/99K): https://shorten.asia/vMtxzNXc  
-► Link TGP (20K/99K): https://shorten.asia/ngEsB8ZE    
-► Link 6el (20K/99K): https://shorten.asia/TWprUmEc     
-► Link t4C (20K/99K): https://shorten.asia/UAEr7AcJ     
-► Link 0Ht (20K/99K): https://shorten.asia/S1PXcE8b   
-► Link ic7 (20K/99K): https://shorten.asia/tR1HqKxt  
-► Link PDL (20K/99K): https://shorten.asia/rfV55qYm  
-► Link dd8 (20K/99K): https://shorten.asia/xBQpJKNj 
-► Link 76P (20K/99K): https://shorten.asia/Z9aXgUVu 
-► Link nxq (20K/99K): https://shorten.asia/vhMpGK4n 
-► Link 6SY (20K/99K):https://shorten.asia/4ZZaGwYG 
-► Link dd8 (20K/99K): https://shorten.asia/xBQpJKNj 
-► Link fGr (20K/99K): https://shorten.asia/ptt8GzJW 
-► Link 0GK (20K/99K): https://shorten.asia/KUkT5uRF 
-
-
+TỔNG HỢP MÃ SHOPEE TỪ 18H - 20H NGÀY 11/11:
 🚛MIỄN PHÍ VẬN CHUYỂN: dùng tối đa 23 lượt
-• 12H: Lưu các mã Freeship 0Đ, 30K/99K, 25K/50K tại: https://shorten.asia/g7V52wWQ  (back)
-• 12H: Lưu mã Freeship giảm 90K/25K, 15K tại các live bất kì: https://shorten.asia/9Bg7Cyvv  (back)
+• 18H: Lưu mã Freeship 0Đ, 30K/99K tại: https://shorten.asia/g7V52wWQ  (back)
+• 18H, 20H: Lưu mã Freeship giảm 90K/25K, 15K tại các live bất kì: https://shorten.asia/9Bg7Cyvv  (back)
 • Tặng sẵn một số mã Freeship trong ví tùy tài khoản: https://shorten.asia/4BKkT2Qc 
 • Đổi mã Freeship giảm 50% giảm tối đa 40K tại: https://shorten.asia/WMSfYXJM 
 • Quay mã Freeship tại: https://shorten.asia/SMTeBDxK 
 .
 🔥SIÊU SALE VOUCHER - MÃ TOÀN SÀN: đã lưu sớm được
-• 12H: Mã giảm 111K đơn từ 111K
-• 12H: Mã giảm 30K đơn từ 150K
-• 12H: Mã giảm 10% tối đa 50K đơn từ 300K
+• 18H: Mã giảm 30K đơn từ 150K
 => Lưu mã tại: https://shorten.asia/EambK3fX 
 .
-🔥KOL AFFILIATE - MÃ TOÀN SÀN: đúng giờ load trang mới hiện mã
-• 12H: Mã giảm 111K đơn từ 411K
-• 12H, 13H, 14H: Mã giảm 40K đơn từ 250K, 30K đơn từ 150K, 20K đơn từ 99K
+🔥KOL AFFILIATE - MÃ TOÀN SÀN: 18H lên mã mới + 19H, 20H mã back
+• 18H: Mã giảm 51K đơn từ 111K
+• 18H, 19H, 20H: Mã giảm 40K đơn từ 250K, 30K đơn từ 150K, 20K đơn từ 99K
 => Lưu mã tại: https://shorten.asia/T5SByNky 
 .
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - NHẬP TAY:
+• 17H57-18H03: HUNT1500K hoàn 50% tối đa 1,5 triệu đơn từ 3 triệu. List sản phẩm áp mã: https://shorten.asia/RtQ79P7R  (back)
+.
 🔥MÃ LƯU TRÊN LIVE - MÃ ÁP ĐA SỐ SẢN PHẨM:
-• 12H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://shorten.asia/713vJmXX  hoặc https://shorten.asia/AyS7vM4s  mục live, shop nào live thì vào shop đó nhé(back)
-• 12H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://shorten.asia/9Bg7Cyvv  mục “x4 GIẢM GIÁ”(back)
+• 18H, 20H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://shorten.asia/713vJmXX  hoặc https://shorten.asia/AyS7vM4s  mục live, shop nào live thì vào shop đó nhé(back)
+• 18H, 20H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://shorten.asia/9Bg7Cyvv  mục “x4 GIẢM GIÁ”(back)
 •  Mã giảm 15% tối đa 15K đơn từ 49K cho toàn sàn tag Shopee Live. Lưu mã tại: https://shorten.asia/9Bg7Cyvv  mục "Idol Review”
 => TỔNG HỢP HƠN 150 SHOP ÁP ĐƯỢC MÃ 25K/50K, 50K/100K TẠI: https://shorten.asia/9Bg7Cyvv 
 .
-🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - NHẬP TAY:
-• 11H57-12H03: HUNT1500K hoàn 50% tối đa 1,5 triệu đơn từ 3 triệu. List sản phẩm áp mã: https://shorten.asia/RtQ79P7R  (back)
-.
-🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - LƯU BANNER: 
-• 12H: Mã hoàn 7% tối đa 50K đơn từ 100K(back)
-• 12H: Mã hoàn 7% tối đa 200K đơn từ 400K(back)
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - LƯU BANNER:
+• 18H: Mã hoàn 7% tối đa 50K đơn từ 100K(back)
+• 18H: Mã hoàn 7% tối đa 200K đơn từ 400K(back)
 => Lưu mã tại: https://shorten.asia/RHVvBKpY 
 .
-🔥VOUCHER BAO LA - MÃ ÁP ĐA SỐ SẢN PHẨM - LƯU BANNER:
-• 12H: Mã giảm 25K đơn từ 99K, 20K đơn từ 99K, 20% tối đa 30K(đã lưu sớm được)
-• 12H: Mã giảm 200K đơn từ 399K. List sản phẩm áp mã: https://shorten.asia/Puj77T5X  (back)
-• 12H: Mã giảm 25% tối đa 99K đơn từ 299K List sản phẩm áp mã: https://shorten.asia/Tzye2jRq  (back)
+🔥THỜI TRANG: https://shorten.asia/acD2NQZB 
+• 18H: LATE11SVC (mã shop) giảm 220K đơn từ 600K cho Việt Corset: https://shorten.asia/phBxukKH 
+• 18H: PIXI222K2 (mã shop) giảm 220K đơn từ 600K cho Pixie: https://shorten.asia/6NAABx1s 
+• 18H: FITME600 (mã shop) giảm 220K đơn từ 600K cho Fitme: https://shorten.asia/crxqQXbQ 
+• 18H: LIUGEM222 (mã shop) giảm 220K đơn từ 600K cho LIUGEMS: https://shorten.asia/jAPpffAV 
+• 18H: Săn deal 1K, 9K tại banner
+• 19H: Săn mã shop giảm 440K tại banner
+.
+🔥TIÊU DÙNG: https://shorten.asia/aKyQ6sg6 
+• 18H: FMCG111K5 (mã shop) giảm 50% tối đa 111K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/nZ3kcEVP 
+• 18H: FMCG111K6 (mã shop) giảm 50% tối đa 111K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/tBU4AFUE 
+• 18H: FMCG111K7 (mã shop) giảm 50% tối đa 111K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/k3yZkn1G 
+• 18H: FMCG111K8 (mã shop) giảm 50% tối đa 111K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/1fypjdVa 
+• 18H: CN1K18H (mã shop) giảm 126K còn 1K cho Phấn nước BB: https://shorten.asia/E3Ez9kXK 
+• 18H: KR0K18H (mã shop) giảm 212K còn 1K cho Phấn má hồng Peripera: https://shorten.asia/BAf1666b 
+.
+📌Tiêu Dùng Mall: https://shorten.asia/D1QaguyH 
+• 18H: FMCGBMO18H giảm 1111K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/r9wCekGq 
+.
+🔥SHOPEEFOOD: https://shorten.asia/CpZ3wdE6 
+• 19H: SIEUDEAL20K giảm 50% tối đa 20K đơn từ 0Đ
+• 19H: SIEUDEAL25K giảm 50% tối đa 25K đơn từ 50K
+• 19H: SIEUDEAL30K giảm 50% tối đa 30K đơn từ 60K
+• 19H: SIEUDEAL40K giảm 50% tối đa 40K đơn từ 80K
+.
+🔥VOUCHER BAO LA - MÃ ÁP ĐA SỐ SẢN PHẨM:
+• Lưu, dùng luôn một số mã giảm 20K, 25K, 30K còn lượt
 => Lưu mã tại: https://shorten.asia/H4pN9Mck 
-.
-🔥SHOP MỚI LÊN SÀN: https://shorten.asia/ev38FkVA 
-• 12H: SRNOV11 giảm 50% tối đa 20K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/DXFexTsx   (back)
-• 12H: SRNOV11B hoàn 20K đơn từ 50K. List sản phẩm áp mã: https://shorten.asia/Qupaxv1T  (back)
-• 12H: Săn deal sốc 1K
-.
-🔥SHOP XU HƯỚNG: https://shorten.asia/WsF6RvZD 
-• 12H: Săn mã shop giảm 99K đơn từ 0Đ tại banner(đúng giờ load trang mới hiện mã)
-.
-🔥VOUCHER BAO LA - MÃ ÁP ĐA SỐ SẢN PHẨM - NHẬP TAY: canh back vào 12H
-• AFFSAN100 giảm 25% tối đa 99K đơn từ 299K. List sản phẩm áp mã: https://shorten.asia/2EPKpVx6 
-• AFF11INCU giảm 25K đơn từ 69K. List sản phẩm áp mã: https://shorten.asia/NxPrzZrZ  
-• AFFSIUBU giảm 11% tối đa 111K đơn từ 499K. List sản phẩm áp mã: https://shorten.asia/39jEXs5x 
-• AFFDONBU giảm 11% tối đa 69K đơn từ 399K. List sản phẩm áp mã: https://shorten.asia/3a55kPjP 
-• AFFVOTDI giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/murTrt1q 
-• AFFTAN15K  giảm 15K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/xwszT2eN 
-• AFFCBTOI15 hoàn 15K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/zvtjFcke 
-• AFF11PKDR giảm 25K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/Jr8HU5K1 
-• AFF11PKCB hoàn 20% tối đa 25K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/WpCBmn8A 
-• AFFMAUDI giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/y349jkwg 
-• AFFNUANE hoàn 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/1ejSzD6h 
-• AFF11SO giảm 15K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/bfMRGwa9 
-• AFF11VE giảm 15K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/ZFNyPkPj 
-• AFF11NHA giảm 15K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/M3BweMVj 
-• Chờ cập nhật thêm trên nhóm zalo, tele
 .
 🔥XEM LIVE SĂN MÃ GIẢM 50% TỐI ĐA 70K, 50K TỪ CÁC THƯƠNG HIỆU + MÃ TOÀN SÀN TAG LIVE, FREESHIP:
 => Xem live tại: https://shorten.asia/d4rW2krG  mục live
 => Lịch tung mã thương hiệu: https://shorten.asia/TgxVnJ7s  + chờ báo nhanh trên nhóm zalo, tele
-.
-🔥THỜI TRANG: https://shorten.asia/acD2NQZB 
-• 12H23s: NGUOGN220 (mã shop) giảm 222K đơn từ 0Đ cho LADOS: https://shorten.asia/crYPUyq2 
-• 12H: ELLY11222 (mã shop) giảm 222K đơn từ 600K cho Thời trang ELLY: https://shorten.asia/zMxJXtTU 
-• 12H: GUMAC222K (mã shop) giảm 222K đơn từ 600K cho GUMAC: https://shorten.asia/2AVXEFma 
-• 12H25s: BAIMH1111 (mã shop) giảm 222K đơn từ 600K cho bAimée & bAmor: https://shorten.asia/GpZrfpqx 
-• 12H: Săn deal 1K, 9K
-.
-🔥TIÊU DÙNG: https://shorten.asia/aKyQ6sg6 
-• 12H: FMCG111K1 (mã shop) giảm 50% tối đa 111K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/9cwRqRq3 
-• 12H: FMCG111K2 (mã shop) giảm 50% tối đa 111K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/v3RAF4C4 
-• 12H: FMCG111K3 (mã shop) giảm 50% tối đa 111K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/XzUA4ezn 
-• 12H: FMCG111K4 (mã shop) giảm 50% tối đa 111K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/F6qYpWvE 
-• 12H: CN1K12H (mã shop) giảm 128K còn 1K cho Chai xịt trang điểm Zeesea: https://shorten.asia/f8TrFUgy 
-• 12H: KR0K12H (mã shop) giảm 286K còn 1K cho Phấn Má Hồng Mịn Lì 3CE: https://shorten.asia/KFM8SQdp 
-.
-📌Tiêu Dùng Mall: https://shorten.asia/D1QaguyH 
-• 12H: FMCGBMO12H giảm 1111K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/ZCrAu1Vr 
-.
-🔥HÀNG QUỐC TẾ HÀN: https://shorten.asia/MGyK6kDJ 
-• 12H: KOREA12H giảm 50% tối đa 100K đơn từ 150K. List sản phẩm áp mã: https://shorten.asia/D8SPmAb7 
-.
-🔥ĐỜI SỐNG: https://shorten.asia/gGkfPPHB 
-• 12H: Săn deal đồng giá 1K
-.
-🔥SHOPEEFOOD: https://shorten.asia/CpZ3wdE6 
-• 10H30-11H15: Xem live săn mã giảm 111K, 50K/100K, 40K/80K, 30K/60K tại: https://shorten.asia/d4rW2krG  mục live
-• 13H: SIEUDEAL20K giảm 50% tối đa 20K đơn từ 0Đ
-• 13H: SIEUDEAL25K giảm 50% tối đa 25K đơn từ 50K
-• 13H: SIEUDEAL30K giảm 50% tối đa 30K đơn từ 60K
-• 13H: SIEUDEAL40K giảm 50% tối đa 40K đơn từ 80K
 
 
 <b>LAZADA</b>
