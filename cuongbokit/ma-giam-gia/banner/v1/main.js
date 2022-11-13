@@ -150,7 +150,7 @@
       delete obj.captionFontCSS.width;
       $('.caption').find('li').css(obj.captionFontCSS);
     }
-  }, 4000)
+  }, 5000)
   
 
 	//Resivepon
