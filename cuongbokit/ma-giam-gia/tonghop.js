@@ -1,81 +1,59 @@
 var api_mgg_content = `
 ➖➖➖➖SHOPEE➖➖➖➖
+🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
+• 18H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://shorten.asia/713vJmXX  hoặc https://shorten.asia/AyS7vM4s  mục live, shop nào live thì vào shop đó nhé(back)
+• 18H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://shorten.asia/9Bg7Cyvv  mục “x4 GIẢM GIÁ”(back)
+=> TỔNG HỢP HƠN 150 SHOP ÁP ĐƯỢC MÃ 25K/50K, 50K/100K TẠI: https://shorten.asia/9Bg7Cyvv 
+.
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• 12H: Lưu mã Freeship giảm 10K/0Đ, 25K/50K tại: https://shorten.asia/qcCAu5sZ  (back)
+• 21H: Lưu mã Freeship giảm 10K/0Đ tại: https://shorten.asia/GAPnxPeH  (mã mới)
 • Lưu mã Freeship giảm 25K/25K, 15K/25K tại các live: https://shorten.asia/9Bg7Cyvv  
 • Đổi mã Freeship giảm 50% giảm tối đa 40K: https://shorten.asia/WMSfYXJM 
 • Quay mã Freeship: https://shorten.asia/zguz7hTv 
 .
-🔥HÀNG QUỐC TẾ: https://shorten.asia/aeFrPY8z 
-• 11H57-12H03: CBSHTV1610 giảm 100K đơn từ 300K. List sản phẩm áp mã: https://shorten.asia/4buy3kBG  (chỉ áp hàng quốc tế, có thể back)
-.
-🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
-• 12H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://shorten.asia/713vJmXX  hoặc https://shorten.asia/AyS7vM4s  mục live, shop nào live thì vào shop đó nhé(còn back vào 18H)
-• 12H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://shorten.asia/9Bg7Cyvv  mục “x4 GIẢM GIÁ”(còn back vào 18H)
-• Sau 12H: Mã giảm 50% tối đa 30K đơn từ 30K toàn sàn tag Shopee Live. Lưu mã tại: https://shorten.asia/d4rW2krG  mục live
-=> TỔNG HỢP HƠN 150 SHOP ÁP ĐƯỢC MÃ 25K/50K, 50K/100K TẠI: https://shorten.asia/d4rW2krG 
-.
-🔥XEM LIVE SĂN MÃ SHOPEE GIẢM 20K/50K, 50K/100K + FREESHIP 70K/25K CHỈ ÁP CHO THƯƠNG HIỆU: vào link chọn mục “Live”
-• 12H: Thương hiệu PINKFLASH: https://shorten.asia/mcnrMMDa 
-• 13H: Thương hiệu POSEE Slippers: https://shorten.asia/xqfmpvbk 
-.
 🔥MÃ TOÀN SÀN:
-• 12H: 1311GIAM10K0PH hoặc 1311GIAM10K1PH hoặc 1311GIAM10K2PH giảm 10K đơn từ 150K(back)
+• 21H: 1311GIAM10K0PH hoặc 1311GIAM10K1PH hoặc 1311GIAM10K2PH giảm 10K đơn từ 150K(back)
 .
 🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - NHẬP TAY:
-• 12H: 1311HOAN40K2PH hoặc 1311HOAN40K1PH hoặc 1311HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back)
-• 12H: 1311MALL50K0PH hoặc 1311MALL50K1PH hoặc 1311MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back)
-.
-🔥Canifa x Supersports x 55: https://shorten.asia/Unr3YdTH 
-• 12H: 5SOFRJYTY (mã shop) giảm 111K đơn từ 0Đ cho thời trang 5s. List sản phẩm áp mã: https://shorten.asia/SjdpfWur 
-.
-🔥Kính Mắt Lily: https://shorten.asia/TBsDe7wY 
-• 12H50s: KINH13S4 (mã shop) giảm 211K đơn từ 749K. List sản phẩm áp mã: https://shorten.asia/5TbamBuf 
-• 12H: KINH9228 (mã shop) giảm 209K còn 11K cho Gọng kính thời trang LilyEyewear 9228: https://shorten.asia/YSUmqYgH 
-• 14H56s: KINH13S5 (mã shop) giảm 200K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/VrZ9vR8K 
-• 15H: KINH13S6 (mã shop) giảm 211K đơn từ 749K. List sản phẩm áp mã: https://shorten.asia/eUW7BV1f 
-• 18H15s: KINH13S7 (mã shop) giảm 211k đơn từ 749k. List sản phẩm áp mã: https://shorten.asia/au5uJPgM 
-• 18H: KINHMATY (mã shop) giảm 118K còn 11K cho Kính mắt nam nữ LilyEyewear MATY: https://shorten.asia/V1SZ3cAm 
+• 21H: 1311HOAN40K2PH hoặc 1311HOAN40K1PH hoặc 1311HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back)
+• 21H: 1311MALL50K0PH hoặc 1311MALL50K1PH hoặc 1311MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back)
 .
 🔥CoolMate: https://shorten.asia/vK83Sxdq 
-• 12H44s: COOLMA200 (mã shop) giảm 200K đơn từ 299K. List sản phẩm áp mã: https://shorten.asia/zZYWt5tg 
 • 18H33s: COOLMA500 (mã shop) giảm 499K đơn từ 599K. List sản phẩm áp mã: https://shorten.asia/esY7kkV8 
 .
+🔥Canifa x Supersports x 55: https://shorten.asia/Unr3YdTH 
+• 21H: 5SOFREGRT (mã shop) giảm 111K đơn từ 0Đ cho thời trang 5s. List sản phẩm áp mã: https://shorten.asia/546Dn4sC  
+.
+🔥Kính Mắt Lily: https://shorten.asia/TBsDe7wY 
+• 18H15s: KINH13S7 (mã shop) giảm 211K đơn từ 749K. List sản phẩm áp mã: https://shorten.asia/au5uJPgM 
+• 18H: KINHMATY (mã shop) giảm 118K còn 11K cho Kính mắt nam nữ LilyEyewear MATY: https://shorten.asia/V1SZ3cAm 
+• 20H20s: KINH13S8 (mã shop) giảm 200K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/fX3P5Ppv 
+• 21H41s: KINH13S9 (mã shop) giảm 211K đơn từ 749K. List sản phẩm áp mã: https://shorten.asia/tVyTGejR 
+• 22Hs: KINH8802 (mã shop) giảm 268K còn 11K cho Kính mắt thời trang LilyEyewear 8802: https://shorten.asia/7XEtrvjY 
+• 23H05s: KINH13S10 (mã shop) giảm 211K đơn từ 749K. List sản phẩm áp mã: https://shorten.asia/YJm62y1T 
+.
 🔥Wanna Hang: https://shorten.asia/v3KYbyU6 
-• 12H: WANN80C3 (mã shop) giảm 80K đơn từ 350K
-• 14H: WANN80C4 (mã shop) giảm 80K đơn từ 350K
-• 16H: WANN80C5 (mã shop) giảm 80K đơn từ 350K
 • 18H: WANN80C6 (mã shop) giảm 80K đơn từ 350K
-=> Áp chung list sản phẩm tại: https://shorten.asia/dZBJsy2R 
-.
-🔥MÃ ÁP MỘT SỐ SẢN PHẨM CÒN LƯỢT: 
-• SRNOVP220 giảm 20K đơn từ 50K. List sản phẩm áp mã: https://shorten.asia/P9zbYkSE 
-• SRNOVP215 giảm 50% tối đa 15K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/zrA1uMfJ 
-• SKAMLTB0811 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/Vj7TM4Xs 
-.
-🔥AFFKRD71 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/HUhgy9dq 
+• 20H: WANN80C7 (mã shop) giảm 80K đơn từ 350K
+• 22H: WANN80C8 (mã shop) giảm 80K đơn từ 350K
+=> Áp chung list sản phẩm tại: https://shorten.asia/fp15R3AP 
 .
 🔥LƯU SỚM LOẠT MÃ CHO SALE 15/11: 
 • Link 1: https://shorten.asia/AtMpRzgs  Freeship 0Đ, ShopeePay 10K, Hoàn Xu 500K
 • Link 2: https://shorten.asia/EambK3fX  toàn sàn 150K, 15K/99K, 10% tối đa 50K
 • Link 3: https://shorten.asia/GGrF3KsG  mã lọc user
 .
+🔥AFFKRD71 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/HUhgy9dq 
+.
+🔥SKAMLTB0811 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/Vj7TM4Xs 
+.
 🔥THỬ THÁCH SHOPEE: https://shorten.asia/matYfAEq 
 
 <b>LAZADA</b>
-🔥12H: MÃ NGâN HÀNG: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/mQHHtS3R 
-.
-🔥12H, 16H: MÃ TOÀN SÀN GIẢM 500K/0Đ, 150K/1500K, 60K/700K, 20K/350K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/wq5yqzVY 
-.
-🔥12H, 16H, 18H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/y3yA4p2Z 
-.
-🔥12H, 20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy”
+🔥20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy”
 => Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
 .
-🔥MÃ FREESHIP GIẢM 15K/29K, 30K/99K, 50K/300K; MÃ KHÁC:
+🔥MÃ FREESHIP GIẢM 15K/29K, 30K/99K(lọc user), 50K/300K; MÃ KHÁC:
 => Lưu mã tại: https://shorten.asia/HtxqmBQG 
 .
 🔥Sản phẩm dùng thử giá 9K, x9K: https://shorten.asia/sFyCKxv4 
