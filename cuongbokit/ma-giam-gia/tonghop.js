@@ -1,4 +1,22 @@
 var api_mgg_content = `
+❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 14/11 ❤️
+.
+🍒 1. Thử Thách Shopee 0H: https://shorten.asia/matYfAEq           
+.
+🍒 2. Hộp Quà Shopee Rewards: https://shorten.asia/WMSfYXJM 
+.
+🍒 3. Hộp Quà Thần Kỳ – LỌC TK: https://shorten.asia/GGrF3KsG                  
+.
+🍒 4. Quà Tặng Shopee - Vi Vu Săn Xu Vàng đổi 5K xu: https://shorten.asia/Ymja81mu        
+.
+🍒 5. Shopee Máy Gắp Thú: https://shorten.asia/ZrTp4TtW  
+.
+🍒 6. Sự kiện mới - Bé Ngoan Shopee - Chia kho xu 150tr: https://shorten.asia/WMSfYXJM 
+.
+►12H lưu phiếu BÉ SĂN XU: https://shorten.asia/kTTa5Ggk 
+►12H xem live Điểm tin lưu phiếu BÉ LƯU MÃ: https://shorten.asia/d4rW2krG 
+►20H lưu phiếu BÉ CHỐT ĐƠN: https://shorten.asia/kTTa5Ggk 
+
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
 • 0H, 21H: Lưu mã Freeship giảm 10K/0Đ tại: https://shorten.asia/YUhzdAZy  (back vào 9H, 12H)
