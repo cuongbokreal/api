@@ -1,5 +1,47 @@
 var content_dday = `
 🏆TỔNG HỢP MÃ SHOPEE + LAZADA + TIKI NGÀY SALE 15/11🏆
+🔥 GỬI CẢ NHÀ LIST MÃ SHOP GIẢM 50K/0Đ LÚC 0H ĐÊM NAY NÈ:
+.
+► 0H: SVC-490180550033408 giảm 50k đơn từ 0đ cho shop Byvee. List sản phẩm áp mã: https://shorten.asia/umYDdg4x  
+.
+► 0H: SVC-489471494291456 giảm 50k đơn từ 0đ cho shop Kính mắt Vân Anh. List sản phẩm áp mã: https://shorten.asia/Csd8mQtw  
+.
+► 0H: SVC-490904445517824 giảm 50k đơn từ 0đ cho shop Nuti Vegan. List sản phẩm áp mã: https://shorten.asia/j2T4aGfA  
+.
+► 0H: SVC-490180659216384 giảm 50k đơn từ 0đ cho shop Kamamila - Thanh Tâm Dưỡng Khí. List sản phẩm áp mã: https://shorten.asia/caXn9V4R  
+.
+► 0H: SVC-489471527845888 giảm 50k đơn từ 0đ cho shop Kimy Shoes. List sản phẩm áp mã: https://shorten.asia/kEqX4quG  
+.
+► 0H: SVC-490823025688592 giảm 50k đơn từ 0đ cho shop 7.Beautiful. List sản phẩm áp mã: https://shorten.asia/YXUD46qK  
+.
+► 0H: SVC-489471469387792 giảm 50k đơn từ 0đ cho shop Mỹ phẩm thu dương. List sản phẩm áp mã: https://shorten.asia/3yvhsNjf  
+.
+► 0H: SVC-490719241175040 giảm 50k đơn từ 0đ cho shop Watches by Tif. List sản phẩm áp mã: https://shorten.asia/tQ7wUeUy  
+.
+► 0H: SVC-490719241011200 giảm 50k đơn từ 0đ cho shop Vietgangz. List sản phẩm áp mã: https://shorten.asia/DmkxMFPs  
+.
+► 0H: SVC-490823025262608 giảm 50k đơn từ 0đ cho shop thebossbaby.vn. List sản phẩm áp mã: https://shorten.asia/dKGCqYJ5  
+.
+► 0H: SVC-490180524867584 giảm 50k đơn từ 0đ cho shop Trang sức bạc Gemy. List sản phẩm áp mã: https://shorten.asia/2v5DT1XT  
+.
+► 0H: SVC-490904444698624 giảm 50k đơn từ 0đ cho shop Angel-Land Original Streetwear. List sản phẩm áp mã: https://shorten.asia/ZgMZ92n3  
+.
+► 0H: SVC-489333292138496 giảm 50k đơn từ 0đ cho shop Azdecal. List sản phẩm áp mã: https://shorten.asia/RKrBk1fW  
+.
+► 0H: SVC-490719241011216 giảm 50k đơn từ 0đ cho shop Mikenco. List sản phẩm áp mã: https://shorten.asia/3ecYwjZW  
+.
+► 0H: SVC-490719241175056 giảm 50k đơn từ 0đ cho shop Smart Home Vietnamrobovac. List sản phẩm áp mã: https://shorten.asia/U9XA8xqw  
+.
+► 0H: SVC-490180600496128 giảm 50k đơn từ 0đ cho shop Quang Minh Care. List sản phẩm áp mã: https://shorten.asia/RVS8dN8C 
+. 
+► 0H: SVC-490823025688576 giảm 50k đơn từ 0đ cho shop Shop Ảo Thuật Namnie. List sản phẩm áp mã: https://shorten.asia/WbETPEed  
+.
+► 0H: SVC-491440770514944 giảm 50k đơn từ 0đ cho shop Anh Store - Thời trang trẻ em. List sản phẩm áp mã: https://shorten.asia/3MpxHTJf 
+. 
+► 0H: SVC-490904444862464 giảm 50k đơn từ 0đ cho shop Đồng hồ Osaka Watch. List sản phẩm áp mã: https://shorten.asia/TXcXgDNr  
+.
+► 0H: SVC-489996856033280 giảm 50k đơn từ 0đ cho shop Ram Leather. List sản phẩm áp mã: https://shorten.asia/Mp9U4pzy 
+
 ➖➖ MIỄN PHÍ VẬN CHUYỂN➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN: dùng tối đa 14 lượt
 • 0H: Lưu 4 mã Freeship 0Đ, 30K/99K tại: https://shorten.asia/fHCAVJa9  (còn back vào 9H, 12H, 15H, 18H, 21H)
