@@ -1,5 +1,6 @@
 var content_dday = `
 🏆TỔNG HỢP MÃ SHOPEE + LAZADA + TIKI NGÀY SALE 15/11🏆
+<b>Mã dài dài lắm mn cứ lướt xuống đi nhé! 😍</b>
 🔥 GỬI CẢ NHÀ LIST MÃ SHOP GIẢM 50K/0Đ LÚC 0H ĐÊM NAY NÈ:
 .
 ► 0H: SVC-490180550033408 giảm 50k đơn từ 0đ cho shop Byvee. List sản phẩm áp mã: https://shorten.asia/umYDdg4x  
