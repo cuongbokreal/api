@@ -1,5 +1,5 @@
 var content_dday = `
-🏆TỔNG HỢP MÃ SHOPEE NGÀY SALE 15/11🏆
+🏆TỔNG HỢP MÃ SHOPEE + LAZADA + TIKI NGÀY SALE 15/11🏆
 ➖➖ MIỄN PHÍ VẬN CHUYỂN➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN: dùng tối đa 14 lượt
 • 0H: Lưu 4 mã Freeship 0Đ, 30K/99K tại: https://shorten.asia/fHCAVJa9  (còn back vào 9H, 12H, 15H, 18H, 21H)
@@ -254,8 +254,114 @@ Mã KOL giảm 20k, 30k/99k, 30k/150k, 50k/300k, 70k... sẽ được cập nh�
 ➖➖NẠP THẺ - DỊCH VỤ➖➖
 🔥NẠP THẺ - DỊCH VỤ: https://shorten.asia/P17SHZpw 
 • Săn mã giảm đến 50K tại banner, nạp thẻ các khung giờ
+
+<b>LAZADA</b>
+⏰MÃ LAZADA NGÀY 15/11:
+🔥0H: MÃ TOÀN SÀN GIẢM 500K/0Đ, 50K/700K, 30K/350K: còn back vào 9H, 12H, 16H
+=> Lưu mã tại: https://shorten.asia/T3mJ8H4U 
 .
+🔥0H: MÃ TOÀN SÀN GIẢM 25K ĐƠN TỪU 99K: đúng giờ load trang mới hiện mã
+=> Lưu mã tại(1): https://shorten.asia/6tvj94Sm 
+=> Lưu mã tại(2): https://shorten.asia/Q3jdNUN5 
+=> Lưu mã tại(3): https://shorten.asia/XCWvGTYg 
+=> Lưu mã tại(4): https://shorten.asia/6192YUU9 
+.
+🔥MÃ FREESHIP:
+• 0H: Mã Freeship giảm 20K/0Đ, 15K/99K(còn back vào 9H, 12H, 16H)
+• Mã Freeship giảm 15K/29K, 30K/99K, 50K/300K còn lượt
+=> Lưu mã tại: https://shorten.asia/g1qZ2XTy 
+.
+🔥VOUCHER TÍCH LŨY GIẢM 400K: từ ngày 15/11-17/11
+• 0H: Thập thập voucher tích lũy hàng ngày tại: https://shorten.asia/T3mJ8H4U 
+• 0H: Thu thập thêm voucher tích lũy dưới sản phẩm hàng ngày tại: https://shorten.asia/kryt2k64 
+• 0H: Làm nhiệm vụ thu thập thêm voucher tích luỹ hàng ngày tại: https://shorten.asia/t91dfvdu 
+=> Giảm ngay 10K cho mỗi 150K, giảm ngay 50K cho mỗi 650K
+.
+🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K: mục “Độc Quyền”
+=> Lưu mã tại: https://shorten.asia/enUsVhhY  
+.
+🔥0H, 2H, 9H, 12H, 20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc…”
+=> Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
+.
+🔥0H, 9H, 12H, 16H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K: có thể lên mã
+=> Lưu mã tại: https://shorten.asia/y3yA4p2Z 
+.
+🔥9H, 12H: MÃ NGâN HÀNG: load trang liên tục - một số mã có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://shorten.asia/mQHHtS3R 
+.
+🔥9H: MÃ ZALOPAY + MOMO + VNPT: canh back - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://shorten.asia/uwTUg3tu 
+.
+🔥MÃ NHẬP TAY:
+• 0H: Mã giảm 30K đơn từ 99K: LAZECO30Kw1esdx, LAZECO30Kcst2h8, LAZECO30Kzxvrrq, LAZECO30Kyrkrco, LAZECO30Kfq0upx, VVV30KLZDhesznp, VVV30KLZDrprm9q, VVV30KLZDnp37au, VVV30KLZDmgl54f, VVV30KLZDukuzmh
+• Hóng thêm mã trên nhóm zalo, tele
+.
+🔥VOUCHER CHỚP NHOÁNG - MÃ TOÀN SÀN: đúng giờ load trang lưu mã
+• 15H: Mã giảm 50% tối đa 30K đơn từ 0Đ
+• 16H: Mã giảm 50% tối đa 40K đơn từ 0Đ
+• 17H: Mã giảm 50% tối đa 50K đơn từ 0Đ
+=> Lưu mã tại: https://shorten.asia/g1qZ2XTy 
+[Dùng điện thoại có thể load trang bằng cách bấm vào mục "VOUCHER CHỚP NHOÁNG 50% 15H - 16H - 17H"]
+.
+🔥0H: PHỤ KIỆN ĐIỆN THOẠI 1K, DƯỚI 9K: https://shorten.asia/QEuudveg 
+.
+🔥MỘT SỐ BANNER KOL CÓ THỂ LÊN MÃ 50K/399K, 25K/99K BẤT NGỜ: 
+• HL: https://shorten.asia/Ap2c4UPW 
+• Mai: https://shorten.asia/43Dv6FGh 
+• CHL: https://shorten.asia/VKxdmChY 
+• Vina: https://shorten.asia/KUuMghXB 
+• Mobi: https://shorten.asia/QeHXeznK 
+• OLP: https://shorten.asia/jgx9NMqj 
+• Shpi:  https://shorten.asia/dvZWDYPu 
+.
+🔥Sản phẩm dùng thử giá 9K, x9K: https://shorten.asia/sFyCKxv4 
+.
+🔥0H: Lên mã đổi xu: https://shorten.asia/gbvMbFfa 
+.
+🔥0H: Lên mã đổi sao: https://shorten.asia/kREwetcF 
+
+<b>TIKI</b>
+➖➖➖➖TIKI➖➖➖➖
+🔥Lưu các voucher Tiki: https://shorten.asia/Q5nzVpek 
+.
+🔥Deal hot ngay bây giờ: https://shorten.asia/G5uMxWRp 
+.
+🔥Bí kíp săn sale: https://shorten.asia/yTXgx1Hb 
+.
+🔥Siêu hội Astra giảm đến 50%: https://shorten.asia/3Wke39Fg 
+.
+🔥Bách hóa Freeship đơn 300k: https://shorten.asia/a57WbuC5
+.
+🔥Mom Club lưu voucher giảm đến 33%: https://shorten.asia/1HDMTKGn 
+.
+🔥0H Flash sale: https://shorten.asia/pKN8xGHC 
+.
+🔥Hot deal Freeship: https://shorten.asia/yt3geKFX 
+.
+🔥Super Fashion day: https://shorten.asia/1Mg3t1pk 
+.
+🔥Voucher Moca giảm 1 triệu: https://shorten.asia/xxCZvB6F 
+.
+🔥Deal sách dưới 99k: https://shorten.asia/ZKZv5hSc 
+.
+🔥Heo vàng Astra, nhận xu mua sắm: https://shorten.asia/bKJQFaWZ 
+.
+🔥Game quay số may mắn nhận Astra: https://shorten.asia/SSuJxnpu 
+.
+🔥Voucher dịch vụ số:
+• Giảm đến 300K
+=> Lưu mã tại: https://shorten.asia/zcyKSpW5
+.
+🔥Siêu hội thể thao: 
+• Giảm đến 50%
+• Mua 2 giảm 20% 
+=> Chi tiết tại: https://shorten.asia/znBjs7Qr 
+.
+🔥Lưu voucher phụ kiện, xe: https://shorten.asia/GYFXYe5t
+
+
 ĐẦY ĐỦ MÃ SĂN Ở CÁC KHUNG GIỜ TỪ 9H... MÌNH SẼ LÊN Ở TỪNG POST KHUNG GIỜ SAU NHÉ(trước giờ săn 30p-1H mình sẽ gửi mã lên nhóm)
+
 
 `
 
