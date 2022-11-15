@@ -92,18 +92,45 @@ var api_mgg_content = `
 
 
 <b>LAZADA</b>
-➖➖➖➖LAZADA➖➖➖➖
-🔥20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc…”
-=> Xem chi tiết tại: https://tinyurl.com/2cpqf3sp 
+ 📌 Áp toàn sàn mã mới 0H giảm 25k đơn 99k 
+◼️ Link 1:  https://shorten.asia/6tvj94Sm    
+◼️ Link 2:  https://shorten.asia/XCWvGTYg  
+◼️ Link 3:  https://shorten.asia/Q3jdNUN5  
+◼️ Link 4:  https://shorten.asia/6192YUU9  
 .
-🔥VOUCHER TÍCH LŨY GIẢM 400K: từ ngày 15/11-17/11
-• Thu thập 150K  voucher tích lũy dưới sản phẩm: https://tinyurl.com/25va4k8o 
-• Thu thập thêm 150K voucher tích luỹ tại: https://tinyurl.com/26omg7j8 
-=> Giảm ngay 10K cho mỗi 150K, giảm ngay 50K cho mỗi 650K
+📌  Áp thương hiệu
+◼️  0H: Lên mã 50k đơn 400k vào link chọn mục: " Độc quyền": https://shorten.asia/enUsVhhY  
 .
-🔥Phụ kiện điện thoại 1K, dưới 9K: https://tinyurl.com/29o27r4t 
+📌 0H: Lên mã đổi xu: https://shorten.asia/gbvMbFfa 
 .
-🔥Sản phẩm dùng thử giá 9K, x9K: https://tinyurl.com/23wzv4th 
+📌 0H: Lên mã đổi sao: https://shorten.asia/kREwetcF 
+.
+📌 Các link dưới canh có thể back lúc 0H, 9H, 12H, 20H  
+◼️ Link 1:  HL:  https://shorten.asia/Ap2c4UPW  
+◼️ Link 2:  Mai:  https://shorten.asia/43Dv6FGh  
+◼️ Link 3: Chloe:  https://shorten.asia/VKxdmChY  
+◼️ Link 4: Vina: https://shorten.asia/KUuMghXB  
+◼️ Link 5: Mobi: https://shorten.asia/QeHXeznK  
+◼️ Link 6: Olp:  https://shorten.asia/jgx9NMqj  
+◼️ Link 7: Shopiness https://shorten.asia/dvZWDYPu   
+◼️ Link 8: HT: https://shorten.asia/53tGBa59  
+.
+📌 9H, 12H, 15H, 18H: Lưu hoàn tiền: https://shorten.asia/y3yA4p2Z 
+.
+📌 Ưu đãi ngân hàng
+◼️  9h, 12H: Lưu mã ngân hàng tại: https://shorten.asia/mQHHtS3R 
+.
+📌 Thanh toán zalo, momo - Thêm lượt
+◼️  9h, 12H: Lưu các mã momo, zalo tại:  https://shorten.asia/mNYWRHSz  
+.
+📌 Áp toàn sàn - Thêm lượt 
+◼️  9H, 12H, 16H: Lưu mã 30k đơn 500k, 50k đơn 700k, 500k đơn 0đ tại: https://shorten.asia/T3mJ8H4U  - Thêm lượt 
+.
+📌 Tích luỹ 
+◼️  Lưu tích luỹ tại: https://shorten.asia/t91dfvdu  
+◼️  Lưu thêm tích luỹ dưới sản phẩm: https://shorten.asia/ZD35wrFg  
+.
+📌Mua deal mỹ phẩm 0Đ, 1K, 9K: https://shorten.asia/sFyCKxv4  
 
 
 <b>TIKI</b>
