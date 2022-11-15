@@ -1,23 +1,17 @@
 var content_dday = `
 🏆TỔNG HỢP MÃ SHOPEE + LAZADA + TIKI NGÀY SALE 15/11🏆
 <b>Mã dài dài lắm mn cứ lướt xuống đi nhé! 😍</b>
-
 📣 SALE SHOPEE 18H 15.11
-
 🔸 𝐌𝐢𝐞̂̃𝐧 𝐩𝐡𝐢́ 𝐯𝐚̣̂𝐧 𝐜𝐡𝐮𝐲𝐞̂̉𝐧:
 👉 Pee tặng mã FS: https://shorten.asia/4BKkT2Qc 
-
 ►  18H, 21H: Lưu mã FS 15K/0Đ ( 10K/0Đ tùy user ),  FS giảm 50% tối đa 15K/0Đ + 30K/99K, FS 25k/50k tại: https://shorten.asia/Vd4MBCeX 
 .
 🔸 𝑺𝒊𝒆̂𝒖 𝒔𝒂𝒍𝒆 𝒗𝒐𝒖𝒄𝒉𝒆𝐫:
-
 ► 18H: Lưu tại: https://shorten.asia/EambK3fX  + dùng ngay mã giảm 15K đơn 99K toàn sàn 
 .
 🔸 𝐒𝐚̆𝐧 𝐯𝐨𝐮𝐜𝐡𝐞𝐫 𝐜𝐮̀𝐧𝐠 𝐊𝐎𝐋: 
 ⚡ Đúng giờ load link mã lên, mã có thể lọc user:
-
 ► 18H: Lưu tại: https://shorten.asia/T5SByNky  + dùng ngay mã giảm 51k đơn 111k toàn sàn 
-
 ► 18H: Lưu tại: https://shorten.asia/T5SByNky  + dùng ngay mã giảm 40k đơn 250k, 30k đơn 150k, 20k đơn 99k toàn sàn 
 .
 🔸 𝐇𝐨𝐚̀𝐧 𝐱𝐮 𝐗𝐭𝐫𝐚: - Áp cho sp có logo hoàn xu xtra
@@ -27,15 +21,10 @@ var content_dday = `
 👉 Lưu trước mã tại: https://shorten.asia/qbPzUgXV  + dùng ngay
 .
 ❌ MÃ SHOP:
-
 ► 18H: FMCG99162 (mã shop) giảm 50% tối đa 99K đơn 0đ áp list: https://shorten.asia/nGgSy6Tk 
-
 ► 18H: FMCG99163 (mã shop) giảm 50% tối đa 99K đơn 0Đ áp list: https://shorten.asia/CEghjSJw 
-
 ► 18H: FMCG99164 (mã shop) giảm 50% tối đa 99K đơn 0Đ áp list: https://shorten.asia/NV1nTC5n 
-
 ⚡ Vào lưu trước: https://shorten.asia/GgVamPbW  + dùng ngay lúc 18H loạt mã shop giảm 50k đơn 0Đ - đúng giờ load trang lên mã mới 
-
 ⚡ Vào ví voucher: https://shorten.asia/4BKkT2Qc  
 👉 Mã shop lúc 18H
 ► Nhập mã SZ182x thay x từ số 1 đến 94 tạo thành mã shop giảm 50k đơn 0Đ
