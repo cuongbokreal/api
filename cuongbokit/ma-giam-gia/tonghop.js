@@ -70,19 +70,47 @@ var api_mgg_content = `
 🔥THỬ THÁCH SHOPEE: https://shorten.asia/matYfAEq 
 
 <b>LAZADA</b>
-➖➖➖➖LAZADA➖➖➖➖
-🔥20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc…”
+⏰MÃ LAZADA NGÀY 17/11:
+🔥0H: MÃ TOÀN SÀN GIẢM 25K ĐƠN TỪ 99K: đúng giờ load trang lưu mã
+=> Lưu mã tại(1): https://shorten.asia/6tvj94Sm 
+=> Lưu mã tại(2): https://shorten.asia/Q3jdNUN5 
+=> Lưu mã tại(3): https://shorten.asia/XCWvGTYg 
+=> Lưu mã tại(4): https://shorten.asia/6192YUU9 
+.
+🔥SIÊU TIỆC 5 THƯƠNG HIỆU THỜI TRANG: 
+• Giảm đến 80%, mua 2 giảm thêm đến 30%
+• 0H, 12H, 20H: Lưu mã shop giảm 30%
+• 0H: Lưu mã Lazada giảm 40K/500K, 50K/300K, 65K/600K, 75K/600K
+=> Xem chi tiết tại: https://shorten.asia/hh2N9gUa 
+.
+🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K: mục “Độc Quyền”
+=> Lưu mã tại: https://shorten.asia/enUsVhhY  
+.
+🔥0H, 2H, 9H, 12H, 20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy”
 => Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
 .
-🔥MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K:
+🔥9H, 12H, 16H: MÃ TOÀN SÀN GIẢM 500K/0Đ, 50K/700K, 30K/500K: canh back - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://shorten.asia/T3mJ8H4U 
+.
+🔥9H: MÃ ZALOPAY + MOMO + VNPT: canh back - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://shorten.asia/uwTUg3tu 
+.
+🔥9H, 12H: MÃ NGâN HÀNG: load trang liên tục - một số mã có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://shorten.asia/mQHHtS3R 
+.
+🔥9H, 12H, 16H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K: canh back - có thể lên sớm hoặc muộn hơn
 => Lưu mã tại: https://shorten.asia/y3yA4p2Z 
 .
 🔥VOUCHER TÍCH LŨY GIẢM 400K: từ ngày 15/11-17/11
-• Thu thập 50K voucher tích lũy dưới sản phẩm: https://shorten.asia/kryt2k64 
-• Thu thập thêm 50K voucher tích luỹ tại: https://shorten.asia/t91dfvdu 
+• Thu thập 150K  voucher tích lũy dưới sản phẩm: https://shorten.asia/kryt2k64 
+• Thu thập thêm 150K voucher tích luỹ tại: https://shorten.asia/t91dfvdu 
 => Giảm ngay 10K cho mỗi 150K, giảm ngay 50K cho mỗi 650K
 .
 🔥Sản phẩm dùng thử giá 9K, x9K: https://shorten.asia/sFyCKxv4 
+.
+🔥0H: Lên mã đổi xu: https://shorten.asia/gbvMbFfa 
+.
+🔥0H: Lên mã đổi sao: https://shorten.asia/kREwetcF 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
