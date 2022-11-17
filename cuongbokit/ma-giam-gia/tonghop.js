@@ -21,83 +21,65 @@ var api_mgg_content = `
 👉 Tìm mã theo link sản phẩm tại: https://tinyurl.com/233fwzal 
 👉 Group săn mã, minigame: https://www.facebook.com/groups/584602429633228/ 
 
+⏰SHOPEE, LAZADA TỪ 18H - 21H NGÀY 17/11:
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• Lưu mã Freeship giảm 25K/0Đ, 15K/0Đ tại các live: https://shorten.asia/9Bg7Cyvv  mục FREESHIP25K
-• Lưu mã Freeship giảm 25K/50K lọc sản phẩm: https://shorten.asia/gkSHRhGQ  
-• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://shorten.asia/WMSfYXJM 
-• Quay mã Freeship: https://shorten.asia/zguz7hTv 
-.
-🔥THƯƠNG HIỆU ĐỜI SỐNG: https://shorten.asia/3GHRg5QH 
-• 15H: LIFESMSHU70 giảm 25% tối đa 500K đơn từ 500K. List sản phẩm áp mã: https://shorten.asia/znHkZEZF 
-• 15H: LIFESMSHU04 giảm 25% tối đa 500K đơn từ 500K. List sản phẩm áp mã: https://shorten.asia/JV7tcdX4 
-• LIFESMSHU2H giảm 200K đơn từ 1tr. List sản phẩm áp mã: https://shorten.asia/JSaSHTsy  
+• Lưu mã Freeship giảm 25K/0Đ, 15K/0Đ tại các live: https://tinyurl.com/2a8tjxs8  mục FREESHIP 25K
+• Lưu mã Freeship giảm 25K/50K lọc sản phẩm: https://tinyurl.com/2k3emwbw  
+• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://tinyurl.com/2l3t5b7q 
+• Quay mã Freeship: https://tinyurl.com/2mfy9vwo 
 .
 🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
-• 12H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://shorten.asia/713vJmXX  hoặc https://shorten.asia/AyS7vM4s  mục live, shop nào live thì vào shop đó nhé(còn back vào 18H)
-• 12H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://shorten.asia/9Bg7Cyvv  mục “x4 GIẢM GIÁ”(còn back vào 18H)
-• Sau 12H: Mã giảm 50% tối đa 30K đơn từ 30K toàn sàn tag Shopee Live. Lưu mã tại: https://shorten.asia/d4rW2krG  mục live
+• 18H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://tinyurl.com/2pyzknxf  hoặc https://tinyurl.com/2zx6vj6m  hoặc https://tinyurl.com/2z4uzvyx  mục live, shop nào live thì vào shop đó nhé(back)
+• 18H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://tinyurl.com/2a8tjxs8  mục “x4 GIẢM GIÁ”(back)
 => TỔNG HỢP HƠN 150 SHOP ÁP ĐƯỢC MÃ 25K/50K, 50K/100K TẠI: https://t.ecomobi.com/ 
 .
-🔥XEM LIVE SĂN MÃ SHOPEE GIẢM 25K/50K, 50K/100K + FREESHIP 70K/25K: mục live
-• 12H: Thương hiệu L'Oreal Paris: https://shorten.asia/T8wpcQKh 
-• 13H: Thương hiệu Maybeline: https://shorten.asia/DUk5Db72 
+🔥THƯƠNG HIỆU ĐỜI SỐNG: https://tinyurl.com/2qvtrtl3 
+• 21H: LIFESMSHU03 giảm 25% tối đa 500K đơn từ 500K. List sản phẩm áp mã: https://tinyurl.com/2nway7aj 
+• 21H: LIFESMSHU35 giảm 25% tối đa 500K đơn từ 500K. List sản phẩm áp mã: https://tinyurl.com/2dwkwwdo 
 .
-🔥SHOPEEFOOD: https://shorten.asia/CpZ3wdE6 
-• 13H, 17H: 2011SIEDEAL20 giảm 50% tối đa 20K đơn từ 0Đ
+🔥SHOPEEFOOD: https://tinyurl.com/2e3ufg5j 
+• 19H: 2011SIEDEAL20 giảm 50% tối đa 20K đơn từ 0Đ
 • Xem thêm mã khác tại banner
 .
-🔥IKANVA@: https://shorten.asia/qQwgqmFj 
-• 12H: TOPF1712H (mã shop) giảm 30K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/7VWmehbx 
- .
-🔥HIGHCLUB: https://shorten.asia/JzCpwW87 
-• 12H59s: HIGH17691 (mã shop) giảm 69K đơn từ 199K. List sản phẩm áp mã: https://shorten.asia/rhw8V7RE 
+🔥IKANVA@: https://tinyurl.com/2jcp2fn6 
+• 20H: TOPF1720H (mã shop) giảm 30K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2zqyab7t 
+.
+🔥20H: XEM LIVE SĂN MÃ SHOPEE GIẢM 50% TỐI ĐA 50K CHO UNILEVER: https://tinyurl.com/2h6a7mw8 
 .
 🔥MÃ ÁP ĐA SỐ SẢN PHẨM: còn lượt
-• AFFYFW39 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/xWx71f4g 
+• AFFYFW39 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/2zqkp8jz 
 .
 🔥MÃ ÁP MỘT SỐ SẢN PHẨM: còn lượt
-• SKAMLTB0811 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/Vj7TM4Xs 
-• AFFMSO25K giảm 25K đơn từ 125K. List sản phẩm áp mã: https://shorten.asia/PqJ3gX58 
-• AFFPUMS30K giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/4f15kvJW 
+• SKAMLTB0811 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2j86p65y 
+• AFFMSO25K giảm 25K đơn từ 125K. List sản phẩm áp mã: https://tinyurl.com/2g9f86wg 
+• AFFPUMS30K giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/2hutu8z2 
 .
-🔥HÀNG QUỐC TẾ: https://shorten.asia/hNt3WdmB 
+🔥HÀNG QUỐC TẾ: https://tinyurl.com/2lu2tjje 
 • CBBRNOV17 giảm 12% tối đa 50K đơn từ 200K
 • CBBRNOV17M giảm 15% tối đa 100K đơn từ 150K
 .
-🔥THỬ THÁCH SHOPEE: https://shorten.asia/matYfAEq 
+🔥THỬ THÁCH SHOPEE: https://tinyurl.com/2dwc56ke 
 
 <b>LAZADA</b>
 ➖➖➖➖LAZADA➖➖➖➖
 🔥SIÊU TIỆC 5 THƯƠNG HIỆU THỜI TRANG: 
-• 12H: Lưu mã shop giảm 30%
-• 12H: Lưu mã Lazada giảm 40K/500K, 65K/600K
+• 20H: Lưu mã shop giảm 30%
+• 20H: Lưu mã Lazada giảm 40K/500K, 65K/600K
 • Giảm đến 80%, mua 2 giảm thêm đến 30%
-=> Xem chi tiết tại: https://shorten.asia/hh2N9gUa 
+=> Xem chi tiết tại: https://tinyurl.com/2n2t6jda 
 .
-🔥12H: MÃ NGâN HÀNG: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/mQHHtS3R 
-.
-🔥12H, 16H: MÃ TOÀN SÀN GIẢM 500K/0Đ, 50K/700K, 30K/500K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/T3mJ8H4U 
-.
-🔥12H, 16H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/y3yA4p2Z 
-.
-🔥12H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc…”
-=> Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
-.
-🔥MÃ ZALOPAY + MOMO + VNPT: 
-=> Lưu mã tại: https://shorten.asia/cJggkH4R 
+🔥20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc…”
+=> Xem chi tiết tại: https://tinyurl.com/2najrtpy 
 .
 🔥VOUCHER TÍCH LŨY GIẢM 400K: từ ngày 15/11-17/11
-• Thu thập voucher tích lũy dưới sản phẩm: https://shorten.asia/kryt2k64 
-• Thu thập thêm voucher tích luỹ tại: https://shorten.asia/t91dfvdu 
+• Thu thập voucher tích lũy dưới sản phẩm: https://tinyurl.com/2gvx4f8s 
+• Thu thập thêm voucher tích luỹ tại: https://tinyurl.com/2o7uojjb 
 => Giảm ngay 10K cho mỗi 150K, giảm ngay 50K cho mỗi 650K
 .
-🔥LAKOCSALE11 giảm 50K đơn từ 249K cho TEELAB: https://shorten.asia/CwM3Yjrm 
+🔥LAKOCSALE11 giảm 50K đơn từ 249K cho TEELAB: https://tinyurl.com/2kyy3v68 
 .
-🔥Sản phẩm dùng thử giá 9K, x9K: https://shorten.asia/sFyCKxv4 
+🔥Sản phẩm dùng thử giá 9K, x9K: https://tinyurl.com/2mr6nscg 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
