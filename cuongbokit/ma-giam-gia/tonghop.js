@@ -32,7 +32,6 @@ var api_mgg_content = `
 🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
 • 18H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://tinyurl.com/2pyzknxf  hoặc https://tinyurl.com/2zx6vj6m  hoặc https://tinyurl.com/2z4uzvyx  mục live, shop nào live thì vào shop đó nhé(back)
 • 18H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://tinyurl.com/2a8tjxs8  mục “x4 GIẢM GIÁ”(back)
-=> TỔNG HỢP HƠN 150 SHOP ÁP ĐƯỢC MÃ 25K/50K, 50K/100K TẠI: https://t.ecomobi.com/ 
 .
 🔥THƯƠNG HIỆU ĐỜI SỐNG: https://tinyurl.com/2qvtrtl3 
 • 21H: LIFESMSHU03 giảm 25% tối đa 500K đơn từ 500K. List sản phẩm áp mã: https://tinyurl.com/2nway7aj 
