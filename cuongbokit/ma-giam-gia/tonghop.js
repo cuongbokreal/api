@@ -21,44 +21,78 @@ var api_mgg_content = `
 👉 Tìm mã theo link sản phẩm tại: https://tinyurl.com/233fwzal 
 👉 Group săn mã, minigame: https://www.facebook.com/groups/584602429633228/ 
 
-⏰SHOPEE, LAZADA TỪ 18H - 21H NGÀY 17/11:
-➖➖➖➖SHOPEE➖➖➖➖
+️🏆MÃ SHOPEE NGÀY 18/11:
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• Lưu mã Freeship giảm 25K/0Đ, 15K/0Đ tại các live: https://tinyurl.com/2a8tjxs8  mục FREESHIP 25K
-• Lưu mã Freeship giảm 25K/50K lọc sản phẩm: https://tinyurl.com/2k3emwbw  
-• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://tinyurl.com/2l3t5b7q 
-• Quay mã Freeship: https://tinyurl.com/2mfy9vwo 
+• 0H: Lưu mã Freeship giảm 25K/0Đ, 15K/0Đ tại các live: https://goeco.mobi/KDmjF6jR  (back vào 9H, 12H, 18H)
+• Lưu mã Freeship giảm 25K/50K lọc sp: https://goeco.mobi/159TnJt0  (back vào 9H)
+• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://goeco.mobi/jSzuQSl6 
+• Quay mã Freeship: https://goeco.mobi/Bpypw81h 
+.
+🔥MÃ ÁP ĐA SỐ SẢN PHẨM:
+• 0H: AFFAHR39 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://goeco.mobi/3h06Zw1T 
+.
+🔥SHOP MỚI LÊN SÀN: https://goeco.mobi/jKuP9d9C 
+• 0H: SRNOV18B hoàn 20K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/jK8CGL2W  (còn back vào 12H)
+• 0H: SRNOV18 giảm 20K đơn từ 50K. List sản phẩm áp mã: https://goeco.mobi/ix7SNkYF  (còn back vào 12H)
+• Săn deal đồng giá 1K các khung giờ: 
+• 0H: List deal đồng giá 1K: https://goeco.mobi/fNEk5QxD 
+• Săn deal 1K, x9K, mở hộp quà nhận xu
+.
+🔥HÀNG QUỐC TẾ HÀN QUỐC: https://goeco.mobi/GP9JJ8JG 
+• 0H: CBLS0H giảm 50% tối đa 100K đơn từ 150K. List sản phẩm áp mã: https://goeco.mobi/CgEJeaIN 
+• 12H: CBLS12H giảm 50% tối đa 100K đơn từ 150K. List sản phẩm áp mã: https://goeco.mobi/IihlRv4j 
+• 21H: CBLS21H giảm 50% tối đa 100K đơn từ 150K. List sản phẩm áp mã: https://goeco.mobi/I3TrWiLR 
+• 0H: CBKF1811SHV100P0M giảm 15K đơn từ 0Đ
+• 0H: CBKF11SHV20P99M giảm 20% tối đa 30K đơn từ 99K
+• Voucher, ưu đãi từ các thương hiệu
+.
+🔥HÀNG QUỐC TẾ: https://goeco.mobi/yJoxsIkx 
+• 0H: CBSD1811B giảm 12% tối đa 100K đơn từ 150K(back vào 9H, 12H, 18H, 20H)
+• 0H: CBSD1811A giảm 10% tối đa 50K đơn từ 250K(back vào 9H, 12H, 18H, 20H)
+• 0H: Mã giảm 20K đơn từ 100K. Lưu mã tại: https://goeco.mobi/yJoxsIkx 
+• 18H Săn deal giảm 49%, voucher: https://goeco.mobi/rWwIIWNj 
+• Giảm đến 50%, săn deal 99K
+• Voucher, ưu đãi từ các thương hiệu
+.
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - LƯU BANNER: back vào 9H, 12H, 18H
+• 0H: Mã hoàn 5% tối đa 100K đơn từ 50K
+• 0H: Mã hoàn 5% tối đa 200K đơn từ 400K
+=> Lưu mã tại: https://goeco.mobi/UmMFw4yj 
 .
 🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
-• 18H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://tinyurl.com/2pyzknxf  hoặc https://tinyurl.com/2zx6vj6m  hoặc https://tinyurl.com/2z4uzvyx  mục live, shop nào live thì vào shop đó nhé(back)
-• 18H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://tinyurl.com/2a8tjxs8  mục “x4 GIẢM GIÁ”(back)
+• 12H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://goeco.mobi/pqikp9d6  hoặc https://goeco.mobi/6XSSlbSa  hoặc https://goeco.mobi/S50NIQbQ  mục live, shop nào live thì vào shop đó nhé(back vào 18H)
+• 12H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://goeco.mobi/KDmjF6jR  mục “x4 GIẢM GIÁ”(back vào 18H)
+• Sau 12H: Mã giảm 50% tối đa 30K đơn từ 30K toàn sàn tag Shopee Live. Lưu mã tại: https://goeco.mobi/RZToujBM  mục live
 .
-🔥THƯƠNG HIỆU ĐỜI SỐNG: https://tinyurl.com/2qvtrtl3 
-• 21H: LIFESMSHU03 giảm 25% tối đa 500K đơn từ 500K. List sản phẩm áp mã: https://tinyurl.com/2nway7aj 
-• 21H: LIFESMSHU35 giảm 25% tối đa 500K đơn từ 500K. List sản phẩm áp mã: https://tinyurl.com/2dwkwwdo 
+🔥XEM LIVE SĂN MÃ SHOPEE GIẢM 25K/50K, 50K/100K + FREESHIP 70K/25K TỪ THƯƠNG HIỆU: mục live, có thể lên lệch giờ so với lịch dự kiến
+• 11H: Thương hiệu POSEE: https://goeco.mobi/PzrnudUt 
+• 12H: Thương hiệu YODY: https://goeco.mobi/MrEOnaWx 
+• 12H: Thương hiệu LOVITO: https://goeco.mobi/roQANi5e 
+• 13H: Thương hiệu Perfect Diary: https://goeco.mobi/8jqOPfkc 
 .
-🔥SHOPEEFOOD: https://tinyurl.com/2e3ufg5j 
-• 19H: 2011SIEDEAL20 giảm 50% tối đa 20K đơn từ 0Đ
+🔥MÃ ÁP MỘT SỐ SẢN PHẨM: 
+• 9H: SRNOVFS giảm 50% tối đa 20K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/3Q9DeJIn  (có thể back)
+• SKAMLTB0811 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/0O2GrDQH 
+• AFFMSO25K giảm 25K đơn từ 125K. List sản phẩm áp mã: https://goeco.mobi/6MqoFXxp 
+• AFFPUMS30K giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://goeco.mobi/zvsEuaBf 
+.
+🔥SHOPEEPAY: https://goeco.mobi/c0QlCCMM 
+• SPPP2NOV8K giảm 8K đơn từ 99K
+• SPPP2NOVGMV40K giảm 5% tối đa 40K đơn từ 400K
+.
+🔥SHOPEEFOOD: https://goeco.mobi/FOHgzDYu 
+• 7H, 11H, 13H, 17H, 19H: 2011SIEDEAL20 giảm 50% tối đa 20K đơn từ 0Đ
 • Xem thêm mã khác tại banner
 .
-🔥IKANVA@: https://tinyurl.com/2jcp2fn6 
-• 20H: TOPF1720H (mã shop) giảm 30K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2zqyab7t 
+🔥VÀO ĐâY: https://goeco.mobi/AlPzfSfQ  NHẬP:
+• TRIVx thay x bằng các số từ 1 đến 8539 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 10K/0Đ, 50K/50K
 .
-🔥20H: XEM LIVE SĂN MÃ SHOPEE GIẢM 50% TỐI ĐA 50K CHO UNILEVER: https://tinyurl.com/2h6a7mw8 
+🔥0H: MỞ HỘP QUÀ NHẬN XU: https://goeco.mobi/rkih79kR  lọc user
 .
-🔥MÃ ÁP ĐA SỐ SẢN PHẨM: còn lượt
-• AFFYFW39 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/2zqkp8jz 
+🔥0H: THỬ THÁCH SHOPEE: https://goeco.mobi/VnZQ3fnu 
 .
-🔥MÃ ÁP MỘT SỐ SẢN PHẨM: còn lượt
-• SKAMLTB0811 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2j86p65y 
-• AFFMSO25K giảm 25K đơn từ 125K. List sản phẩm áp mã: https://tinyurl.com/2g9f86wg 
-• AFFPUMS30K giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/2hutu8z2 
-.
-🔥HÀNG QUỐC TẾ: https://tinyurl.com/2lu2tjje 
-• CBBRNOV17 giảm 12% tối đa 50K đơn từ 200K
-• CBBRNOV17M giảm 15% tối đa 100K đơn từ 150K
-.
-🔥THỬ THÁCH SHOPEE: https://tinyurl.com/2dwc56ke 
+🔥MUA GÓI SVC 30K: https://goeco.mobi/dczPvPfg 
+
 
 <b>LAZADA</b>
 ➖➖➖➖LAZADA➖➖➖➖
