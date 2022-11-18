@@ -21,98 +21,75 @@ var api_mgg_content = `
 👉 Tìm mã theo link sản phẩm tại: https://tinyurl.com/233fwzal 
 👉 Group săn mã, minigame: https://www.facebook.com/groups/584602429633228/ 
 
-️🏆MÃ SHOPEE NGÀY 18/11:
+️⏰SHOPEE, LAZADA TỪ 18H - 21H NGÀY 18/11:
+➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• 0H: Lưu mã Freeship giảm 25K/0Đ, 15K/0Đ tại các live: https://goeco.mobi/KDmjF6jR  (back vào 9H, 12H, 18H)
-• Lưu mã Freeship giảm 25K/50K lọc sp: https://goeco.mobi/159TnJt0  (back vào 9H)
-• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://goeco.mobi/jSzuQSl6 
-• Quay mã Freeship: https://goeco.mobi/Bpypw81h 
-.
-🔥MÃ ÁP ĐA SỐ SẢN PHẨM:
-• 0H: AFFAHR39 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://goeco.mobi/3h06Zw1T 
-.
-🔥SHOP MỚI LÊN SÀN: https://goeco.mobi/jKuP9d9C 
-• 0H: SRNOV18B hoàn 20K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/jK8CGL2W  (còn back vào 12H)
-• 0H: SRNOV18 giảm 20K đơn từ 50K. List sản phẩm áp mã: https://goeco.mobi/ix7SNkYF  (còn back vào 12H)
-• Săn deal đồng giá 1K các khung giờ: 
-• 0H: List deal đồng giá 1K: https://goeco.mobi/fNEk5QxD 
-• Săn deal 1K, x9K, mở hộp quà nhận xu
-.
-🔥HÀNG QUỐC TẾ HÀN QUỐC: https://goeco.mobi/GP9JJ8JG 
-• 0H: CBLS0H giảm 50% tối đa 100K đơn từ 150K. List sản phẩm áp mã: https://goeco.mobi/CgEJeaIN 
-• 12H: CBLS12H giảm 50% tối đa 100K đơn từ 150K. List sản phẩm áp mã: https://goeco.mobi/IihlRv4j 
-• 21H: CBLS21H giảm 50% tối đa 100K đơn từ 150K. List sản phẩm áp mã: https://goeco.mobi/I3TrWiLR 
-• 0H: CBKF1811SHV100P0M giảm 15K đơn từ 0Đ
-• 0H: CBKF11SHV20P99M giảm 20% tối đa 30K đơn từ 99K
-• Voucher, ưu đãi từ các thương hiệu
-.
-🔥HÀNG QUỐC TẾ: https://goeco.mobi/yJoxsIkx 
-• 0H: CBSD1811B giảm 12% tối đa 100K đơn từ 150K(back vào 9H, 12H, 18H, 20H)
-• 0H: CBSD1811A giảm 10% tối đa 50K đơn từ 250K(back vào 9H, 12H, 18H, 20H)
-• 0H: Mã giảm 20K đơn từ 100K. Lưu mã tại: https://goeco.mobi/yJoxsIkx 
-• 18H Săn deal giảm 49%, voucher: https://goeco.mobi/rWwIIWNj 
-• Giảm đến 50%, săn deal 99K
-• Voucher, ưu đãi từ các thương hiệu
-.
-🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - LƯU BANNER: back vào 9H, 12H, 18H
-• 0H: Mã hoàn 5% tối đa 100K đơn từ 50K
-• 0H: Mã hoàn 5% tối đa 200K đơn từ 400K
-=> Lưu mã tại: https://goeco.mobi/UmMFw4yj 
+• Lưu mã Freeship giảm 25K đơn từ 0Đ, 15K đơn từ 0Đ tại các live: https://shorten.asia/9Bg7Cyvv 
+• Lưu mã Freeship giảm 25K đơn từ 50K lọc sp: https://shorten.asia/gkSHRhGQ 
+• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://shorten.asia/WMSfYXJM 
+• Quay mã Freeship: https://shorten.asia/zguz7hTv 
 .
 🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
-• 12H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://goeco.mobi/pqikp9d6  hoặc https://goeco.mobi/6XSSlbSa  hoặc https://goeco.mobi/S50NIQbQ  mục live, shop nào live thì vào shop đó nhé(back vào 18H)
-• 12H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://goeco.mobi/KDmjF6jR  mục “x4 GIẢM GIÁ”(back vào 18H)
-• Sau 12H: Mã giảm 50% tối đa 30K đơn từ 30K toàn sàn tag Shopee Live. Lưu mã tại: https://goeco.mobi/RZToujBM  mục live
+• 18H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://shorten.asia/713vJmXX  hoặc https://shorten.asia/rYJhwuWn  hoặc https://shorten.asia/5psArDxR  mục live, shop nào live thì vào shop đó nhé(back)
+• 18H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://shorten.asia/9Bg7Cyvv  mục “x4 GIẢM GIÁ”(back)
+=> TỔNG HỢP HƠN 150 SHOP ÁP ĐƯỢC MÃ 25K/50K, 50K/100K TẠI: https://t.ecomobi.com/ 
 .
-🔥XEM LIVE SĂN MÃ SHOPEE GIẢM 25K/50K, 50K/100K + FREESHIP 70K/25K TỪ THƯƠNG HIỆU: mục live, có thể lên lệch giờ so với lịch dự kiến
-• 11H: Thương hiệu POSEE: https://goeco.mobi/PzrnudUt 
-• 12H: Thương hiệu YODY: https://goeco.mobi/MrEOnaWx 
-• 12H: Thương hiệu LOVITO: https://goeco.mobi/roQANi5e 
-• 13H: Thương hiệu Perfect Diary: https://goeco.mobi/8jqOPfkc 
+🔥THỜI TRANG MALL: https://shorten.asia/HuGWctWf 
+• 18H: VIENMGG01 (mã shop) giảm 30% tối đa 50K đơn từ 150K cho Viễn Chí Bảo: https://shorten.asia/wbZW92Tb 
+• 18H31s: PRAZASC (mã shop) giảm 30% tối đa 77K đơn từ 259K cho Praza: https://shorten.asia/vBK9ctSj 
 .
-🔥MÃ ÁP MỘT SỐ SẢN PHẨM: 
-• 9H: SRNOVFS giảm 50% tối đa 20K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/3Q9DeJIn  (có thể back)
-• SKAMLTB0811 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/0O2GrDQH 
-• AFFMSO25K giảm 25K đơn từ 125K. List sản phẩm áp mã: https://goeco.mobi/6MqoFXxp 
-• AFFPUMS30K giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://goeco.mobi/zvsEuaBf 
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - LƯU BANNER:
+• 18H: Mã hoàn 5% tối đa 100K đơn từ 50K(back)
+• 18H: Mã hoàn 5% tối đa 200K đơn từ 400K(back)
+=> Lưu mã tại: https://shorten.asia/rMTsE8HG 
 .
-🔥SHOPEEPAY: https://goeco.mobi/c0QlCCMM 
-• SPPP2NOV8K giảm 8K đơn từ 99K
-• SPPP2NOVGMV40K giảm 5% tối đa 40K đơn từ 400K
-.
-🔥SHOPEEFOOD: https://goeco.mobi/FOHgzDYu 
-• 7H, 11H, 13H, 17H, 19H: 2011SIEDEAL20 giảm 50% tối đa 20K đơn từ 0Đ
+🔥SHOPEEFOOD: https://shorten.asia/CpZ3wdE6 
+• 19H: 2011SIEDEAL20 giảm 50% tối đa 20K đơn từ 0Đ
 • Xem thêm mã khác tại banner
 .
-🔥VÀO ĐâY: https://goeco.mobi/AlPzfSfQ  NHẬP:
-• TRIVx thay x bằng các số từ 1 đến 8539 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 10K/0Đ, 50K/50K
+🔥HÀNG QUỐC TẾ: https://shorten.asia/JhVrAN7Z 
+• 18H: Xem live săn deal giảm 49%, voucher: https://shorten.asia/vwVy8Y7e 
+• 20H: CBSD1811B giảm 12% tối đa 100K đơn từ 150K(back)
+• 20H: CBSD1811A giảm 10% tối đa 50K đơn từ 250K(back)
 .
-🔥0H: MỞ HỘP QUÀ NHẬN XU: https://goeco.mobi/rkih79kR  lọc user
+🔥HÀNG QUỐC TẾ HÀN QUỐC: https://shorten.asia/XUg59WFz 
+• 21H: CBLS21H giảm 50% tối đa 100K đơn từ 150K. List sản phẩm áp mã: https://shorten.asia/ahH9MzD9 
+• CBKF1811SHV100P0M giảm 15K đơn từ 0Đ
+• CBKF11SHV20P99M giảm 20% tối đa 30K đơn từ 99K
 .
-🔥0H: THỬ THÁCH SHOPEE: https://goeco.mobi/VnZQ3fnu 
+🔥MỘT SỐ MÃ SHOP KHÁC: lúc săn nhập mã vào mục "Voucher của shop"
+• 20H54s: CONA50A20 giảm 50K đơn từ 100K cho CONA VIỆT NAM: https://shorten.asia/aBZR2f3n 
+• 20H: INSH30AD giảm 30K đơn từ 0Đ cho Inshop: https://shorten.asia/Ccr36JE7 
+• 21H: ZENMF1814 giảm 40K đơn từ 0Đ cho Zen Me: https://shorten.asia/1UpujxG9 
+• HAIH6011 giảm 60% đơn từ 0Đ cho đồ dùng học tập: https://shorten.asia/KupZTpcx 
+• HOMEY40K giảm 40K đơn từ 0Đ cho Ngũ Cốc: https://shorten.asia/ZYxDHfsv 
+• LATIH99K giảm 99K đơn từ 100K cho LATI STORE TÚI VÍ CAO CẤP: https://shope.ee/error_page 
 .
-🔥MUA GÓI SVC 30K: https://goeco.mobi/dczPvPfg 
-
+🔥MÃ ÁP ĐA SỐ SẢN PHẨM: còn lượt
+• AFFAHR39 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/qKCvnmND 
+.
+🔥MÃ ÁP MỘT SỐ SẢN PHẨM: còn lượt
+• BATTRENDTHANG11 giảm 15K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/C9rH8wFK 
+• SKAMLTB0811 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/Vj7TM4Xs 
+• AFFMSO25K giảm 25K đơn từ 125K. List sản phẩm áp mã: https://shorten.asia/PqJ3gX58 
+• AFFPUMS30K giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/4f15kvJW 
+.
+🔥THỬ THÁCH SHOPEE: https://shorten.asia/matYfAEq 
 
 <b>LAZADA</b>
 ➖➖➖➖LAZADA➖➖➖➖
-🔥SIÊU TIỆC 5 THƯƠNG HIỆU THỜI TRANG: 
-• 20H: Lưu mã shop giảm 30%
-• 20H: Lưu mã Lazada giảm 40K/500K, 65K/600K
-• Giảm đến 80%, mua 2 giảm thêm đến 30%
-=> Xem chi tiết tại: https://tinyurl.com/2n2t6jda 
+🔥20H: MÃ SHOP GIẢM 30% TỪ CÁC THƯƠNG HIỆU THỜI TRANG:
+=> LƯu mã tại: https://shorten.asia/GFmK42RN 
 .
-🔥20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy” chọn mục “Đừng quên ! Mở bán lúc…”
-=> Xem chi tiết tại: https://tinyurl.com/2najrtpy 
+🔥20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy”
+=> Xem chi tiết tại: https://shorten.asia/cfKGNyQe 
 .
-🔥VOUCHER TÍCH LŨY GIẢM 400K: từ ngày 15/11-17/11
-• Thu thập voucher tích lũy dưới sản phẩm: https://tinyurl.com/2gvx4f8s 
-• Thu thập thêm voucher tích luỹ tại: https://tinyurl.com/2o7uojjb 
-=> Giảm ngay 10K cho mỗi 150K, giảm ngay 50K cho mỗi 650K
+🔥MÃ FREESHIP, MÃ TOÀN SÀN, MÃ KHÁC:
+=> Lưu mã tại: https://shorten.asia/Gp6jsWJb 
 .
-🔥LAKOCSALE11 giảm 50K đơn từ 249K cho TEELAB: https://tinyurl.com/2kyy3v68 
+🔥LAKOCSALE11 giảm 50K đơn từ 249K cho TEELAB: https://shorten.asia/RnN5tDrY 
 .
-🔥Sản phẩm dùng thử giá 9K, x9K: https://tinyurl.com/2mr6nscg 
+🔥Sản phẩm dùng thử giá 9K, x9K: https://shorten.asia/eUEfcgAb 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
