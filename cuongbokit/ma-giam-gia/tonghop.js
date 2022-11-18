@@ -77,19 +77,21 @@ var api_mgg_content = `
 🔥THỬ THÁCH SHOPEE: https://shorten.asia/matYfAEq 
 
 <b>LAZADA</b>
-➖➖➖➖LAZADA➖➖➖➖
-🔥20H: MÃ SHOP GIẢM 30% TỪ CÁC THƯƠNG HIỆU THỜI TRANG:
-=> LƯu mã tại: https://shorten.asia/GFmK42RN 
+💥🔥 Lễ hội thời trang 18 - 21.11: https://shorten.asia/vpMajKXq 
+Lưu voucher 10% 30k 8% + freeship 
+Deal sốc 11k + mua 2 giảm 10% +  voucher 30%
 .
-🔥20H: DEAL TRỢ GIÁ - TỰ NHẢY GIÁ: ở phần “LazFlash Crazy”
-=> Xem chi tiết tại: https://shorten.asia/cfKGNyQe 
+✡️  Mã Giảm Giá Lazada Toàn Sàn 8% 10% 30k + freeship: https://shorten.asia/T3mJ8H4U 
+🔴 Mã ngân hàng: https://shorten.asia/mNYWRHSz 
+💥ZALOPAY: https://shorten.asia/J9jrGECs 
+💥MOMO: https://shorten.asia/hgvhP2NF 
+🚥 Trang voucher cộng đồng: https://shorten.asia/6tvj94Sm 
+🚥Cuối tháng sale sốc: https://shorten.asia/MTpSEUPV 
 .
-🔥MÃ FREESHIP, MÃ TOÀN SÀN, MÃ KHÁC:
-=> Lưu mã tại: https://shorten.asia/Gp6jsWJb 
-.
-🔥LAKOCSALE11 giảm 50K đơn từ 249K cho TEELAB: https://shorten.asia/RnN5tDrY 
-.
-🔥Sản phẩm dùng thử giá 9K, x9K: https://shorten.asia/eUEfcgAb 
+🔴 CÁC CHƯƠNG TRÌNH HOT
+🔸 Chơi game Lazzie Star nhận voucher Lazada toàn sàn, voucher tích lũy: https://shorten.asia/yTwCbhj8 
+🔸 Chơi game happy Match tích sao đổi voucher Lazada: https://shorten.asia/kREwetcF 
+🔸 Hoàn tiền Max: https://shorten.asia/uApqmcDf 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
