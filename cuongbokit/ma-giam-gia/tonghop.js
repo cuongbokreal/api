@@ -1,21 +1,19 @@
 var api_mgg_content = `
-❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 16/11 ❤️
+❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 21/11 ❤️
 .
 🍒 1. Thử Thách Shopee 0H: https://shorten.asia/matYfAEq           
 .
-🍒 2. Mở Rương Vàng - Voucher 150K, 50K: https://shorten.asia/EambK3fX 
+🍒 2. Voucher Trốn Bạn Tìm: giải mã tìm Voucher 150K, 20K và Shopee xu: https://shorten.asia/T5SByNky 
 .
-🍒 3. Nông Trại Shopee - Siêu Hội Bạn Bè chéo 70g: https://shorten.asia/QNDANt9P                 
+🍒 3. Truy Tìm Mảnh Ghép: https://shorten.asia/MWb7jhE6                
 .
-🍒 4. Hộp Quà Thần Kỳ – LỌC TK: https://shorten.asia/GGrF3KsG                  
+🍒 4. Bí Ẩn Hộp Quà Đen: https://shorten.asia/Y1hHfqCt   
 .
-🍒 5. Quà Tặng Shopee - Vi Vu Săn Xu Vàng đổi 5K xu: https://shorten.asia/Ymja81mu        
+🍒 5. Vòng Quay Freeship+ Vòng Quay Voucher (kéo xuống cuối trang): https://shorten.asia/kTTa5Ggk 
 .
-🍒 6. Shopee Máy Gắp Thú: https://shorten.asia/ZrTp4TtW  
+🍒 6. Quà Tặng Shopee: mở quà nhận 11K xu (ngày cuối): https://shorten.asia/Ymja81mu 
 .
-🍒 7. Sự kiện mới - Bé Ngoan Shopee - Chia kho xu 150tr: https://shorten.asia/WMSfYXJM 
-.
-►12H lưu phiếu BÉ SĂN XU: https://shorten.asia/kTTa5Ggk 
+🍒 7. Shopee Máy Gắp Thú: https://shorten.asia/ZrTp4TtW 
 .
 👉 Nhóm Z.alo cập nhật mã sớm nhất: https://zalo.me/g/fqehfa279 
 👉 Tìm mã theo link sản phẩm tại: https://tinyurl.com/233fwzal 
