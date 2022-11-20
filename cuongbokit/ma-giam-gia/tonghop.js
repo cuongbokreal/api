@@ -21,83 +21,106 @@ var api_mgg_content = `
 👉 Tìm mã theo link sản phẩm tại: https://tinyurl.com/233fwzal 
 👉 Group săn mã, minigame: https://www.facebook.com/groups/584602429633228/ 
 
-️
-⏰SHOPEE, LAZADA TỪ 12H - 18H NGÀY 19/11:
+⏰SHOPEE, LAZADA TỪ 18H - 22H NGÀY 20/11:
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• 12H, 18H: Lưu mã Freeship Xtra tại: https://goeco.mobi/qsRAG8RK  (back)
-• 12H: Lưu mã Freeship giảm 25K/50K lọc sp: https://goeco.mobi/159TnJt0  (back)
-• Lưu mã Freeship giảm 25K/0Đ, 15K/0Đ tại các live: https://goeco.mobi/KDmjF6jR  
-• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://goeco.mobi/jSzuQSl6 
-• Quay mã Freeship: https://goeco.mobi/Bpypw81h 
+• Lưu mã Freeship giảm 25K/50K lọc sp: https://shorten.asia/gkSHRhGQ 
+• Lưu mã Freeship giảm 25K/25K, 15K/15K tại các live: https://shorten.asia/9Bg7Cyvv  
+• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://shorten.asia/WMSfYXJM 
+• Quay mã Freeship: https://shorten.asia/zguz7hTv 
 .
 🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
-• 12H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://goeco.mobi/pqikp9d6  hoặc https://goeco.mobi/6XSSlbSa  hoặc https://goeco.mobi/S50NIQbQ  mục live, shop nào live thì vào shop đó nhé(back vào 18H)
-• 12H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://goeco.mobi/KDmjF6jR  mục “x4 GIẢM GIÁ”(back vào 18H)
-• Sau 12H: Mã giảm 50% tối đa 30K đơn từ 30K toàn sàn tag Shopee Live. Lưu mã tại: https://goeco.mobi/RZToujBM  mục live
+• 18H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://shorten.asia/713vJmXX  hoặc https://shorten.asia/rYJhwuWn  hoặc https://shorten.asia/5psArDxR  mục live, shop nào live thì vào shop đó nhé(back)
+• 18H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://shorten.asia/9Bg7Cyvv  mục “x4 GIẢM GIÁ”(back)
 => TỔNG HỢP HƠN 150 SHOP ÁP ĐƯỢC MÃ 25K/50K, 50K/100K TẠI: https://t.ecomobi.com/ 
 .
-🔥XEM LIVE SĂN MÃ SHOPEE GIẢM 25K/50K, 50K/100K + FREESHIP 70K/25K TỪ THƯƠNG HIỆU: mục live, có thể lên lệch giờ so với lịch dự kiến
-• 12H: Thương hiệu Innisfree: https://goeco.mobi/zkcFB009 
-• 12H: Thương hiệu Posee: https://goeco.mobi/PzrnudUt 
-• 13H: Thương hiệu Lovito: https://goeco.mobi/roQANi5e 
-• 13H: Thương hiệu Perfect Diary: https://goeco.mobi/8jqOPfkc 
+🔥3CE: https://shorten.asia/MVPERAyX 
+• 18H: COS3CE205 giảm 419K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/7qUys9jC 
+• 20H12s: 3CEO1HNT4 (mã shop) giảm 200k đơn từ 500k. List sản phẩm áp mã: https://shorten.asia/uYPEzxcH 
+• 21H: COS3CE206 giảm 419k đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/aW8FG28P 
+• Xem thêm mã khác tại banner
 .
-🔥Yody: https://goeco.mobi/MrEOnaWx 
-• 12H: YODY1K12H (mã shop) giảm 230K cho Áo Polo nữ: https://goeco.mobi/CJz41Rmw 
-• 12H56s: YODY100T3 (mã shop) giảm 100K đơn từ 599K. List sản phẩm áp mã: https://goeco.mobi/8zwd3so3 
-• 15H: YODY1K15H (mã shop) giảm 98K cho Áo phông nam: https://goeco.mobi/3bs0QHF6 
-• 15H14s: YODY100T4 (mã shop) giảm 100K đơn từ 599K. List sản phẩm áp mã: https://goeco.mobi/B2KHxzPb 
+🔥Kính mắt Anna: https://shorten.asia/DZzfBbwj 
+• 19H: ANNA100K5 (mã shop) giảm 100k đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/N8xKbFrF 
+• 21H: ANNA500K2 (mã shop) giảm 500k đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/5HWteSEx 
+• 21H: Gọng kính mắt thời trang tự giảm còn 9K: https://shorten.asia/yR6Z8qeu 
+• 21H: Gọng kính mắt thời trang nữ tự giảm còn 9K: https://shorten.asia/7SHqbQ3a 
 .
-🔥BOMSISTER: https://goeco.mobi/hIz3nOYI 
-• 12H: Áo lót mút mỏng ren tự giảm còn 19K: https://goeco.mobi/QmK4mxKy 
-• 12H30: Áo lót mút tự giảm còn 49K: https://goeco.mobi/GkaozAxX 
-• 13H45s: BOMSMDAY3 (mã shop) giảm 199K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/RMMjWONh 
-• 15H: Áo lót thể thao cotton tự giảm còn 19K: https://goeco.mobi/IqBzYqWV 
-• 15H30: Áo lót mút tự giảm còn 49K: https://goeco.mobi/8uWmSnmV 
-• 16H43s: BOMSMDAY4 (mã shop) giảm 199K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/3TBhVbjg 
-.
-🔥Alice Official Store: https://goeco.mobi/qbNOfNoS 
-• 12H: ALIC99K12 (mã shop) giảm 99K đơn từ 0Đ. List sản phẩm áp mã:  https://goeco.mobi/gtiYugGu 
-.
-🔥CLARA MARE: https://goeco.mobi/V4615RiJ 
-• 12H: CLARA30B (mã shop) giảm 30% tối đa 99K đơn từ 99K. List sản phẩm áp mã: https://goeco.mobi/FMCOlcBl 
-.
-🔥Laneige: https://goeco.mobi/lZm821kX 
-• 14H41s: LANEH19C (mã shop) giảm 500K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/ZAd2VxpU 
-.
-🔥CONA VIỆT NAM: https://goeco.mobi/CXU5wDXJ 
-• 14H14s: CONA50A14 (mã shop) giảm 50K đơn từ 100K. List sản phẩm áp mã: https://goeco.mobi/7v97oNFD 
-.
-🔥SHOPEEFOOD: https://goeco.mobi/FOHgzDYu 
-• 13H, 17H: 2011SIEDEAL20 giảm 50% tối đa 20K đơn từ 0Đ
+🔥SHOPEEFOOD: https://shorten.asia/CpZ3wdE6 
+• 19H: 2011SIEDEAL20 giảm 50% tối đa 20K đơn từ 0Đ
+• 19H: 2011SIEUDEAL25 giảm 50% tối đa 25K đơn từ 50K
+• 19H: 2011SIEUDEAL30 giảm 50% tối đa 30K đơn từ 60K
 • Xem thêm mã khác tại banner
 .
 🔥MÃ ÁP MỘT SỐ SẢN PHẨM: còn lượt
-• SKAMLTB0811 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/0O2GrDQH 
-• BATTRENDTHANG11 giảm 15K đơn từ 99K. List sản phẩm áp mã: https://goeco.mobi/YteLYFrJ 
-• AFFMSO25K giảm 25K đơn từ 125K. List sản phẩm áp mã: https://goeco.mobi/6MqoFXxp 
-• AFFPUMS30K giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://goeco.mobi/zvsEuaBf 
+• SKAMLTB0811 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/Vj7TM4Xs 
+• BATTRENDTHANG11 giảm 15K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/C9rH8wFK 
+• AFFMSO25K giảm 25K đơn từ 125K. List sản phẩm áp mã: https://shorten.asia/PqJ3gX58 
+• AFFPUMS30K giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/4f15kvJW 
 .
 🔥MÃ ÁP ĐA SỐ SẢN PHẨM: còn lượt
-• AFFWPB16 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://goeco.mobi/71EAQBsa 
+• AFFSTH62 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/dd1WHuAc 
 .
-🔥THỬ THÁCH SHOPEE: https://goeco.mobi/VnZQ3fnu 
+🔥SUKOTO: https://shorten.asia/QkSF5Te8 
+• 19H55s: SUKO10KD (mã shop) giảm 10K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/c2uWApEB 
+• 21H3s: SUKO20KD (mã shop) giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/34AQ4z43 
+.
+🔥CLARA MARE: https://shorten.asia/dp8v7eZE 
+• 20H: CLARA30F (mã shop) giảm 30% tối đa 99K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/rnF4sE2v 
+.
+🔥CONA: https://shorten.asia/QqHunqgw 
+• 20H58s: CONA50K20 (mã shop) giảm 50K đơn từ 100K. List sản phẩm áp mã: https://shorten.asia/mpvDBNJf 
+.
+🔥VEGAN: https://shorten.asia/TGCB3944 
+• 21H33s: MYPHYDPR8 (mã shop) giảm 200K đơn từ 600K. List sản phẩm áp mã: https://shorten.asia/3B5Qeets 
+• 21H36s: MYPHYDPR7 (mã shop) giảm 200K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/TE54kkxU 
+.
+🔥Laneige: https://shorten.asia/YuHf5vkG 
+• 21H: Săn mã shop giảm 500K đơn từ 0Đ, 111K đơn từ 500K tại shop
+.
+🔥DecorMe VPP: https://shorten.asia/mABTNfAy 
+• 21H24s: DECO20SV4 (mã shop) giảm 30k đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/19SATUJq 
+.
+🔥Fitolabs-Gian hàng chính hãng: https://shorten.asia/1vWrftxu 
+• 21H54s: FITO21H30 (mã shop) giảm 30K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/93G9k74k 
+.
+🔥Alber Kids: https://shorten.asia/nMszhFGE 
+• 21H: ALBERSV3 (mã shop) giảm 99K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/TPBcMXyg 
+.
+🔥Thế Giới Mũ: https://shorten.asia/aQHa5dKQ 
+• 21H41s: THEGSV203 (mã shop) giảm 99K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/39Gm54nd 
+.
+🔥Felce Azzurra: https://shorten.asia/MvzVJj9u 
+• 21H53s: FELC21H50 (mã shop) giảm 50K đơn từ 99K. List sản phẩm áp mã: https://shorten.asia/yFSSpHcY 
+.
+🔥Biluxury: https://shorten.asia/x2aBaa48 
+• 22H: THOIBIHTC (mã shop) giảm đơn 100K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/jHRAeAJs 
+.
+🔥Tihon: https://shorten.asia/n2CWMj6G 
+• 22H: TIHON2022 (mã shop) giảm 50K đơn từ 150K. List sản phẩm áp mã: https://shorten.asia/RSAZwgAq 
+.
+🔥Ăn vặt DumBum: https://shorten.asia/EsYHdCZe 
+• 22H25s: ANVAT20H3 (mã shop) giảm 100K đơn từ 399K. List sản phẩm áp mã: https://shorten.asia/SX1YFtwd 
+.
+🔥360 Boutique: https://shorten.asia/VffGQQzD 
+• 22H: 360B20S4 (mã shop) giảm 99k đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/9wbgNx9P 
+.
+🔥THỬ THÁCH SHOPEE: https://shorten.asia/matYfAEq 
 
 <b>LAZADA</b>
 ➖➖➖➖LAZADA➖➖➖➖
-🔥12H: MÃ NGâN HÀNG: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://goeco.mobi/jNof0cmq 
+🔥20H: MÃ SHOP GIẢM 30% TỪ CÁC THƯƠNG HIỆU THỜI TRANG: bấm vào sản phẩm bất kì tại trang đúng giờ mã lên dưới sản phẩm
+=> LƯu mã tại: https://shorten.asia/9Mu8hNvK 
 .
-🔥12H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
-=> Xem chi tiết tại: https://goeco.mobi/U4FgvW0H 
+🔥20H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
+=> Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
 .
 🔥MÃ FREESHIP, MÃ TOÀN SÀN, MÃ KHÁC:
-=> Lưu mã tại: https://goeco.mobi/8FWHjiyN 
+=> Lưu mã tại: https://shorten.asia/T3mJ8H4U 
 .
-🔥LAKOCSALE11 giảm 50K đơn từ 249K cho TEELAB: https://goeco.mobi/18BoNDzz 
+🔥LAKOCSALE11 giảm 50K đơn từ 249K cho TEELAB: https://shorten.asia/CwM3Yjrm 
 .
-🔥Sản phẩm dùng thử giá 9K, x9K: https://goeco.mobi/kRmkJ4fr 
+🔥Sản phẩm dùng thử giá 9K, x9K: https://shorten.asia/sFyCKxv4 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
