@@ -19,7 +19,6 @@ var api_mgg_content = `
 👉 Tìm mã theo link sản phẩm tại: https://tinyurl.com/233fwzal 
 👉 Group săn mã, minigame: https://www.facebook.com/groups/584602429633228/ 
 
-⏰SHOPEE, LAZADA TỪ 18H - 22H NGÀY 20/11:
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
 • Lưu mã Freeship giảm 25K/50K lọc sp: https://shorten.asia/gkSHRhGQ 
@@ -106,19 +105,31 @@ var api_mgg_content = `
 🔥THỬ THÁCH SHOPEE: https://shorten.asia/matYfAEq 
 
 <b>LAZADA</b>
-➖➖➖➖LAZADA➖➖➖➖
-🔥20H: MÃ SHOP GIẢM 30% TỪ CÁC THƯƠNG HIỆU THỜI TRANG: bấm vào sản phẩm bất kì tại trang đúng giờ mã lên dưới sản phẩm
-=> LƯu mã tại: https://shorten.asia/9Mu8hNvK 
+🔥0H: TOÀN SÀN GIẢM 500K/0Đ, 150K/1500K, 50K/600K, 30K/400K, 6%: back vào 9H, 12H, 16H
+=> Lưu mã tại: https://shorten.asia/T3mJ8H4U 
 .
-🔥20H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
+🔥0H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K ĐƠN TỪ 399K: back vào 9H, 12H, 16H
+=> Lưu mã tại: https://shorten.asia/y3yA4p2Z 
+.
+🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K:
+=> Lưu mã tại: https://shorten.asia/KZqgq7pH 
+.
+🔥0H, 9H, 12H, 20H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
 => Xem chi tiết tại: https://shorten.asia/HtxqmBQG 
 .
-🔥MÃ FREESHIP, MÃ TOÀN SÀN, MÃ KHÁC:
-=> Lưu mã tại: https://shorten.asia/T3mJ8H4U 
+🔥9H, 12H: MÃ NGâN HÀNG: load trang liên tục - một số mã có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://shorten.asia/mQHHtS3R 
+.
+🔥9H: MÃ ZALOPAY + MOMO + VNPT: canh back - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://shorten.asia/cJggkH4R 
 .
 🔥LAKOCSALE11 giảm 50K đơn từ 249K cho TEELAB: https://shorten.asia/CwM3Yjrm 
 .
 🔥Sản phẩm dùng thử giá 9K, x9K: https://shorten.asia/sFyCKxv4 
+.
+🔥0H: Lên mã đổi xu: https://shorten.asia/gbvMbFfa 
+.
+🔥0H: Lên mã đổi sao: https://shorten.asia/kREwetcF 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
