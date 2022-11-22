@@ -19,7 +19,8 @@ var api_mgg_content = `
 👉 Tìm mã theo link sản phẩm tại: https://tinyurl.com/233fwzal 
 👉 Group săn mã, minigame: https://www.facebook.com/groups/584602429633228/ 
 
- MÃ SHOPEE NGÀY 23/11:
+🏆TỔNG HỢP MÃ SHOPEE, LAZADA NGÀY 23/11🏆
+➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
 • 0H: Lưu mã Freeship giảm 25K/0Đ, 15K/0Đ tại các live: https://goeco.mobi/KDmjF6jR  (back vào 9H, 12H, 15H, 18H, 20H)
 • 0H: Lưu mã Freeship Xtra tại: https://goeco.mobi/eDbvg5Sc  (back vào 9H, 12H, 18H)
@@ -57,27 +58,11 @@ var api_mgg_content = `
 🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Freeship Xtra”: 
 • 0H: Mã giảm 10% tối đa 40K đơn từ 200K. Lưu mã tại: https://goeco.mobi/cAnyujlm  (đúng giờ load trang mới hiện mã)
 • 0H: 2311GIAM5K1 giảm 5K đơn từ 99K. List sản phẩm áp mã: https://goeco.mobi/0OPn1gpy 
-• 0H: 2311HOAN40K0PH hoặc 2311HOAN40K1PH hoặc 2311HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back vào 9H, 12H, 21H)
-• 0H: 2311MALL50K0PH hoặc 2311MALL50K1PH hoặc 2311MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back vào 9H, 12H, 21H)
-• 9H: 2311BATNGOTHU4 giảm 20K đơn từ 150K. List sản phẩm áp mã: https://goeco.mobi/qAIgeuEm  (còn back vào 12H, 18H, 20H)
 .
 🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra”: còn back vào 9H, 12H, 18H
 • 0H: Mã hoàn 5% tối đa 100K đơn từ 50K
 • 0H: Mã hoàn 6% tối đa 200K đơn từ 400K
 => Lưu mã tại: https://goeco.mobi/Pdko2wzn 
-.
-🔥BẮT TREND GIÁ SỐC: https://goeco.mobi/159TnJt0 
-• 0H: BATREND30KT4FSD4 giảm 8% tối đa 30K đơn từ 180K. List sản phẩm áp mã: https://goeco.mobi/iOYueSYB 
-• Săn deal đồng giá 1K, 9K từ shop bán.
-• Voucher, ưu đãi từ các shop
-.
-🔥SHOPEEPAY: https://goeco.mobi/c0QlCCMM 
-• SPPP3NOV8K giảm 8K đơn từ 99K
-• SPPP3NOVGMV40K giảm 5% tối đa 40K đơn từ 400K
-.
-🔥VÀO ĐâY: https://goeco.mobi/AlPzfSfQ  NHẬP:
-• TRIVx thay x bằng các số từ 10751 đến 12973 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 10K/0Đ, 50K/50K
-• TRIVx thay x bằng các số từ 1 đến 8539 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 10K/0Đ, 50K/50K
 .
 🔥HÀNG QUỐC TẾ HÀN QUỐC: https://goeco.mobi/X8H4NqPW 
 • 0H: KR150K0H giảm 50% tối đa 100K đơn từ 150K. List sản phẩm áp mã: https://goeco.mobi/Mg8CpQXA 
@@ -93,6 +78,8 @@ var api_mgg_content = `
 • 0H: KRLS0H5 (mã shop) giảm 494K còn 1K cho Kem dưỡng ẩm cosrx: https://goeco.mobi/V3SCOdWd 
 • 0H: KRLS0H6 (mã shop) giảm 302K đơn từ 303K cho Son Dưỡng 3CE: https://goeco.mobi/IbQVzaGF 
 • 0H: KRLS0H7 (mã shop) giảm 395K đơn từ 396K cho Phấn Má Hồng Mịn Lì 3CE: https://goeco.mobi/IwXWeGpk 
+• Giảm đến 50%, săn deal x9K
+• Voucher, ưu đãi từ các shop
 .
 🔥SHOP XU HƯỚNG: https://goeco.mobi/z6RdTyDt 
 • 0H: ALLSKAM2311 giảm 20K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/xuXW7QXe 
@@ -111,6 +98,11 @@ var api_mgg_content = `
 • ALLSKAM2311M giảm 15% tối đa 100K đơn từ 299K 
 • Voucher, ưu đãi từ các shop
 .
+🔥BẮT TREND GIÁ SỐC: https://goeco.mobi/159TnJt0 
+• 0H: BATREND30KT4FSD4 giảm 8% tối đa 30K đơn từ 180K. List sản phẩm áp mã: https://goeco.mobi/iOYueSYB 
+• Săn deal đồng giá 1K, 9K từ shop bán.
+• Voucher, ưu đãi từ các shop
+.
 🔥MÃ ÁP MỘT SỐ SẢN PHẨM: 
 • 9H: SRNOVFS giảm 50% tối đa 20K đơn từ 0Đ. List sản phẩm áp mã: https://goeco.mobi/3Q9DeJIn  (có thể back)
 • 9H: SRNOVP320 giảm 20K đơn từ 50K. List sản phẩm áp mã: https://goeco.mobi/cdDM7Opa  (có thể back)
@@ -123,6 +115,46 @@ var api_mgg_content = `
 • AFFMSO25K giảm 25K đơn từ 125K. List sản phẩm áp mã: https://goeco.mobi/6MqoFXxp 
 • AFFPUMS30K giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://goeco.mobi/zvsEuaBf 
 .
+🔥SHOPEEPAY: https://goeco.mobi/c0QlCCMM 
+• SPPP3NOV8K giảm 8K đơn từ 99K
+• SPPP3NOVGMV40K giảm 5% tối đa 40K đơn từ 400K
+.
+🔥VÀO ĐâY: https://goeco.mobi/AlPzfSfQ  NHẬP:
+• TRIVx thay x bằng các số từ 10751 đến 12973 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 10K/0Đ, 50K/50K
+• TRIVx thay x bằng các số từ 1 đến 8539 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 10K/0Đ, 50K/50K
+.
+🔥Mum Club: https://goeco.mobi/2dNWSkfF 
+• FMCGMEXMKB11 hoàn 30K đơn từ 499K
+• FMCGMEXTK11 hoàn 15% tối đa 15K đơn từ 99K
+• Voucher ưu đãi từ các thương hiệu.
+.
+🔥Thời trang: https://goeco.mobi/mbONbKjO 
+• Voucher ưu đãi từ các shop bán.
+• Săn deal đồng giá 1K, 11K, x9K 
+.
+🔥Bitis: https://goeco.mobi/WY0ysTYh 
+• Săn voucher 111K các khung giờ:
+• 0H4s: BITI111B1 (mã shop)  giảm 111K đơn từ 799K. List sản phẩm áp mã: https://goeco.mobi/LkLnqN2p 
+• 6H46s: BITI111B2 (mã shop) giảm 111K đơn từ 799K. List sản phẩm áp mã: https://goeco.mobi/FLL1zCbY 
+• BITI1500 giảm 15K đơn từ 499K
+• BITI2000 giảm 20K đơn từ 699K
+• BITI2500 giảm 25K đơn từ 799K
+• Quà tặng 0đ khi mua sp mới.
+.
+🔥Vera: https://goeco.mobi/vuw20qWw 
+• Săn voucher 100k các khung giờ:
+• 0H: SONKMD231 (mã shop) giảm 300K đơn từ 599K. List sản phẩm áp mã: https://goeco.mobi/nxpMTQnE 
+• Săn deal 1K - 11K các khung giờ.
+• 0H: Săn deal 1K, 11K tại banner.
+• WABRVR23 giảm 10% tối đa 25K đơn từ 99K
+• WABRVE23 giảm 10% tối đa 40K đơn từ 250k
+• Voucher giảm tới 100K đơn từ shop bán.
+.
+🔥Vua nệm: https://goeco.mobi/2xV2uH8Y 
+• LIFEVCNEM giảm 10% tối đa 400K đơn từ 2m
+• Voucher shop giảm tới 5m.
+• Quà tặng 0đ tới 10m, ưu đãi giảm 50%
+.
 🔥ĐÓN CHỜ SIÊU SALE 25/11:
 • Mã toàn sàn giảm đến 70K, hoàn xu xtra đến 800K, ShopeePay hoàn 50K, Freeship giảm 15K/0Đ...
 => Lưu sớm mã tại: https://goeco.mobi/SqhYBhHR 
@@ -132,14 +164,35 @@ var api_mgg_content = `
 🔥0H: THỬ THÁCH SHOPEE: https://goeco.mobi/VnZQ3fnu 
 .
 🔥MUA GÓI SVC 30K: https://goeco.mobi/dczPvPfg 
-
 <b>LAZADA</b>
 ➖➖➖➖LAZADA➖➖➖➖
-🔥20H: MÃ TOÀN SÀN GIẢM 500K/0Đ, 150K/1500K, 50K/600K, 30K/400K, 6%: canh back - có thể lên sớm hoặc muộn hơn
+🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K:
+=> Lưu mã tại: https://goeco.mobi/ZPXtQd4m 
+.
+🔥0H, 9H, 12H, 20H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
+=> Xem chi tiết tại: https://goeco.mobi/U4FgvW0H 
+.
+🔥9H, 12H, 15H, 20H: MÃ TOÀN SÀN GIẢM 500K/0Đ, 150K/1500K, 50K/600K, 30K/400K, 6%: canh back - có thể lên sớm hoặc muộn hơn
 => Lưu mã tại: https://goeco.mobi/8FWHjiyN 
 .
-🔥20H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
-=> Xem chi tiết tại: https://goeco.mobi/U4FgvW0H 
+🔥9H, 12H, 15H, 20H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K ĐƠN TỪ 399K: canh back - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://goeco.mobi/RgIcGM4S 
+.
+🔥9H, 12H: MÃ NGâN HÀNG: load trang liên tục - một số mã có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://goeco.mobi/jNof0cmq 
+.
+🔥9H: MÃ ZALOPAY + MOMO + VNPT: canh back - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://goeco.mobi/6MrX4UBX 
+.
+🔥LAKOCSALE11 giảm 50K đơn từ 249K cho TEELAB: https://goeco.mobi/18BoNDzz 
+.
+🔥LAZHOT50K giảm 50K đơn từ 200K cho Coolmate: https://goeco.mobi/r8KwQpzb 
+.
+🔥Sản phẩm dùng thử giá 9K, x9K: https://goeco.mobi/kRmkJ4fr 
+.
+🔥0H: Lên mã đổi xu: https://goeco.mobi/LqIVyRI8 
+.
+🔥0H: Lên mã đổi sao: https://goeco.mobi/6CB1PScg 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
