@@ -1,19 +1,15 @@
 var api_mgg_content = `
-🔥🔥23/11 TỔNG HỢP SỰ KIỆN SĂN XU SHOPEE 🔥🔥
-Thử Thách Shopee 0H 
-🌷 https://shorten.asia/matYfAEq 
-Voucher Trốn Bạn Tìm: giải mã tìm Voucher 150K, 20K và Shopee xu
-🌷 https://shorten.asia/T5SByNky 
-Truy Tìm Mảnh Ghép 
-🌷 https://shorten.asia/MWb7jhE6 
-Bí Ẩn Hộp Quà Đen
-🌷 https://shorten.asia/Y1hHfqCt 
-Vòng Quay Freeship+ Vòng Quay Voucher 
-🌷 https://shorten.asia/kTTa5Ggk 
-Quà Tặng Shopee: mở trúng Hộp quà đen chia kho 50 triệu xu
-🌷 https://shorten.asia/Ymja81mu 
-Shopee Máy Gắp Thú 
-🌷 https://shorten.asia/ZrTp4TtW 
+❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 24/11 ❤️
+.
+🍒 1. Thử Thách Shopee 0H: https://shorten.asia/matYfAEq           
+.
+🍒 2. Quà Tặng Shopee: (0H xả hộp quà): https://shorten.asia/Ymja81mu 
+.
+🍒 3. Truy Tìm Mảnh Ghép: https://shorten.asia/MWb7jhE6                
+.
+🍒 4. Vòng Quay Freeship+ Vòng Quay Voucher (kéo xuống cuối trang): https://shorten.asia/kTTa5Ggk 
+.
+🍒 5. Shopee Máy Gắp Thú: https://shorten.asia/ZrTp4TtW 
 
 👉 Nhóm Z.alo cập nhật mã sớm nhất: https://zalo.me/g/fqehfa279 
 👉 Tìm mã theo link sản phẩm tại: https://tinyurl.com/233fwzal 
