@@ -1,5 +1,5 @@
 var api_mgg_content = `
-❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 24/11 ❤️
+❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 25/11 ❤️
 .
 🍒 1. Thử Thách Shopee 0H: https://shorten.asia/matYfAEq           
 .
