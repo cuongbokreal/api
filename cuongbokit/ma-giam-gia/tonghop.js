@@ -101,6 +101,39 @@ var api_mgg_content = `
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
 ► Lưu thêm các voucher từ shop bán tại banner.
+.
+🛑 Đón chờ Siêu Black Friday https://shorten.asia/3Wke39Fg
+► 25.11 Sale mạnh quà tặng ngành HB- Mỹ phẩm sắc đẹp
+► Sale sốc ngành điện tử
+.
+🛑 Sale Mỹ Phẩm  https://shorten.asia/1CPhFSUv 
+► Deal mua 1 tặng 1
+► Voucher từ các brand
+.
+🛑 Dutchlady 25/11 https://shorten.asia/SdBG6rG7 
+► Săn deal quà tặng 0đ
+► 12H: DLDNO50K12H-  50k đơn từ 399k
+► 16H: DLDNO50K16H-  50k đơn từ 399k
+► 20H: DLDNO50K20H-  50k đơn từ 399k
+.
+🛑 Anessa-Dprogram https://shorten.asia/ErAnnk99 
+► SBDNOV60- 60k cho đơn 490k
+► SBDNOV90-90k cho đơn 750k
+.
+🛑 La Roche Posay + VICHY https://shorten.asia/ugTx7ckf 
+► Sale lớn bùng nổ CỦA NĂM 25.11
+► Quà tặng khủng vào 25.11
+► VIC1160K2- 60k cho đơn từ 500k
+► VIC11120K2- 120k cho đơn từ 1tr
+► LRP1150K5-50k cho đơn từ 500k
+► LRP11100K9-100k cho đơn từ 1tr
+► Deal quà tặng 25.11
+.
+🛑 Bobby 24.11 https://shorten.asia/xqz6E2MU 
+► Voucher nhà bán 80K
+► Deal giảm sốc 24.11 
+► Quà tặng đi kèm đơn
+.
 🔥Lưu các voucher Tiki: https://shorten.asia/Q5nzVpek 
 .
 🔥Deal hot ngay bây giờ: https://shorten.asia/G5uMxWRp 
