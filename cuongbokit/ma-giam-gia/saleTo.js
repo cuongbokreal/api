@@ -65,76 +65,54 @@ var content_dday = `
 📌XEM BÀI TỔNG HỢP MÃ SHOPEE, LAZADA NGÀY SALE 25/11 TẠI: https://www.facebook.com/groups/584602429633228/posts/848410286585773/ 
 
 <b>LAZADA</b>
-➖➖➖➖LAZADA➖➖➖➖
-🔥12H: TOÀN SÀN GIẢM 500K/0Đ, 150K/1500K, 50K/600K, 30K/400K, 6%: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/NtQePTCX 
+🎉 Ưu đãi LAZADA 🎉 
+🔥 Săn mã toàn sàn khác:
+🔸 20H: Canh back lượt mã 500K/0Đ toàn sàn: https://tinyurl.com/29oh9go3  
+🔸 20H: Canh back lượt mã 6% đơn từ 99K, 30K đơn từ 400K, 50K đơn từ 600K, 150K đơn từ 1,5 triệu toàn sàn: https://tinyurl.com/29oh9go3   
+🔸 0H mỗi ngày từ 25 – 27.11 (NCĐ): https://tinyurl.com/2yew4yc6  
+► Giảm 25K đơn từ 99K toàn sàn
+🔸 0H mỗi ngày từ 25 – 27.11 (CAN): https://tinyurl.com/2adpz2ao   
+► Giảm 25K đơn từ 99K toàn sàn
+🔸 Từ 25 – 27.11 (CHL): https://tinyurl.com/2c46pazr 
+► Canh back lượt mã giảm 50K đơn từ 399K toàn sàn (mã lên ngẫu nhiên các khung giờ)
+🔸 Từ 21 – 28.11 (SHP): https://tinyurl.com/23j4qmaz 
+► Canh back lượt mã giảm 10K đơn từ 50K toàn sàn (mã lên ngẫu nhiên các khung giờ)
+🔸 25.11 (Vina) – Canh back lượt mã giảm 10K đơn từ 50K toàn sàn (mã lên ngẫu nhiên các khung giờ): https://tinyurl.com/29c8nj8n 
+🔸 25.11 (Mobi) – Canh back lượt mã giảm 10K đơn từ 50K toàn sàn (mã lên ngẫu nhiên các khung giờ): https://tinyurl.com/22eb79yq 
 .
-🔥12H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K ĐƠN TỪ 399K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/wNzwJgQU 
+🔥 BLACK FRIDAY SALE: https://tinyurl.com/2extx6lx   
+
+► Xả hàng giảm đến 90% các sản phẩm tham gia chương trình (với sự tham gia của hơn 3000 thương hiệu lớn nhỏ)
+
+► Hoàn tiền gấp đôi lên đến 300K 
+
+► Miễn phí vận chuyển toàn quốc
 .
-🔥12H: MÃ NGâN HÀNG: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/akA2xweR 
+
+🔸 Lazmall – Trung Tâm Black Friday: https://tinyurl.com/2qo4p896   
+
+► Giảm đến 75% các sản phẩm tham gia chương trình
+
+► Mua 2 giảm 10%, mua càng nhiều giảm càng sâu
+
+► Miễn phí vận chuyển toàn quốc
 .
-🔥12H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
-=> Xem chi tiết tại: https://shorten.asia/aefeVfCZ 
+🔥 Hoàn tiền Max đến 300K – Cứ mua là hoàn tiền: https://tinyurl.com/2bxqx28n 
+► Lưu voucher hoàn tiên max các khung giờ: Hoàn 12% tối đa 300k đơn từ 399k
+► Ngày nào cũng có: Voucher Hoàn 6% 50K đơn từ 49K (shop thường) và Hoàn 6% tối đa 300K cho đơn từ 49K (Áp dụng cho sản phẩm LazMall)
 .
-🔥0H: MÃ TOÀN SÀN GIẢM 25K ĐƠN TỪ 99K: đúng giờ load trang lưu mã
-=> Lưu mã tại(1): https://shorten.asia/ETWnPGrz 
-=> Lưu mã tại(2): https://shorten.asia/96QgjXgU 
-=> Lưu mã tại(3): https://shorten.asia/3tZK11ar 
-=> Lưu mã tại(4): https://shorten.asia/9gJSb9r2 
-=> Lưu mã tại(5): https://shorten.asia/GkVGgKq9 
+🔸 LazFlash Max : https://tinyurl.com/2q89apg8 
+ ► Chương trình flash sale do Lazada trợ giá các sản phẩm bán chạy. Rất nhiều deal siêu tốt với mức trợ giá lên đến 200K. Áp dụng thêm các voucher khác nữa thì giá tốt nhất thị trường luôn
 .
-🔥0H: TOÀN SÀN GIẢM 500K/0Đ, 150K/1500K, 50K/600K, 30K/400K, 6%: back vào 9H, 12H, 15H, 20H
-=> Lưu mã tại: https://shorten.asia/Sf5KcNfH 
+🔸 Freeship Max: https://tinyurl.com/28gpxohc  
+► Giảm 15k đơn từ 29k cho mọi đơn hàng.
+► Giảm 50k đơn từ 300k.
 .
-🔥0H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K ĐƠN TỪ 399K: back vào 9H, 12H, 15H, 20H
-=> Lưu mã tại: https://shorten.asia/efuTESB5 
+🔸 Lưu Voucher từ các đối tác thanh toán ngân hàng: https://tinyurl.com/2xmek8br  
 .
-🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K:
-=> Lưu mã tại: https://shorten.asia/kgnsQfna 
+🔸 Lưu mã zalopay: https://tinyurl.com/2htrt53o    
 .
-🔥0H, 9H, 12H, 20H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
-=> Xem chi tiết tại: https://shorten.asia/341762zF 
-.
-🔥9H: MÃ ZALOPAY + MOMO + VNPT: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/9Y5MPbwJ 
-.
-🔥9H, 12H: MÃ NGâN HÀNG: load trang liên tục - một số mã có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://shorten.asia/mxnRkaED 
-.
-🔥MÃ LAZADA NHẬP TAY: Cập nhật sau trên nhóm zalo, tele 
-.
-🔥MỘT SỐ BANNER KOL CÓ THỂ LÊN MÃ 10K/50K, 25K/99K, 50K/399K BẤT NGỜ: 
-• HL: https://shorten.asia/QJ5Y1E9M 
-• Mai: https://shorten.asia/crRdqCd5 
-• CHL: https://shorten.asia/bBQdAGAW 
-• Vina: https://shorten.asia/YaTTWD6S 
-• Mobi: https://shorten.asia/frhPv3zu 
-• OLP: https://shorten.asia/rMKsCSE5 
-• Bà Dì: https://shorten.asia/YyqhNmW1 
-• LH: https://shorten.asia/jCmANhDv 
-.
-🔥MỘT SỐ BANNER SALE KHÁC: 
-• Black Friday Sale: https://shorten.asia/xfjE58Q2 
-• Xả Hàng: https://shorten.asia/3KvWtGw9 
-• LazMall: https://shorten.asia/E8uXDEaM 
-• Top Bán Chạy: https://shorten.asia/kmzj8RVs 
-• Mua là Freeship: https://shorten.asia/HHAP91Ys 
-• Hoàn Tiền Gấp Đôi: https://shorten.asia/mGfYrYAJ 
-• Sale Thương Hiệu: https://shorten.asia/kgnsQfna 
-.
-🔥LAKOCSALE11 giảm 50K đơn từ 249K cho TEELAB: https://shorten.asia/x5wjWkgw 
-.
-🔥YODYLAZADA giảm 50K đơn từ 300K cho Yody: https://shorten.asia/C5qzTrdZ 
-.
-🔥LAZHOT50K giảm 50K đơn từ 200K cho 1 số sản phẩm: https://shorten.asia/4a8r6WQh 
-.
-🔥Sản phẩm dùng thử giá 9K, x9K: https://shorten.asia/EfEgYZZb 
-.
-🔥0H: Lên mã đổi xu: https://shorten.asia/nwJrh3jT 
-.
-🔥0H: Lên mã đổi sao: https://shorten.asia/yAJzzzBY 
+🔸 Lưu mã momo: https://tinyurl.com/2lxaxg3k
 `
 
 var updateTime = new Date(); //updateTime
