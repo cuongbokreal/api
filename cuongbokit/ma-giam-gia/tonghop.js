@@ -1,7 +1,22 @@
 var api_mgg_content = `
+<b>☘️ 26/11 TỔNG HỢP SỰ KIỆN SĂN XU SHOPEE ☘️☘️</b>
+
+🎁 Thử Thách Shopee (0H)
+https://shorten.asia/JxPMTtWp 
+.
+🎁 Truy Tìm Mảnh Ghép (0:00 xả mảnh hiếm)
+https://shorten.asia/FwvBBF3S 
+.
+🎁 Quà Tặng Shopee (Trúng Hộp Quà Đen)
+https://shorten.asia/nfQ6u4vr 
+.
+🎁 Gắp Thú Trúng Xu
+https://shorten.asia/g9JHz9Th 
+.
+🎁 Bí ẩn Hộp Quà Đen chia kho 50 triệu xu 
+https://shorten.asia/wySec8tA 
 
 <b>LAZADA</b>
-
 ⏰MÃ LAZADA NGÀY 26/11:
 🔥0H: MÃ TOÀN SÀN GIẢM 25K ĐƠN TỪ 99K: đúng giờ load trang lưu mã
 => Lưu mã tại(1): https://shorten.asia/qzR3hyhW 
