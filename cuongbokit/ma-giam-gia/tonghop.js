@@ -16,8 +16,67 @@ https://shorten.asia/g9JHz9Th
 🎁 Bí ẩn Hộp Quà Đen chia kho 50 triệu xu 
 https://shorten.asia/wySec8tA 
 
+🏆TỔNG HỢP MÃ SHOPEE, LAZADA NGÀY 27/11🏆
 ➖➖➖➖SHOPEE➖➖➖➖
-
+🚛MIỄN PHÍ VẬN CHUYỂN:
+• 0H, 21H: Lưu mã Freeship giảm 10K/0Đ tại: https://tinyurl.com/2z3n4yg5  (back vào 9H, 12H)
+• 0H: Lưu mã Freeship giảm 25K, 15K tại các live: https://tinyurl.com/23y2e549  (back vào 9H, 12H, 15H, 18H)
+• Lưu mã Freeship giảm 25K/50K lọc sp: https://tinyurl.com/2qkgd9qo  (back vào 9H, 12H)
+• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://tinyurl.com/27n4wdmy 
+• Quay mã Freeship: https://tinyurl.com/29b6ffex 
+.
+🔥MÃ ÁP ĐA SỐ SẢN PHẨM: 
+• 0H: AFFRHS57 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/2mmgaqfn 
+.
+🔥HÀNG QUỐC TẾ: https://tinyurl.com/2nbpwycu 
+• 0H: CBBRNOV241 giảm 100K đơn từ 300K. List sản phẩm áp mã: https://tinyurl.com/2ju6xjee  (chỉ áp hàng quốc tế)
+• 0H: CBSUNOV27H giảm 12% tối đa 50K đơn từ 200K
+• Săn deal đồng giá x9K, quà 0Đ
+.
+🔥ĐỜI SỐNG: https://tinyurl.com/2pjvd7dq 
+• LIFEAU1110K giảm 10% tối đa 10K đơn từ 50K
+• LIFEAU11100K giảm 8% tối đa 100K đơn từ 300K
+• LIFEAU11100KA giảm 8% tối đa 100K đơn từ 300K
+• Săn deal đồng giá x9K
+• Voucher, ưu đãi từ các shop
+.
+🔥MÃ TOÀN SÀN: 
+• 0H: 2711GIAM10K0PH hoặc 2711GIAM10K1PH hoặc 2711GIAM10K2PH giảm 10K đơn từ 150K(back vào 9H, 12H, 21H)
+• 9H: Mã giảm 5% tối đa 50K đơn từ 0Đ. Lưu mã tại: https://tinyurl.com/27n4wdmy 
+.
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC "Hoàn Xu Xtra”: 
+• 0H, 9H, 12H, 21H: 263011HOAN40K0PH hoặc 263011HOAN40K1PH hoặc 263011HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back)
+• 0H, 9H, 12H, 21H: 263011MALL50K0PH hoặc 263011MALL50K1PH hoặc 263011MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back)
+.
+🔥MÃ ÁP MỘT SỐ SẢN PHẨM: 
+• 9H: SRNOVFS giảm 50% tối đa 20K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2925qjtc  (có thể back)
+• 9H: SRNOVP320 giảm 20K đơn từ 50K. List sản phẩm áp mã: https://tinyurl.com/2q37abpk  (có thể back)
+• 9H: SRNOVP315 giảm 50% tối đa 15K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2qauvm4b  (có thể back)
+.
+🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
+• 12H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://tinyurl.com/2347fl5f  hoặc https://tinyurl.com/2f3pyduf  hoặc https://tinyurl.com/2orfazzm  mục live, shop nào live thì vào shop đó nhé(back vào 18H)
+• 12H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://tinyurl.com/23y2e549  mục “x4 GIẢM GIÁ”(back vào 18H)
+• Sau 12H: Mã giảm 50% tối đa 30K đơn từ 30K + Freeship cho toàn sàn tag Shopee Live. Lưu mã tại: https://tinyurl.com/28vjth4q  mục live
+.
+🔥SHOPEEPAY: https://tinyurl.com/288rb97x 
+• SPPP3NOV8K giảm 8K đơn từ 99K
+• SPPP3NOVGMV40K giảm 5% tối đa 40K đơn từ 400K
+.
+🔥VÀO ĐâY: https://tinyurl.com/2yfqztjq  NHẬP:
+• TRIVx thay x bằng các số từ 10751 đến 12973 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 10K/0Đ, 50K/50K
+• TRIVx thay x bằng các số từ 1 đến 8539 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 10K/0Đ, 50K/50K
+.
+🔥ĐÓN CHỜ SIÊU SALE 12/12: 
+• Mã hoàn xu đến 1,2tr + ShopeePay giảm 1,2tr + điện tử hoàn 1tr + thời trang, quốc tế hoàn 25K/150K + mã khác…
+=> Lưu sớm mã tại: https://tinyurl.com/2gu5dx42  (kéo xuống dưới)
+.
+🔥0H: MỞ HỘP QUÀ NHẬN XU: 
+• Link 1: https://tinyurl.com/2f38mvup  
+• Link 2: https://tinyurl.com/2zgy5v7o  lọc user
+.
+🔥0H: THỬ THÁCH SHOPEE: https://tinyurl.com/2cryw9nu 
+.
+🔥MUA GÓI SVC 30K: https://tinyurl.com/2dsof6wg 
 
 <b>LAZADA</b>
 ⏰MÃ LAZADA NGÀY 27/11:
