@@ -1,20 +1,12 @@
 var api_mgg_content = `
-<b>☘️ 27/11 TỔNG HỢP SỰ KIỆN SĂN XU SHOPEE ☘️☘️</b>
-
-🎁 Thử Thách Shopee (0H)
-https://shorten.asia/JxPMTtWp 
+<b>❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 27/11 ❤️</b>
+🍒 1. Thử Thách Shopee 0H: https://shorten.asia/xYCVqeYM           
 .
-🎁 Truy Tìm Mảnh Ghép (0:00 xả mảnh hiếm)
-https://shorten.asia/FwvBBF3S 
+🍒 2. Quà Tặng Shopee: https://shorten.asia/Avh6kKJj 
 .
-🎁 Quà Tặng Shopee (Trúng Hộp Quà Đen)
-https://shorten.asia/nfQ6u4vr 
+🍒 3. Quà Tặng Shopee Rewards: https://shorten.asia/NV8YVVPZ               
 .
-🎁 Gắp Thú Trúng Xu
-https://shorten.asia/g9JHz9Th 
-.
-🎁 Bí ẩn Hộp Quà Đen chia kho 50 triệu xu 
-https://shorten.asia/wySec8tA 
+🍒 4. Chọn SGĐ - có thể ra xu: https://shorten.asia/QzZu87N8 
 
 🏆TỔNG HỢP MÃ SHOPEE, LAZADA NGÀY 27/11🏆
 ➖➖➖➖SHOPEE➖➖➖➖
