@@ -11,29 +11,36 @@ var api_mgg_content = `
 🏆TỔNG HỢP MÃ SHOPEE, LAZADA NGÀY 27/11🏆
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• 9H: Lưu mã Freeship giảm 10K/0Đ, 25K/50K tại: https://tinyurl.com/2l6ts486  (back)
-• 9H: Lưu mã Freeship giảm 25K/0Đ 15K/0Đ tại các live: https://tinyurl.com/2mdbcd5q  (back)
+• 12H: Lưu mã Freeship giảm 10K/0Đ, 25K/50K tại: https://tinyurl.com/2l6ts486  (back)
+• 12H, 15H, 18H: Lưu mã Freeship giảm 25K/0Đ 15K/0Đ tại các live: https://tinyurl.com/2mdbcd5q  (back)
 • Đổi mã Freeship giảm 50% giảm tối đa 40K: https://tinyurl.com/2fxrt5dd 
 • Quay mã Freeship: https://tinyurl.com/2f6rv2f6 
 .
+🔥HÀNG QUỐC TẾ: https://tinyurl.com/2f7g5bzu 
+• 11H57-12H03: CBBRNOV241 giảm 100K đơn từ 300K. List sản phẩm áp mã: https://tinyurl.com/2gw9awhz  (có thể back)
+• CBSUNOV27H giảm 12% tối đa 50K đơn từ 200K
+.
+🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
+• 12H: Mã giảm 25K đơn từ 50K, 50K đơn từ 100K. Lưu mã tại: https://tinyurl.com/2h8gg94w  hoặc https://tinyurl.com/2o84zwlr  hoặc https://tinyurl.com/2npn9bvc  mục live, shop nào live thì vào shop đó nhé(back vào 18H)
+• 12H: Mã giảm 15K đơn từ 50K, 25K đơn từ 100K. Lưu mã tại: https://tinyurl.com/2mdbcd5q  mục “x4 GIẢM GIÁ”(back vào 18H)
+• Sau 12H: Mã giảm 50% tối đa 30K đơn từ 30K + Freeship cho toàn sàn tag Shopee Live. Lưu mã tại: https://tinyurl.com/2g9bffgk  mục live
+.
 🔥MÃ TOÀN SÀN: 
-• 9H: 2711GIAM10K0PH hoặc 2711GIAM10K1PH hoặc 2711GIAM10K2PH giảm 10K đơn từ 150K(back)
-• 9H: Mã giảm 5% tối đa 50K đơn từ 0Đ. Lưu mã tại: https://tinyurl.com/2fxrt5dd 
+• 12H: 2711GIAM10K0PH hoặc 2711GIAM10K1PH hoặc 2711GIAM10K2PH giảm 10K đơn từ 150K(back)
 .
 🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra”: 
-• 9H: 263011HOAN40K0PH hoặc 263011HOAN40K1PH hoặc 263011HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back)
-• 9H: 263011MALL50K0PH hoặc 263011MALL50K1PH hoặc 263011MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back)
+• 12H: 263011HOAN40K0PH hoặc 263011HOAN40K1PH hoặc 263011HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back)
+• 12H: 263011MALL50K0PH hoặc 263011MALL50K1PH hoặc 263011MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back)
 .
-🔥MÃ ÁP MỘT SỐ SẢN PHẨM: 
-• 9H: SRNOVFS giảm 50% tối đa 20K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2mog6h4d  (có thể back)
-• 9H: SRNOVP320 giảm 20K đơn từ 50K. List sản phẩm áp mã: https://tinyurl.com/2zd3xuv7  (có thể back)
-• 9H: SRNOVP315 giảm 50% tối đa 15K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2mertceg  (có thể back)
+🔥Snackviet - Ăn Vặt Cực Chất: https://tinyurl.com/2jkvcvun 
+• 12H19s: SNAC12H27 (mã shop) giảm 50K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2kqzvaxt 
+• 12H: SNACK50P8 (mã shop) giảm 50% tối đa 20K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2pe695rg 
+.
+🔥Greengood Organic: https://tinyurl.com/2puuxbpd 
+• 13H34s: GREENHB (mã shop) giảm 59K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2ndoga5b  (?)
 .
 🔥MÃ ÁP ĐA SỐ SẢN PHẨM: 
 • AFFRHS57 giảm 18K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/2eu6kup9 
-.
-🔥HÀNG QUỐC TẾ: https://tinyurl.com/2f7g5bzu 
-• CBSUNOV27H giảm 12% tối đa 50K đơn từ 200K
 .
 🔥ĐỜI SỐNG: https://tinyurl.com/2hjgu695 
 • LIFEAU1110K giảm 10% tối đa 10K đơn từ 50K
@@ -52,26 +59,26 @@ var api_mgg_content = `
 
 <b>LAZADA</b>
 ➖➖➖➖LAZADA➖➖➖➖
-🔥9H: MÃ TOÀN SÀN GIẢM 500K/0Đ, 150K/1500K, 50K/600K, 30K/400K, 6%: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://tinyurl.com/2nvlldwp 
-.
-🔥9H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K ĐƠN TỪ 399K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://tinyurl.com/2q83h583 
-.
-🔥9H: MÃ NGâN HÀNG: load trang liên tục - một số mã có thể lên sớm hoặc muộn hơn
+🔥12H: MÃ NGâN HÀNG: canh back - có thể lên sớm hoặc muộn hơn
 => Lưu mã tại: https://tinyurl.com/2gz9sg2d 
 .
-🔥9H: MÃ ZALOPAY + MOMO + VNPT: canh back - có thể lên sớm hoặc muộn hơn
+🔥12H, 15H, 20H: MÃ TOÀN SÀN GIẢM 500K/0Đ, 150K/1500K, 50K/600K, 30K/400K, 6%: canh back - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://tinyurl.com/2nvlldwp 
+.
+🔥12H, 15H, 20H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K ĐƠN TỪ 399K: canh back - có thể lên sớm hoặc muộn hơn
+=> Lưu mã tại: https://tinyurl.com/2q83h583 
+.
+🔥12H: MÃ ZALOPAY + MOMO + VNPT: canh back - có thể lên sớm hoặc muộn hơn
 => Lưu mã tại: https://tinyurl.com/2gsjctty 
 .
-🔥9H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
+🔥12H, 20H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
 => Xem chi tiết tại: https://tinyurl.com/2me2ay3z 
 .
-🔥MỘT SỐ BANNER KOL CÓ THỂ LÊN MÃ 10K/50K, 25K, 50K/399K BẤT NGỜ: nên canh thử vào 9H, 11H,...
+🔥MỘT SỐ BANNER KOL CÓ THỂ LÊN MÃ 10K/50K, 25K, 50K/399K BẤT NGỜ: nên canh thử vào 12H, 20H
+• New: https://tinyurl.com/2jbffd8l  12H khả năng cao lên mã 25/150
+• Shopiness: https://tinyurl.com/2nslkffc  12H
 • Vinaphone: https://tinyurl.com/2o6c9obg 
 • Mobifone: https://tinyurl.com/2zdjt4ro 
-• New: https://tinyurl.com/2jbffd8l 
-• Shopiness: https://tinyurl.com/2nslkffc 
 • Hà Linh: https://tinyurl.com/2g5sjqtb 
 • Mailovesbeauty: https://tinyurl.com/2gnxfrto 
 • Chloe: https://tinyurl.com/2fo9jtas 
@@ -89,7 +96,6 @@ var api_mgg_content = `
 🔥Lưu mã shop CP giảm 50K đơn từ 299K: https://tinyurl.com/2kdpr7nj 
 .
 🔥Sản phẩm dùng thử giá 9K, x9K: https://tinyurl.com/2nuhgvyg 
-
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
