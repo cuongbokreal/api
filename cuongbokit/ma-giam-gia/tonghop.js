@@ -1,12 +1,18 @@
 var api_mgg_content = `
-<b>❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 30/11 ❤️</b>
-🍒 1. Thử Thách Shopee 0H: https://shorten.asia/xYCVqeYM           
-.
-🍒 2. Quà Tặng Shopee: https://shorten.asia/Avh6kKJj 
-.
-🍒 3. Quà Tặng Shopee Rewards: https://shorten.asia/NV8YVVPZ               
-.
-🍒 4. Chọn SGĐ - có thể ra xu: https://shorten.asia/QzZu87N8 
+<b>❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 1/12 ❤️</b>
+🍒 1. Thử Thách Shopee: https://tinyurl.com/2jg9m2gz     
+
+🍒 2. Quà Tặng Shopee (trúng 12K xu, đổi thưởng 5K xu): https://tinyurl.com/2ms25229   
+
+🍒 3. Số Gì Đây (chọn số trúng 12K xu): https://tinyurl.com/2fwgfe9y   
+
+🍒 4. Vòng Quay Freeship + Vòng Quay Voucher (kéo đến cuối trang): https://tinyurl.com/2q55zj7m  
+
+🍒 5. Nông Trại Shopee (trồng cây hộp quà trúng 12K xu): https://tinyurl.com/2mle6qwd  
+
+🍒 6. Shopee Đập Kẹo (7h30, 11h30, 21h - đổi 12K xu): https://tinyurl.com/2khwcwps  
+
+🍒 7. Shopee Bắn Bong Bóng (12h, 21h - 1,2K, 12K xu): https://tinyurl.com/2gd7gjp6 
 
 ⏰SHOPEE, LAZADA TỪ 18H - 22H NGÀY 30/11:
 ➖➖➖➖SHOPEE➖➖➖➖
