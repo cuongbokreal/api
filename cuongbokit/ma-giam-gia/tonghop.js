@@ -1,18 +1,28 @@
 var api_mgg_content = `
-<b>❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 1/12 ❤️</b>
-🍒 1. Thử Thách Shopee: https://tinyurl.com/2jg9m2gz     
+<b>❤️ 02/12 TỔNG HỢP SỰ KIỆN SĂN XU SHOPEE ❤️</b>
+1/ Thử thách Shopee:
+🌱 https://shope.ee/error_page 
 
-🍒 2. Quà Tặng Shopee (trúng 12K xu, đổi thưởng 5K xu): https://tinyurl.com/2ms25229   
+2/ Thử thách Shopee Mall: (lướt banner sang trái hoặc cuối trang)
+🌱 https://shorten.asia/ernJfcGt 
 
-🍒 3. Số Gì Đây (chọn số trúng 12K xu): https://tinyurl.com/2fwgfe9y   
+3/ Hộp quà Shopee Rewards: 
+🌱 https://shorten.asia/dD2xKtm7 
 
-🍒 4. Vòng Quay Freeship + Vòng Quay Voucher (kéo đến cuối trang): https://tinyurl.com/2q55zj7m  
+4/ Chào tháng mới x12 Xu thưởng: 
+https://shorten.asia/T5rCHNye 
 
-🍒 5. Nông Trại Shopee (trồng cây hộp quà trúng 12K xu): https://tinyurl.com/2mle6qwd  
+🌱 Trồng cây hộp quà nhận nhận 12K xu: 
+https://shorten.asia/k4hAq6Dh 
 
-🍒 6. Shopee Đập Kẹo (7h30, 11h30, 21h - đổi 12K xu): https://tinyurl.com/2khwcwps  
+🌱 Đổi kim cương Game đập kẹo nhận 12K xu 7H30 - 11H30 - 21H30: https://shorten.asia/EWq6XCw6 
 
-🍒 7. Shopee Bắn Bong Bóng (12h, 21h - 1,2K, 12K xu): https://tinyurl.com/2gd7gjp6 
+🌱 Đổi kim cương Game bắn bóng khung 12H - 21H: https://shorten.asia/sx4NAAM7 
+
+🌱 Mở quà trúng 12K xu: https://shorten.asia/1mKYbzAW 
+
+🌱 Chọn số gì đây trúng 12K xu: https://shorten.asia/uj3htyS8 
+
 
 ⏰SHOPEE, LAZADA TỪ 12H - 18H NGÀY 01/12:
 ➖➖➖➖SHOPEE➖➖➖➖
