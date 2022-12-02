@@ -23,90 +23,50 @@ https://shorten.asia/k4hAq6Dh
 
 🌱 Chọn số gì đây trúng 12K xu: https://shorten.asia/uj3htyS8 
 
-⏰SHOPEE, LAZADA TỪ 12H - 18H NGÀY 02/12:
+⏰SHOPEE, LAZADA TỪ 18H - 21H NGÀY 02/12:
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• 12H: Lưu mã Freeship giảm 10K/0Đ tại: https://tinyurl.com/2g6kfwmn  (back)
-• 12H, 15H, 18H: Lưu mã Freeship giảm 25K/25K, 15K/25K tại các live: https://tinyurl.com/2fjcy9kq  (back)
+• 18H: Lưu mã Freeship giảm 25K/25K, 15K/25K tại các live: https://tinyurl.com/2fjcy9kq  (back)
+• 21H: Lưu mã Freeship giảm 10K/0Đ tại: https://tinyurl.com/2g6kfwmn  (mã mới)
 • Lưu mã Freeship giảm 25K/50K lọc sản phẩm tại: https://tinyurl.com/2ku4a3gj 
 • Đổi mã Freeship giảm 50% giảm tối đa 40K: https://tinyurl.com/2nw9wt9x 
 • Quay mã Freeship: https://tinyurl.com/2qzk868g 
 .
-🔥SHOP MỚI LÊN SÀN: https://tinyurl.com/2gf2t9m9 
-• 12H: SRDEC02 giảm 20K đơn từ 50K. List sản phẩm áp mã: https://tinyurl.com/2kjkt4bv  (back)
-• 12H: SRDEC02B hoàn 50% tối đa 20K đơn từ 50K. List sản phẩm áp mã: https://tinyurl.com/2gbsvpqt  (back)
-• SRDECP120 giảm 20K đơn từ 50K. List sản phẩm áp mã: https://tinyurl.com/2hs5mopd  
-• SRDECP115 giảm 50% tối đa 15K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2ry8k8x6 
-.
-🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
-• 12H: Mã giảm 20K/50K, 40K/150K. Lưu mã tại: https://tinyurl.com/2jobx3mn  hoặc https://tinyurl.com/2kc2cxj5  mục live(back vào 12H30)
-• Sau 12H: Mã giảm 50% tối đa 30K đơn từ 30K + Freeship cho toàn sàn tag Shopee Live. Lưu mã tại: https://tinyurl.com/2mklvymh  mục live
-=> TỔNG HỢP HƠN 150 SHOP ÁP ĐƯỢC MÃ 25K/50K, 50K/100K TẠI: https://t.ecomobi.com/ 
-.
-🔥NẠP THẺ - DỊCH VỤ: https://tinyurl.com/2qzzfrge 
-• 12H: SPPMOVIE12HT giảm 50% tối đa 85K đơn từ 0Đ cho vé xem phim
-.
-🔥MÃ TOÀN SÀN: 
-• 12H: 212GIAM10K0PH hoặc 212GIAM10K1PH hoặc 212GIAM10K2PH giảm 10K đơn từ 150K(back)
-.
 🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - LƯU BANNER:
-• 12H, 18H: Mã hoàn 5% tối đa 100K đơn từ 50K(back)
-• 12H, 18H: Mã hoàn 6% tối đa 200K đơn từ 400K(back)
+• 18H: Mã hoàn 5% tối đa 100K đơn từ 50K(back)
+• 18H: Mã hoàn 6% tối đa 200K đơn từ 400K(back)
 => Lưu mã tại: https://tinyurl.com/2g85panf 
 .
-🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - NHẬP TAY: 
-• 12H: 112HOAN40K0PH hoặc 112HOAN40K1PH hoặc 112HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back)
-• 12H: 112MALL50K0PH hoặc 112MALL50K1PH hoặc 112MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back)
-.
-🔥THỜI TRANG: https://tinyurl.com/2ghcukat 
-• 15H: Săn mã shop giảm 50K tại banner hoặc chờ cập nhật sau
+🔥Uriage: https://tinyurl.com/2elz7cvv 
+• 20H: URIADINH (mã shop) giảm 100K đơn từ 499K. List sản phẩm áp mã: https://tinyurl.com/2j6nene3 
 .
 🔥Lamy: https://tinyurl.com/2glmd42o 
-• 12H: LAMY199K (mã Shop) giảm 199K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2oefeo65 
-• 17H: LAMY99K (mã Shop) giảm 99K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2o8fcr4c 
+• 19H: LAMY199D (mã Shop) giảm 199K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2g3zugwj 
+• 21H: LAMY299K (mã Shop) giảm 299K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2k2otsxv 
 .
-🔥Uriage: https://tinyurl.com/2elz7cvv 
-• 15H: URIADU (mã shop) giảm 100K đơn từ 499K. List sản phẩm áp mã: https://tinyurl.com/2frwoltz 
+🔥MÃ TOÀN SÀN: 
+• 21H: 212GIAM10K0PH hoặc 212GIAM10K1PH hoặc 212GIAM10K2PH giảm 10K đơn từ 150K(back)
 .
-🔥CUỘC ĐUA CỰC PHẨM: https://tinyurl.com/2kdy6e88 
-• 15H: Thương hiệu Unilever
-[Tung mã giảm 50% tối đa 70K/0Đ cho toàn bộ sản phẩm trong giỏ live + mã giảm 150K cho 1 sản phẩm được bình chọn]
-=> Xem live tại: https://tinyurl.com/2jvtbbp8  mục live
-.
-🔥XEM LIVE SĂN MÃ GIẢM 50% TỐI ĐA 70K ĐƠN TỪ 0Đ: vào link, chọn mục live
-• 12H: Thương hiệu Rohto: https://tinyurl.com/2j5a7k36 
-• 13H: Thương hiệu Clio: https://tinyurl.com/2pzspf8f 
-• 13H: Thương hiệu Bayer: https://tinyurl.com/2hcq5frx 
-• 14H: Thương hiệu Rohto: https://tinyurl.com/2hwv2fbq 
-• 15H: Thương hiệu Clio: https://tinyurl.com/2ma8subp 
-• 15H: Thương hiệu Bayer: https://tinyurl.com/2pw5arjg 
-• 16H: Thương hiệu Rohto: https://tinyurl.com/2pzspf8f 
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - NHẬP TAY: 
+• 21H: 112HOAN40K0PH hoặc 112HOAN40K1PH hoặc 112HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back)
+• 21H: 112MALL50K0PH hoặc 112MALL50K1PH hoặc 112MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back)
 .
 🔥VÀO ĐâY: https://tinyurl.com/2mfeaxds  NHẬP:
 • SRF0x thay x bằng các số từ 0001 đến 3694 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 50K/50K
 • SR3M0x thay x bằng các số từ 0001 đến 1066 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 50K/50K
-=> Tổng hợp mã shop 50K khu vực Hà Nội: https://tinyurl.com/tgg-ma-shop-50k-hanoi-1222  
-=> Tổng hợp mã shop 50K khu vực HCM: https://tinyurl.com/tgg-ma-shop-50k-hcm-1222
 .
-🔥LƯU SỚM MÃ CHO SIÊU SALE 12/12: https://tinyurl.com/2m4nkoho  (kéo xuống dưới)
+🔥LƯU SỚM MÃ HOÀN XU ĐẾN 1,2TR + SHOPEEPAY GIẢM 1,2TR + ĐIỆN TỬ HOÀN 1TR + THỜI TRANG, QUỐC TẾ HOÀN 25K/150K CHO SIÊU SALE 12/12: https://tinyurl.com/2m4nkoho  (kéo xuống dưới)
 .
 🔥THỬ THÁCH SHOPEE, SHOPEEMALL: https://tinyurl.com/2jtwbdjb 
 
+
 <b>LAZADA</b>
 ➖➖➖➖LAZADA➖➖➖➖
-🔥12H: MÃ NGâN HÀNG:  canh back
-=> Lưu mã tại: https://tinyurl.com/2p6yxr56 
-.
-🔥12H, 16H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 500K: canh back
-=> Lưu mã tại: https://tinyurl.com/2lul6n9o 
-.
-🔥12H: MÃ ZALOPAY GIẢM 15% + MOMO GIẢM 10K/199K: canh back
-=> Lưu mã tại: https://tinyurl.com/2j5pybav 
-.
-🔥12H, 20H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
+🔥20H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
 => Xem chi tiết tại: https://tinyurl.com/2o2qjuq7 
 .
-🔥MÃ FREESHIP, MÃ TOÀN SÀN, MÃ KHÁC: https://tinyurl.com/2njv5fx9 
+🔥MÃ FREESHIP, MÃ TOÀN SÀN, HOÀN TIỀN 12%, MÃ KHÁC:
+=> Lưu mã tại: https://tinyurl.com/2njv5fx9 
 .
 🔥Sản phẩm dùng thử giá 9K, x9K: https://tinyurl.com/2jqp8yxn 
 
