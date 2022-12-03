@@ -9,8 +9,7 @@ var api_mgg_content = `
 4/ Chào tháng mới x12 Xu thưởng: 
 https://tinyurl.com/2pyrz8l2 
 
-🔥 Trồng cây hộp quà nhận nhận 12K xu: 
-https://tinyurl.com/2hrfr7pg 
+🔥 Trồng cây hộp quà nhận nhận 12K xu: https://tinyurl.com/2hrfr7pg 
 🔥 Đổi kim cương Game đập kẹo nhận 12K xu 7H30 - 11H30 - 21H30: https://tinyurl.com/2hlfpann 
 🔥 Đổi kim cương Game bắn bóng khung 12H - 21H: https://tinyurl.com/2pwg23xo 
 🔥 Mở quà trúng 12K xu: https://tinyurl.com/2fecn8ty 
