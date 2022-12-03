@@ -1,27 +1,20 @@
 var api_mgg_content = `
-<b>❤️ 04/12 TỔNG HỢP SỰ KIỆN SĂN XU SHOPEE ❤️</b>
+<b>🌷 04/12 TỔNG HỢP SỰ KIỆN SĂN XU SHOPEE 🌷</b>
 1/ Thử thách Shopee:
-🌱 https://shope.ee/error_page 
-
+🔥 https://tinyurl.com/2n72x54t 
 2/ Thử thách Shopee Mall: (lướt banner sang trái hoặc cuối trang)
-🌱 https://shorten.asia/ernJfcGt 
-
+🔥 https://tinyurl.com/2n72x54t 
 3/ Hộp quà Shopee Rewards: 
-🌱 https://shorten.asia/dD2xKtm7 
-
+🔥 https://tinyurl.com/2j3lam3o 
 4/ Chào tháng mới x12 Xu thưởng: 
-https://shorten.asia/T5rCHNye 
+https://tinyurl.com/2pyrz8l2 
 
-🌱 Trồng cây hộp quà nhận nhận 12K xu: 
-https://shorten.asia/k4hAq6Dh 
-
-🌱 Đổi kim cương Game đập kẹo nhận 12K xu 7H30 - 11H30 - 21H30: https://shorten.asia/EWq6XCw6 
-
-🌱 Đổi kim cương Game bắn bóng khung 12H - 21H: https://shorten.asia/sx4NAAM7 
-
-🌱 Mở quà trúng 12K xu: https://shorten.asia/1mKYbzAW 
-
-🌱 Chọn số gì đây trúng 12K xu: https://shorten.asia/uj3htyS8 
+🔥 Trồng cây hộp quà nhận nhận 12K xu: 
+https://tinyurl.com/2hrfr7pg 
+🔥 Đổi kim cương Game đập kẹo nhận 12K xu 7H30 - 11H30 - 21H30: https://tinyurl.com/2hlfpann 
+🔥 Đổi kim cương Game bắn bóng khung 12H - 21H: https://tinyurl.com/2pwg23xo 
+🔥 Mở quà trúng 12K xu: https://tinyurl.com/2fecn8ty 
+🔥 Chọn số gì đây trúng 12K xu: https://tinyurl.com/2n8f6e6u 
 
 
 ⏰SHOPEE, LAZADA TỪ 12H - 18H NGÀY 03/12:
