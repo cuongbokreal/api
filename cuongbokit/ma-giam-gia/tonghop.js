@@ -13,50 +13,148 @@ https://tinyurl.com/2pyrz8l2
 🔥 Đổi kim cương Game đập kẹo nhận 12K xu 7H30 - 11H30 - 21H30: https://tinyurl.com/2hlfpann 
 🔥 Đổi kim cương Game bắn bóng khung 12H - 21H: https://tinyurl.com/2pwg23xo 
 🔥 Mở quà trúng 12K xu: https://tinyurl.com/2fecn8ty 
-🔥 Chọn số gì đây trúng 12K xu: https://tinyurl.com/2n8f6e6u 
+🔥 Chọn số gì đây trúng 12K xu: https://tinyurl.com/2n8f6e6u  
 
-
-
-➖➖➖➖LAZADA➖➖➖➖
-🔥9H: MÃ NGâN HÀNG: load trang liên tục - một số mã có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://tinyurl.com/2q7gvz22 
+⏰SHOPEE, LAZADA TỪ 12H - 18H NGÀY 04/12:
+➖➖➖➖SHOPEE➖➖➖➖
+🚛MIỄN PHÍ VẬN CHUYỂN:
+• 12H: Lưu mã Freeship giảm 10K/0Đ, 25K/50K tại: https://tinyurl.com/2q7rzmke  (back)
+• 12H, 15H, 18H: Lưu mã Freeship giảm 25K/25K tại các live: https://tinyurl.com/2jsphqns  (back)
+• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://tinyurl.com/2glf2ryk 
+• Quay mã Freeship: https://tinyurl.com/2nw7wlh2 
 .
-🔥9H: MÃ QUỐC TẾ GIẢM 10K/49K, 10K/99K, 12%: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://tinyurl.com/2ggsx5od  mục “Laz Quốc Tế”
+🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
+• Sau 12H: 2 Mã giảm 30K đơn từ 99K cho toàn sàn tag Shopee Live. Lưu mã tại: https://tinyurl.com/2lz79hhd  mục live
+• 12H: Mã giảm 20K đơn từ 50K, 40K đơn từ 150K. Lưu mã tại: https://tinyurl.com/2zcvy2nf  hoặc https://tinyurl.com/2zb7emdh  mục live(back vào 12H30) - List 1
+• 12H: Mã giảm 20K đơn từ 50K, 40K đơn từ 150K. Lưu mã tại: https://tinyurl.com/2m3z2d84  hoặc https://tinyurl.com/2kl3f8ob  mục live(back vào 12H30) - List 2
+• 2 Mã giảm 10K đơn từ 0Đ. Lưu mã tại: https://tinyurl.com/2jsphqns  chọn tab “x4 GIẢM GIÁ”
+=> TỔNG HỢP ĐẨY ĐỦ HƠN 800 SHOP ÁP ĐƯỢC MÃ GIẢM 10K/0Đ, 20K/50K, 40K/150K TẠI: https://t.ecomobi.com/ 
 .
-🔥9H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 500K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://tinyurl.com/2o7983e5 
+🔥MÃ TOÀN SÀN: 
+• 12H: 412GIAM10K0PH hoặc 412GIAM10K1PH hoặc 412GIAM10K2PH giảm 10K đơn từ 150K(back)
 .
-🔥9H: MÃ ZALOPAY GIẢM 15% + MOMO GIẢM 10K/199K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://tinyurl.com/2k5hclut 
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - NHẬP TAY: 
+• 12H: 112HOAN40K0PH hoặc 112HOAN40K1PH hoặc 112HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back)
+• 12H: 112MALL50K0PH hoặc 112MALL50K1PH hoặc 112MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back)
 .
-🔥9H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
-=> Xem chi tiết tại: https://tinyurl.com/2zlqaw6l 
+🔥XEM LIVE SĂN MÃ GIẢM 50% TỐI ĐA 70K ĐƠN TỪ 0Đ: vào link, chọn mục live
+• 12H: Thương hiệu Hiruscar: https://tinyurl.com/2p8gnngn 
+• 13H: Thương hiệu Lock&Lock: https://tinyurl.com/2mwu4mdb 
+• 14H: Thương hiệu Hiruscar: https://tinyurl.com/2hbnzfku 
+• 15H: Thương hiệu Lock&Lock: https://tinyurl.com/2jnevebm 
+• 16H: Thương hiệu Hiruscar: https://tinyurl.com/2lskbls5 
 .
-🔥MÃ FREESHIP, MÃ TOÀN SÀN, MÃ KHÁC: https://tinyurl.com/2fhyp2wa 
+🔥HÀNG QUỐC TẾ: https://tinyurl.com/2g59y6na 
+• CBSUNDEC04 giảm 12% tối đa 50K đơn từ 250K
+• CBWHDEC04 giảm 10% tối đa 20K đơn từ 100K
 .
-🔥Sản phẩm dùng thử 9K, x9K: https://tinyurl.com/2gy6l3wn 
+🔥HOME CLUB: https://tinyurl.com/2qllqkz2 
+• LIFESHC12TI giảm 100K đơn từ 500K. List sản phẩm áp mã: https://tinyurl.com/2zvxg8r2 
+• LIFESHC12EN giảm 50K đơn từ 250K. List sản phẩm áp mã: https://tinyurl.com/2qpv949u 
+• LIFESHC12MT giảm 30K đơn từ 150K. List sản phẩm áp mã: https://tinyurl.com/2mvypaxd 
+.
+🔥VÀO ĐâY: https://tinyurl.com/2ldtzp6m  NHẬP:
+• SRF0x thay x bằng các số từ 0001 đến 3694 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 50K/50K
+• SR3M0x thay x bằng các số từ 0001 đến 1066 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 50K/50K
+.
+🔥LƯU SỚM MÃ HOÀN XU ĐẾN 1,2TR + SHOPEEPAY GIẢM 1,2TR + ĐIỆN TỬ HOÀN 1TR + THỜI TRANG, QUỐC TẾ HOÀN 25K/150K CHO SIÊU SALE 12/12: https://tinyurl.com/2mkb3y49  (kéo xuống dưới)
+.
+🔥THỬ THÁCH SHOPEE MALL: https://tinyurl.com/2k7fyg92 
+.
+🔥THỬ THÁCH SHOPEE: https://tinyurl.com/2oyg8kdk 
+.
+🔥Yody: https://tinyurl.com/2kugenr4 
+• 12H29s: YODY100A5 (mã shop) giảm 100K đơn từ 599K. List sản phẩm áp mã: https://tinyurl.com/2kvwejtl 
+• 12H: YODYD12K3 (mã shop) giảm còn 12K cho Áo khoác gió nữ 3C: https://tinyurl.com/2pj5kkkp 
+• 15H: YODYD12K4 (mã shop) giảm 257K còn 12K cho Quần short nữ vải kaki SJN4022: https://tinyurl.com/2l4zblsv 
+• 15H40s: YODY100A6 (mã shop) giảm 100K đơn từ 599K. List sản phẩm áp mã: https://tinyurl.com/2k8dbqow 
+.
+🔥Vali Sunny: https://tinyurl.com/2grm754l 
+• 12H31s: SUNNY4E (mã shop) giảm 199K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2lsxtogg 
+• 12H13s: SUNNY4K (mã shop) giảm 10% tối đa 50K đơn từ 250K. List sản phẩm áp mã: https://tinyurl.com/2q8ptx3b 
+.
+🔥Hiruscar: https://tinyurl.com/2mwstdrf 
+• 12H: HIRU12H (mã shop) giảm 89K đơn từ 199K. List sản phẩm áp mã: https://tinyurl.com/2kpen488 
+• Lưu thêm mã shop giảm 159K, 199K tại: https://tinyurl.com/2mwstdrf 
+.
+🔥Bitis: https://tinyurl.com/2mkspjnt 
+• 12H14s: BITI2000F (mã shop) giảm 200K đơn từ 899K. List sản phẩm áp mã: https://tinyurl.com/2nnw4mcz 
+• 15H02s: BITI2000G (mã shop) giảm 200K đơn từ 899K. List sản phẩm áp mã: https://tinyurl.com/2hj6k8p7 
+• 18H36s: BITI2000H (mã shop) giảm 200K đơn từ 899K. List sản phẩm áp mã: https://tinyurl.com/2koqfs4h 
+.
+🔥Lock&Lock: https://tinyurl.com/2mtxzp53 
+• 12H: Deal 412K – Máy đánh trứng Hand Mixer – màu xám đậm EJM501DGRY: https://tinyurl.com/2lgolo4o 
 
 <b>LAZADA</b>
-➖➖➖➖LAZADA➖➖➖➖
-🔥9H: MÃ NGâN HÀNG: load trang liên tục - một số mã có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://tinyurl.com/2q7gvz22 
+⏰SHOPEE, LAZADA TỪ 12H - 18H NGÀY 04/12:
+➖➖➖➖SHOPEE➖➖➖➖
+🚛MIỄN PHÍ VẬN CHUYỂN:
+• 12H: Lưu mã Freeship giảm 10K/0Đ, 25K/50K tại: https://tinyurl.com/2q7rzmke  (back)
+• 12H, 15H, 18H: Lưu mã Freeship giảm 25K/25K tại các live: https://tinyurl.com/2jsphqns  (back)
+• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://tinyurl.com/2glf2ryk 
+• Quay mã Freeship: https://tinyurl.com/2nw7wlh2 
 .
-🔥9H: MÃ QUỐC TẾ GIẢM 10K/49K, 10K/99K, 12%: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://tinyurl.com/2ggsx5od  mục “Laz Quốc Tế”
+🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
+• Sau 12H: 2 Mã giảm 30K đơn từ 99K cho toàn sàn tag Shopee Live. Lưu mã tại: https://tinyurl.com/2lz79hhd  mục live
+• 12H: Mã giảm 20K đơn từ 50K, 40K đơn từ 150K. Lưu mã tại: https://tinyurl.com/2zcvy2nf  hoặc https://tinyurl.com/2zb7emdh  mục live(back vào 12H30) - List 1
+• 12H: Mã giảm 20K đơn từ 50K, 40K đơn từ 150K. Lưu mã tại: https://tinyurl.com/2m3z2d84  hoặc https://tinyurl.com/2kl3f8ob  mục live(back vào 12H30) - List 2
+• 2 Mã giảm 10K đơn từ 0Đ. Lưu mã tại: https://tinyurl.com/2jsphqns  chọn tab “x4 GIẢM GIÁ”
+=> TỔNG HỢP ĐẨY ĐỦ HƠN 800 SHOP ÁP ĐƯỢC MÃ GIẢM 10K/0Đ, 20K/50K, 40K/150K TẠI: https://t.ecomobi.com/ 
 .
-🔥9H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 500K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://tinyurl.com/2o7983e5 
+🔥MÃ TOÀN SÀN: 
+• 12H: 412GIAM10K0PH hoặc 412GIAM10K1PH hoặc 412GIAM10K2PH giảm 10K đơn từ 150K(back)
 .
-🔥9H: MÃ ZALOPAY GIẢM 15% + MOMO GIẢM 10K/199K: canh back - có thể lên sớm hoặc muộn hơn
-=> Lưu mã tại: https://tinyurl.com/2k5hclut 
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - NHẬP TAY: 
+• 12H: 112HOAN40K0PH hoặc 112HOAN40K1PH hoặc 112HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back)
+• 12H: 112MALL50K0PH hoặc 112MALL50K1PH hoặc 112MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back)
 .
-🔥9H: DEAL TRỢ GIÁ - “LazFlash Crazy”:
-=> Xem chi tiết tại: https://tinyurl.com/2zlqaw6l 
+🔥XEM LIVE SĂN MÃ GIẢM 50% TỐI ĐA 70K ĐƠN TỪ 0Đ: vào link, chọn mục live
+• 12H: Thương hiệu Hiruscar: https://tinyurl.com/2p8gnngn 
+• 13H: Thương hiệu Lock&Lock: https://tinyurl.com/2mwu4mdb 
+• 14H: Thương hiệu Hiruscar: https://tinyurl.com/2hbnzfku 
+• 15H: Thương hiệu Lock&Lock: https://tinyurl.com/2jnevebm 
+• 16H: Thương hiệu Hiruscar: https://tinyurl.com/2lskbls5 
 .
-🔥MÃ FREESHIP, MÃ TOÀN SÀN, MÃ KHÁC: https://tinyurl.com/2fhyp2wa 
+🔥HÀNG QUỐC TẾ: https://tinyurl.com/2g59y6na 
+• CBSUNDEC04 giảm 12% tối đa 50K đơn từ 250K
+• CBWHDEC04 giảm 10% tối đa 20K đơn từ 100K
 .
-🔥Sản phẩm dùng thử 9K, x9K: https://tinyurl.com/2gy6l3wn 
+🔥HOME CLUB: https://tinyurl.com/2qllqkz2 
+• LIFESHC12TI giảm 100K đơn từ 500K. List sản phẩm áp mã: https://tinyurl.com/2zvxg8r2 
+• LIFESHC12EN giảm 50K đơn từ 250K. List sản phẩm áp mã: https://tinyurl.com/2qpv949u 
+• LIFESHC12MT giảm 30K đơn từ 150K. List sản phẩm áp mã: https://tinyurl.com/2mvypaxd 
+.
+🔥VÀO ĐâY: https://tinyurl.com/2ldtzp6m  NHẬP:
+• SRF0x thay x bằng các số từ 0001 đến 3694 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 50K/50K
+• SR3M0x thay x bằng các số từ 0001 đến 1066 để tạo thành mã shop giảm 50% tối đa 20K/0Đ, 50K/50K
+.
+🔥LƯU SỚM MÃ HOÀN XU ĐẾN 1,2TR + SHOPEEPAY GIẢM 1,2TR + ĐIỆN TỬ HOÀN 1TR + THỜI TRANG, QUỐC TẾ HOÀN 25K/150K CHO SIÊU SALE 12/12: https://tinyurl.com/2mkb3y49  (kéo xuống dưới)
+.
+🔥THỬ THÁCH SHOPEE MALL: https://tinyurl.com/2k7fyg92 
+.
+🔥THỬ THÁCH SHOPEE: https://tinyurl.com/2oyg8kdk 
+.
+🔥Yody: https://tinyurl.com/2kugenr4 
+• 12H29s: YODY100A5 (mã shop) giảm 100K đơn từ 599K. List sản phẩm áp mã: https://tinyurl.com/2kvwejtl 
+• 12H: YODYD12K3 (mã shop) giảm còn 12K cho Áo khoác gió nữ 3C: https://tinyurl.com/2pj5kkkp 
+• 15H: YODYD12K4 (mã shop) giảm 257K còn 12K cho Quần short nữ vải kaki SJN4022: https://tinyurl.com/2l4zblsv 
+• 15H40s: YODY100A6 (mã shop) giảm 100K đơn từ 599K. List sản phẩm áp mã: https://tinyurl.com/2k8dbqow 
+.
+🔥Vali Sunny: https://tinyurl.com/2grm754l 
+• 12H31s: SUNNY4E (mã shop) giảm 199K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2lsxtogg 
+• 12H13s: SUNNY4K (mã shop) giảm 10% tối đa 50K đơn từ 250K. List sản phẩm áp mã: https://tinyurl.com/2q8ptx3b 
+.
+🔥Hiruscar: https://tinyurl.com/2mwstdrf 
+• 12H: HIRU12H (mã shop) giảm 89K đơn từ 199K. List sản phẩm áp mã: https://tinyurl.com/2kpen488 
+• Lưu thêm mã shop giảm 159K, 199K tại: https://tinyurl.com/2mwstdrf 
+.
+🔥Bitis: https://tinyurl.com/2mkspjnt 
+• 12H14s: BITI2000F (mã shop) giảm 200K đơn từ 899K. List sản phẩm áp mã: https://tinyurl.com/2nnw4mcz 
+• 15H02s: BITI2000G (mã shop) giảm 200K đơn từ 899K. List sản phẩm áp mã: https://tinyurl.com/2hj6k8p7 
+• 18H36s: BITI2000H (mã shop) giảm 200K đơn từ 899K. List sản phẩm áp mã: https://tinyurl.com/2koqfs4h 
+.
+🔥Lock&Lock: https://tinyurl.com/2mtxzp53 
+• 12H: Deal 412K – Máy đánh trứng Hand Mixer – màu xám đậm EJM501DGRY: https://tinyurl.com/2lgolo4o 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
