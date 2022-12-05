@@ -1,4 +1,13 @@
 var api_mgg_content = `
+HOT: 🙆 Highlands đang tặng Voucher mua 2 tính tiền 1 free (áp dụng tại điểm bán):
+<b>B1</b>: Truy cập trang nhận mã của Highlands tại https://shorten.asia/GFDwSf1s    
+<b>B2</b>: Nhấn "Nhận mã ưu đãi ngay".
+<b>B3</b>: Chụp ảnh màn hình voucher, áp mã tại điểm bán của Highland.
+📌 Mã ưu đãi này không phải là mã cố định, mỗi máy khi nhấp vào sẽ có một mã ưu đãi riêng. Mọi người đến trực tiếp các cửa hàng của Highlands để đưa mã này cho nhân viên và nhận về ưu đãi. Mã có hiệu lực trong thời gian áp dụng ghi tại web.
+<b>👉 Tips lấy không giới hạn mã:</b>
+https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1.html  
+
+
 <b>🌷 05/12 TỔNG HỢP SỰ KIỆN SĂN XU SHOPEE 🌷</b>
 1/ Thử thách Shopee:
 🔥 https://tinyurl.com/2n72x54t 
