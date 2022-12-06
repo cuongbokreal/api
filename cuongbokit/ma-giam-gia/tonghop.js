@@ -9,14 +9,14 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 
 
 <b>🌷 07/12 TỔNG HỢP SỰ KIỆN SĂN XU SHOPEE 🌷</b>
-1/ Thử thách Shopee:
-🔥 https://tinyurl.com/2n72x54t 
-2/ Thử thách Shopee Mall: (lướt banner sang trái hoặc cuối trang)
-🔥 https://tinyurl.com/2n72x54t 
-3/ Hộp quà Shopee Rewards: 
-🔥 https://tinyurl.com/2j3lam3o 
-4/ Chào tháng mới x12 Xu thưởng: 
-https://tinyurl.com/2pyrz8l2 
+1. mở quà kho xu 46tr ( lướt cuối trang): 0H-12H
+👉 https://tinyurl.com/2fo95bfn 
+2. Thử thách Shopee:
+👉 https://tinyurl.com/2oyl7rmx 
+3. Thử thách Shopee Mall: 
+👉 https://tinyurl.com/2qoqqqas 
+4. săn thưởng sinh nhật
+👉 https://tinyurl.com/2k3az6pk 
 
 🔥 Trồng cây hộp quà nhận nhận 12K xu: https://tinyurl.com/2hrfr7pg 
 🔥 Đổi kim cương Game đập kẹo nhận 12K xu 7H30 - 11H30 - 21H30: https://tinyurl.com/2hlfpann 
