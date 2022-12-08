@@ -24,7 +24,7 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 🔥 Mở quà trúng 12K xu: https://tinyurl.com/2fecn8ty 
 🔥 Chọn số gì đây trúng 12K xu: https://tinyurl.com/2n8f6e6u  
 
-
+️
 ️🏆 Mã SHOPEE + LAZADA NGÀY 09/12 ️🏆
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
@@ -64,7 +64,7 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 • 0H: 2 Mã giảm 10K đơn từ 0Đ. Lưu mã tại: https://tinyurl.com/2pjmrerx  chọn tab “x4 GIẢM GIÁ”
 • 12H: Mã giảm 20K đơn từ 50K, 40K đơn từ 150K. Lưu mã tại: https://tinyurl.com/2jfbet95  hoặc https://tinyurl.com/2gzahadz  mục live(back vào 12H30) - List 1
 • 12H: Mã giảm 20K đơn từ 50K, 40K đơn từ 150K. Lưu mã tại: https://tinyurl.com/2qrrv4yz  hoặc https://tinyurl.com/2f6o7rj4  mục live(back vào 12H30) - List 2
-=> TỔNG HỢP ĐẦY ĐỦ HƠN 800 SHOP ÁP ĐƯỢC MÃ GIẢM 10K/0Đ, 20K/50K, 40K/150K TẠI: https://tinyurl.com/2zj6fy56 
+=> TỔNG HỢP ĐẦY ĐỦ HƠN 800 SHOP ÁP ĐƯỢC MÃ GIẢM 10K/0Đ, 20K/50K, 40K/150K TẠI: https://tinyurl.com/tgg-ma-live-10-20-40-1222  
 • Sau 11H: Mã giảm 50K đơn từ 100K cho sản phẩm trong giỏ live. Lưu mã tại: https://tinyurl.com/2zv6zs8p  mục live
 • Sau 12H: Mã giảm 30K đơn từ 99K cho toàn sàn tag Shopee Live. Lưu mã tại: https://tinyurl.com/2zv6zs8p  mục live
 .
