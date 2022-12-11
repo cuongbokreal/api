@@ -1,6 +1,6 @@
 var content_dday = `
 Tổng hợp MÃ SHOPEE + LAZADA NGÀY SIÊU SALE 12/12:
-<h2><b>LAZADA</b></h2>
+<h2><b>SHOPEE</b></h2>
 🚛MIỄN PHÍ VẬN CHUYỂN: dùng tối đa 24 lượt
 • 0H: Lưu 6 mã Freeship 0Đ, 30K/99K tại: https://shope.ee/99pGJWZQIq (còn back vào 9H, 12H, 15H, 18H, 21H)
 • 0H: Lưu mã Freeship giảm 99K/25K, 25K tại các live bất kì: https://shope.ee/5zsEXniMq1 (còn back vào 9H, 12H, 15H, 18H, 20H)
