@@ -224,10 +224,8 @@ TỔNG HỢP MÃ HOT ĐÊM NAY - SIÊU SALE 12/12:
 • SB0x thay x bằng các số từ 21 đến 29 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 0H
 • SB0x thay x bằng các số từ 210 đến 292 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 0H
 .
-🔥XEM MÃ THƯƠNG HIỆU, MÃ SHOP TẠI: https://docs.google.com/document/d/10kYtiPRX7ncM58VIZfYTb7eyaiaRf_wz0IxHLFcJEFU/edit 
+🔥XEM MÃ THƯƠNG HIỆU, MÃ SHOP TẠI: https://tinyurl.com/tgg-ma-shop-brand-dday-12-1222 
 .
-
-
 ➖➖➖➖LAZADA➖➖➖➖
 🔥MÃ TOÀN SÀN - LƯU BANNER: 
 • 0H: Mã giảm 30K đơn từ 99K. Lưu mã tại: https://tinyurl.com/2psyhpzk 
