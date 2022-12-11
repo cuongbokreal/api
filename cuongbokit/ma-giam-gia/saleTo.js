@@ -1,6 +1,120 @@
 var content_dday = `
 Tổng hợp MÃ SHOPEE + LAZADA NGÀY SIÊU SALE 12/12:
 <h2><b>SHOPEE</b></h2>
+Nhập tại ví voucher 👉 https://tinyurl.com/2kaz5xtk 
+✍️ Cho đa số sp, giảm 30k từ 99k: Nhập tại ví voucher 👉 https://tinyurl.com/2kaz5xtk 
+(Tips: Lưu tất cả để được áp tự động, và chọn 1-2 mã đế nhập tay săn lúc 0h)
+✦ THANG1PICHAOBAN
+✦ THANG2PINOILOIYEU
+✦ THANG3VUIVECONHAU
+✦ THANG4SANSALESHOPEE
+✦ THANG5THIDUAVOUCHER
+✦ SHOPEESALEGIUANAMT6
+✦ THANG7PIRUCRO
+✦ THANG8PITUNGDINHDINH
+✦ THANG9PIMOMANSALETO
+✦ THANG10SALEHANGHIEU
+✦ THANG11PIBLACKFRIDAY
+✦ 1212PIBUNGNOSINHNHAT
+.
+✍️ list mã giảm 10%, max 50k từ 250k: Nhập tại ví voucher 👉 https://tinyurl.com/2kaz5xtk 
+✦ LEDUONGBAOLAM12
+✦ HIEUTHUHAI12
+✦ 1212CHUHOAIBAO
+✦ 1212VIENVIBI
+✦ 1212PHUONGMIN
+✦ 1212TACONGBANG
+✦ 1212THUNHI
+✦ 1212THIENNHAN
+✦ 1212HUNGVLOG
+.
+✍️ List mã TOÀN SÀN Nhập tại ví voucher 👉 https://tinyurl.com/2kaz5xtk 
+- 1212EBVHOAN70K hoàn 10%, max 70k từ 500k
+- 1212EBVMALL50K hoàn 10%, max 50k từ 250k
+- 1212EBVHOAN15K hoàn 15%, max 15k từ 99k
+- SPPDEC12EB10K giảm 10k từ 140k
+- SPPP2DEC8K giảm 8k từ 99k
+- SPPP2DECGMV40K giảm 5%, max 40k từ 400k
+- 1212EBVFASHION25K hoàn 25k từ 150k
+- 1212EBVFMCG100K hoàn 10%, max 100k từ 500k
+- WABRBM1 giảm 15%, max 50k từ 99k
+- WABRBM2 giảm 15%, max 100k từ 250k
+- FARBR12C giảm 10%, max 70k từ 500k
+- FARBR12B giảm 10%, max 40k từ 250k
+- FARBR12A giảm 10%, max 25k từ 99k
+- 1212EBVFMCG100K hoàn 10%, max 100k từ 500k
+- FMCGBMO giảm 10%, max 150k từ 500k
+- FMCGMALL giảm 8%, max 80k từ 250k
+- FMCGHOT giảm 10%, max 90k từ 600k
+- FMCG100K giảm 100k từ 1000k
+- COSLUX12A giảm 150k từ 1500k
+- COSLUX12B giảm 10%, max 300k từ 2000k
+- COSLUX12 giảm 120k từ 1500k
+- COSLUXRP giảm 150k từ 1500k
+- COSBAU100K giảm 10%, max 100k từ 600k
+- COSBAU60K giảm 10%, max 60k từ 400k
+- COSBAU40K giảm 8%, max 40k từ 250k
+- COS121260K giảm 10%, max 60k từ 400k
+- COS121240K giảm 8%, max 40k từ 250k
+- COS1212100K giảm 10%, max 100k từ 600k
+- 1212EBVLIFE25K hoàn 25k từ 150k
+- LIFE121260K giảm 8%, max 60k từ 350k
+- LIFE121210K giảm 10%, max 10k từ 50k
+- LIFEMC11SA giảm 10%, max 30k từ 99k
+- LIFEMC11SB giảm 10%, max 50k từ 150k
+- LIFEMC11SC giảm 10%, max 80k từ 250k
+- LIFEMC11SD giảm 10%, max 1000k từ 3000k
+- LIFESBMO12A giảm 15%, max 50k từ 99k
+- LIFESBMO12B giảm 15%, max 100k từ 250k
+- LIFEBMO12150C giảm 10%, max 50k từ 150k
+- LIFEBMO12250C giảm 10%, max 80k từ 250k
+- LIFEBMO121TRC giảm 10%, max 1000k từ 3000k
+- LIFEMC12A giảm 8%, max 20k từ 99k
+- LIFEMC12B giảm 8%, max 30k từ 150k
+- LIFEMC12C giảm 8%, max 50k từ 350k
+- LIFEMCSBP4 giảm 10%, max 1000k từ 3000k
+- LIFEMCSBP3 giảm 10%, max 80k từ 250k
+- LIFEMCSBP2 giảm 10%, max 50k từ 150k
+- LIFEMCSBP1 giảm 10%, max 30k từ 99k
+- 1212EBVELHA1000K hoàn 6%, max 1m từ 3m
+- ELBMO12 giảm 12%, max 200k từ 500k
+- ELSALE1212 giảm 5%, max 200k từ 400k
+- ELMALL3 giảm 3%, max 1m từ 3m
+- ELMALL5 giảm 5%, max 500k từ 300k
+- ELMALL6 giảm 6%, max 3m từ 300k
+- ELRE1TR5 giảm 8%, max 1.5m từ 3m
+- ELRE500 giảm 10%, max 500k từ 500k
+- 1212EBVCB25K hoàn 25k từ 150k
+- CBSPIKE1212 giảm 12%, max 50k từ 250k
+- INCU300 giảm 10%, max 300k từ 499k
+- BMLTM50 giảm 10%, max 50k từ 99k
+- BMLTM300 giảm 10%, max 300k từ 499k
+- BMINC50 giảm 10%, max 50k từ 99k
+- BMLTA50 giảm 10%, max 50k từ 99k
+- BMLT300 giảm 10%, max 300k từ 499k
+- BMLT100 giảm 7%, max 100k từ 499k
+.
+✍️ list mã cho sp chọn lọc: Nhập tại ví voucher 👉 https://tinyurl.com/2kaz5xtk 
+✦ AFF12MOI giảm 18%, max 30k từ 99k 
+✦ 0h: AFFR7T giảm 12%, max 49k từ 299k
+✦ 0h: AFFUIT26 giảm 15%, max 30k từ 99k
+✦ 0h: AFFONW7 giảm 15%, max 30k từ 99k
+✦ 0h: AFFTH9D giảm 15%, max 25k từ 99k
+✦ 0h: AFFPNX24 giảm 20k từ 99k
+✦ 0h: AFF1J0 giảm 20k từ 99k
+✦ 23h59: AFF12IEM giảm 15%, max 30k từ 150k
+✦ 0h: AFF12DEP giảm 15k từ 99k
+✦ 0h: AFF12NHU giảm 15%, max 20k từ 99k
+✦ 0h: AFF12GIANG giảm 12%, max 69k từ 399k
+✦ 0h: AFF12TRAN giảm 10%, max 120k từ 499k
+.
+✍️ nếu ai định săn aff thì 5 mã dưới chỉ nên lưu 4/5 mã bên dưới, chừa 1 mã lại để nhập tay lúc 0h: Nhập tại ví voucher 👉 https://tinyurl.com/2kaz5xtk 
+✦ 0h: AFF12MOT giảm 20%, max 120k từ 299k 
+✦ 0h: AFF12THIEN giảm 120k từ 299k
+✦ 0h: AFFS6NX giảm 25%, max 125k từ 299k
+✦ 0h: AFFGUR39 giảm 25%, max 125k từ 299k
+✦ 0h: AFF12THAN giảm 20%, max 120k từ 299k
+
 🚛MIỄN PHÍ VẬN CHUYỂN: dùng tối đa 24 lượt
 • 0H: Lưu 6 mã Freeship 0Đ, 30K/99K tại: https://tinyurl.com/2n7q5xqf  (còn back vào 9H, 12H, 15H, 18H, 21H)
 • 0H: Lưu mã Freeship giảm 99K/25K, 25K tại các live bất kì: https://tinyurl.com/2gk5ublv  (còn back vào 9H, 12H, 15H, 18H, 20H)
