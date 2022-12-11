@@ -50,7 +50,7 @@ Tổng hợp MÃ SHOPEE + LAZADA NGÀY SIÊU SALE 12/12:
 🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
 • 0H: Mã giảm 10K đơn từ 0Đ, 20K đơn từ 50K, 40K đơn từ 150K. Lưu mã tại: https://tinyurl.com/2jknr7cq  hoặc https://tinyurl.com/2fcoreqg  mục live(back vào 9H, 12H, 15H, 18H, 20H) - List 1
 • 0H: Mã giảm 10K đơn từ 0Đ, 20K đơn từ 50K, 40K đơn từ 150K. Lưu mã tại: https://tinyurl.com/2loqsan2  hoặc https://tinyurl.com/2p492h94  mục live(back vào 9H, 12H, 15H, 18H, 20H) - List 2
-=> TỔNG HỢP ĐẦY ĐỦ HƠN 800 SHOP ÁP ĐƯỢC MÃ GIẢM 10K/0Đ, 20K/50K, 40K/150K TẠI: https://t.ecomobi.com/ 
+=> TỔNG HỢP ĐẦY ĐỦ HƠN 800 SHOP ÁP ĐƯỢC MÃ GIẢM 10K/0Đ, 20K/50K, 40K/150K TẠI: https://tinyurl.com/tgg-ma-live-10-20-40-1222  
 .
 🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - NHẬP TAY:
 • 0H: 1212HUNT1200K hoàn 50% tối đa 1tr2 đơn từ 2tr4. List sản phẩm áp mã: https://tinyurl.com/2n5m3med 
@@ -382,9 +382,6 @@ Tổng hợp MÃ SHOPEE + LAZADA NGÀY SIÊU SALE 12/12:
 => Xem chi tiết tại: https://tinyurl.com/2nlgfwsv 
 .
 🔥MÃ NHẬP TAY GIẢM 30K/30K, 30K/99K, 50K/350K, 120K: chờ cập nhật trên nhóm zalo, tele
-.
-🔥MINIGAME TẶNG SON ESTEE LAUDER TRỊ GIÁ 960K CHO 4 BẠN MAY MẮN:
-=> Xem chi tiết tại: https://t.ecomobi.com/ 
 .
 🔥Ưu đãi đặt cọc trước: https://tinyurl.com/2jmvnuva 
 .
