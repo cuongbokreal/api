@@ -1,172 +1,282 @@
 var content_dday = `
-🔥 SHOPEE - GỬI SỚM MÃ SIÊU SALE 12/12:
 
-📌 List mã của Kols:
-► 0H: Lên mã hoàn/giảm 30K/99K, 20K/99K, 30K/150K
+BẬT MÍ SỚM 95% MÃ SHOPEE NGÀY SIÊU SALE 12/12:
+🚛MIỄN PHÍ VẬN CHUYỂN: dùng tối đa 24 lượt
+• 0H: Lưu 6 mã Freeship 0Đ, 30K/99K tại: https://shope.ee/99pGJWZQIq (còn back vào 9H, 12H, 15H, 18H, 21H)
+• 0H: Lưu mã Freeship giảm 99K/25K, 25K tại các live bất kì: https://shope.ee/5zsEXniMq1 (còn back vào 9H, 12H, 15H, 18H, 20H)
+• 0H: Lưu 2 mã Freeship giảm 25K/50K lọc sản phẩm tại: https://shope.ee/AuRb9q6zI (còn back vào 9H, 12H)
+• Lưu sớm mã Freeship giảm 15K/0Đ tại: https://shope.ee/VXHzsUD56
+• Tặng sẵn 5 mã Freeship 0Đ + 6 mã Freeship Xtra + một số mã Freeship trong ví tùy tài khoản: https://shope.ee/2KuKesx0d6
+• Đổi mã Freeship giảm 50% giảm tối đa 40K tại: https://shope.ee/1fjFIX9KKG
+• Quay mã Freeship tại: https://shope.ee/7pH3KGjUoL
 .
-🚛 MIỄN PHÍ VẬN CHUYỂN: Làm mới 22 lượt dùng FS
-📌 Mã săn khung giờ:
-► 0H: Lưu thêm mã 5 FS 0đ + FS giảm 25K/50K, giảm 50% tại banner: https://tinyurl.com/2kfza2hk 
-► 0H, 9H, 12H, 15H, 18H, 20H: Canh lưu mã FS live giảm 99K/25K mục "HOT FS 99K": https://tinyurl.com/2pukyd58 
+🔥SIÊU SALE VOUCHER - MÃ TOÀN SÀN: một số mã đã lưu sớm được
+• 23H30 ngày 11/12: Mã giảm 20K đơn từ 99K(lọc user)
+• 0H, 9H, 12H: Mã giảm 120K đơn từ 120K
+• 0H, 1H, 7H, 9H, 12H, 15H, 18H: Mã giảm 40K đơn từ 250K
+• 0H, 9H, 12H: Mã giảm 10% tối đa 50K đơn từ 300K
+• 0H: Mã giảm 40K đơn từ 0Đ(người mới)
+• 0H: Mở rương săn mã toàn sàn giảm 50K, 1212K
+=> Lưu mã tại: https://shope.ee/9URzYyMyIc
 .
-📌 Ưu đãi FS khác:
-► Tặng 5 mã FS 0đ + 3 mã FS Extra, giảm 50% kiểm tra tại: https://tinyurl.com/2oba3jw3 
-► Lưu sớm 1 mã FS 0đ giảm 15K tại banner: https://tinyurl.com/2nsukl93 
-► 0H, 12H, 21H - Chơi game nhận FS 0đ giảm 15K, 10K: https://tinyurl.com/2jn8kt3x 
+🔥KOL AFFILIATE - MÃ TOÀN SÀN: đúng giờ load trang mới hiện mã
+• 0H30, 6H30, 11H30, 18H30: Mã giảm 50% tối đa 60K đơn từ 60K(không lọc user)
+• 0H, 6H, 9H, 12H, 18H, 21H: Mã giảm 15% tối đa 40K đơn từ 250K + Mã giảm 15% tối đa 30K đơn từ 150K(mỗi loại lên 2 mã: 1 mã lọc user + 1 mã không lọc user)
+• 0H30, 1H, 6H, 7H, 8H, 9H, 10H, 11H, 12H, 13H, 14H, 15H, 16H, 17H, 18H, 19H, 20H: Mã giảm 15% tối đa 20K đơn từ 99K(không lọc user)
+• 0H30, 1H, 6H, 7H, 8H, 9H, 10H, 11H, 12H, 13H, 14H, 15H, 16H, 17H, 18H, 19H, 20H: Mã giảm 15% tối đa 30K đơn từ 150K(lọc user)
+• 0H: Dùng mã hoàn 1200K đơn từ 2400K từ game giải đố(mở ngày 09/12)
+=> Lưu mã tại: https://shope.ee/4AQaNj11nt
 .
-🔥 SALE SINH NHẬT 12.12:
-📌 Áp gần toàn sàn: mã 10%, 12% dễ lụm, còn back lượt 9H, 12H, 15H
-► 0H: Mã giảm 20% tối đa 120K đơn 299K, xem tên mã tại:  https://tinyurl.com/2g4qbpf5 
-► 0H: Mã giảm 20% tối đa 120K đơn 299K, xem tên mã tại: https://tinyurl.com/2mhnmbgn 
-► 0H: Mã giảm 120K đơn từ 299K, xem tên mã tại: https://tinyurl.com/2qbhrykx 
-► 0H: Mã giảm giảm 12% tối đa 69K đơn từ 399K, xem tên mã tại: https://tinyurl.com/2efnfeps 
-► 0H: Mã giảm giảm 10% tối đa 120K đơn từ 499K, xem tên mã tại: https://tinyurl.com/2mhgjuff 
-► MN vào link chọn "Điều kiện" xem tên mã, link lỗi ko xem đc mn báo tớ sửa nhé.
+🔥VOUCHER SĂN TRƯỚC GIỜ G - MÃ TOÀN SÀN: theo lịch dưới mới hiện mã để lưu(mã chỉ mở lưu đúng 15p)
+• 0H-0H15 ngày 11/12: Lưu sớm mã giảm 15% tối đa 20K đơn từ 99K
+• 9H-9H15 ngày 11/12: Lưu sớm mã giảm 15% tối đa 30K đơn từ 150K
+• 12H-12H15 ngày 11/12: Lưu sớm mã giảm 15% tối đa 40K đơn từ 200K
+• 21H-21H15 ngày 11/12: Lưu sớm mã giảm 50% tối đa 120K đơn từ 120K
+• 22H-22H15 ngày 11/12: Lưu sớm mã hoàn 50% tối đa 1tr2 đơn từ 2tr4
+• 23H-23H15 ngày 11/12: Lưu sớm mã giảm 50% tối đa 1212K đơn từ 1212K
+• 0H ngày 12/12: Dùng các mã đã lưu ở trên
+=> Lưu sớm mã tại: https://shope.ee/4AQaNj11nt
 .
-📌 Voucher giờ G: Lưu trước từ ngày 11.12
-► 21H - 21H15: Lưu trước mã giảm 50% tối đa 120K/120K
-► 22H -22H15: Lưu trước mã giảm 50% tối đa 1tr2 đơn 2tr4
-► 23H - 23H15: Lưu trước mã giảm 50% tối đa 1212K đơn 1212K
-► Mã chỉ hiện 15phút, m.n canh vào lưu sớm do ko hiện lại
-=> Lưu mã tại banner: https://tinyurl.com/2pnuy5g2 
+🔥MÃ ÁP ĐA SỐ SẢN PHẨM: back vào 9H, 12H, 15H
+• 0H: AFF12THIEN giảm 120K đơn từ 299K. List sản phẩm áp mã: https://shope.ee/9K8hMP2V4C
+• 0H: AFF12MOT giảm 20% tối đa 120K đơn từ 299K. List sản phấm áp mã: https://shope.ee/89wjyElHIu
+• 0H: AFF12THAN giảm 20% tối đa 120K đơn từ 299K. List sản phẩm áp mã: https://shope.ee/8KGAAb9pWi
+• 0H: AFF12GIANG giảm 12% tối đa 69K đơn từ 399K. List sản phấm áp mã: https://shope.ee/2AfWpHbN2W
+• 0H: AFF12TRAN giảm 10% tối đa 120K đơn từ 499K. List sản phẩm áp mã: https://shope.ee/b2FJs5Dc
+• 0H: AFF12DEP giảm 15K đơn từ 99K. List sản phấm áp mã: https://shope.ee/5AJ8OegROM
+• 0H: AFF12NHU giảm 15% tối đa 20K đơn từ 99K. List sản phấm áp mã: https://shope.ee/8zVqxkQdTk  
+• 23H59 ngày 11/12: AFF12IEM giảm 15% tối đa 30K đơn từ 150K. List sản phấm áp mã: https://shope.ee/8zVqxg6fJo
 .
-📌 Kol Afiliate: đúng giờ mã mới lên
-► 0H30, 6H30, 11H30, 18H30: Lên mã giảm 50% tối đa 60K đơn 60K
-► 0H, 0H30, 1H: Lên mã giảm 15% tối đa 20K/99K, 30K/150K, 40K/200K ( ko lọc user )
-► 6H, 7H, 8H,... cứ 1 giờ lên tiếp mã: Lên mã giảm 15% tối đa 20K/99K, 30K/150K, 40K/200K
-► Lên mã mới 0H, 6H, 7H, 9H, 12H, 15H, 18H, 21H, còn lại back mã lên trước đó ( 20K/99K, 30K/150K )
-=> Lưu mã tại banner: https://tinyurl.com/2pnuy5g2 
+🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
+• 0H: Mã giảm 10K đơn từ 0Đ, 20K đơn từ 50K, 40K đơn từ 150K. Lưu mã tại: https://shope.ee/9p4e7DnTwO hoặc https://shope.ee/6KU6HVIscr mục live(back vào 9H, 12H, 15H, 18H, 20H) - List 1
+• 0H: Mã giảm 10K đơn từ 0Đ, 20K đơn từ 50K, 40K đơn từ 150K. Lưu mã tại: https://shope.ee/AuDPKDJa7 hoặc https://shope.ee/1AmkauopDX mục live(back vào 9H, 12H, 15H, 18H, 20H) - List 2
+=> TỔNG HỢP ĐẦY ĐỦ HƠN 800 SHOP ÁP ĐƯỢC MÃ GIẢM 10K/0Đ, 20K/50K, 40K/150K TẠI: http://thanhsansale.vn/rGF
 .
-📌 Săn siêu Voucher: áp toàn sàn
-► Lưu trước mã giảm 20K đơn 99K dùng 23h30 ngày 11.12
-► 0H, 9H, 12H: Lưu trước mã giảm 120K đơn 120K
-► 0H, 1H, 7H, 9H, 12H, 15H, 18H: Lưu trước mã giảm 40K đơn 250K
-► 0H, 9H, 12H: Lưu trước mã giảm 10% tối đa 50K/300K
-► Mở hộp quà nhận voucher giảm 1212K, 50K
-► Lên voucher người mới giảm 40K đơn 0đ
-=> Lưu mã tại banner 1: https://tinyurl.com/2oeq32je 
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - NHẬP TAY:
+• 0H: 1212HUNT1200K hoàn 50% tối đa 1tr2 đơn từ 2tr4. List sản phẩm áp mã: https://shope.ee/7KNcAPpqUq
+• 0H: 1212HUNT500K hoàn 15% tối đa 500K đơn từ 1tr5. List sản phẩm áp mã: https://shope.ee/9K8h7S2z20
+• 0H: 1212EBVHOAN70K hoàn 10% tối đa 70K đơn từ 500K. List sản phẩm áp mã: https://shope.ee/6pRLZVvbiy
+• 0H: 1212EBVHOAN15K hoàn 15% tối đa 15K đơn từ 99K. List sản phẩm áp mã: https://shope.ee/VXI1tJNnE
+• 0H: 1212EBVMALL50K hoàn 10% tối đa 50K đơn từ 250K ShopeeMall. List sản phẩm áp mã: https://shope.ee/LDrpbJc5Y
+• 0H: 1212EBVELHA1000K hoàn 6% tối đa 1tr đơn từ 3tr điện tử. List sản phẩm áp mã: https://shope.ee/9zONLPufA0
+• 0H: 1212EBVFMCG100K hoàn 10% tối đa 100K đơn từ 500K tiêu dùng. List sản phẩm áp mã: https://shope.ee/9zONLOdbbF
+• 0H: 1212EBVLIFE25K hoàn 25K đơn từ 150K đời sống. List sản phẩm áp mã: https://shope.ee/5fFOBUExQu
+• 0H: 1212EBVCB25K hoàn 25K đơn từ 150K quốc tế. List sản phẩm áp mã: https://shope.ee/5KcXmuJc12
+• 0H: 1212EBVFASHION25K hoàn 25K đơn từ 150K thời trang. List sản phẩm áp mã: https://shope.ee/2fbmc2TA7m
 .
-📌 Áp Hoàn xu Extra: nhập tay
-► 0H: 1212HUNT1200K hoàn 50% tối đa 1tr2 đơn từ 2tr4 cho list sp: https://tinyurl.com/2n5m3med 
-► 0H: 1212HUNT500K hoàn 15% tối đa 500K đơn 1tr5 cho list sp: https://tinyurl.com/2ejo35od 
-► 0H: 1212EBVFMCG100K hoàn 10% tối đa 100K đơn 500K
-► 0H: 1212EBVHOAN70K hoàn 10% tối đa 70K đơn 500K
-► 0H: 1212EBVMALL50K hoàn 10% tối đa 50K đơn 250K
-=> Lưu thêm mã theo ngành hàng hoàn đến 1tr, 25K/150K: https://tinyurl.com/2pnuy5g2 
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - LƯU BANNER: còn back vào 9H, 12H, 18H
+• 0H: Mã hoàn 7% tối đa 200K đơn từ 400K
+• 0H: Mã hoàn 7% tối đa 100K đơn từ 50K
+=> Lưu mã tại: https://shope.ee/407ABjOzYf
 .
-📌 Shop xu hướng: dễ lụm
-► 0H: Lưu + dùng list mã shop giảm 50% tối đa 100K, 25K/0đ
-► 8H, 12H, 19H: Làm mới list mã shop giảm 99K/0đ, 50K/0đ ( dễ lụm )
-=> Lưu mã tại banner: https://tinyurl.com/2fya339t 
+🔥MÃ ÁP MỘT SỐ THƯƠNG HIỆU: 
+• 0H: AMSHAB12 giảm 30% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://shope.ee/6pRLYUhOEq
+• 0H: AMSNHB12 giảm 30% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://shope.ee/1Amyo6gMWO
+• 0H: AMSCOLM12 giảm 50% tối đa 150K đơn từ 99K. List sản phẩm áp mã: https://shope.ee/8eszjvHCD2
 .
-📌 Shop mới lên sàn 1: còn back lượt 12H
-► 0H: SRDEC12 giảm 50% tối đa 20K đơn 0đ cho list sp: https://tinyurl.com/2p3zxell 
-► 0H: SRDEC12B hoàn 20K đơn 50K cho list sp: https://tinyurl.com/2l7q6u75 
-► 0H: SRDECP220 giảm 20K đơn 50K cho list sp: https://tinyurl.com/2m8xjsyo 
-► 0H: SRDECP215 giảm 50% tối đa 15K đơn 0đ cho list sp:  https://tinyurl.com/2jm4gd4o 
+🔥ĐÊM SALE THƯƠNG HIỆU: https://shope.ee/5zsDJ9onxJ
+• 0H: FMCGBMO0H giảm 1212K đơn từ 0Đ. List sản phấm áp mã: https://shope.ee/1fjFtfpdjc
+• 9H: FMCGBMO9H giảm 1212K đơn từ 0Đ. List sản phấm áp mã: https://shope.ee/9p4xczhk3M
+• 12H: FMCGBMO12H giảm 1212K đơn từ 0Đ. List sản phấm áp mã: https://shope.ee/b1uusi3D
+• 18H: FMCGBMO18H giảm 1212K đơn từ 0Đ. List sản phấm áp mã: https://shope.ee/6KV5SXzrz6
+• 21H: FMCGBMO21H giảm 1212K đơn từ 0Đ. List sản phấm áp mã: https://shope.ee/1fjFtxqkvA
+• 0H: FMCGBMO giảm 10% tối đa 150K đơn từ 500K
 .
-📌 Shop mới lên sàn 2: back lượt
-► 9H: SRDECP120 giảm 20k đơn 50K cho list sp: https://tinyurl.com/2q2yqw69 
-► 9H: SRDECP115 giảm 50% tối đa 15k đơn 0đ cho list sp: https://tinyurl.com/2f4h6fsh 
-► 9H: SRDECTT1 giảm 20k đơn 50k cho list sp: https://tinyurl.com/2h9mjncx 
-► 9H: SRDECTT2 giảm 50%, tối đa 20k cho list sp: https://tinyurl.com/2gaey66h 
+🔥SĂN DEAL TRỞ LẠI - MÃ TOÀN SÀN LỌC USER(không thấy = bị lọc): 
+• Lưu sớm mã giảm 15K đơn từ 0Đ
+• 21H30, 22H30, 23H30 ngày 11/12: Lưu sớm mã giảm 120K đơn từ 0Đ(?)
+• 0H ngày 12/12: Dùng các mã đã lưu ở trên
+=> Lưu sớm mã tại: https://shope.ee/7UeEbYI5xp
 .
-🔥 LỊCH SHOPEE LIVE:
-📌 Live của Shopee 12.12:
-► Tung mã toàn sàn giảm 100K xuyên suốt live, cả ngày
-► Lên mã giảm 50% tối đa 70K áp thương hiệu Unilever, Pampers, Maybeline, Inissfree, L'Oreal,...
-=> Xem live tại trang ( chọn mục "Live" ): https://tinyurl.com/2fhclacf 
+🔥SHOPEEPAY: https://shope.ee/AUHqbaXXxS
+• 0H: SPPDEC12EB1M2 giảm 5% tối đa 1tr2 đơn từ 2tr. List sản phẩm áp mã: https://shope.ee/8eszlAU9qr
+• 0H: SPPDEC12EB10K giảm 10K đơn từ 140K
+• SPPP2DECGMV40K giảm 5% tối đa 40K đơn từ 400K
+• SPPP2DEC8K giảm 8K đơn từ 99K
+• SPPDECLOCALCP giảm 15K đơn từ 200K
 .
-📌 Shop Live:
-► 0H, 9H, 12H, 15H, 18H, 20H: Lên mã giảm 10K/0đ, 20K/50K, 40K/150K + mã FS giảm 99K/25K
-
-=> Mã 1 : https://tinyurl.com/2e88lu7e  hoặc https://tinyurl.com/2qesb6uj 
-=> Mã 2 : https://tinyurl.com/2dup22cz  hoặc https://tinyurl.com/2fkoth6n 
+🔥SHOP MỚI LÊN SÀN: https://shope.ee/1VPpELzPRo
+• 0H: SRDECP220 giảm 20K đơn từ 50K. List sản phẩm áp mã: https://shope.ee/6KV4zZcih7 (back vào 9H)
+• 0H: SRDECP215 giảm 50% tối đa 15K đơn từ 0Đ. List sản phẩm áp mã: https://shope.ee/1Amyq6IbPF (back vào 9H)
+• 0H: SRDEC12 giảm 50% tối đa 20K đơn từ 0Đ. List sản phẩm áp mã: https://shope.ee/6f7vOES3g8 (back vào 12H)
+• 0H: SRDEC12B hoàn 20K đơn từ 50K. List sản phẩm áp mã: https://shope.ee/7pJsmOVsJ6 (back vào 12H)
+• 0H: SRDECTT12 giảm 50% tối đa 15K đơn từ 0Đ. List sản phẩm áp mã: https://shope.ee/1AmyqAcz8j (back vào 12H)
+• 0H, 12H, 21H: Săn deal sốc 1K:
+• 0H: List deal đồng giá 1K: https://shope.ee/8eszlcVhdQ
+• List deal đồng giá 1K: https://shope.ee/2fbmcYcIru
+• List deal đồng giá 9K: https://shope.ee/3KrTPniA2D
+• Voucher, ưu đãi từ các shop
 .
-🔥 BANNER NGÀNH CÔNG NGHỆ: https://tinyurl.com/2fng6kmw 
-► 0H: 1212EBVELHA1000K hoàn 6% tối đa 1tr đơn từ 3tr cho list sp: https://tinyurl.com/2qot4pn3 
-► Lưu + dùng mã giảm 10% tối đa 300K tại banner: https://tinyurl.com/2fng6kmw 
-► Lưu thêm voucher ưu đãi từ shop 
-► Săn deal hot công nghệ các khung giờ.
+🔥HÀNG HIỆU GIÁ TỐT: https://shope.ee/8pCQPfidJw
+• 0H: BMLTM50 giảm 10% tối đa 50K đơn từ 99K
+• 0H: BMINC50 giảm 10% tối đa 50K đơn từ 99K
+• 0H: BMLTA50 giảm 10% tối đa 50K đơn từ 99K
+• 0H: BMLTM300 giảm 10% tối đa 300K đơn từ 499K
+• 0H: BMLT300 giảm 10% tối đa 300K đơn từ 499K
+• Voucher, ưu đãi từ các shop bán
 .
-📌 Công Nghệ Mall: https://tinyurl.com/2fng6kmw 
-► ELMALL5 giảm 5% tối đa 500k đơn từ 300k
-► ELRE1TR5 giảm 8% tối đa 1500k đơn từ 5000k
-► ELRE500 giảm 10% tối đa 500k đơn từ 500k
-► ELBAU4 giảm 4% tối đa 1tr2 đơn từ 500K
-► ELBAU5 giảm 5% tối đa 500K đơn từ 300K
-► Săn deal hot công nghệ các khung giờ.
+🔥SHOP XU HƯỚNG: https://shope.ee/fqigRJAjR
+• 0H: Săn loạt mã shop giảm 25K đơn từ 0Đ tại banner(đã mở lưu sớm)
+• 8H, 19H: Săn loạt mã shop giảm 99K đơn từ 0Đ tại banner(đúng giờ load trang mới hiện mã)
+• 12H: Săn loạt mã shop giảm 50K đơn từ 0Đ tại banner(đúng giờ load trang mới hiện mã)
+• 0H: INCU300 giảm 10% tối đa 300K đơn từ 499K
+• 0H: List deal đồng giá 12K: https://shope.ee/30EdSpcfCr
+• Voucher, ưu đãi từ các shop
 .
-🎲 BANNER NGÀNH THỜI TRANG: https://tinyurl.com/2g52sedo 
-► 0H: 1212EBVFASHION25K hoàn 25K đơn từ 150K cho list sp: https://tinyurl.com/2fd7b3yk 
-► WABRBM1 giảm 15% tối đa 50K đơn 99K
-► WABRBM2 giảm ngay 15% tối đa 100K đơn 250K
-► Lưu + dùng voucher từ các thương hiệu, shop tại: https://tinyurl.com/2ftv28wh 
-► Săn voucher 222K, 440k shop Mall các khung giờ
-► 0H, 9H, 12H, 15H, 18H, 21H: Săn list deal đồng giá 1K
+🔥MÃ KOL GIẢM 20K/99K, 30K/99K, 30K/150K, 50K... - MÃ TOÀN SÀN: 
+• 0H: STAIPR1212TY2 giảm 30K đơn từ 150K. List sản phẩm áp mã: https://shope.ee/3VAu4Io6zI
+• 0H: LEDUONGBAOLAM12, HIEUTHUHAI12, 1212CHUHOAIBAO, 1212VIENVIBI, 1212PHUONGMIN, 1212TACONGBANG, 1212THUNHI, 1212THIENNHAN, 1212HUNGVLOG giảm 10% tối đa 50K đơn từ 250K. LIst sản phẩm áp mã: https://shope.ee/9zOOAlK9S5 
+• Chờ cập nhật thêm rất nhiều mã khác vào tối ngày 11/12 và xuyên suốt cả ngày 12/12 trên nhóm zalo, tele 
 .
-📌 Mã shop Mall: mã shop
-► 0H: NEWS220K giảm 220K đơn 600k cho shop NEWSEVEN: https://tinyurl.com/2z4mbjuu 
-► 0H: LEBR222K giảm 220K đơn 600k cho shop LEBRO Official: https://tinyurl.com/2eobrn6t 
-► 0H: CARDM222 giảm 220K đơn 600k cho shop Cardina Fashion: https://tinyurl.com/2oah84of 
-► 0H: BITI22200 giảm 220K đơn 600k cho shop BITI'S OFFICIAL: https://tinyurl.com/2ptr5uuk 
+🔥MÃ TOÀN SÀN - NHẬP TAY: 
+• 12H: 1212BANMOITV giảm 50K đơn từ 0Đ. List sản phẩm áp mã: https://shope.ee/AuTNtWYZm (người mới)
+• 12H: 1112SHOPEETV1 giảm 9K đơn từ 50K. List sản phẩm áp mã: https://shope.ee/2VIO97O8t1
 .
-📌 Deal sốc 12K: mã shop
-► 0H: Tớ bổ sung sau - hoặc săn mã tại: https://tinyurl.com/2g52sedo 
+🔥TỪ 9H: XEM LIVE SĂN MÃ GIẢM 50% TỐI ĐA 70K, 50K TỪ CÁC THƯƠNG HIỆU + MÃ TOÀN SÀN TAG LIVE, FREESHIP:
+=> Xem live tại: https://shope.ee/1ffnl62WHo mục live
 .
-🔥 BANNER NGÀNH TIÊU DÙNG: https://tinyurl.com/2k2b5v3u 
-► 0H: 1212EBVFMCG100K hoàn 10% tối đa 100K đơn từ 500K cho list sp: https://tinyurl.com/2qf8gh5f 
-► FMCGMALL giảm 8% tối đa 80k đơn 250K
-► FMCGHOT giảm 10% tối đa 90k đơn 600K
-► FMCG100K giảm 100k đơn 1tr
-► FMCGBMO giảm 10% tối đa 150K đơn 500K
-► Săn deal đồng giá 1K, 9K
-► 9H, 12H, 15H, 18H, 21H: Săn mã shop giảm đến 1tr2
+🔥LOẠT MÃ GIẢM/HOÀN 8K/99K, 50K, 200K CHO CÁC KHUNG 0H, 9H, 12H, 15H, 18H, 21H ĐÃ ĐƯỢC TẶNG SẴN TRONG VÍ: https://shope.ee/2KuKesx0d6
 .
-📌 Ưu đãi shop: mã shop
-► 0H: giảm 50% tối đa 1tr2 đơn 0đ cho shop DR.SAFFRON OFFICIAL: https://tinyurl.com/2kwbfgcs 
-► 0H: giảm 50% tối đa 1tr2 đơn 0đ cho shop Hecatech Official: https://tinyurl.com/2q2nn4f9 
+🔥VÀO ĐâY: https://shope.ee/2KuKesx0d6 NHẬP:
+• SB0x thay x bằng các số từ 110 đến 192 tạo thành mã shop giảm 100K đơn từ 0Đ dùng vào 0H
+• SB0x thay x bằng các số từ 11 đến 19 tạo thành mã shop giảm 100K đơn từ 0Đ dùng vào 0H
+• SB0x thay x bằng các số từ 21 đến 29 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 0H
+• SB0x thay x bằng các số từ 210 đến 292 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 0H
+• SB12x thay x bằng các số từ 110 đến 192 tạo thành mã shop giảm 100K đơn từ 0Đ dùng vào 12H
+• SB12x thay x bằng các số từ 11 đến 19 tạo thành mã shop giảm 100K đơn từ 0Đ dùng vào 12H
+• SB12x thay x bằng các số từ 21 đến 29 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 12H
+• SB12x thay x bằng các số từ 210 đến 292 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 12H
+• SB18x thay x bằng các số từ 110 đến 192 tạo thành mã shop giảm 100K đơn từ 0Đ dùng vào 18H
+• SB18x thay x bằng các số từ 11 đến 19 tạo thành mã shop giảm 100K đơn từ 0Đ dùng vào 18H
+• SB18x thay x bằng các số từ 21 đến 29 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 18H
+• SB18x thay x bằng các số từ 210 đến 292 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 18H
 .
-🎲 BANNER NGÀNH QUỐC TẾ: https://tinyurl.com/2lsr2g26 
-► 0H: 1212EBVCB25K hoàn 25K đơn từ 150K cho list sp: https://tinyurl.com/2qpsl2hf 
-► CBSPIKE1212, giảm 12%, tối đa 50k đơn 200K
-► 21H: Săn mã giảm 100K đơn từ 300K 
-► Ưu đãi deal đồng giá x9K
+🔥THỜI TRANG: https://shope.ee/A9ho6d06Y0
+• 0H: Mã giảm 8K đơn từ 99K đã được tặng sẵn trong ví: https://shope.ee/2KuKesx0d6
+• 0H: 1212EBVFASHION25K hoàn 25K đơn từ 150K. List sản phẩm áp mã: https://shope.ee/2fbmc2TA7m
+• 0H, 0H30, 1H, 1H30, 9H, 12H, 15H, 18H, 21H: Săn deal 1K-9K:
+• 0H: List deal đồng giá 1K-9K: https://shope.ee/b204dDiS
+• 0H, 12H: Săn mã giảm còn 12K cho một số sản phẩm tại banner
+• 0H, 1H, 9H, 12H, 15H, 18H: Săn mã shop giảm 222K:
+• 0H: NEWS220K (mã shop) giảm 222K đơn từ 600K cho shop NEWSEVEN: https://shope.ee/7f0TX1umzB
+• 0H: LEBR222K (mã shop) giảm 222K đơn từ 600K cho shop LEBRO: https://shope.ee/7A4Cw859mb
+• 0H: CARDM222 (mã shop) giảm 222K đơn từ 600K cho shop Cardina Fashion: https://shope.ee/2fbnZsLKlx
+• 0H: BITI22200 (mã shop) giảm 220K đơn từ 600K cho shop BITI’S: https://shope.ee/5zsFY1ZBku
+• Săn deal x9K, giảm đến 50%
+• Voucher ưu đãi từ các thương hiệu
 .
-🔥 BANNER NGÀNH ĐỜI SỐNG: https://tinyurl.com/2f2k6hmk 
-► 0H: 1212EBVLIFE25K hoàn 25K đơn từ 150K cho list sp: https://tinyurl.com/2mgr95ov 
-► LIFE121260K giảm 8% tối đa 60K đơn từ 350K
-► LIFE121210K giảm 10% tối đa 10K đơn 50K
-► LIFEMC11SA giảm 10% tối đa 30K đơn 99K
-► LIFEMC11SB giảm 10% tối đa 50K đơn 150K
-► LIFEMC11SC giảm 10% tối đa 80K đơn 250K
-► LIFEMC11SD giảm 10% tối đa 1Tr đơn 3tr
-► Lưu + dùng thêm mã giảm 15%, 10% tối đa 50K, 80K, 100K, 1tr tại banner: https://tinyurl.com/2f2k6hmk 
-► Giải đố nhận voucher giảm 12% tối đa 10K, 50K, 80K, 200K, 300K, 500K - tớ bổ sung sau
-► Săn deal đồng giá 1k, x9k.
+📌Voucher Thời Trang: https://shope.ee/6pRM962BAw
+• 0H: WABRBM2 giảm 15% tối đa 100K đơn từ 250K
+• 0H: WABRBM1 giảm 15% tối đa 50K đơn từ 99K
+• FAPRE12 giảm 10% tối đa 300K đơn từ 1tr
+• Voucher ưu đãi từ các thương hiệu
 .
-📌 Book Club: https://tinyurl.com/2hbrwrtn 
-► LIFESBC12 giảm 10% tối đa 15K đơn 50K
-► LIFESBCWG12 giảm 12% tối đa 15K đơn 50K
-► Voucher ưu đãi từ các thương hiệu, shop
-► Lưu thêm mã Freeship cho Book Club
+🔥ĐỜI SỐNG: https://shope.ee/5UvyYgSJBA
+• 0H: Mã giảm 8K đơn từ 99K đã được tặng sẵn trong ví: https://shope.ee/2KuKesx0d6
+• 0H: 1212EBVLIFE25K hoàn 25K đơn từ 150K. List sản phẩm áp mã: https://shope.ee/5fFOBUExQu
+• 0H: LIFESBMO12B giảm 15% tối đa 100K đơn từ 250K 
+• 0H: LIFESBMO12A giảm 15% tối đa 50K đơn từ 99K
+• 0H: LIFEBMO121TRC giảm 10% tối đa 1tr đơn từ 3tr
+• 0H: LIFEMC11SD giảm 10% tối đa 1tr đơn từ 3tr
+• 0H: LIFEBMO12250C giảm 10% tối đa 80K đơn từ 250K
+• 0H: LIFEBMO12150C giảm 10% tối đa 50K đơn từ 150K
+• 0H: LIFEMC11SC giảm 10% tối đa 80K đơn từ 250K
+• 0H: LIFEMC11SB giảm 10% tối đa 50K đơn từ 150K 
+• 0H: LIFEMC11SA giảm 10% tối đa 30K đơn từ 99K
+• 0H: LIFE121210K giảm 10% tối đa 10K đơn từ 50K
+• 0H: LIFE121260K giảm 8% tối đa 60K đơn từ 350K
+• 0H, 12H: Săn deal đồng giá 1K
+• 0H: List deal đồng giá 1K: https://shope.ee/fqinu4DMu
+• 0H: List deal đồng giá 9K: https://shope.ee/6ABfM4m3oP
+• 0H: Giải đố săn mã giảm 12% tối đa 10K, 50K, 80K, 200K, 300K, 500K
+• Giảm đến 50%, mua 1 tặng 1, quà tặng 0Đ
+• Voucher, ưu đãi từ các shop bán
 .
-🔥 SHOP XU HƯỚNG: https://tinyurl.com/2fya339t 
-► INCU300 giảm 10% tối đa 300K đơn 499K
-► 0H: Ưu đãi deal đồng giá 1K, 9K
-► 0H, 8H, 12H, 19H: Làm mới list mã shop giảm 25K/0đ, 99K/0đ, 50K/0đ ( dễ lụm )
+📌Home Club: https://shope.ee/6f4VupiNs0
+• LIFESHC12BAU giảm 10% tối đa 20K đơn từ 99K
+• LIFESHCWG12 giảm 12% tối đa 15K đơn từ 50K
+• Lưu mã Freeship từ Home Club
+• Săn deal đồng giá 1K - 9K
+• Voucher, ưu đãi từ các shop bán
 .
-🔥 SHOPE MỚI LÊN SÀN: https://tinyurl.com/2ow24dxr 
-► 0H: Lưu + dùng 4 mã hoàn/giảm 20K/0đ, 20K/50K, 15K/0đ
-► 12H: List 4 mã trên còn back lượt 12H
-► Ưu đãi deal đồng giá 1K
-► Mở hộp quà nhận xu
+📌Book Club: https://shope.ee/7ex9ff1z3i
+• LIFESBCWG12 giảm 12% tối đa 15K đơn từ 50K
+• LIFESBC12 giảm 10% tối đa 15K đơn từ 50K 
+• Lưu mã Freeship từ Book Club
+• Voucher, ưu đãi từ các shop bán
 .
-🔥 HÀNG HIỆU GIÁ TỐT: https://tinyurl.com/2keswar3 
-► BMLTM50 giảm 10% tối đa 50K đơn 99K
-► BMINC50 giảm 10% tối đa 50k đơn 99K
-► BMLTM300 giảm 10% tối đa 300k đơn 499K
-► BMLT300 giảm 10% tối đa 300K đơn 499K
+📌Thương Hiệu Đời Sống: https://shope.ee/9URLAlMlV2
+• Voucher, ưu đãi từ shop bán, deal x9K
+.
+🔥ĐIỆN TỬ CÔNG NGHỆ: https://shope.ee/9elXXOlmlu
+• 0H: Mã giảm 5% tối đa 200K, 300K, 600K đã được tặng sẵn trong ví: https://shope.ee/2KuKesx0d6
+• 0H: 1212EBVELHA1000K hoàn 6% tối đa 1tr đơn từ 3tr. List sản phẩm áp mã: https://shope.ee/9zONLPufA0
+• 0H: ELSALE1212 giảm 5% tối đa 200K đơn từ 400K
+• 0H: ELMALL3 giảm 3% tối đa 1000K đơn từ 3000K
+• 0H: ELMALL5 giảm 5% tối đa 500K đơn từ 300K
+• 0H: ELMALL6 giảm 6% tối đa 3tr đơn từ 300K
+• Voucher, ưu đãi từ các shop bán
+.
+📌Công Nghệ Mall: https://shope.ee/4APor8wj0y
+• 0H: ELAAR4 giảm 4% tối đa 1200K đơn từ 500K
+• 0H: ELBMO12 giảm 12% tối đa 200K đơn từ 500K
+• 0H: ELSS4 giảm 4% tối đa 1tr2 đơn từ 500K
+• 0H: ELAAR150k giảm 8% tối đa 150K đơn từ 500K
+• 0H: ELCOOY72 giảm ngay 1tr2 đơn từ 0Đ
+• Lưu thêm mã thương hiệu tại banner: https://shope.ee/9elXXOlmlu
+• Voucher, ưu đãi từ các shop bán
+.
+🔥HÀNG QUỐC TẾ: https://shope.ee/2AfXZmPRnY
+• 0H: Mã giảm 5% tối đa 50K đơn từ 150K đã được tặng sẵn trong ví: https://shope.ee/2KuKesx0d6
+• 0H: 1212EBVCB25K hoàn 25K đơn từ 150K. List sản phẩm áp mã: https://shope.ee/5KcXmuJc12
+• 0H: CBSPIKE1212 giảm 12% tối đa 50K đơn từ 250K
+• 21H: Mã giảm 100K đơn từ 300K - chờ cập nhật sau trên nhóm zalo, tele
+• Giảm đến 50%, săn deal đồng giá x9K, mua 1 tặng 1
+• Voucher, ưu đãi từ các shop bán
+.
+📌Hàng Quốc Tế Hàn: https://shope.ee/4V3SjZr32I
+• Săn mã giảm 300K đơn từ 0Đ các khung giờ: 
+• 0H: KR300K0H1 giảm 300K đơn từ 0Đ. List sản phẩm áp mã: https://shope.ee/6KV5aVtDgm
+• Săn deal đồng giá x9K
+• Voucher, ưu đãi từ các shop bán
+.
+🔥TIÊU DÙNG: https://shope.ee/9zONxKdzuL
+• 0H: Mã giảm 5% tối đa 40K, 100K đã được tặng sẵn trong ví: https://shope.ee/2KuKesx0d6
+• 0H: 1212EBVFMCG100K hoàn 10% tối đa 100K đơn từ 500K. List sản phẩm áp mã: https://shope.ee/9zONLOdbbF
+• 0H, 9H, 12H, 15H, 18H, 21H: Săn mã shop giảm 50% tối đa 1tr2, 112K:
+• 0H: BEUHUNT12 (mã shop) giảm 50% tối đa 1tr2 đơn từ 0Đ cho shop Hecatech: https://shope.ee/7f0TCxijse
+• 0H: DRSA12KAM (mã shop) giảm 50% tối đa 1tr2 đơn từ 0Đ cho shop DR.SAFFRON: https://shope.ee/qA94NDTmb
+• 0H, 9H, 12H, 15H, 15H30, 16H, 16H30, 18H, 21H: Săn deal đồng giá 1K tại banner 
+• Giảm đến 50%, mua 1 tặng 1
+• Voucher, ưu đãi từ các shop bán
+.
+📌Tiêu Dùng Mall: https://shope.ee/99pGyJY5qs
+• 0H: FMCGMALL giảm 8% tối đa 80K đơn từ 250K
+• 0H: FMCG100K giảm 100K đơn từ 1tr
+• 0H: FMCGHOT giảm 10% tối đa 90K đơn từ 600K
+• 0H: FMCGBMO giảm 10% tối đa 150K đơn từ 500K
+• 0H: SHIS100KU (mã shop) giảm 100K đơn từ 1tr cho shop Shiseido: https://shope.ee/9elXaC8ISm
+• 0H: LANEBMO1 (mã shop) giảm 100K đơn từ 899K cho shop Laneige: https://shope.ee/qA93z63Yv
+• 0H: BITI2000R (mã shop) giảm 200K đơn từ 1tr cho shop BITI'S: https://shope.ee/AUKeZmhAMz
+• 0H: PERGIBMO (mã shop) giảm 100K đơn từ 199K cho Phấn phủ kiềm dầu Perfect Diary: https://shope.ee/AuSGogNFq
+• Giảm đến 50%, mua 1 tặng 1
+• Voucher, ưu đãi từ các shop bán
+.
+📌Sức Khỏe Sắc Đẹp: https://shope.ee/3fTWn90nsv
+• 0H: COSLUX12A giảm 150K đơn từ 1500K
+• 0H: COSLUX12B giảm 10% tối đa 300K đơn từ 2000K
+• COSLUX12 giảm 120K đơn từ 1500K
+• COSLUXRP giảm 150K đơn từ 1500K
+• Voucher, ưu đãi từ các shop bán
+.
+📌Mẹ bé - Mum Club: https://shope.ee/6f583sewSH
+• MKBHUGDEC giảm 10% tối đa 100K đơn từ 1tr
+• Voucher, ưu đãi từ các shop bán
+.
+📌Beauty Club: https://shope.ee/2prqhjcDbM
+• Voucher, ưu đãi từ các shop bán
+.
+ĐẦY ĐỦ MÃ NGÀY SIÊU SALE 12/12 TỐI NAY MÌNH CẬP NHẬT SAU
 
 `
 
