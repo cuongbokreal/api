@@ -278,6 +278,13 @@ Tổng hợp MÃ SHOPEE + LAZADA NGÀY SIÊU SALE 12/12:
 .
 <h2><b>LAZADA</b></h2>
 ⏰TỔNG HỢP MÃ LAZADA NGÀY SIÊU SALE 12/12:
+️<b>🏆Tổng hợp Deal cực ngon LAZADA 12.12 ad để tại web nha: </b>
+- Deal LazMall: https://cuongbokit.blogspot.com/2022/12/list-deal-lazada-mall.html  
+- Deal 1k-12k Lazada: https://cuongbokit.blogspot.com/2022/12/list-deal-1k-12k-lazada.html  
+- Deal thời trang: https://cuongbokit.blogspot.com/2022/12/list-deal-thoi-trang-lazada.html  
+- Deal điện tử: https://cuongbokit.blogspot.com/2022/12/list-deal-dien-tu-lazada.html 
+- Deal làm đẹp: https://cuongbokit.blogspot.com/2022/12/list-deal-lam-dep-lazada.html  
+
 🔥MÃ TOÀN SÀN - LƯU BANNER: 
 • 0H: Mã giảm 30K đơn từ 99K. Lưu mã tại: https://tinyurl.com/2psyhpzk 
 • 0H, 19H: Mã giảm 30K đơn từ 99K. Lưu mã tại: https://tinyurl.com/2j4dhukv 
