@@ -1,6 +1,4 @@
 var content_dday = `
-
-
 🔥 SHOPEE - GỬI SỚM MÃ SIÊU SALE 12/12:
 
 📌 List mã của Kols:
