@@ -8,10 +8,16 @@ HOT: 🙆 Highlands đang tặng Voucher mua 2 tính tiền 1 free (áp dụng t
 https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1.html  
 
 
-<h2><b>SHOPEE</b></h2>
-
 🏆TỔNG HỢP MÃ SHOPEE, LAZADA NGÀY 14/12🏆
+<h2><b>SHOPEE</b></h2>
 ➖➖➖➖SHOPEE➖➖➖➖
+❤️ CÁC SỰ KIỆN GAME SHOPEE NGÀY 14/12 ❤️
+🍒 1. Mở quà nhận 12K, 2K, 200 Xu: https://tinyurl.com/2qvuwb7t 
+🍒 2. Hộp Quà Shopee Rewards nhận đến 200K xu: https://tinyurl.com/2m9fl5o6 
+🍒 3. Quà tặng Shopee - Mở quà nhận 4K xu: https://tinyurl.com/2njuudns 
+🍒 4. Vòng quay voucher: nhận voucher giảm/hoàn 100K xu: https://tinyurl.com/2pghcknl 
+🍒 5. Thử Thách Shopee: nhận thêm 400xu ở cuối trang (LỌC): https://tinyurl.com/2z4bc9d3 
+🍒 6. Dự đoán bóng đá: Trận 5 (kết thúc bình chọn lúc 1:59): https://tinyurl.com/2g2onu34 
 🚛MIỄN PHÍ VẬN CHUYỂN:
 • 0H, 21H: Lưu mã Freeship giảm 10K/0Đ tại: https://tinyurl.com/2qzbs5ex  (back vào 9H, 12H)
 • 0H: Lưu mã Freeship giảm 25K/200K tại: https://tinyurl.com/2qzbs5ex  (back vào 9H, 12H, 15H, 18H, 20H)
