@@ -272,6 +272,69 @@ MÃ SĂN Ở CÁC KHUNG GIỜ TỪ 9H... MÌNH SẼ LÊN ĐẦY ĐỦ Ở TỪNG
 📌Nhóm Thông Báo Mã Nhanh:
 • Zalo: https://zalo.me/g/fqehfa279    
 
+
+
+
+
+<h2><b>⏰MÃ LAZADA NGÀY 15/12: </b></h2>
+🔥MÃ TOÀN SÀN - LƯU BANNER: 
+• 0H: Mã giảm 30K đơn từ 500K. Lưu mã tại: https://tinyurl.com/2mr7loop 
+• 0H: Mã giảm 25K đơn từ 99K. Lưu mã tại: https://tinyurl.com/2zmtu6qj 
+• 0H: Mã giảm 25K đơn từ 99K. Lưu mã tại: https://tinyurl.com/2zn8bejp 
+• 0H, 20H: Mã giảm 25K đơn từ 150K. Lưu mã tại: https://tinyurl.com/2novpy4a  - có thể lên mã 
+• 0H, 12H: Mã giảm 25K đơn từ 99K, 50K đơn từ 399K. Lưu mã tại: https://tinyurl.com/2zfu2kzf  - có thể lên mã 
+• 12H: Mã giảm 25K đơn từ 112K. Lưu mã tại: https://tinyurl.com/2elggx3g 
+.
+🔥0H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K, 10% TỐI ĐA 100K: back vào 9H, 12H, 16H
+=> Lưu mã tại: https://tinyurl.com/2jw8oqw9  (0h lên mã mới)
+.
+🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K: có thể lên mã dưới sản phẩm
+=> Lưu mã tại: https://tinyurl.com/2n2fwkn3  hoặc https://tinyurl.com/2pjlgma5 
+.
+🔥0H, 9H, 12H, 20H: DEAL TRỢ GIÁ - “LAZFLASH CRAZY”:
+=> Xem chi tiết tại: https://tinyurl.com/2mvx8q4r 
+.
+🔥9H, 12H: MÃ NGâN HÀNG: 
+=> Lưu mã tại: https://tinyurl.com/2mge8sjb 
+.
+🔥9H: MÃ ZALOPAY GIẢM 15% + MOMO GIẢM 10K/199K + VNPT GIẢM 15K/59K: mã back
+=> Lưu mã tại: https://tinyurl.com/2nxb8cam 
+.
+🔥VOUCHER TÍCH LŨY ĐỢT MỚI 15/12:
+• 0H: Lưu tích luỹ tại: https://tinyurl.com/2gunf72p 
+• 0H: Lưu thêm tích luỹ dưới sản phẩm: https://tinyurl.com/2jtk98hg 
+.
+🔥MỘT SỐ BANNER LƯU THÊM NHIỀU MÃ KHÁC: 
+• Top deal bán chạy: https://tinyurl.com/2elggx3g 
+• Siêu tiệc thương hiệu: https://tinyurl.com/2kxtop9b 
+• Ưu đãi nhiều tầng: https://tinyurl.com/2ocgwpgp 
+• Hoàn tiền gấp đôi: https://tinyurl.com/2hles2gk 
+• Freeship: https://tinyurl.com/2e4g2v4f 
+• Vũ trụ laz mall: https://tinyurl.com/2hqchsc6 
+.
+🔥CÁC BANNER KOL CÓ THỂ LÊN MÃ TOÀN SÀN BẤT NGỜ: 
+• New: https://tinyurl.com/2novpy4a 
+• Shopiness: https://tinyurl.com/2zfu2kzf 
+• Vinaphone: https://tinyurl.com/2jedt533 
+• Mobifone: https://tinyurl.com/2fs3aba9 
+• Hà Linh: https://tinyurl.com/2phtwxfw 
+• Mailovesbeauty: https://tinyurl.com/2j7wmcvr 
+• Chloe: https://tinyurl.com/2qwg9erq 
+• Badinulo: https://tinyurl.com/2gsvuz8j 
+• Hà Trúc: https://tinyurl.com/2zcmw7wr 
+• DealN: https://tinyurl.com/2zna3qbr 
+• BLTK: https://tinyurl.com/2q24zlpm 
+• CAN: https://tinyurl.com/2jglbxor 
+.
+🔥MÃ NHẬP TAY GIẢM 25K/99K, 40K/200K,..: Chờ cập nhật trên nhóm zalo, tele
+.
+🔥Sản phẩm dùng thử giá 9K, x9K: https://tinyurl.com/2gjs9w59 
+.
+🔥0H: Lên mã đổi xu: https://tinyurl.com/2lufaqd3 
+.
+🔥0H: Lên mã đổi sao: https://tinyurl.com/2kn5grah 
+
+
 `
 
 var updateTime = new Date(); //updateTime
