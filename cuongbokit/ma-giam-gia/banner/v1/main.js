@@ -12,7 +12,7 @@
     showArrow: true,
     mode: 'slide' };
   
-	fetch('https://data.polyxgo.com/api/v1/datax/sp_banners')
+	fetch('https://data.polyxgo.com/api/v1/datax/lzd_banners') //sp_banners, lzd_banners, tk_banners
       .then(res => res.json())
       .then(data => {
       data = JSON.parse(data.value);
