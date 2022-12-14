@@ -1,4 +1,20 @@
 var content_dday = `
+<b>15/12 TỔNG HỢP SỰ KIỆN SĂN XU SHOPEE 🔥🔥</b>
+1/  Dự đoán bóng đá chia kho quà 25 Triệu Xu
+🌲 https://tinyurl.com/2zolanbb 
+2/ Thử Thách Shopee 0H (lọc nick lướt cuối trang)
+🌸 https://tinyurl.com/2kdee93d 
+3/ Trồng cây hộp quà nhận nhận 12K xu: 
+🌲 https://tinyurl.com/2ncr5hcm 
+4/ Đổi kim cương Game đập kẹo nhận 12K xu 7H30 - 11H30 - 21H30: 
+🌸 https://tinyurl.com/2hnu2jz9 
+5/ Mở quà Shopee thu thập vật phẩm đổi xu: 
+🌲 https://tinyurl.com/2mthj6h8 
+6/ Shopee Rewards trúng xu: 
+🌸 https://tinyurl.com/2jslavw9 
+7/ Mừng Sinh Nhật Shopee
+🌲 https://tinyurl.com/2hygwber 
+
 📌Nhóm Thông Báo Mã Nhanh:
 • Zalo: https://zalo.me/g/fqehfa279  
 ➖➖ MIỄN PHÍ VẬN CHUYỂN➖➖
