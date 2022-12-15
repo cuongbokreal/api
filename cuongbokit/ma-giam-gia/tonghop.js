@@ -8,7 +8,7 @@ HOT: 🙆 Highlands đang tặng Voucher mua 2 tính tiền 1 free (áp dụng t
 https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1.html  
 
 
-🏆TỔNG HỢP MÃ SHOPEE, LAZADA CUỐI NGÀY 14/12🏆
+🏆TỔNG HỢP MÃ SHOPEE, LAZADA CUỐI NGÀY 16/12🏆
 <h2><b>SHOPEE</b></h2>
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
@@ -69,81 +69,51 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 🔥DỰ ĐOÁN BÓNG ĐÁ CHIA KHO 20TR XU + MÃ GIẢM 50K/150K: https://tinyurl.com/2zolanbb 
 
 <h2><b>LAZADA</b></h2>
-➖➖➖➖LAZADA➖➖➖➖
-🔥MÃ TOÀN SÀN - LƯU BANNER: lưu trên điện thoại
-• 19H: Mã giảm 30K đơn từ 99K. Lưu mã tại: https://tinyurl.com/2zn8bejp 
-=> Load trang liên tục từ phút 58 đến 05 nhé (mã có thể lên sớm hoặc muộn hơn vài phút)
+💥 Lưu thêm các mã toàn sàn:
+🔸 Nhóm Cộng Đồng: https://tinyurl.com/2dtv2bo8   
+► 12H (15 - 17/12): Lưu mã giảm 25k/112k toàn sàn Lazada.
+🔸 CAN: https://tinyurl.com/2jsen2gg     
+🔸 OLP: https://tinyurl.com/2zua9y99    
+🔸 SPN: https://tinyurl.com/2oj7bw3m  
+🔸 Vina: https://tinyurl.com/2fvgwnbm  
+🔸 Viettel: https://tinyurl.com/2jbvur9n  
+🔸 Mobi: https://tinyurl.com/2zdvublq  
+🔸 VHL: https://tinyurl.com/2jbdbpx7  
+🔸 Mai: https://tinyurl.com/2jjw9pgu   
+🔸 CHL: https://tinyurl.com/2pd5s735  
+🔸 HT: https://tinyurl.com/2ecvqtqc   
 .
-🔥19H: MÃ TOÀN SÀN GIẢM 200K ĐƠN TỪ 2000K:
-=> Lưu mã tại: https://tinyurl.com/2z9vq28o 
+🔥 Lưu voucher tích luỹ mỗi ngày (tối đa 400K): https://tinyurl.com/2efxtvbz  
+► Giảm ngay 15K cho mỗi 150K
+► Giảm ngay 50K cho mỗi 650K
 .
-🔥19H: MÃ ĐIỆN TỬ GIẢM 40K/212K + 21H: MÃ LÀM ĐẸP GIẢM 40K/212K:
-=> Lưu mã tại: https://tinyurl.com/2elggx3g 
+🔥 Hoàn tiền Max đến 300K – Cứ mua là hoàn tiền: https://tinyurl.com/2o4hrby2    
+► Lưu hoàn tiền max 12% tối đa 300k đơn từ 399k
+► Ngày nào cũng có: Voucher Hoàn 6% 50K đơn từ 49K (shop thường) và Hoàn 6% tối đa 300K cho đơn từ 49K (Áp dụng cho sản phẩm LazMall)
 .
-🔥20H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 500K ĐƠN TỪ 1TR + MÃ HOÀN TIỀN MAX 20K ĐƠN TỪ 0Đ: mã back
-=> Lưu mã tại: https://tinyurl.com/2jw8oqw9 
+🔥 Hot deal - Top Bán Chạy giảm đến 75% (Duy nhất 15/12): https://tinyurl.com/2nup4j98  
 .
-🔥20H: DEAL TRỢ GIÁ - “LAZFLASH CRAZY”:
-=> Xem chi tiết tại: https://tinyurl.com/2mvx8q4r 
+🔥 ƯU ĐÃI NHIỀU TẦNG: https://tinyurl.com/2jqshtdz  
+ ► MUA 2 GIẢM 5%
+ ► MUA 1 TẶNG 1
+ ► HOÀN TIỀN 12% ĐẾN 300K
 .
-🔥VOUCHER TÍCH LŨY GIẢM ĐẾN 800K: 
-• Thu thập hằng ngày. Dùng từ ngày 12-14/12. Giảm 15K cho mỗi 150K. Giảm 50K cho mỗi 650K
-=> Thu thập voucher tích lũy tại: https://tinyurl.com/2z9vq28o 
-=> Thu thập thêm voucher tích lũy dưới sản phẩm: https://tinyurl.com/2q8aoobf 
-=> Thu thập thêm voucher tích lũy bằng cách làm nhiệm vụ tại: https://tinyurl.com/2pdyyjcf 
+🔥 VŨ TRỤ LAZMALL: https://tinyurl.com/2j3suxkz  
+► 100% CHÍNH HÃNG.
+► QUÀ HIỆU 1.4TR
 .
-🔥CÁC BANNER KOL CÓ THỂ LÊN MÃ TOÀN SÀN BẤT NGỜ: 
-• New: https://tinyurl.com/2novpy4a  20H khả năng cao lên mã
-• Shopiness: https://tinyurl.com/2zfu2kzf  20H khả năng cao lên mã
-• Vinaphone: https://tinyurl.com/2jedt533 
-• Mobifone: https://tinyurl.com/2fs3aba9 
-• Hà Linh: https://tinyurl.com/2phtwxfw 
-• Mailovesbeauty: https://tinyurl.com/2j7wmcvr 
-• Chloe: https://tinyurl.com/2qwg9erq 
-• Badinulo: https://tinyurl.com/2gsvuz8j 
-• Hà Trúc: https://tinyurl.com/2zcmw7wr 
-• DealN: https://tinyurl.com/2zna3qbr 
+🔸 LazFlash Max: https://tinyurl.com/2qfh3z7w    
+ ► Chương trình flash sale do Lazada trợ giá các sản phẩm bán chạy. Rất nhiều deal siêu tốt với mức trợ giá lên đến 200K. Áp dụng thêm các voucher khác nữa thì giá tốt nhất thị trường luôn
 .
-🔥20H: SĂN MÃ GIẢM 30% TỪ CÁC THƯƠNG HIỆU THỜI TRANG: 
-• Thời trang nữ: https://tinyurl.com/2kfpdzsv 
-• Thời trang nam: https://tinyurl.com/2fhsz98n 
-• Túi balo, phụ kiện: https://tinyurl.com/2oj7sdm5 
-• Thời trang cho bé: https://tinyurl.com/2q5hq6sa 
-• Thể thao, dã ngoại: https://tinyurl.com/2epzt2r3 
+🔸 Freeship Max: https://tinyurl.com/2gsnfrjm     
+► Giảm 15k đơn từ 29k cho mọi đơn hàng.
+► Giảm 50k đơn từ 300k.
 .
-🔥20H: MÃ TỪ CÁC SHOP NHÀ CỬA ĐỜI SỐNG: 
-• Ô tô, xe máy: https://tinyurl.com/2ks6m82x 
-• Sở thích, học tập: https://tinyurl.com/2zttkkp9 
-• Sửa chữa, sân vườn: https://tinyurl.com/2fft435f 
-• Điện gia dụng: https://tinyurl.com/2p33tlt8 
-• Trang trí nhà cửa: https://tinyurl.com/2et5bvn5 
-• Nội thất, đồ đạc: https://tinyurl.com/2klgkn4e 
-• Nấu ăn, dọn dẹp: https://tinyurl.com/2ebjb2k9 
+🔸 Lưu Voucher từ các đối tác thanh toán ngân hàng: https://tinyurl.com/2nl88x5l     
 .
-🔥20H: MÃ GIẢM 20% TỪ CÁC SHOP: 
-• Hoàn tiền max 12%: https://tinyurl.com/2m23eegf 
-• Top bán chạy: https://tinyurl.com/2mzyheug 
-• Freeship toàn quốc: https://tinyurl.com/2oogc7le 
-• Rẻ vô cực: https://tinyurl.com/2n5rlnjx 
-• Càng mua càng giảm: https://tinyurl.com/2z8bv9y8 
-• Tất cả deal: https://tinyurl.com/2mgefp4m 
+🔸 Lưu mã zalopay: https://tinyurl.com/2qeeoeyp       
 .
-🔥ƯU ĐÃI TỪ CÁC THƯƠNG HIỆU BÁCH HÓA MẸ BÉ + SỨC KHỎE SẮC ĐẸP:
-• Bách hóa: https://tinyurl.com/2oyewx3c 
-• Chăm sóc cá nhân: https://tinyurl.com/2prd5wfy 
-• Mẹ bé: https://tinyurl.com/2n4lossm 
-• Sức khỏe: https://tinyurl.com/2jluluvu 
-• Làm đẹp: https://tinyurl.com/2lqluacu 
-.
-🔥ƯU ĐÃI TỪ CÁC THƯƠNG HIỆU ĐIỆN TỬ: 
-• Thiết bị công nghệ: https://tinyurl.com/2ztduag2 
-• Công nghệ giải trí: https://tinyurl.com/2hgz69e6 
-• Di động phụ kiện: https://tinyurl.com/2jf5sy99 
-.
-🚛MÃ FREESHIP GIẢM 25K/129K DƯỚI SẢN PHẨM: https://tinyurl.com/2gb9bvlj 
-.
-🔥Sản phẩm dùng thử 9K, X9K: https://tinyurl.com/2gjs9w59 
-
+🔸 Lưu mã momo: https://tinyurl.com/2k2namnz     
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
