@@ -9,88 +9,89 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 
 
 <h2><b>SHOPEE</b></h2>
+⏰SHOPEE, LAZADA TỪ 12H - 18H NGÀY 24/12:
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• 18H: Lưu mã Freeship Xtra tại: https://tinyurl.com/2orzmdxe  (back)
-• 18H: Lưu mã Freeship giảm 25K/25K tại các live: https://tinyurl.com/2je7hfmo  (back)
-• Lưu mã Freeship giảm 25K/50K, 40K/100K lọc sản phẩm tại: https://tinyurl.com/2orzmdxe  
-• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://tinyurl.com/2jkad798 
-• Quay mã Freeship: https://tinyurl.com/2kyy3emp 
+• 12H: Lưu mã Freeship 0Đ + mã Freeship giảm 25K/50K, 40K/100K lọc sptại: https://tinyurl.com/2q68mpt2  (back)
+• 12H, 18H: Lưu mã Freeship Xtra tại: https://tinyurl.com/2lhq26ug  (có thể back)
+• 12H, 15H, 18H: Lưu mã Freeship giảm 25K/25K tại các live: https://tinyurl.com/2fmxkltb  (back)
+• Đổi mã Freeship giảm 50% giảm tối đa 40K: https://tinyurl.com/2zayfc5p 
+• Quay mã Freeship: https://tinyurl.com/2f3ja2lg 
 .
-🔥THỜI TRANG MALL: https://tinyurl.com/2qgeg9lg 
-• 18H: ELEA1824 (mã shop) giảm 50% tối đa 100K đơn từ 200K cho shop Eleanor Accessories: https://tinyurl.com/2m3kkzob 
-• 18H: BEEMFDG2S (mã shop) giảm 50% tối đa 100K đơn từ 0Đ cho shop Beemo Kid - Đại lý Beemo HN: https://tinyurl.com/2ojuru6e 
-• 18H: TEEL2312 (mã shop) giảm 50% tối đa 100K đơn từ 0Đ cho shop Teelab: https://tinyurl.com/2o7gj8xc 
-• 18H: AOTH2312 (mã shop) giảm 50% tối đa 100K đơn từ 0Đ cho shop Áo Thun SDVN: https://tinyurl.com/2jljrpgn 
-• WABRFFD3 giảm 10% tối đa 40K đơn từ 250K
+🔥HÀNG QUỐC TẾ HÀN QUỐC: https://tinyurl.com/2plmltq6 
+• 12H: KR300K12HN giảm 300K đơn từ 0Đ. List sản phấm áp mã: https://tinyurl.com/2ofzopdv 
+• Lưu, dùng luôn loạt mã shop giảm 30K/0Đ, 30K/99K, 20% tại: https://tinyurl.com/2plmltq6 
+• CBKF1012SHV30P99 giảm 20% tối đa 40K đơn từ 99K
+• CBKF1012SHV100P0 giảm 20K đơn từ 0Đ
 .
-🔥KAO: https://tinyurl.com/2elwd2jh 
-• 20H21s: KAOO100D3 (mã shop) giảm 100K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2drhwkpg 
-.
-🔥Laneige: https://tinyurl.com/2eek2ppz 
-• 21H19s: LANE500D (mã shop) giảm 500K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2z6jcg2d 
-• 21H23s: LANE120C (mã shop) giảm 120K đơn từ 650kK List sản phẩm áp mã: https://tinyurl.com/2h4x5sr5 
-.
-🔥SHOPEEFOOD: https://tinyurl.com/2gh6jtr4 
-• 19H: XMAS30 giảm 50% tối đa 30K đơn từ 60K
-• 19H: XMAS25 giảm 50% tối đa 25K đơn từ 50K
-• 19H: XMAS20 giảm 50% tối đa 20K đơn từ 0Đ
-.
-🔥MÃ ÁP SẢN PHẨM CÓ MÁC "Hoàn Xu Xtra”:
-• 18H: CCBDAYH1223 hoàn 7% tối đa 200K đơn từ 400K(back)
-• 18H: CCBDAYL1223 hoàn 5% tối đa 100K đơn từ 50K(back)
-• 21H: 2312HOAN40K0PH hoặc 2312HOAN40K1PH hoặc 2312HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back)
-• 21H: 2312MALL50K0PH hoặc 2312MALL50K1PH hoặc 2312MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back)
+🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
+• Sau 12H: Mã giảm 30K đơn từ 99K cho toàn sàn tag Shopee Live. Lưu mã tại: https://tinyurl.com/2n2nxoc2  mục live
+• 12H: Mã giảm 10K/0Đ, 20K/50K, 40K/150K. Lưu mã tại: https://tinyurl.com/2hu2h4d3  hoặc https://tinyurl.com/2jeeq382  mục live(back vào 12H30) - List 1
+• 12H: Mã giảm 10K/0Đ, 20K/50K, 40K/150K. Lưu mã tại: https://tinyurl.com/2kxa8hzd  hoặc https://tinyurl.com/2f8df4wv  mục live(back vào 12H30) - List 2
+=> TỔNG HỢP ĐẦY ĐỦ HƠN 800 SHOP ÁP ĐƯỢC MÃ GIẢM 10K/0Đ, 20K/50K, 40K/150K TẠI: https://tinyurl.com/tgg-ma-live-10-20-40-1222    
 .
 🔥MÃ TOÀN SÀN: 
-• 21H: 2312GIAM10K0PH hoặc 2312GIAM10K1PH hoặc 2312GIAM10K2PH giảm 10K đơn từ 150K(back)
+• 12H: 2412GIAM10K0PH hoặc 2412GIAM10K1PH hoặc 2412GIAM10K2PH giảm 10K đơn từ 150K(back)
 .
-🔥SHOP NỔI BẬT XTRA: https://tinyurl.com/2duf6op5 
-• 21H: SDEC2321H giảm 30K đơn từ 60K. List sản phẩm áp mã: https://tinyurl.com/2g9zpex4 
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC "Hoàn Xu Xtra” :
+• 12H: 2412HOAN40K0PH hoặc 2412HOAN40K1PH hoặc 2412HOAN40K2PH hoàn 5% tối đa 40K đơn từ 500K(back)
+• 12H: 2412MALL50K0PH hoặc 2412MALL50K1PH hoặc 2412MALL50K2PH hoàn 5% tối đa 50K đơn từ 250K ShopeeMall(back)
 .
-🔥VÀO ĐâY: https://tinyurl.com/2mwbfzpr  NHẬP:
+🔥360 Boutique: https://tinyurl.com/2fo8tkpt 
+• 12H: 360B12M2 (mã shop) giảm 100K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2m4bh93k 
+.
+🔥LACOBA DENIM: https://tinyurl.com/2zzxvfaq 
+• 12H10s: LACO48K12 (mã shop) giảm 48K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2nybqrcz 
+.
+🔥Homies saigon: https://tinyurl.com/2f5wt3r7 
+• 12H14s HOMI48K12 (mã shop) giảm 48K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2o5ljruo 
+.
+🔥MÃ ÁP ĐA SỐ SẢN PHẨM: 
+• AFFUPP25MUNG giảm 20% tối đa 25K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/2m7bz7lx 
+.
+🔥VÀO ĐâY: https://tinyurl.com/2h8caqrz  NHẬP:
 • SRD1x thay x bằng các số từ 2830 đến 4854 tạo thành mã shop giảm 50% tối đa 50K/50K, 20K/0Đ
 • SRD21x thay x bằng các số từ 1725 đến 2356 tạo thành mã shop giảm 50% tối đa 50K/50K, 20K/0Đ
-=> TỔNG HỢP CÁC SHOP CÓ MÃ GIẢM 50K/50K THEO KHU VỰC, NGÀNH HÀNG TẠI: https://tinyurl.com/tgg-ma-live-10-20-40-1222    
+=> TỔNG HỢP CÁC SHOP CÓ MÃ GIẢM 50K/50K THEO KHU VỰC, NGÀNH HÀNG TẠI: https://tinyurl.com/tgg-ma-shop-50k-khu-vuc-1222      
 .
-🔥THỜI TRANG XU HƯỚNG: https://tinyurl.com/2q8qlqrg 
-• SKAMLTB1912 giảm 20K đơn từ 0Đ. List sản phấm áp mã: https://tinyurl.com/2jyxpute 
-• SKAMLTS1912 giảm 15K đơn từ 0Đ. List sản phấm áp mã: https://tinyurl.com/2hwoxssl 
-.
-🔥SHOPEEPAY: https://tinyurl.com/2zpswpf7 
-• SPPP3DECGMV40K giảm 5% tối đa 40K đơn từ 400K
-• SPPP3DEC8K giảm 8K đơn từ 99K
+🔥THỜI TRANG XU HƯỚNG: https://tinyurl.com/2lon65ta 
+• SKAMLTB1912 giảm 20K đơn từ 0Đ. List sản phấm áp mã: https://tinyurl.com/2g679ylq 
+• SKAMLTS1912 giảm 15K đơn từ 0Đ. List sản phấm áp mã: https://tinyurl.com/2znquvbb 
 .
 🔥MỘT SỐ BANNER MỞ LƯU SỚM MÃ CHO SALE 25/12: 
-• Siêu sale voucher: https://tinyurl.com/2keoqm39 
-• Đón chờ siêu sale: https://tinyurl.com/2h59keyk 
-• Mã giảm giá: https://tinyurl.com/2r3828lh 
-• Săn deal trở lại: https://tinyurl.com/2hvejal6  lọc user
+• Siêu sale voucher: https://tinyurl.com/2hjv9psl 
+• Đón chờ siêu sale: https://tinyurl.com/2ljwzryw 
+• Kol affiliate: https://tinyurl.com/2grz2stu 
+• Hoàn xu xtra: https://tinyurl.com/2fxhgpcy 
+• Mã giảm giá: https://tinyurl.com/2eo39ync 
+• Săn deal trở lại: https://tinyurl.com/2fu3lfzg  lọc user
 .
-🔥QUAY LẤY MÃ TOÀN SÀN GIẢM 100K/100K + HOÀN 150K/300K CHO 0H DÙNG: https://tinyurl.com/2gas6w7j 
+🔥QUAY LẤY MÃ TOÀN SÀN GIẢM 100K/100K + HOÀN 150K/300K CHO 0H DÙNG: https://tinyurl.com/2gtmr49b 
 .
-🔥GIẢI ĐỐ SĂN MÃ TOÀN SÀN GIẢM 99K/99K + CHIA KHO 35TR XU: https://tinyurl.com/2hozs3ry  đáp án lượt 12H: D
+🔥LƯU SỚM LOẠT MÃ SHOPEE SALE 25.12: https://tinyurl.com/2ljwzryw 
 .
-🔥THỬ THÁCH SHOPEE: https://tinyurl.com/2npgefcd 
-
+🔥MỞ QUÀ SĂN MÃ TOÀN SÀN GIẢM 99K CHO 25/12: https://tinyurl.com/2grz2stu  
+.
+🔥THỬ THÁCH SHOPEE: https://tinyurl.com/2eet3p2v 
 
 <h2><b>LAZADA</b></h2>
 ➖➖➖➖LAZADA➖➖➖➖
-🔥MÃ TOÀN SÀN, HOÀN TIỀN MAX, MÃ KHÁC: mã back
-=> Lưu mã tại: https://tinyurl.com/2ptrvlvz  
+🔥12H: MÃ TOÀN SÀN GIẢM 10K ĐƠN TỪ 50K: load trang liên tục 
+=> Lưu mã tại: https://tinyurl.com/2dwer4cg  
 .
-🔥20H: DEAL TRỢ GIÁ - “LAZFLASH CRAZY”:
-=> Xem chi tiết tại: https://tinyurl.com/2zdu9kj9 
+🔥12H: MÃ NGâN HÀNG: bấm qua lại giữa 2 mục “Bank Voucher” và “Evo/HD SAISON”
+=> Lưu mã tại: https://tinyurl.com/2hg6grnd  
 .
-🔥MỘT SỐ BANNER LƯU MÃ KHÁC:
-• Sale cuối năm: https://tinyurl.com/2j8bn2da 
-• Sale thương hiệu: https://tinyurl.com/2mj3asme 
-• Top bán chạy: https://tinyurl.com/2zr5eamm 
-• Freeship: https://tinyurl.com/2o7w4pag 
-• Rẻ vô cực: https://tinyurl.com/2pflmu7u 
-• Hoàn tiền: https://tinyurl.com/2fuk2946 
+🔥12H, 16H: MÃ TOÀN SÀN GIẢM 20K/250K, 30K/400K, 50K/600K, 150K/1TR5: mã back
+=> Lưu mã tại: https://tinyurl.com/2hg6grnd  
 .
-🔥Sản phẩm dùng thử giá 9K, x9K: https://tinyurl.com/2loludsd 
+🔥12H, 16H: MÃ HOÀN TIỀN MAX 12% TỐI ĐA 300K, 10% TỐI ĐA 100K: mã back
+=> Lưu mã tại: https://tinyurl.com/2efa8k5e  
+.
+🔥12H, 20H: DEAL TRỢ GIÁ - “LAZFLASH CRAZY”:
+=> Xem chi tiết tại: https://tinyurl.com/2l22uqdo 
+.
+🔥Sản phẩm dùng thử giá 9K, x9K: https://tinyurl.com/2qxs2q5v 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
