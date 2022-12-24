@@ -1,5 +1,4 @@
 var content_dday = `
-> Thánh Săn Sale:
 BẬT MÍ SỚM 95% MÃ SHOPEE NGÀY SALE 25/12:
 🚛MIỄN PHÍ VẬN CHUYỂN: dùng tối đa 14 lượt
 • 0H: Lưu mã Freeship 0Đ, 30K/99K tại: https://tinyurl.com/2mz3phkd  (còn back vào 9H, 12H, 15H, 18H, 21H)
