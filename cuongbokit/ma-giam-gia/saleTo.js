@@ -3,58 +3,59 @@ var content_dday = `
 📌Nhóm Thông Báo Mã Nhanh:
 • Zalo: https://zalo.me/g/fqehfa279    
 <h2><b>1. SHOPEE:</b></h2>
+⏰MÃ SHOPEE TỪ 18H - 20H NGÀY 25/12:
 🚛MIỄN PHÍ VẬN CHUYỂN: 
-• 15H: Lưu mã Freeship 0Đ, 30K/99K + mã Freeship sp giảm 25K/50K, 40K/100K tại: https://tinyurl.com/2k2k2xkm  (back)
-• 15H: Lưu mã Freeship giảm 70K/25K, 25K/25K tại các live bất kì: https://tinyurl.com/2l5kdfvd  (back)
+• 18H: Lưu mã Freeship 0Đ, 30K/99K tại: https://tinyurl.com/2k2k2xkm  (back)
+• 18H, 20H: Lưu mã Freeship giảm 70K/25K, 25K/25K tại các live bất kì: https://tinyurl.com/2l5kdfvd  (back)
+• Lưu mã Freeship sp giảm 25K/50K, 40K/100K tại: https://tinyurl.com/2k2k2xkm  
 • Tặng sẵn một số mã Freeship trong ví tùy tài khoản: https://tinyurl.com/2p57hm28 
 • Đổi mã Freeship giảm 50% giảm tối đa 40K tại: https://tinyurl.com/2px2pf5e 
 • Quay mã Freeship tại: https://tinyurl.com/2ztjmjpz 
 .
 🔥MÃ TOÀN SÀN - SIÊU SALE VOUCHER: đã lưu sớm được
-• 15H: Mã giảm 40K đơn từ 250K
+• 18H: Mã giảm 40K đơn từ 250K
 => Lưu mã tại: https://tinyurl.com/2zd3xrst 
 .
 🔥MÃ TOÀN SÀN - KOL AFFILIATE: đúng giờ load trang mới hiện mã
-• 15H, 16H, 17H: Mã giảm 15% tối đa 40K đơn từ 200K, 15% tối đa 30K đơn từ 150K, 15% tối đa 20K đơn từ 99K
-• 15H, 16H, 17H: Mã giảm 15% tối đa 25K đơn từ 99K(lọc user)
+• 18H, 19H, 20H: Mã giảm 15% tối đa 40K đơn từ 200K, 15% tối đa 30K đơn từ 150K, 15% tối đa 20K đơn từ 99K
+• 18H, 19H, 20H: Mã giảm 15% tối đa 25K đơn từ 99K(lọc user)
 => Lưu mã tại: https://tinyurl.com/2zllvscj 
 .
 🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - NHẬP TAY:
-• 14H57-15H03: 2512HUNT250K hoàn 15% tối đa 250K đơn từ 1500K. List sản phẩm áp mã: https://tinyurl.com/2owxdaw7  (back)
+• 17H57-18H03: 2512HUNT250K hoàn 15% tối đa 250K đơn từ 1500K. List sản phẩm áp mã: https://tinyurl.com/2owxdaw7  (back)
 .
-🔥MÃ ÁP ĐA SỐ SẢN PHẨM - NHẬP TAY: 
-📌Canh thêm lượt loạt mã bên dưới, áp liên tục từ 14H57-15H03:
-• AFF12ROI giảm 25% tối đa 99K đơn từ 299K. List sản phấm áp mã: https://tinyurl.com/2hj2p84b 
-• AFF12IEM giảm 11% tối đa 111K đơn từ 499K. List sản phấm áp mã: https://tinyurl.com/2jghh593 
-• AFF12SAO giảm 11% tối đa 69K đơn từ 399K. List sản phấm áp mã: https://tinyurl.com/2jahf87a 
-• AFFMSXMAS giảm 20% tối đa 30K đơn từ 99K. List sản phấm áp mã: https://tinyurl.com/2jas2cpm 
-• AFFMSNOEL giảm 15% tối đa 30K đơn từ 99K. List sản phấm áp mã: https://tinyurl.com/2ptpestx 
-• AFF12MAI giảm 15% tối đa 24K đơn từ 99K. List sản phấm áp mã: https://tinyurl.com/2klj25f4 
-• AFF12OI giảm 15% tối đa 30K đơn từ 99K. List sản phấm áp mã: https://tinyurl.com/2ry27te6 
-• AFF12ALO giảm 25K đơn từ 99K. List sản phấm áp mã: https://tinyurl.com/2ryuhjj5  
-• AFF12BE giảm 18K đơn từ 99K. List sản phấm áp mã: https://tinyurl.com/2pa8p5ev 
+🔥MÃ ÁP SẢN PHẨM CÓ MÁC “Hoàn Xu Xtra” - LƯU BANNER: 
+• 18H: Mã hoàn 7% tối đa 200K đơn từ 400K(back)
+• 18H: Mã hoàn 6% tối đa 100K đơn từ 50K(back)
+=> Lưu mã tại: https://tinyurl.com/2f8v8grd 
 .
 🔥MÃ SHOPEE LƯU TRÊN LIVE - MÃ ÁP SẢN PHẨM MUA TỪ GIỎ LIVE:
-• 15H: Mã giảm 10K/0Đ, 20K/50K, 40K/150K. Lưu mã tại: https://tinyurl.com/2pldj9dz  hoặc https://tinyurl.com/2hxarhb4  mục live(back) - List 1
-• 15H: Mã giảm 10K/0Đ, 20K/50K, 40K/150K. Lưu mã tại: https://tinyurl.com/2lnhygjl  hoặc https://tinyurl.com/2j84pcuk  mục live(back) - List 2
-=> TỔNG HỢP ĐẦY ĐỦ HƠN 800 SHOP ÁP ĐƯỢC MÃ GIẢM 10K/0Đ, 20K/50K, 40K/150K TẠI: https://tinyurl.com/tgg-ma-live-10-20-40-1222   
+• 18H, 20H: Mã giảm 10K/0Đ, 20K/50K, 40K/150K. Lưu mã tại: https://tinyurl.com/2pldj9dz  hoặc https://tinyurl.com/2hxarhb4  mục live(back) - List 1
+• 18H, 20H: Mã giảm 10K/0Đ, 20K/50K, 40K/150K. Lưu mã tại: https://tinyurl.com/2lnhygjl  hoặc https://tinyurl.com/2j84pcuk  mục live(back) - List 2
+=> TỔNG HỢP ĐẦY ĐỦ HƠN 800 SHOP ÁP ĐƯỢC MÃ GIẢM 10K/0Đ, 20K/50K, 40K/150K TẠI: https://tinyurl.com/tgg-ma-live-10-20-40-1222    
+.
+🔥SHOP XU HƯỚNG: đúng giờ load trang lưu mã
+• 18H: Săn mã shop giảm 50K đơn từ 0Đ
+=> Lưu mã tại: https://tinyurl.com/2qtdoh63 
 .
 🔥THỜI TRANG: https://tinyurl.com/2mmonrt3 
-• 15H: WHOI220K (mã shop) giảm 12% tối đa 220K đơn từ 200K. List sản phẩm áp mã: https://tinyurl.com/2ornylbb 
-• 15H: GENK220K (mã shop) giảm 220K đơn từ 600K. List sản phẩm áp mã: https://tinyurl.com/2nomn6xk 
-• 15H: Săn deal 1K-9K tại banner
+• 18H35s: SOYO25T12 (mã shop) giảm 220K đơn từ 600K. List sản phẩm áp mã: https://tinyurl.com/2ophpru2 
+• 18H: PATTERN25 (mã shop) giảm 220K đơn từ 599K. List sản phẩm áp mã: https://tinyurl.com/2m4dde3h 
+• 18H: Săn deal 1K-9K tại banner
 .
 🔥TIÊU DÙNG: https://tinyurl.com/2g665y6e 
-• 15H: Săn deal đồng giá 1K, x9K tại banner
-• Săn mã shop giảm 50% tối đa 99K đơn từ 0Đ tại banner
+• 18H: PERHU25 (mã shop) giảm 199K còn 0Đ cho Bút kẻ mắt nước Perfect Diary: https://tinyurl.com/2ob9dytv 
+• 18H: Săn mã shop giảm 99K/0Đ, mã shop mua deal 0Đ tại banner
+• 18H: Săn deal đồng giá 1K, x9K tại banner
 .
 🔥XEM LIVE SĂN MÃ GIẢM 50% TỐI ĐA 70K, 50K TỪ CÁC THƯƠNG HIỆU + MÃ TOÀN SÀN TAG LIVE, FREESHIP:
 => Xem live tại: https://tinyurl.com/2lc7qg7t  mục live
 .
-📌TỔNG HỢP CÁC MÃ KOL, MÃ SHOP, THƯƠNG HIỆU: https://tinyurl.com/tgg-ma-shop-brand-25-1222 
+🔥VÀO ĐâY: https://tinyurl.com/2p57hm28  NHẬP:
+• SD18x thay x bằng các số từ 21 đến 29 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 18H
+• SD18x thay x bằng các số từ 210 đến 286 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 18H
 .
-📌XEM BÀI TỔNG HỢP MÃ SHOPEE, LAZADA NGÀY SALE 25/12 TẠI: https://www.facebook.com/groups/584602429633228/posts/870834247676710/ 
-
+📌TỔNG HỢP CÁC MÃ KOL, MÃ SHOP, THƯƠNG HIỆU: https://tinyurl.com/tgg-ma-shop-brand-25-1222  (18H lên loạt mã toàn sàn giảm 20K/99K)
 
 <h2><b>2. LAZADA:</b></h2>
 🔥12H: MÃ TOÀN SÀN GIẢM 25K ĐƠN TỪ 112K:
