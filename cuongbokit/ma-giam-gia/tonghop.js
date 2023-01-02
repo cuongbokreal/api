@@ -9,7 +9,6 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 
 
 <h2><b>SHOPEE</b></h2>
-🏆TỔNG HỢP MÃ SHOPEE, LAZADA NGÀY 27/12🏆
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
 • 0H, 21H: Lưu mã Freeship 0Đ tại: https://tinyurl.com/2efmdjdm  (back vào 9H, 12H)
