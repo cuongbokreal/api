@@ -1,15 +1,4 @@
 var content_dday = `
-THÊM LINK KOL NÈ CẢ NHÀ
-📌 Link mã 15k/99K lọc user:
-
-► Link 1 ( 25K/199K ): https://tinyurl.com/2kx57djm 
-► Link 2 ( 25K/199K ): https://tinyurl.com/2pcl2kpd 
-► Link 3: https://tinyurl.com/2gtf5qde 
-► Link 4: https://tinyurl.com/2r3eomvt 
-► Link 5: https://tinyurl.com/2nlrq8xd 
-► Link 6: https://tinyurl.com/2jg8uu5a 
-► Link 7: https://tinyurl.com/2l372wf6 
-► Link 8: https://tinyurl.com/2kggarwt 
 `
 
 var updateTime = new Date(); //updateTime
