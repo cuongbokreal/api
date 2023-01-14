@@ -249,7 +249,7 @@ Mã KOL giảm 15k/99k, 25k/199k, 30k/99k, 30k/150k,... sẽ được cập nh�
 • SG18x thay x bằng các số từ 21 đến 29 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 18H
 • SG18x thay x bằng các số từ 210 đến 265 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 18H
 .
-🔥XEM MÃ THƯƠNG HIỆU, MÃ SHOP, BANNER KOL TẠI: https://docs.google.com/document/d/10kYtiPRX7ncM58VIZfYTb7eyaiaRf_wz0IxHLFcJEFU/edit 
+🔥XEM MÃ THƯƠNG HIỆU, MÃ SHOP, BANNER KOL TẠI: https://tinyurl.com/tgg-list-banner-kol-0123  
 .
 ➖➖NẠP THẺ - DỊCH VỤ➖➖
 🔥NẠP THẺ - DỊCH VỤ: https://tinyurl.com/2gt5zfr8 
