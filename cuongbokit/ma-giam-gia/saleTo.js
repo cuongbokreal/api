@@ -353,6 +353,100 @@ MÃ SĂN Ở CÁC KHUNG GIỜ TỪ 9H... MÌNH SẼ LÊN ĐẦY ĐỦ Ở TỪNG
 • Zalo: https://zalo.me/g/cvpxza602 
 • Telegram: https://t.me/trumgiamgia  (nhanh nhất)
 
+
+🏆TỔNG HỢP MÃ LAZADA NGÀY SALE 2/2🏆
+🚛MIỄN PHÍ VẬN CHUYỂN:
+• Mã Freeship giảm 15K/29K, 50K/300K còn lượt
+• 0H: Mã Freeship giảm 25K/69K(lọc user)
+=> Lưu mã tại: https://tinyurl.com/24bgr23n  
+.
+🔥MÃ HOÀN TIỀN MAX: đúng giờ load trang lưu mã, đã hiện sẵn
+• 0H, 12H: Mã hoàn 50% tối đa 200K đơn từ 0Đ
+• 0H: Mã hoàn 50% tối đa 50K đơn từ 49K + Mã hoàn 10% tối đa 100K + Mã hoàn 12% tối đa 300K(back 9H, 12H, 16H, 20H)
+=> Lưu mã tại: https://tinyurl.com/27dtch26 
+=> Hoặc nếu vào link trên không thấy mã thì lưu tại: https://tinyurl.com/23v59j5e  (nếu vẫn không thấy mã thì đổi nick)
+.
+🔥0H: MÃ QUỐC TẾ GIẢM 22%, 8K: mục “Giảm 22%”
+=> Lưu mã tại: https://tinyurl.com/273p55ho 
+.
+🔥MÃ TOÀN SÀN - VOUCHER SĂN TRƯỚC GIỜ G: đúng giờ load trang lưu mã, lưu là của riêng(hạn dùng trước 2H ngày 2/2)
+• 21H ngày 1/2: Lưu sớm mã giảm 20% tối đa 50K đơn từ 0Đ
+• 21H30 ngày 1/2: Lưu sớm mã giảm 25% tối đa 100K đơn từ 0Đ 
+• 22H ngày 1/2: Lưu sớm mã giảm 30% tối đa 200K đơn từ 0Đ 
+• 22H30 ngày 1/2: Lưu sớm mã giảm 35% tối đa 300K đơn từ 0Đ 
+• 23H ngày 1/2: Lưu sớm mã giảm 40% tối đa 450K đơn từ 0Đ 
+• 23H30 ngày 1/2: Lưu sớm mã giảm 45% tối đa 500K đơn từ 0Đ 
+=> Lưu mã tại: https://tinyurl.com/24bgr23n  
+.
+🔥12H: LƯU MÃ TOÀN SÀN GIẢM 40K ĐƠN TỪ 200K: mỗi link lên mỗi khác nhau
+• COM: https://tinyurl.com/2xj477ls  (mã 1)
+• HSS: https://tinyurl.com/23v59j5e  (mã 2)
+• BLTK: https://tinyurl.com/22qle4jx  (mã 3)
+• RIO: https://tinyurl.com/28sdujlv  (mã 4)
+• BLGG: https://tinyurl.com/298nfvww  (mã 5)
+=> Load trang liên tục vài phút(mã thường lên trễ). Lưu trên app - điện thoại(vì trên web mã bị ẩn). Mã lưu được là của riêng
+.
+🔥0H, 12H, 20H: MÃ TOÀN SÀN GIẢM 100K ĐƠN TỪ 1500K:
+=> Lưu mã tại: https://tinyurl.com/24bgr23n  
+.
+🔥0H: VOUCHER TÍCH LŨY GIẢM ĐẾN 400K: https://tinyurl.com/2dkfzu6g 
+=> Thu thập hàng ngày. Dùng được từ ngày 2/2 đến ngày 4/2
+.
+🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K: mã dưới sản phẩm
+=> Lưu mã tại: https://tinyurl.com/2ajp2t7q 
+.
+🔥9H: MÃ NGâN HÀNG: back 12H
+=> Lưu mã tại: https://tinyurl.com/23bz2578 
+.
+🔥9H, 12H: MÃ MOMO GIẢM 5K/199K + ZALOPAY GIẢM 10K/299K: mã back
+=> Lưu mã tại: https://tinyurl.com/266e8fne 
+.
+🔥0H, 9H, 12H, 15H, 20H: DEAL TRỢ GIÁ - LAZFLASH: 
+=> Xem chi tiết tại: https://tinyurl.com/2yxs236e 
+.
+🔥CÁC BANNER KOL CÓ THỂ LÊN MÃ TOÀN SÀN BẤT NGỜ:
+• New: https://tinyurl.com/24y33ykm  
+• Shopiness: https://tinyurl.com/22f7a3hx  
+• Vina: https://tinyurl.com/25er3prh 
+• Mobi: https://tinyurl.com/2839p7bn 
+• Viettel: https://tinyurl.com/26zndrfg 
+• HL: https://tinyurl.com/2ybqfm92 
+• HT: https://tinyurl.com/2y37hlpc
+• Mai: https://tinyurl.com/2dn23tqm 
+• Chloe: https://tinyurl.com/26cuebev 
+• Badi: https://tinyurl.com/2ytjzwd6 
+• CAN: https://tinyurl.com/29t7w6nc  
+• DealN: https://tinyurl.com/23yoln3b  
+.
+🔥MỘT SỐ BANNER SALE LƯU THÊM MÃ KHÁC:
+• Sale mở màn 2023: https://tinyurl.com/25elclwd 
+• Voucher tích lũy 400k: https://tinyurl.com/2dkfzu6g 
+• Sale thương hiệu: https://tinyurl.com/26jmum5e 
+• Top bán chạy: https://tinyurl.com/25rrdaqa 
+• Mua là freeship: https://tinyurl.com/2dxyd39f 
+• Rẻ vô cực, deal sốc 2k: https://tinyurl.com/22slogz9 
+• Valentine: https://tinyurl.com/223q7565 
+• Hoàn tiền max: https://tinyurl.com/2bvhzk7e 
+.
+🔥MỘT SỐ BANNER NGÀNH HÀNG LƯU THÊM MÃ KHÁC:
+• Thời trang nữ: https://tinyurl.com/2bbqqfp4 
+• Thời trang nam: https://tinyurl.com/2a8qfxed 
+• Sức khỏe & làm đẹp: https://tinyurl.com/2a4v4bpy 
+• Bách hóa, mẹ & bé: https://tinyurl.com/224x9j7d 
+• Điện thoại & công nghệ: https://tinyurl.com/23ktlb7r 
+• Điện gia dụng: https://tinyurl.com/2akhoyom 
+• Nhà sang & bếp xịn: https://tinyurl.com/248tsxuj 
+• Đẳng cấp xế xịn: https://tinyurl.com/235tgzjs 
+.
+🔥TẶNG 10 MÃ TOÀN SÀN LAZADA GIẢM 50K ĐƠN TỪ 0Đ TẠI: https://www.facebook.com/groups/987085851751571/posts/1601000653693418 
+.
+🔥Sản phẩm dùng thử 9K, X9K: https://tinyurl.com/2xz6nyeo 
+.
+🔥0H: Deal đồng giá 2K: https://tinyurl.com/22slogz9 
+.
+🔥0H: Lên mã đổi xu: https://tinyurl.com/2ych4o5n 
+.
+🔥0H: Lên mã đổi sao: https://tinyurl.com/26vxysd7
 `
 
 var updateTime = new Date(); //updateTime
