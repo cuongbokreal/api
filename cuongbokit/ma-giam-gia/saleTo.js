@@ -193,6 +193,90 @@ Mã KOL giảm 30k/99k, 30k/150k, 30k/199k,... sẽ được cập nhật liên 
 • ELBAU5 giảm 5% tối đa 500K đơn từ 300K
 • Voucher, ưu đãi từ các thương hiệu
 .
+➖➖NGÀNH ĐỜI SỐNG➖➖
+[Nhà cửa, ô tô xe máy, đồ chơi, nhà sách,...]
+🔥ĐỜI SỐNG: https://shorten.asia/qz8xbSfa 
+• 0H: Mã giảm 10K đơn từ 120K đã được tặng sẵn trong ví: https://shorten.asia/DtbdfwJj 
+• 0H: LIFE250250K giảm 8% tối đa 50K đơn từ 350K. List sản phẩm áp mã: https://shorten.asia/AcmQQ7qV 
+• 0H: LIFE250210K giảm 10% tối đa 10K đơn từ 50K. List sản phẩm áp mã: https://shorten.asia/G5Rm37sc 
+• LIFEMC02BPA giảm 8% tối đa 20K đơn từ 99K
+• LIFEMC02BPB giảm 8% tối đa 30K đơn từ 150K
+• LIFEMC02BPC giảm 8% tối đa 50K đơn từ 350K
+• LIFEMC02A giảm 8% tối đa 20K đơn từ 99K
+• LIFEMC02B giảm 8% tối đa 30K đơn từ 150K
+• LIFEMC02C giảm 8% tối đa 50K đơn từ 350K
+• LIFEMC02BLK giảm 10% tối đa 400K đơn từ 2000
+• 0H: List deal đồng giá 1K: https://shorten.asia/gj6NGA3m 
+• Lưu sớm các mã shop giảm 20K cho 0H tại: https://shorten.asia/qz8xbSfa  (cuối trang)
+• Giảm đến 50%, quà tặng 0Đ
+• Voucher, ưu đãi từ các shop
+.
+📌Home Club: https://shorten.asia/27kM6jgd 
+• 0H: LIFESHC25220K giảm 10% tối đa 20K đơn từ 99K
+• LIFESHCWG02 giảm 12% tối đa 15K đơn từ 50K
+• Voucher, ưu đãi từ các shop
+.
+📌Book Club: https://shorten.asia/Q8enhArd 
+• LIFESBC0223 giảm 10% tối đa 15K đơn từ 50K
+• LIFESBCWG0223 giảm 12% tối đa 15K đơn từ 50K
+• Voucher, ưu đãi từ các shop
+.
+📌Thương Hiệu Đời Sống: https://shorten.asia/cA1KDeSa 
+• Voucher, ưu đãi từ các shop
+.
+➖➖ HÀNG QUỐC TẾ➖➖
+🔥HÀNG QUỐC TẾ: https://shorten.asia/s8QYQUmy 
+• 0H: Mã giảm 5% tối đa 50K đơn từ 150K đã được tặng sẵn trong ví: https://shorten.asia/DtbdfwJj 
+• 0H: CBEMBE giảm 100K đơn từ 300K. List sản phẩm áp mã: https://shorten.asia/jxH5VUDZ  (chỉ chọn hàng quốc tế)
+• 0H: CBAHAI25 giảm 5% tối đa 30K đơn từ 150K
+• Giảm đến 49%, deal đồng giá x9K
+• Voucher, ưu đãi từ các shop
+.
+➖➖NGÀNH TIÊU DÙNG➖➖
+[Sức khoẻ sắc đẹp(mỹ phẩm,...), bách hoá online, mẹ bé, giặt giũ, thú cưng]
+🔥TIÊU DÙNG: https://shorten.asia/ttF7VuGK 
+• 0H: Mã giảm 5% tối đa 40K đơn từ 250K đã được tặng sẵn trong ví: https://shorten.asia/DtbdfwJj 
+• 0H, 9H, 12H, 15H, 18H, 21H: Săn mã shop giảm 50% tối đa 99K:
+• 0H: ICA99252 (mã shop) giảm 50% tối đa 99K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/KHADS2k3 
+• 0H: TEG99252 (mã shop) giảm 50% tối đa 99K đơn từ 0Đ. List sản phẩm áp mã: https://shorten.asia/9Dryw9GM 
+• 0H, 9H, 12H, 15H, 18H, 21H: Săn deal đồng giá 1K, x9K tại banner
+• Giảm đến 50%, mua 1 được 2
+• Voucher, ưu đãi từ các shop
+.
+📌Tiêu Dùng Mall: https://shorten.asia/wabTzQm7 
+• 0H: FMCGMALL giảm 8% tối đa 80K đơn từ 250K
+• Giảm đến 50%, mua 1 tặng 1
+• Voucher, ưu đãi từ các shop
+.
+📌Sức Khỏe Sắc Đẹp: https://shorten.asia/qR3PgJ2e 
+• 0H: COSLUX252 giảm 150K đơn từ 1500K
+• VISAPREMIUM giảm 100K đơn từ 600K
+• Voucher, ưu đãi từ các shop
+.
+📌Mẹ bé - Mum Club: https://shorten.asia/cAYT9p9H 
+• Mã giảm 120K đơn từ 700K. List sản phẩm áp mã: https://shorten.asia/ZezTSsSs 
+• Mã giảm 40K đơn từ 2390K. List sản phẩm áp mã: https://shorten.asia/bmJweacK 
+=> Lưu mã tại: https://shorten.asia/cAYT9p9H 
+.
+➖➖MÃ SHOP BÁN, THƯƠNG HIỆU➖➖
+🔥VÀO ĐâY: https://shorten.asia/DtbdfwJj  NHẬP:
+• SJ01x thay x bằng các số từ 10 đến 28, và từ 1 đến 9 tạo thành mã shop giảm 100K đơn từ 0Đ dùng vào 0H
+• SJ02x thay x bằng các số từ 10 đến 41, và từ 1 đến 9 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 0H
+• SJ121x thay x bằng các số từ 10 đến 28, và từ 1 đến 9 tạo thành mã shop giảm 100K đơn từ 0Đ dùng vào 12H
+• SJ122x thay x bằng các số từ 10 đến 41, và từ 1 đến 9 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 12H
+• SJ182x thay x bằng các số từ 10 đến 41, và từ 1 đến 9 tạo thành mã shop giảm 50K đơn từ 0Đ dùng vào 18H
+.
+🔥XEM MÃ THƯƠNG HIỆU, MÃ SHOP, BANNER KOL TẠI: https://docs.google.com/document/d/1gwTrEbAAECSO8EDl2Z9K925ld7qGYLSbp5ei_sVd0gg/edit   
+.
+➖➖NẠP THẺ - DỊCH VỤ➖➖
+🔥NẠP THẺ - DỊCH VỤ: https://shorten.asia/jb3Sy3KQ 
+• 0H: SPPPHIMHT252 giảm 50% tối đa 50K đơn từ 0Đ cho vé xem phim(back vào 9H, 12H, 15H, 18H, 21H)
+• Lưu thêm mã vé máy bay, Vé Vinpear banner
+.
+MÃ SĂN Ở CÁC KHUNG GIỜ TỪ 9H... MÌNH SẼ LÊN ĐẦY ĐỦ Ở TỪNG POST SAU NHÉ(trước giờ săn 30p-1H mình sẽ gửi mã)
+📌Nhóm Thông Báo Mã Nhanh:
+• Zalo: https://zalo.me/g/fqehfa279 
+• Telegram: https://t.me/trumgiamgia  (nhanh nhất)
 
 `
 
