@@ -1,5 +1,4 @@
 var content_dday = `
-
 🏆TỔNG HỢP MÃ SHOPEE NGÀY SIÊU SALE 03/03🏆
 ➖➖ MIỄN PHÍ VẬN CHUYỂN➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
@@ -295,7 +294,174 @@ MÃ SĂN Ở CÁC KHUNG GIỜ TỪ 9H... MÌNH SẼ LÊN ĐẦY ĐỦ Ở TỪNG
 • Zalo: https://zalo.me/g/fqehfa279  
 • Telegram: https://t.me/trumgiamgia (nhanh nhất)
 
-
+🏆TỔNG HỢP MÃ LAZADA NGÀY SIÊU SALE 03/03🏆
+🚛MÃ FREESHIP GIẢM 25K/69K(LỌC USER) + MÃ FREESHIP GIẢM 15K/29K, 50K/300K:
+=> Lưu mã tại: https://shorten.asia/8wpqDPU3 
+.
+🔥MÃ TOÀN SÀN - VOUCHER SĂN TRƯỚC GIỜ G: đúng giờ load trang lưu mã, lưu được là của riêng
+• 21H ngày 02/03: Lưu sớm mã giảm 20% tối đa 50K đơn từ 0Đ
+• 21H30 ngày 02/03: Lưu sớm mã giảm 25% tối đa 100K đơn từ 0Đ
+• 22H ngày 02/03: Lưu sớm mã giảm 30% tối đa 200K đơn từ 0Đ
+• 22H30 ngày 02/03: Lưu sớm mã giảm 35% tối đa 300K đơn từ 0Đ
+• 23H ngày 02/03: Lưu sớm mã giảm 40% tối đa 450K đơn từ 0Đ
+• 23H30 ngày 02/03: Lưu sớm mã giảm 45% tối đa 500K đơn từ 0Đ
+=> Lưu mã tại: https://shorten.asia/22Sx9RJr 
+.
+🔥MÃ HOÀN TIỀN MAX: 
+• 0H, 12H, 20H: Mã hoàn 50% tối đa 500K đơn từ 0Đ
+• 0H, 9H, 12H, 16H, 20H: Mã hoàn 50% tối đa 50K, 30K + Mã hoàn 12% tối đa 500K, 10% tối đa 100K(tùy user)
+• 9H, 12H, 16H, 20H: Mã hoàn 12% tối đa 500K, 10% tối đa 100K(back)
+• Chờ cập nhật thêm mã hoàn tiền xịn trên nhóm báo nhan zalo, tele
+=> Lưu mã tại: https://shorten.asia/u63rq5s7 
+=> Hoặc nếu vào link trên không thấy mã thì lưu tại: https://shorten.asia/xHK6Beyy  (nếu vẫn không thấy mã thì đổi nick)
+.
+🔥0H, 12H, 20H: MÃ TOÀN SÀN 100K ĐƠN TỪ 1500K
+=> Lưu mã tại: https://shorten.asia/kDmUpkFQ 
+.
+🔥0H, 9H, 12H, 15H, 18H, 20H: MÃ GIẢM 40K/600K, 60K/900K, 80K/1,2TR: lọc user
+=> Lưu mã tại: https://shorten.asia/kDmUpkFQ 
+.
+🔥0H, 9H, 12H, 16H: MÃ QUỐC TẾ GIẢM 33%, 15K/129K: 
+=> Lưu mã tại: https://shorten.asia/DRVXmzJd 
+.
+🔥0H: MÃ LAZMALL GIẢM 50K ĐƠN TỪ 400K: mã dưới sản phẩm
+=> Lưu mã tại: https://shorten.asia/Zxr8HpGb 
+.
+🔥0H, 9H, 12H, 18H: MÃ NGâN HÀNG:
+=> Lưu mã tại: https://shorten.asia/z13zQ3sY 
+.
+🔥0H, 9H, 12H: MÃ MOMO GIẢM 20K/399K, 5K/199K + MÃ ZALOPAY GIẢM 30K/599K, 10K/299K: mã back
+=> Lưu mã tại: https://shorten.asia/HtJWsCcD 
+.
+🔥0H, 9H, 12H, 15H, 20H: DEAL TRỢ GIÁ - LAZFLASH:
+=> Xem chi tiết tại: https://shorten.asia/A7z8Gzp3 
+.
+🔥12H, 20H: LƯU MÃ TOÀN SÀN GIẢM 33K ĐƠN TỪ 133K: mỗi link lên mỗi khác nhau
+• COM: https://shorten.asia/tSBJsmc2  
+• RIO: https://shorten.asia/EKnyzQUV  
+• NLAZ: https://shorten.asia/3J1x1At6 
+• BLGG: https://shorten.asia/QCh5b36e 
+• YMG: https://shorten.asia/WKF6YjGN 
+• VU: https://shorten.asia/ZJqrvHnn 
+• DealN: https://shorten.asia/k1S8es8d  
+• Chờ cập nhật thêm
+=> Load trang liên tục vài phút(mã thường lên trễ). Lưu trên app - điện thoại(vì trên web mã bị ẩn). Mã lưu được là của riêng
+.
+🔥0H: VOUCHER TÍCH LŨY GIẢM ĐẾN 800K:
+• Lưu + làm nhiệm vụ nhận voucher tích lũy tại: https://shorten.asia/yYErpH88 
+• Lưu thêm tích lũy dưới sản phẩm: https://shorten.asia/78bv5q4P 
+=> Dùng được từ ngày 3-5/3, phải thu thập hằng ngày từ ngày 28/2-5/3
+.
+🔥0H: MÃ NHẬP TAY GIẢM 20K ĐƠN TỪ 20K: xem tên mã trên ô tìm kiếm
+• Mã 1: https://shorten.asia/ernEhuDr 
+• Mã 2: https://shorten.asia/1kWnrWBS 
+• Mã 3: https://shorten.asia/TgjvHbGj 
+.
+🔥0H: MÃ NHẬP TAY GIẢM 30K ĐƠN TỪ 99K: xem tên mã trên ô tìm kiếm
+• Mã 1: https://shorten.asia/7FrGWbpa 
+• Mã 2: https://shorten.asia/yqpQ3TqX 
+• Mã 3: https://shorten.asia/ZC7yE1wU 
+• Mã 4: https://shorten.asia/qgp8VmJw 
+• Mã 5: https://shorten.asia/rXAFWBHh 
+.
+🔥VOUCHER MAX GIẢM 30K/350K, 8% ĐƠN TỪ 69K:
+=> Lưu mã tại: https://shorten.asia/ZF3pNjRJ 
+.
+🔥MÃ LAZBEAUTY CLUB GIẢM 10%: nhớ đăng ký thành viên trước
+=> Lưu mã tại: https://shorten.asia/zW4fXxrM 
+.
+🔥MỞ LIVE SỚM ĐÓN SIÊU SALE SINH NHẬT 03/03 - TUNG VOUCHER LIÊN TỤC:
+• Live 1: https://shorten.asia/xAsZT6sE  (live chính thức từ 19H)
+• Live 2: https://shorten.asia/qyHbxkUw 
+.
+🔥CÁC BANNER CÓ THỂ LÊN MÃ HOÀN TIỀN, TOÀN SÀN, FREESHIP LIÊN TỤC:
+• Link mono: https://shorten.asia/t2PXTNry 
+• Link lzd: https://shorten.asia/JRMDpDRD 
+• Link 0203: https://shorten.asia/Bz5UShTx 
+.
+🔥CÁC BANNER KOL CÓ THỂ LÊN MÃ TOÀN SÀN BẤT NGỜ:
+• New: https://shorten.asia/Edjyr52V 
+• Shopiness: https://shorten.asia/xHK6Beyy 
+• Vina: https://shorten.asia/FaFbPSer 
+• Mobi: https://shorten.asia/uSdRS6Cs 
+• Viettel: https://shorten.asia/CQHphcnd 
+• HL: https://shorten.asia/pkaUbGGr 
+• HT: https://shorten.asia/qN6JFSmN 
+• Mai: https://shorten.asia/RjEZVd6M 
+• Chloe: https://shorten.asia/ptqJ3rP2 
+• Badi: https://shorten.asia/vvBaSEYg 
+• CAN: https://shorten.asia/p1WaB22J 
+• Eco: https://shorten.asia/bPsbvHre 
+• Trang: https://shorten.asia/kVzUYk7z 
+• CAN: https://shorten.asia/p1WaB22J 
+• HSS: https://shorten.asia/FyuHWm9Z  
+• BLTK: https://shorten.asia/YqSQdn3T  
+.
+🔥MỘT SỐ BANNER SALE LƯU THÊM MÃ KHÁC:
+• Siêu Sale Hàng Hiệu: https://shorten.asia/MmFhMbUz 
+• Hoàn Tiền Max: https://shorten.asia/mYTxDYG8 
+• Nổ Deal Sinh Nhật: https://shorten.asia/wjqPQsR2 
+• Càng Mua Càng Giảm: https://shorten.asia/tx4tYMEQ 
+• Rẻ Vô Cực: https://shorten.asia/6NamCh5j 
+• FreeShip: https://shorten.asia/xqsGVTrk 
+• Deal Bán Chạy: https://shorten.asia/5kCDYj48 
+• Voucher Tích Lũy: https://shorten.asia/5YwpUgbY 
+• Top Uy Tín: https://shorten.asia/TaQdQbwg 
+• Mừng 8/3: https://shorten.asia/UMHbZWkW 
+.
+🔥LƯU MÃ, ƯU ĐÃI TỪ CÁC THƯƠNG HIỆU THỜI TRANG: 
+📌0H: Săn Mã Shop Giảm 11K Đơn Từ 99K + 11H: Săn Deal Đồng Giá 11K, 33K + 11H: Săn Mã Shop Giảm 111K:
+• Thời trang nữ: https://shorten.asia/w3jXsW3p 
+• Thời trang cho bé: https://shorten.asia/mWSmAfUn 
+.
+📌0H: Săn Mã Shop Giảm 11K Đơn Từ 99K + 11H: Săn Deal Đồng Giá 11K, 33K + 12H, 20H: Săn Mã Shop Giảm 111K:
+• Thời trang nam: https://shorten.asia/wEftqEwb 
+• Túi balo, phụ kiện: https://shorten.asia/9ePAMnsg 
+.
+🔥LƯU MÃ, ƯU ĐÃI TỪ CÁC THƯƠNG HIỆU NHÀ CỬA ĐỜI SỐNG: 
+• Ô tô, xe máy: https://shorten.asia/RC1aJWhk 
+• Sở thích, học tập: https://shorten.asia/gPq7pv3r 
+• Sửa chữa, sân vườn: https://shorten.asia/Q9r1fhUF 
+• Trang trí nhà cửa: https://shorten.asia/gThmEGcB 
+• Nội thất, đồ đạc: https://shorten.asia/HydhSCSc 
+• Nấu ăn, dọn dẹp: https://shorten.asia/dPDuF5VE 
+• Dã ngoại, thể thao: https://shorten.asia/76tPSCVC 
+.
+🔥LƯU MÃ, ƯU ĐÃI TỪ CÁC THƯƠNG HIỆU SỨC KHỎE SẮC ĐẸP: 
+• Làm đẹp: https://shorten.asia/Sebfsn7h 
+• Chăm sóc sức khỏe: https://shorten.asia/yPw6kqUW 
+• Chăm sóc cá nhân: https://shorten.asia/wkgmtEZq 
+• Chăm sóc thú cưng: https://shorten.asia/kRYEYnPp 
+.
+🔥LƯU MÃ, ƯU ĐÃI TỪ CÁC THƯƠNG HIỆU BÁCH HÓA, MẸ BÉ: 
+• Bách hóa: https://shorten.asia/mRKp98Fc 
+• Mẹ bé: https://shorten.asia/Y1Aha1DM 
+.
+🔥LƯU MÃ, ƯU ĐÃI TỪ CÁC THƯƠNG HIỆU CÔNG NGHỆ, ĐIỆN TỬ: 
+• Thiết bị công nghệ: https://shorten.asia/G3x7RYw4 
+• Công nghệ giải trí: https://shorten.asia/RP3HYWHY 
+• Di động phụ kiện: https://shorten.asia/MFpaPZ9D 
+• Điện gia dụng: https://shorten.asia/GrCMjhwF 
+.
+🔥Lưu mã Freeship giảm 10K/19K, mã giảm 15%: https://shorten.asia/Yhf7wWCd 
+.
+🔥Sản phẩm dùng thử 9K, X9K: https://shorten.asia/ErBJ5Yew 
+.
+🔥Đặt cọc trước cho siêu sale 3/3: https://shorten.asia/JEKu5gaY 
+.
+🔥Game mới săn mã giảm 111K, iphone 14: https://shorten.asia/anVkKzmh 
+.
+🔥0H: Adidas mua 3 giảm thêm 45% + lưu sớm mã giảm 10%, 15%: https://shorten.asia/EZau82FF 
+.
+🔥0H: Có thể lên mã shop Focallure giảm 40%, 50%, 30K,... dưới sản phẩm: https://shorten.asia/8jR1DsRG 
+.
+🔥0H: Đổi xu: https://shorten.asia/Y1BMEgjm 
+.
+🔥0H: Đổi sao: https://shorten.asia/1ZANDj5u 
+.
+🔥0H: Đổi Gems lấy quà 0Đ: https://shorten.asia/xfyfNu1b 
+.
+🔥Vào xem bạn đã tiết kiệm được bao nhiêu tiền + lưu thêm mã lazada tại: https://shorten.asia/VCHsEhWY 
 `
 
 var updateTime = new Date(); //updateTime
