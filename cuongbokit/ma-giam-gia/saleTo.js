@@ -1,6 +1,5 @@
 var content_dday = `
 
-
 🏆TỔNG HỢP MÃ SHOPEE, LAZADA NGÀY SALE 25/03🏆
 1. SHOPEE:
 ➖➖ MIỄN PHÍ VẬN CHUYỂN➖➖
@@ -271,7 +270,7 @@ Mã KOL giảm 20k/99k, 30k/99k, 30k/150k, 30k/199k, 40k/250k... sẽ được c
 • M12H2x thay x bằng các số từ 10 đến 65, và từ 1 đến 9 tạo thành mã shop giảm 33K đơn từ 0Đ dùng vào 12H
 • M18H2x thay x bằng các số từ 10 đến 65, và từ 1 đến 9 tạo thành mã shop giảm 33K đơn từ 0Đ dùng vào 18H
 .
-🔥XEM MÃ THƯƠNG HIỆU, MÃ SHOP, BANNER KOL TẠI: https://docs.google.com/document/d/10kYtiPRX7ncM58VIZfYTb7eyaiaRf_wz0IxHLFcJEFU/edit   (đang cập nhật)
+🔥XEM MÃ THƯƠNG HIỆU, MÃ SHOP, BANNER KOL TẠI: https://docs.google.com/document/d/1gwTrEbAAECSO8EDl2Z9K925ld7qGYLSbp5ei_sVd0gg/edit?usp=sharing   (đang cập nhật)
 .
 
 ➖➖NẠP THẺ - DỊCH VỤ➖➖
