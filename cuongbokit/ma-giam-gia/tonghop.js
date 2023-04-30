@@ -13,59 +13,55 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• 12H, 15H, 18H: Lưu mã Freeship 25K/25K, 25K/50K tại giỏ live: https://tinyurl.com/2q3kp2rb  (back)
+• 18H: Lưu mã Freeship 25K/25K, 25K/50K tại giỏ live: https://tinyurl.com/2q3kp2rb  (back)
 • Lưu mã Freeship 10K/0Đ tại: https://tinyurl.com/2mjxpmbf  
 • Lưu mã Freeship 35K/150K tại: https://tinyurl.com/2f333kw6 
 • Đổi mã Freeship giảm 50% tối đa 40K: https://tinyurl.com/2lmxg42h 
 • Quay mã Freeship: https://tinyurl.com/2owp3ubl 
 .
 🔥MÃ ÁP ĐA SỐ SẢN PHẨM - LƯU TẠI LIVE:
-• 12H: Mã giảm 50% tối đa 100K đơn từ 100K. Lưu mã tại live: https://tinyurl.com/2gemd3qk 
-• 12H: Mã giảm 20K đơn từ 99K + Mã giảm 304K đơn từ 304K. Lưu mã tại live: https://tinyurl.com/2q3kp2rb  
-• Sau 12H: Mã giảm 15K đơn từ 99K + Mã giảm 50K đơn từ 100K new user + Deal nữa giá. Lưu mã tại live: https://tinyurl.com/2opyfjwu 
+• 20H: Back mã giảm 20K đơn từ 99K + Mã giảm 304K đơn từ 304K. Lưu mã tại live: https://tinyurl.com/2q3kp2rb  
+• 21H: Có thể lên mã giảm 15% tối đa 100K đơn từ 250K. Lưu mã tại live: https://tinyurl.com/2gemd3qk  hoặc https://tinyurl.com/2gts9sgk 
+• Sau 21H: Mã giảm 50% tối đa 15K đơn từ 20K mọi user + Mã giảm 50K đơn từ 100K new user. Lưu mã tại live: https://tinyurl.com/2opyfjwu 
 .
 🔥VPBANK SHOPEE - MÃ ÁP ĐA SỐ SẢN PHẨM: https://tinyurl.com/2zb8saqd 
-• 12H: Lưu tại: https://tinyurl.com/2j5n8pke  mã giảm 50K đơn từ 100K. List sản phẩm áp mã: https://tinyurl.com/2p96blxa  (đúng giờ load trang mới hiện mã)
-• 12H, 15H: Tự động giảm 30K đơn từ 100K
+• 20H: Tự động giảm 30K đơn từ 100K
 [Áp dụng cho thẻ VPBank Shopee có đầu Bin: 419834, 478668]
 .
-🔥KOL AFFILIATE - MÃ ÁP MỸ PHẨM, THỜI TRANG:
-• 12H: Mã giảm 40K đơn từ 250K + Mã giảm 30K đơn từ 150K
-=> Lưu mã tại: https://tinyurl.com/2j7nrqeu 
-.
 🔥Vinamilk_official: https://tinyurl.com/2govuhk8 
-• 12H43s: VINAGFI6 (mã shop) giảm 267K đơn từ 267K cho Thùng 48 hộp Sữa Tươi Tiệt Trùng Vinamilk: https://tinyurl.com/2q7u7jj6 
+• 20H31s: VINAGFI9 (mã shop) giảm 267K đơn từ 267K cho Thùng 48 hộp Sữa Tươi Tiệt Trùng Vinamilk: https://tinyurl.com/2q7u7jj6 
 .
 🔥LAMY Accessories: https://tinyurl.com/2n6jrgvo 
-• 12H5s: LAMY99KA (mã shop) giảm 99K đơn từ 0Đ
-• 15H35s: LAMY129K (mã shop) giảm 129K đơn từ 0Đ
 • 18H9s: LAMY169K (mã shop) giảm 169K đơn từ 0Đ
+• 21H4s: LAMY199K (mã shop) giảm 199K đơn từ 0Đ
 => Áp chung list sản phẩm tại: https://tinyurl.com/2le9rqnq 
 .
-🔥Vegan Society: https://tinyurl.com/2nokx843 
-• 12H: VEGAN199K (mã shop) giảm 199K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2zx4y6rq 
+🔥VEGAN - Mỹ phẩm thuần chay: https://tinyurl.com/2ejqha3p 
+• 21H4s: MYPHDAL02 (mã shop) giảm 200K đơn từ 600K
+• 21H56s: MYPHDAL00 (mã shop) giảm 200K đơn từ 0Đ
+=> Áp chung list sản phẩm tại: https://tinyurl.com/2qylpqgv 
 .
-🔥VEGAN: https://tinyurl.com/2ejqha3p 
-• 12H49s: MYPHDALE8 (mã shop) giảm 300K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2lojc7he 
+🔥Vegan Society: https://tinyurl.com/2nokx843 
+• 21H30: VEGAN304K (mã shop) giảm 304K đơn từ 0Đ. List sản phẩm áp mã: https://tinyurl.com/2oturut9 
 .
 🔥18H: BACK MÃ GIẢM 10K ĐƠN TỪ 0Đ ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
 • List sản phẩm áp mã 10K: https://tinyurl.com/2mu5jqa2 
 => Lưu mã tại live: https://tinyurl.com/2m8o88hr  hoặc: https://tinyurl.com/2jpexu2o 
 .
-🔥12H, 15H, 18H: BACK MÃ GIẢM 9K/45K, 10K/50K, 50% TỐI ĐA 15K/0Đ ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
+🔥18H: BACK MÃ GIẢM 9K/45K, 10K/50K, 50% TỐI ĐA 15K/0Đ ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
 • List sản phẩm áp mã 15K: https://tinyurl.com/2nkahoc8 
 • List sản phẩm áp mã 10K: https://tinyurl.com/2hq8mjly 
 • List sản phẩm áp mã 9K: https://tinyurl.com/2gz3zudg 
 => Lưu mã tại giỏ live: https://tinyurl.com/2q3kp2rb 
 .
-🔥12H, 12H30: MÃ GIẢM 15K/70K, 15K/100K, 30K/150K, 30K/200K ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
-• List sản phẩm áp mã 10K, 15K, 30K: https://tinyurl.com/2pdfr4p5 
-=> Lưu mã tại 1 số live tại tab “X4 Giảm Giá”: https://tinyurl.com/2lf54gsp 
-.
 🔥MÃ GIẢM 40K/299K, 20K/150K ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
 • List sản phẩm áp mã 20K: https://tinyurl.com/2mpt49z7 
 • List sản phẩm áp mã 40K: https://tinyurl.com/2oyy7vpp 
 => Lưu mã tại 1 số live tại tab “Hàng Hiệu”: https://tinyurl.com/2lf54gsp 
+.
+🔥KOL AFFILIATE - MÃ ÁP MỸ PHẨM, THỜI TRANG:
+• Mã giảm 40K đơn từ 250K + Mã giảm 30K đơn từ 150K
+=> Lưu mã tại: https://tinyurl.com/2j7nrqeu 
 .
 🔥MÃ ÁP ĐA SỐ SẢN PHẨM:
 • AFFPKV31 giảm 20% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/2qag3ny3 
@@ -82,11 +78,12 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 🔥MÃ KHÁC:
 • Mã quốc tế giảm 15K, 50K, 70K. Lưu mã tại: https://tinyurl.com/2gt8dyc3 
 • Mã thời trang, làm đẹp giảm 30K/150K. Lưu mã tại: https://tinyurl.com/2j7nrqeu 
+
 • Mã thời trang giảm 10K/99K, 40K. Lưu mã tại: https://tinyurl.com/2huz53ct 
 • Mã shopeepay giảm 8K, 40K. Lưu mã tại: https://tinyurl.com/2g8mb6or 
 • Mã lọc sản phẩm giảm 20% tối đa 30K. Lưu mã tại: https://tinyurl.com/2nataxnj 
 .
-🔥GAME SHOPEE:  
+🔥GAME SHOPEE: 
 • Mở hộp quà rewards: https://tinyurl.com/2lmxg42h  hoặc tại: https://tinyurl.com/2gyqwjz2 
 • Quay mã toàn sàn giảm 100K/100K, 20K/180K cho 0H dùng: https://tinyurl.com/2frvkwba 
 .
