@@ -91,34 +91,28 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 <h2><b>LAZADA</b></h2>
 ➖➖➖➖LAZADA➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• Lưu mã Freeship 50K/300K, 15K/49K + Freeship 25K/69K lọc user tại: https://shorten.asia/uMczMkXq 
-• Lưu mã Freeship 20K/20K hoặc 20K/29K tại: https://shorten.asia/PkPYrhFF 
-.
-🔥12H: MÃ SHOP VINAMILK GIẢM 267K ĐƠN TỪ 1Đ:
-=> Lưu mã tại: https://shorten.asia/XAz6Utqx  hoặc dưới sp: https://shorten.asia/CxDMNE8t 
-.
-🔥12H: MÃ NGâN HÀNG: mã back
-=> Lưu mã tại: https://shorten.asia/Mq6hwaf3 
-.
-🔥12H: MÃ ZALOPAY GIẢM 10K/299K, 10K/199K + VNPT GIẢM 20K/40K: mã back
-=> Lưu mã tại: https://shorten.asia/6h4rCf2G 
+• Lưu mã Freeship 50K/300K, 15K/49K + Freeship 25K/69K lọc user tại: https://tinyurl.com/2pq2rqx8 
+• Lưu mã Freeship 20K/20K hoặc 20K/29K tại: https://tinyurl.com/2mfb6wo4 
 .
 🔥MÃ LÀM ĐẸP GIẢM 10% - LAZBEAUTY CLUB:
-=> Lưu mã tại: https://shorten.asia/ZKQh1fgF 
+=> Lưu mã tại: https://tinyurl.com/2gl9brwu 
 .
 🔥MÃ HOÀN TIỀN MAX 6% TỐI ĐA 50K, 300K:
-=> Lưu mã tại: https://shorten.asia/34vN95Wb  hoặc tại: https://shorten.asia/HfgghX6V 
+=> Lưu mã tại: https://tinyurl.com/2hfnp9qv  hoặc tại: https://tinyurl.com/2kqfd332 
+.
+🔥MÃ ZALOPAY GIẢM 10K/299K, 10K/199K: 
+=> Lưu mã tại: https://tinyurl.com/2fqrvd5t 
 .
 🔥MÃ GIẢM 30K/30K + FREESHIP 20K, 50K CHO NGƯỜI MỚI:
-=> Lưu mã tại: https://shorten.asia/MRyq9v5r 
+=> Lưu mã tại: https://tinyurl.com/2j4jj6fx 
 .
-🔥12H: DEAL TRỢ GIÁ - LAZFLASH: https://shorten.asia/QRhEH1F7 
+🔥20H: DEAL TRỢ GIÁ - LAZFLASH: https://tinyurl.com/2ovleb67 
 .
-🔥SẢN PHẨM DÙNG THỬ 9K, X9K: https://shorten.asia/wnaAJ1x8 
+🔥SẢN PHẨM DÙNG THỬ 9K, X9K: https://tinyurl.com/2za55okw 
 .
-🔥Lưu mã shop KuuLaa giảm 50K/50K: https://shorten.asia/T2DbU9ga 
+🔥Lưu mã shop KuuLaa giảm 50K/50K: https://tinyurl.com/2ewdhvbs 
 .
-🔥Lưu, dùng mã shop Chill Cocktail giảm 45%, 100K: https://shorten.asia/7rW4DBrg 
+🔥Lưu, dùng mã shop Chill Cocktail giảm 45%, 100K: https://tinyurl.com/2g7zlkjd 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
