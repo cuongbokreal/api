@@ -195,7 +195,12 @@
      #mgg {
          display: block;
     }
+     #search_action {
+         width: 35%;
+     }
 }
+
+
  @keyframes movement{
      from{
         transform:translateY(2px)
