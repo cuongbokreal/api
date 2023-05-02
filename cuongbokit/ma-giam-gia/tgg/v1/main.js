@@ -139,7 +139,7 @@ function fetchData(merchantId, input, page, action) {
                 } else {
                     mgg_tooltip = data.data[key].name;
                 }
-                if (mgg_tooltip.length == 0) {
+                if (mgg_tooltip.length == 0) { //dành cho mã shop không có percent và value thì hiện tên của mã 
                     mgg_tooltip = `Mã giảm giá hot giảm ${mgg_value}, sao chép và dùng ngay nào!`
                 }
 
