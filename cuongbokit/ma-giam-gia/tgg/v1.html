@@ -47,14 +47,18 @@
   <!--End Join Group-->
 </div>
 
+<!--[SEARCH MGG]-->
 <div id="search" class="mgg_block">
   <input id="search_input" placeholder="Nhập link sản phẩm, tên nhãn hàng, tên sản phẩm để tìm kiếm"/>
-  <button id="search_action">Tìm kiếm <i class="fas fa-search"></i></button>
+  <button id="search_action" onclick="searchData()">Tìm kiếm <i class="fas fa-search"></i></button>
 </div>
-
+<!--[END SEARCH MGG]-->
+<!--[MERCHANT MGG]-->
 <div id="merchant" class="mgg_block"></div>
+<!--[END MERCHANT MGG]-->
 
 <div id="mgg_total">Có tất cả: <span id="mgg_count" style="font-weight:600"></span> mã sắp mở.</div>
+<!--[MGG SPACE]-->
 <div id="mgg_space" class="mgg_block">
   <div id="mgg"></div>
   <div id="page_item">
@@ -65,6 +69,7 @@
     <div class="mgg_total"><input id="mgg_page" type="number" style="width: 40px;" onchange="changePage()"/>/<span id="mgg_total_page"></span> trang.</div>
   </div>
 </div>
+<!--[END MGG SPACE]-->
 <input id="mgg_culi" style="display:none"/>
 
 <div>
@@ -84,13 +89,14 @@
   /*SETTING*/
 var myHeaders = new Headers();
 myHeaders.append("Authorization", "Token NJX0ajmdmDlubnsfBHrvCJQjWIehzXcA");
-
 var requestOptions = {
   method: 'GET',
   headers: myHeaders,
   redirect: 'follow'
 };
 setCookie('selected', '4742147753565840242', 9999);
+  
+  var urlRegex = /^(https?:\/\/)?([\w.]+)\.([a-z]{2,6}\.?)(\/[\w\d#?=.&%+-]*)*\/?(\?([\w\d#?=.&%+-]+))?$/; //REGEX URL
   
   function merchantList(){
     fetch(`https://api.accesstrade.vn/v1/offers_informations/merchant_list`, requestOptions)
@@ -124,7 +130,7 @@ function fetchData(merchantId, input, page, action){
   page: page
   action: hanh dong next page, prev page
   */
-  /*sETTING COOKIE*/
+  /*sETTING COOKIE MERCHANT*/
   var merchant = ''
   var campaign = '';
   if(merchantId != 'all'){
@@ -146,6 +152,15 @@ function fetchData(merchantId, input, page, action){
     } //end kí tự 1 camp
   }
   setCookie('merchantId', merchantId, 9999)
+  /*===XỬ LÝ INPUT LÀ URL HOẶC KÍ TỰ===*/
+  var keyword='';
+  var url = '';
+  if (urlRegex.test(input)) { //trường hợp là url 
+    url = encodeURIComponent(input);
+  } else { //trường hợp không phải url
+    keyword = input;
+  }
+  /*Zô fetch dâta chính*/
   if(page <=1 ){page = 1}
   mgg.innerHTML = `
   				<!--loading Shopee-->
@@ -159,7 +174,7 @@ function fetchData(merchantId, input, page, action){
   `;
   window.location.hash = '';
   window.location.hash = 'tinQTrong';
-  fetch(`https://api.accesstrade.vn/v1/offers_informations/coupon?page=${page}&limit=${limit}&url=&merchant=${merchant}&campaign=${campaign}&keyword=`, requestOptions)
+  fetch(`https://api.accesstrade.vn/v1/offers_informations/coupon?page=${page}&limit=${limit}&url=${encodeURIComponent(input)}&keyword=${''}&merchant=${merchant}&campaign=${campaign}`, requestOptions)
   .then(response => response.json())
   .then(data => {
     console.log(data);
@@ -172,16 +187,37 @@ function fetchData(merchantId, input, page, action){
     Object.keys(data.data).forEach(key=>{
       
       var mgg_value = 0;
-      if(data.data[key].discount_percentage === 0){mgg_value = `${data.data[key].discount_value / 1000}K`}else{mgg_value = `${data.data[key].discount_percentage}%`}
+      if(data.data[key].discount_percentage === 0){ //khi giá trị % == 0
+        if(data.data[key].discount_value > 100){
+          mgg_value = `Giảm ${data.data[key].discount_value / 1000}K`
+        }else{
+          mgg_value = `Giảm ${data.data[key].discount_value}%`
+        }
+      }else{
+        mgg_value = `Giảm ${data.data[key].discount_percentage}%`
+      }
+      
+      var mgg_min_spend = `<div class="mgg_min_spend">Đơn tối thiểu ${data.data[key].min_spend /1000}K</div>` //set trước min spend để nếu không có value và percent thì không hiện min spend
+      if(data.data[key].discount_percentage == 0 && data.data[key].discount_value == 0){
+        mgg_value = data.data[key].name;
+        var mgg_min_spend = ''; //nếu không có discount percent và value thì không hiện đơn tối thiểu
+      }
       
       var mgg_tag = '';
-      Object.values(data.data[key].keyword).forEach(cc=>{
-        mgg_tag += `<div class="mgg_tag_item">${cc}</div>`;
-      })
+      if(data.data[key].keyword){
+        Object.values(data.data[key].keyword).forEach(cc=>{
+          mgg_tag += `<div class="mgg_tag_item">${cc}</div>`;
+        })
+      }
       
       var mgg_href = `${data.data[key].aff_link}&utm_source=cbi&utm_medium=/p/voucher-sap-mo.html&utm_campaign=voucherSapMo&utm_content=${new Date()}`;
       
-      var mgg_tooltip = data.data[key].content;
+      var mgg_tooltip = '';
+      if(data.data[key].content.length > data.data[key].name.length){ //lấy tooltip dài hơn giữa name và content
+        mgg_tooltip = data.data[key].content;
+      }else{
+        mgg_tooltip = data.data[key].name;
+      }
       if(mgg_tooltip.length == 0){mgg_tooltip = `Mã giảm giá hot giảm ${mgg_value}, sao chép và dùng ngay nào!`}
       
       content_html+= `<div class="mgg_item">
@@ -193,11 +229,14 @@ function fetchData(merchantId, input, page, action){
           <div class="mgg_details">
           	<div class="mgg_tag">${mgg_tag}</div>
             <div class="mgg_name" title="${data.data[key].name}">
-  			<div class="mgg_value">Giảm ${mgg_value}</div>
-            <div class="mgg_min_spend">Đơn tối thiểu ${data.data[key].min_spend /1000}K</div>
+  			<div class="mgg_value">${mgg_value}</div>
+            ${mgg_min_spend}
   			</div>
             <!--p class="mgg_des" title="${data.data[key].content}">${data.data[key].content}</p-->
-			<p class="mgg_time">Ngày bắt đầu: <b>${data.data[key].start_time}</b> - ${data.data[key].time_left}</p>
+			<p class="mgg_time">Ngày bắt đầu: <b>${data.data[key].start_time}</b></p>
+      <p class="mgg_time">Ngày kết thúc: <b>${data.data[key].end_time}</b></p>
+      <p>Còn <b>${data.data[key].remain}</b> lượt</p>
+      <p>${data.data[key].time_left}</p>
           </div>
           <div class="mgg_action">
           	<div class="mgg_info" flow="up" tooltip="${mgg_tooltip}">Chi tiết <i class="fa-solid fa-circle-info"></i></div>
@@ -231,6 +270,12 @@ function fetchData(merchantId, input, page, action){
 }
 fetchData('4751584435713464237%2C4348614231480407268%2C5127144557053758578', '', page, 'next'); //luc dau hien shopee, tiki, laz
 
+  
+  /*===SEARCH DÂTA===*/
+  function searchData(){
+    var searchQuery = document.querySelector('#search_input').value;
+    fetchData('all', searchQuery, 1, 'next'); //tim kiem theo keyword 
+  }
   /*
   function changePage(){
     var mgg_page = parseInt(document.querySelector('#mgg_page').value);
