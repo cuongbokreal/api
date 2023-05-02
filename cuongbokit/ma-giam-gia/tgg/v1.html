@@ -1,0 +1,667 @@
+<meta name="robots" content="noindex" />
+<link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css' rel='stylesheet' type='text/css'/>
+
+<div>
+  <p>Tiết lộ những mã giảm giá <b>Shopee</b>, <b>Lazada</b>, <b>Tiki</b> sắp có hiệu lực. Giúp bạn biết trước mã những ngày sale, chuẩn bị đơn hàng sớm để áp mã sớm hơn, giúp tỉ lệ "lụm" mã cao hơn.</p>
+  <p>Đây là trang tiết lộ mã sắp mở, nếu bạn muốn tìm mã giảm giá đang mở, hãy truy cập trang mã giảm giá tại: <b><a target="_blank" href="https://cuongbokit.blogspot.com/p/ma-giam-gia.html">https://cuongbokit.blogspot.com/p/ma-giam-gia.html</a></b>. </p>
+  <p style="font-size:12px;">(trang web đang trong quá trình thử nghiệm, nếu có bất kì lỗi nào hãy Feedback cho Ad tại <a target="_blank" rel="nofollow" href="https://www.facebook.com/groups/584602429633228/">Group FB</a> phía dưới để fix kịp thời nha, cảm ơn bạn, chúc bạn săn sale vui vẻ 😘)</p>
+  
+  <div id="">
+    <p id="tinQTrong"><b style="color: yellow;">⚠️ Quan Trọng:</b> Nhất định bạn phải tham gia vào group Zalo để được nhận thông báo nhanh nhất, sớm nhất khi có mã độc quyền hoặc voucher bất ngờ chỉ gửi riêng cho nhóm nhé: <a href="https://zalo.me/g/fqehfa279" rel="nofollow" style="color: yellow;" target="_blank">https://zalo.me/g/fqehfa279</a></p>
+  </div>
+  <style>
+    #tinQTrong{
+      padding: 10px 10px 10px 10px;
+      background-color: #72B5D8;
+      border-radius: 10px 10px 10px 10px;
+      color: #ccffff;
+      font-size: 17px;
+      margin: 10px 0 10px 0;
+    }
+  </style>
+  
+  <!--[Join Group]-->
+  <div id="joinGroup">
+    <!--div>Tham gia Group để nhận tin mã giảm giá SHOPEE, LAZADA, TIKI hàng ngày nha:</div-->
+    <a href="https://zalo.me/g/fqehfa279" rel="nofollow" target="_blank">
+      <img alt="Tham gia nhóm Zalo nhận mã sớm nhất" class="unFancy" data-href="https://zalo.me/g/fqehfa279" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXmDf0HnAR5cc1jGnfrSfTJpHtksxwrcz0gKdqMWwyD3DEVWdDxgRITkF4IqCNYhugPa0XyL71WOb5RbyWZJ5dCxEDdkFZ85O4p7qIXOyR6Xt1M84gQBhUdzT_fp4N2t7S90HSABJ1WbXapHdusW9wYCfbfUD5oXK4tU8X_J1J-xoi9EXRxGxF5ZknDA/s320/nhan-ma-qua-zalo.jpg" />
+    </a>
+    <a href="https://www.facebook.com/groups/584602429633228/" rel="nofollow" target="_blank">
+      <img class="unFancy" data-href="https://www.facebook.com/groups/584602429633228/" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNfIDBB0Vg3xB3JBvREImG4RmXr3IKi8wx6vJ5w3FxuRI91lUb2PhTuzCKKIfHxbMKAABc5prAIYCp8kiOP8VkITE3IOGOKmTK_iHvU-boUO1tMWvrwZ3Jzgouq4icgIEjkwfnlnrB2Te_1YhF710v9WJCa0ygfg0P0APjloYpdvyHYM_aVL70rsKJRg/s320/tham-gia-group.jpg" />
+    </a>
+  </div>
+  <style>
+    #joinGroup{display:flex;margin: 10px;}
+    #joinGroup > a{width: 100%;}
+    .fancybox-container{display: none;}
+  </style>
+  <script>
+    setTimeout(()=>{
+      document.querySelectorAll('.unFancy').forEach(elm => {
+        elm.parentElement.setAttribute('onclick', `window.open('${elm.getAttribute('data-href')}').focus()`)
+        elm.parentElement.setAttribute('href', `${elm.getAttribute('data-href')}`)
+        elm.parentElement.setAttribute('rel', `${elm.getAttribute('data-href')}`)
+      })
+    }, 3000)
+  </script>
+  <!--End Join Group-->
+</div>
+
+<div id="search" class="mgg_block">
+  <input id="search_input" placeholder="Nhập link sản phẩm, tên nhãn hàng, tên sản phẩm để tìm kiếm"/>
+  <button id="search_action">Tìm kiếm <i class="fas fa-search"></i></button>
+</div>
+
+<div id="merchant" class="mgg_block"></div>
+
+<div id="mgg_total">Có tất cả: <span id="mgg_count" style="font-weight:600"></span> mã sắp mở.</div>
+<div id="mgg_space" class="mgg_block">
+  <div id="mgg"></div>
+  <div id="page_item">
+    <div id="mgg_prev" class="page_link" onclick="">Trước</div>
+    <div id="mgg_this" class="page_link" onclick="" style="background-color: rgb(255 175 64);">This</div>
+    <div id="mgg_next" class="page_link" onclick="">Sau</div>
+    <!--div class="mgg_total"><span id="mgg_page" ></span>/<span id="mgg_total_page"></span> trang.</div-->
+    <div class="mgg_total"><input id="mgg_page" type="number" style="width: 40px;" onchange="changePage()"/>/<span id="mgg_total_page"></span> trang.</div>
+  </div>
+</div>
+<input id="mgg_culi" style="display:none"/>
+
+<div>
+  <h4>Cách lấy mã giảm giá sắp mở:</h4>
+  <p><b>B1:</b> Nhấn sao chép mã (mã sẽ được sao chép vào khay nhớ tạm) và bạn sẽ được chuyển hướng đến list sản phẩm áp dụng mã (đối với Shopee)</p>
+  <p><b>B2:</b> Nếu như không chọn được sản phẩm thì bạn có thể áp mã trực tiếp (Shopee thì áp mã tại: <a target="_blank" rel="nofollow" href="https://shope.ee/1q6KFAz8Ge">https://shope.ee/1q6KFAz8Ge</a>)</p>
+  <p><b>B3:</b> Áp mã vào đơn hàng và tận hưởng thuii 😍</p>
+</div>
+<div>
+  <h4>Về trang Tiết lộ mã sắp mở:</h4>
+  <p>Đây là một công cụ giúp người dùng tìm kiếm và lấy mã giảm giá khi mua sắm trực tuyến. Công cụ này sẽ cung cấp cho người dùng một danh sách các mã giảm giá đang có sẵn cho các cửa hàng trực tuyến phổ biến như Amazon, Lazada, Shopee, Tiki và nhiều hơn nữa.</p>
+  <p>Người dùng có thể tìm kiếm các mã giảm giá theo từ khóa, tên cửa hàng hoặc danh mục sản phẩm. Sau đó, công cụ sẽ hiển thị các kết quả tìm kiếm và cho phép người dùng lấy mã giảm giá và sao chép vào trang thanh toán của cửa hàng trực tuyến.</p>
+  <p>Công cụ lấy mã giảm giá cũng có thể cung cấp cho người dùng các ưu đãi đặc biệt và khuyến mãi đang diễn ra cho các cửa hàng trực tuyến, giúp người dùng tiết kiệm chi phí khi mua sắm trực tuyến.</p>
+  <p>Để sử dụng công cụ, người dùng chỉ cần truy cập vào trang web của công cụ và tìm kiếm các mã giảm giá và ưu đãi hiện có. Công cụ sẽ hiển thị các kết quả tìm kiếm và cho phép người dùng sao chép mã giảm giá và sử dụng khi thanh toán trên các cửa hàng trực tuyến.</p>
+</div>
+<script>
+  /*SETTING*/
+var myHeaders = new Headers();
+myHeaders.append("Authorization", "Token NJX0ajmdmDlubnsfBHrvCJQjWIehzXcA");
+
+var requestOptions = {
+  method: 'GET',
+  headers: myHeaders,
+  redirect: 'follow'
+};
+setCookie('selected', '4742147753565840242', 9999);
+  
+  function merchantList(){
+    fetch(`https://api.accesstrade.vn/v1/offers_informations/merchant_list`, requestOptions)
+  .then(response => response.json())
+  .then(data => {
+      console.log(data)
+      var html_merchant = '';
+      Object.keys(data.data).forEach((key)=>{
+        html_merchant += `<div class="merchant_item" data-id="${data.data[key].id}" data-display_name="${data.data[key].display_name[0]}" data-login_name="${data.data[key].login_name}" onclick="fetchData('${data.data[key].id}', '', 1, 'next')">
+        <img class="merchant_img" src="${data.data[key].logo}"/>
+        <p class="merchant_name">${data.data[key].display_name[0]} (${data.data[key].total_offer})</p>
+  </div>`
+      })
+      document.querySelector('#merchant').innerHTML = html_merchant;
+    })
+  }
+  merchantList()
+  
+  
+  var page = 1;
+  var limit = 10;
+  var mgg_prev = document.getElementById('mgg_prev');
+  var mgg_this = document.getElementById('mgg_this');
+  var mgg_next = document.getElementById('mgg_next');
+  var mgg = document.getElementById('mgg');
+  
+function fetchData(merchantId, input, page, action){
+  /*
+  merchant: id number
+  input: keyword or url 
+  page: page
+  action: hanh dong next page, prev page
+  */
+  /*sETTING COOKIE*/
+  var merchant = ''
+  var campaign = '';
+  if(merchantId != 'all'){
+    if(merchantId.length>=25){ //kí tự dài hơn 1 camp
+      campaign = merchantId;
+    }else{ //kí tự có 1 camp
+      merchant = merchantId;
+      if (typeof getCookie('selected') === 'undefined') { //set selected
+        console.log('Chua chon');
+        selectedMerchant.classList.add('selected');
+        setCookie('selected', merchantId, 9999);
+      }else{
+        document.querySelectorAll(`[data-id="${getCookie('selected')}"]`)[0].classList.remove('selected');
+        var selectedMerchant = document.querySelectorAll(`[data-id="${merchantId}"]`)[0]
+        console.log(getCookie('selected'))
+        selectedMerchant.classList.add('selected');
+        setCookie('selected', merchantId, 9999);
+      }
+    } //end kí tự 1 camp
+  }
+  setCookie('merchantId', merchantId, 9999)
+  if(page <=1 ){page = 1}
+  mgg.innerHTML = `
+  				<!--loading Shopee-->
+  				<center>
+				<svg class="spinner" style="text-align:center;" width="34" height="12" viewBox="-1 0 33 12"><circle class="loading-dot" cx="4" cy="6" r="4" fill="#ee4d2d"></circle>
+				<circle class="loading-dot" cx="16" cy="6" r="4" fill="#ee4d2d"></circle>
+				<circle class="loading-dot" cx="28" cy="6" r="4" fill="#ee4d2d"></circle>
+				</svg>
+				</center>
+			    <!--end loading Shopee-->
+  `;
+  window.location.hash = '';
+  window.location.hash = 'tinQTrong';
+  fetch(`https://api.accesstrade.vn/v1/offers_informations/coupon?page=${page}&limit=${limit}&url=&merchant=${merchant}&campaign=${campaign}&keyword=`, requestOptions)
+  .then(response => response.json())
+  .then(data => {
+    console.log(data);
+    //Inner số trang
+    document.getElementById('mgg_page').value = page;
+  	document.getElementById('mgg_total_page').innerText = Number.parseFloat(data.count/limit).toFixed(0);
+    document.getElementById('mgg_count').innerText = data.count.toLocaleString()
+    // Content inner HTML MGG
+    var content_html = '';
+    Object.keys(data.data).forEach(key=>{
+      
+      var mgg_value = 0;
+      if(data.data[key].discount_percentage === 0){mgg_value = `${data.data[key].discount_value / 1000}K`}else{mgg_value = `${data.data[key].discount_percentage}%`}
+      
+      var mgg_tag = '';
+      Object.values(data.data[key].keyword).forEach(cc=>{
+        mgg_tag += `<div class="mgg_tag_item">${cc}</div>`;
+      })
+      
+      var mgg_href = `${data.data[key].aff_link}&utm_source=cbi&utm_medium=/p/voucher-sap-mo.html&utm_campaign=voucherSapMo&utm_content=${new Date()}`;
+      
+      var mgg_tooltip = data.data[key].content;
+      if(mgg_tooltip.length == 0){mgg_tooltip = `Mã giảm giá hot giảm ${mgg_value}, sao chép và dùng ngay nào!`}
+      
+      content_html+= `<div class="mgg_item">
+      <div class="mgg_left">
+          <div class="mgg_img"><img src="${data.data[key].image}" alt="${data.data[key].name}"/></div>
+          <div class="mgg_tag"></div>
+      </div>
+      <div class="mgg_right">
+          <div class="mgg_details">
+          	<div class="mgg_tag">${mgg_tag}</div>
+            <div class="mgg_name" title="${data.data[key].name}">
+  			<div class="mgg_value">Giảm ${mgg_value}</div>
+            <div class="mgg_min_spend">Đơn tối thiểu ${data.data[key].min_spend /1000}K</div>
+  			</div>
+            <!--p class="mgg_des" title="${data.data[key].content}">${data.data[key].content}</p-->
+			<p class="mgg_time">Ngày bắt đầu: <b>${data.data[key].start_time}</b> - ${data.data[key].time_left}</p>
+          </div>
+          <div class="mgg_action">
+          	<div class="mgg_info" flow="up" tooltip="${mgg_tooltip}">Chi tiết <i class="fa-solid fa-circle-info"></i></div>
+            <div class="mgg_copy" data-code="${data.data[key].coupons[0].coupon_code}" data-href="${mgg_href}" onclick="copyVoucher(this)">Sao chép mã</div>
+          </div>
+    </div>
+    </div>`;
+    })
+    document.getElementById('mgg').innerHTML = content_html;
+    if(action === 'next'){
+      
+      mgg_prev.setAttribute('onclick',`fetchData('${merchantId}', '', ${page-1}, 'prev')`);
+      mgg_prev.innerText = `${page-1}`;
+      mgg_this.setAttribute('onclick',`fetchData('${merchantId}', '', ${page}, 'prev')`);
+      mgg_this.innerText = `${page}`;
+      mgg_next.setAttribute('onclick',`fetchData('${merchantId}', '', ${page+1}, 'next')`);
+      mgg_next.innerText = `${page+1}`;
+      page += 1;
+    }else{
+      mgg_next.setAttribute('onclick',`fetchData('${merchantId}', '', ${page+1}, 'next')`);
+      mgg_next.innerText = `${page+1}`;
+      mgg_this.setAttribute('onclick',`fetchData('${merchantId}', '', ${page}, 'prev')`);
+      mgg_this.innerText = `${page}`;
+      mgg_prev.setAttribute('onclick',`fetchData('${merchantId}', '', ${page-1}, 'prev')`);
+      mgg_prev.innerText = `${page-1}`;
+      page -= 1;
+    }
+    
+  })
+    .catch(error => console.log('error', error));
+}
+fetchData('4751584435713464237%2C4348614231480407268%2C5127144557053758578', '', page, 'next'); //luc dau hien shopee, tiki, laz
+
+  /*
+  function changePage(){
+    var mgg_page = parseInt(document.querySelector('#mgg_page').value);
+    var mgg_total_page = parseInt(document.querySelector('#mgg_total_page').innerText);
+    console.log('change');
+    if (mgg_page > 0 && mgg_page <= mgg_total_page) {
+      fetchData(`${getCookie('merchant')}`, '', mgg_page, 'next');
+    }
+  }*/
+  
+  mgg_page.addEventListener("change", ()=>{
+    var mgg_page = parseInt(document.querySelector('#mgg_page').value);
+    var mgg_total_page = parseInt(document.querySelector('#mgg_total_page').innerText);
+    console.log('change');
+    if (mgg_page > 0 && mgg_page <= mgg_total_page) {
+      fetchData(`${getCookie('merchantId')}`, '', mgg_page, 'next');
+    }
+  });
+  
+  var mgg_culi = document.getElementById('mgg_culi');
+  function copyVoucher(c){
+    mgg_culi.value = c.getAttribute('data-code');
+    mgg_culi.focus();
+    mgg_culi.select();
+    mgg_culi.setSelectionRange(0, 99999);
+    document.execCommand("Copy");
+    navigator.clipboard.writeText(document.getElementById('mgg_culi').value);
+    c.innerText = c.getAttribute('data-code');
+    setTimeout(()=>{window.open(c.getAttribute('data-href'),'_blank');}, 500)
+    toast({title: 'Thành công',message: `Đã sao chép mã: <b><a rel="nofollow" target="_blank" href="${c.getAttribute('data-href')}">${c.getAttribute('data-code')}</a></b>`,type: "success",duration: 10000})
+    console.log(`Copied: ${mgg_culi.value}`);
+  }
+  
+  /*===IMPORT*/
+  //JS Cookie by Cuongbok, (c) 2022
+  function setCookie(name, value, days) {
+    let expires = '';
+    if (days) {
+      let date = new Date();
+      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+      expires = '; expires=' + date.toUTCString();
+    }
+    document.cookie = name + '=' + encodeURIComponent(value) + expires + '; path=/';
+  }
+  function getCookie(name) {
+    let cookies = document.cookie.split(';');
+    for (let i = 0; i < cookies.length; i++) {
+      let cookie = cookies[i];
+      while (cookie.charAt(0) == ' ') {
+        cookie = cookie.substring(1);
+      }
+      if (cookie.indexOf(name + '=') == 0) {
+        return decodeURIComponent(cookie.substring(name.length + 1));
+      }
+    }
+    return null;
+  }
+  function eraseCookie(name) {
+    setCookie(name, '', -1);
+  }
+  console.log('CuongbokIT Cookie import successful!')
+</script>
+
+<style>
+  .postEntry p {
+    margin: 0;
+  }
+  .mgg_block{margin-top:30;}
+  /*===SEARCH===*/
+  #search{
+    display: flex;
+  }
+  #search_input{
+    min-width: 75%;
+    width: 100%;
+    border: 1px solid rgba(230,230,230,1);
+    border-radius: 7px 0px 0px 7px;
+    outline: 0;
+    padding: 15px 15px;
+    transition: border-color 0.25s ease-in-out;
+  }
+  #search_input:focus{
+    border: 1px solid blue;
+  }
+  #search_action{
+    width: 20%;
+    border-radius: 0px 8px 8px 0px;
+    cursor: pointer;
+    text-align: center;
+    background: #F36C44;
+    outline: none;
+    border: 0;
+    color: white;
+    font-weight:600;
+    
+  }
+  /*===MERCHANT===*/
+  #merchant{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    overflow-y: auto;
+  }
+  .merchant_item{
+    max-width: 10%;
+    min-width: 135px;
+    padding: 10px;
+  }
+  .merchant_img{
+    width: 80px;
+    height: auto;
+    object-fit: contain;
+    vertical-align: middle;
+    border-radius: 50%;
+    border: 0.25px solid pink;
+  }
+  .merchant_name{
+    text-align: center;
+    overflow: hidden;
+  	white-space: nowrap;
+    max-width: 100%;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    -webkit-box-flex: 1;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  .selected{
+    background: pink;
+    border-radius: 10%;
+  }
+  /*=== MGG ===*/
+  #mgg{
+    display: grid;
+    grid-template-columns: auto auto;
+    background: #fff;
+    border-radius: 3px;
+    margin: 10px 0 45px 0;
+  }
+  
+  .mgg_item{
+    border: 1px solid #ff861a; 
+    border-radius: 5px;
+    top: 0px;
+    left: 0px;
+    width: 98%;
+    height: 96%;
+    display:flex;
+    margin-top: 10px;
+  }
+  .mgg_left{
+    min-width: 20%;
+    width: 132px;
+    height: 132px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    align-self: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+  }
+  .mgg_right{
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+  }
+  .mgg_img img {
+    width: 80%; 
+    height: auto;
+    border: 1px solid #dedede;
+    border-radius: 7px;
+  }
+  
+  .mgg_tag_item{
+  	height: 20px;
+    border-radius: 2px;
+    background: rgb(240, 248, 255);
+    color: rgb(1, 127, 255);
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: center;
+    padding-left: 4px;
+    padding-right: 4px;
+    display: inline-block;
+  }
+  .mgg_value{
+  	font-weight:600;
+  	display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    letter-spacing: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 17px;
+    line-height: 24px;
+    max-height: 24px;
+    color: rgb(36, 36, 36);
+  }
+  .mgg_action{
+    display: flex;
+  }
+  .mgg_info{
+    font-weight: 500;
+    letter-spacing: 0px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 4px;
+    outline: none;
+    font-size: 15px;
+    line-height: 24px;
+    padding: 2px 12px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(35 222 32);
+  }
+  .mgg_copy{
+  	font-weight: 500;
+    letter-spacing: 0px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 4px;
+    outline: none;
+    font-size: 15px;
+    line-height: 24px;
+    padding: 2px 12px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(1, 127, 255);
+    border: none;
+    margin-left: 15px;
+  }
+  
+  #page_item{
+    display: flex;
+    margin-top: 20px;
+  }
+  .page_link{
+    margin:10px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 4px;
+    outline: none;
+    font-size: 15px;
+    line-height: 24px;
+    padding: 2px 12px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(1, 127, 255);
+    border: none;
+  }
+  .mgg_total{
+    margin-top: 10px;
+  }
+  /*=== RESPONSIVE ===*/
+  @media screen and (max-width:640px){
+    #mgg {
+      display: block;
+    }
+  }
+</style>
+
+<style>
+				@keyframes movement{
+				from{transform:translateY(2px)}50%{transform:translateY(-2px)}
+				to{transform:translateY(2px)}}
+				.spinner circle{animation:.4s movement linear infinite}
+				.spinner circle:nth-child(2){animation-delay:.1s}
+	
+  .spinner circle:nth-child(3){animation-delay:.2s}
+  /* START TOOLTIP STYLES */
+[tooltip] {
+  position: relative; /* opinion 1 */
+}
+
+/* Applies to all tooltips */
+[tooltip]::before,
+[tooltip]::after {
+  text-transform: none; /* opinion 2 */
+  font-size: .9em; /* opinion 3 */
+  line-height: 1;
+  user-select: none;
+  pointer-events: none;
+  position: absolute;
+  display: none;
+  opacity: 0;
+}
+[tooltip]::before {
+  content: '';
+  border: 5px solid transparent; /* opinion 4 */
+  z-index: 1001; /* absurdity 1 */
+}
+[tooltip]::after {
+  content: attr(tooltip); /* magic! */
+  
+  /* most of the rest of this is opinion */
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  
+  /* 
+    Let the content set the size of the tooltips 
+    but this will also keep them from being obnoxious
+    */
+  min-width: 25em;
+  max-width: 25em;
+  white-space: wrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 1ch 1.5ch;
+  border-radius: .3ch;
+  box-shadow: 0 1em 2em -.5em rgba(0, 0, 0, 0.35);
+  background: #333;
+  color: #fff;
+  z-index: 1000; /* absurdity 2 */
+}
+
+/* Make the tooltips respond to hover */
+[tooltip]:hover::before,
+[tooltip]:hover::after {
+  display: block;
+}
+
+/* don't show empty tooltips */
+[tooltip='']::before,
+[tooltip='']::after {
+  display: none !important;
+}
+
+/* FLOW: UP */
+[tooltip]:not([flow])::before,
+[tooltip][flow^="up"]::before {
+  bottom: 100%;
+  border-bottom-width: 0;
+  border-top-color: #333;
+}
+[tooltip]:not([flow])::after,
+[tooltip][flow^="up"]::after {
+  bottom: calc(100% + 5px);
+}
+[tooltip]:not([flow])::before,
+[tooltip]:not([flow])::after,
+[tooltip][flow^="up"]::before,
+[tooltip][flow^="up"]::after {
+  left: 50%;
+  transform: translate(-50%, -.5em);
+}
+
+/* FLOW: DOWN */
+[tooltip][flow^="down"]::before {
+  top: 100%;
+  border-top-width: 0;
+  border-bottom-color: #333;
+}
+[tooltip][flow^="down"]::after {
+  top: calc(100% + 5px);
+}
+[tooltip][flow^="down"]::before,
+[tooltip][flow^="down"]::after {
+  left: 50%;
+  transform: translate(-50%, .5em);
+}
+
+/* FLOW: LEFT */
+[tooltip][flow^="left"]::before {
+  top: 50%;
+  border-right-width: 0;
+  border-left-color: #333;
+  left: calc(0em - 5px);
+  transform: translate(-.5em, -50%);
+}
+[tooltip][flow^="left"]::after {
+  top: 50%;
+  right: calc(100% + 5px);
+  transform: translate(-.5em, -50%);
+}
+
+/* FLOW: RIGHT */
+[tooltip][flow^="right"]::before {
+  top: 50%;
+  border-left-width: 0;
+  border-right-color: #333;
+  right: calc(0em - 5px);
+  transform: translate(.5em, -50%);
+}
+[tooltip][flow^="right"]::after {
+  top: 50%;
+  left: calc(100% + 5px);
+  transform: translate(.5em, -50%);
+}
+
+/* KEYFRAMES */
+@keyframes tooltips-vert {
+  to {
+    opacity: .9;
+    transform: translate(-50%, 0);
+  }
+}
+
+@keyframes tooltips-horz {
+  to {
+    opacity: .9;
+    transform: translate(0, -50%);
+  }
+}
+
+/* FX All The Things */ 
+[tooltip]:not([flow]):hover::before,
+[tooltip]:not([flow]):hover::after,
+[tooltip][flow^="up"]:hover::before,
+[tooltip][flow^="up"]:hover::after,
+[tooltip][flow^="down"]:hover::before,
+[tooltip][flow^="down"]:hover::after {
+  animation: tooltips-vert 300ms ease-out forwards;
+}
+
+[tooltip][flow^="left"]:hover::before,
+[tooltip][flow^="left"]:hover::after,
+[tooltip][flow^="right"]:hover::before,
+[tooltip][flow^="right"]:hover::after {
+  animation: tooltips-horz 300ms ease-out forwards;
+}
+  @media screen and (max-width:640px){
+    [tooltip]:not([flow])::before, [tooltip]:not([flow])::after, [tooltip][flow^="up"]::before, [tooltip][flow^="up"]::after {
+        left: 75%;
+    }
+  }
+  
+				</style>
