@@ -100,7 +100,7 @@
  .mgg_right{
      display: flex;
      flex-direction: column;
-     padding: 12px;
+     padding: 10px;
 }
  .mgg_img img {
      width: 80%;
