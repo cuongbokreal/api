@@ -109,6 +109,11 @@
      border-radius: 7px;
 }
  .mgg_tag_item{
+     max-width: 100px;
+     -webkit-box-orient: vertical;
+     -webkit-line-clamp: 1;
+     overflow: hidden;
+     text-overflow: ellipsis;
      height: 20px;
      border-radius: 2px;
      background: rgb(240, 248, 255);
@@ -201,6 +206,10 @@
      }
      .mgg_value {
          max-width: 230px;
+     }
+     .mgg_tag_item {
+         max-width: 95px;
+         font-size: 8px;
      }
 }
 
