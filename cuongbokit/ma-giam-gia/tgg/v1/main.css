@@ -123,6 +123,7 @@
      display: inline-block;
 }
  .mgg_value{
+     max-width: 275px;
      font-weight:600;
      display: -webkit-box;
      -webkit-box-orient: vertical;
@@ -197,6 +198,9 @@
     }
      #search_action {
          width: 35%;
+     }
+     .mgg_value {
+         max-width: 230px;
      }
 }
 
