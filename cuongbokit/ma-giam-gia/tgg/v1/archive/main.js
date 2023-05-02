@@ -165,7 +165,7 @@ function fetchData(merchantId, input, page, action) {
           </div>
           <div class="mgg_action">
           	<div class="mgg_info" flow="up" tooltip="${mgg_tooltip}">Chi tiết <i class="fa-solid fa-circle-info"></i></div>
-            <div class="mgg_copy" data-code="${data.data[key].coupons[0].coupon_code}" data-href="${mgg_href}" onclick="copyVoucher(this)">Sao chép mã</div>
+            <div class="mgg_copy" data-code="${data.data[key].coupons[0].coupon_code}" data-href="${mgg_href}" onclick="copyVoucher(this)">Sao chép mã <i class="fa-regular fa-copy"></i></div>
           </div>
     </div>
     </div>`;
