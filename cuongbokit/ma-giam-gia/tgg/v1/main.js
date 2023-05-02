@@ -9,6 +9,7 @@ var requestOptions = {
 setCookie('selected', '4742147753565840242', 9999);
 
 var urlRegex = /^(https?:\/\/)?([\w.]+)\.([a-z]{2,6}\.?)(\/[\w\d#?=.&%+-]*)*\/?(\?([\w\d#?=.&%+-]+))?$/; //REGEX URL
+var mgg_page = document.getElementById('mgg_page');
 
 function merchantList() {
     fetch(`https://api.accesstrade.vn/v1/offers_informations/merchant_list`, requestOptions)
@@ -93,7 +94,9 @@ function fetchData(merchantId, input, page, action) {
         .then(data => {
             console.log(data);
             //Inner số trang
-            document.getElementById('mgg_page').value = page;
+	    mgg_page.setAttribute("disabled", "true"); //trường hợp mobile focus vào input
+            mgg_page.value = page;
+	    mgg_page.removeAttribute("disabled");
             document.getElementById('mgg_total_page').innerText = Number.parseFloat(data.count / limit).toFixed(0);
             document.getElementById('mgg_count').innerText = data.count.toLocaleString()
             // Content inner HTML MGG
