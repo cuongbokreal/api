@@ -119,6 +119,10 @@ function fetchData(merchantId, input, page, action) {
                     mgg_value = data.data[key].name;
                     var mgg_min_spend = ''; //nếu không có discount percent và value thì không hiện đơn tối thiểu
                 }
+		if(!data.data[key].discount_percentage || !data.data[key].discount_value){
+			mgg_value = data.data[key].name;
+			mgg_min_spend = '';
+		}
 
                 var mgg_tag = '';
                 if (data.data[key].keyword) {
@@ -141,14 +145,14 @@ function fetchData(merchantId, input, page, action) {
 
                 content_html += `<div class="mgg_item">
       <div class="mgg_left">
-          <div class="mgg_img"><img src="${data.data[key].image}" alt="${data.data[key].name}"/></div>
-          <div class="mgg_tag"></div>
+          <div class="mgg_img"><img src="${data.data[key].image}" alt="${data.data[key].name}"/></div> //ảnh voucher 
+          <div class="mgg_tag"></div> //tag voucher 
       </div>
       <div class="mgg_right">
           <div class="mgg_details">
           	<div class="mgg_tag">${mgg_tag}</div>
-            <div class="mgg_name" title="${data.data[key].name}">
-  			<div class="mgg_value">${mgg_value}</div>
+            <div class="mgg_name" title="${data.data[key].name}"> //tên lớn
+  			<div class="mgg_value">${mgg_value}</div> //giá trị giảm
             ${mgg_min_spend}
   			</div>
             <!--p class="mgg_des" title="${data.data[key].content}">${data.data[key].content}</p-->
