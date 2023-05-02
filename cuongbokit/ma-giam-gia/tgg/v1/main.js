@@ -87,7 +87,7 @@ function fetchData(merchantId, input, page, action) {
 			    <!--end loading Shopee-->
   `;
     window.location.hash = '';
-    window.location.hash = 'tinQTrong';
+    window.location.hash = 'search_input';
     fetch(`https://api.accesstrade.vn/v1/offers_informations/coupon?page=${page}&limit=${limit}&url=${encodeURIComponent(input)}&keyword=${''}&merchant=${merchant}&campaign=${campaign}`, requestOptions)
         .then(response => response.json())
         .then(data => {
