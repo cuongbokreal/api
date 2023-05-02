@@ -232,7 +232,7 @@ function copyVoucher(c) {
     c.innerText = c.getAttribute('data-code');
     setTimeout(() => {
         window.open(c.getAttribute('data-href'), '_blank');
-    }, 500)
+    }, 400)
     toast({
         title: 'Thành công',
         message: `Đã sao chép mã: <b><a rel="nofollow" target="_blank" href="${c.getAttribute('data-href')}">${c.getAttribute('data-code')}</a></b>`,
