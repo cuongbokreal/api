@@ -1,0 +1,348 @@
+// (c) 2023 by Cuongbok 
+.mgg_block{
+    margin-top:30;
+}
+/*===SEARCH===*/
+ #search{
+     display: flex;
+}
+ #search_input{
+     min-width: 75%;
+     width: 100%;
+     border: 1px solid rgba(230,230,230,1);
+     border-radius: 7px 0px 0px 7px;
+     outline: 0;
+     padding: 15px 15px;
+     transition: border-color 0.25s ease-in-out;
+}
+ #search_input:focus{
+     border: 1px solid blue;
+}
+ #search_action{
+     width: 20%;
+     border-radius: 0px 8px 8px 0px;
+     cursor: pointer;
+     text-align: center;
+     background: #F36C44;
+     outline: none;
+     border: 0;
+     color: white;
+     font-weight:600;
+}
+/*===MERCHANT===*/
+ #merchant{
+     text-align: center;
+     display: flex;
+     justify-content: space-between;
+     overflow-y: auto;
+}
+ .merchant_item{
+     max-width: 10%;
+     min-width: 135px;
+     padding: 10px;
+}
+ .merchant_img{
+     width: 80px;
+     height: auto;
+     object-fit: contain;
+     vertical-align: middle;
+     border-radius: 50%;
+     border: 0.25px solid pink;
+}
+ .merchant_name{
+     text-align: center;
+     overflow: hidden;
+     white-space: nowrap;
+     max-width: 100%;
+     text-overflow: ellipsis;
+     -webkit-box-orient: vertical;
+     -webkit-line-clamp: 1;
+     -webkit-box-flex: 1;
+     -webkit-transition: all 0.3s ease;
+     -moz-transition: all 0.3s ease;
+     transition: all 0.3s ease;
+}
+ .selected{
+     background: pink;
+     border-radius: 10%;
+}
+/*=== MGG ===*/
+ #mgg{
+     display: grid;
+     grid-template-columns: auto auto;
+     background: #fff;
+     border-radius: 3px;
+     margin: 10px 0 45px 0;
+}
+ .mgg_item{
+     border: 1px solid #ff861a;
+     border-radius: 5px;
+     top: 0px;
+     left: 0px;
+     width: 98%;
+     height: 96%;
+     display:flex;
+     margin-top: 10px;
+}
+ .mgg_left{
+     min-width: 20%;
+     width: 132px;
+     height: 132px;
+     padding: 8px;
+     display: flex;
+     flex-direction: column;
+     -webkit-box-align: center;
+     align-items: center;
+     align-self: center;
+     -webkit-box-pack: center;
+     justify-content: center;
+}
+ .mgg_right{
+     display: flex;
+     flex-direction: column;
+     padding: 12px;
+}
+ .mgg_img img {
+     width: 80%;
+     height: auto;
+     border: 1px solid #dedede;
+     border-radius: 7px;
+}
+ .mgg_tag_item{
+     height: 20px;
+     border-radius: 2px;
+     background: rgb(240, 248, 255);
+     color: rgb(1, 127, 255);
+     font-size: 13px;
+     font-weight: 400;
+     line-height: 20px;
+     letter-spacing: 0px;
+     text-align: center;
+     padding-left: 4px;
+     padding-right: 4px;
+     display: inline-block;
+}
+ .mgg_value{
+     font-weight:600;
+     display: -webkit-box;
+     -webkit-box-orient: vertical;
+     -webkit-line-clamp: 1;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     letter-spacing: 0px;
+     margin: 0px;
+     padding: 0px;
+     font-size: 17px;
+     line-height: 24px;
+     max-height: 24px;
+     color: rgb(36, 36, 36);
+}
+ .mgg_action{
+     display: flex;
+}
+ .mgg_info{
+     font-weight: 500;
+     letter-spacing: 0px;
+     cursor: pointer;
+     text-align: center;
+     border-radius: 4px;
+     outline: none;
+     font-size: 15px;
+     line-height: 24px;
+     padding: 2px 12px;
+     color: rgb(255, 255, 255);
+     background-color: rgb(35 222 32);
+}
+ .mgg_copy{
+     font-weight: 500;
+     letter-spacing: 0px;
+     cursor: pointer;
+     text-align: center;
+     border-radius: 4px;
+     outline: none;
+     font-size: 15px;
+     line-height: 24px;
+     padding: 2px 12px;
+     color: rgb(255, 255, 255);
+     background-color: rgb(1, 127, 255);
+     border: none;
+     margin-left: 15px;
+}
+ #page_item{
+     display: flex;
+     margin-top: 20px;
+}
+ .page_link{
+     margin:10px;
+     font-weight: 500;
+     letter-spacing: 0px;
+     cursor: pointer;
+     text-align: center;
+     border-radius: 4px;
+     outline: none;
+     font-size: 15px;
+     line-height: 24px;
+     padding: 2px 12px;
+     color: rgb(255, 255, 255);
+     background-color: rgb(1, 127, 255);
+     border: none;
+}
+ .mgg_total{
+     margin-top: 10px;
+}
+/*=== RESPONSIVE ===*/
+ @media screen and (max-width:640px){
+     #mgg {
+         display: block;
+    }
+}
+ @keyframes movement{
+     from{
+        transform:translateY(2px)
+    }
+    50%{
+        transform:translateY(-2px)
+    }
+     to{
+        transform:translateY(2px)
+    }
+}
+ .spinner circle{
+    animation:.4s movement linear infinite
+}
+ .spinner circle:nth-child(2){
+    animation-delay:.1s
+}
+ .spinner circle:nth-child(3){
+    animation-delay:.2s
+}
+/* START TOOLTIP STYLES */
+ [tooltip] {
+     position: relative;
+    /* opinion 1 */
+}
+/* Applies to all tooltips */
+ [tooltip]::before, [tooltip]::after {
+     text-transform: none;
+    /* opinion 2 */
+     font-size: .9em;
+    /* opinion 3 */
+     line-height: 1;
+     user-select: none;
+     pointer-events: none;
+     position: absolute;
+     display: none;
+     opacity: 0;
+}
+ [tooltip]::before {
+     content: '';
+     border: 5px solid transparent;
+    /* opinion 4 */
+     z-index: 1001;
+    /* absurdity 1 */
+}
+ [tooltip]::after {
+     content: attr(tooltip);
+    /* magic! */
+    /* most of the rest of this is opinion */
+     font-family: Helvetica, sans-serif;
+     text-align: center;
+    /* Let the content set the size of the tooltips but this will also keep them from being obnoxious */
+     min-width: 25em;
+     max-width: 25em;
+     white-space: wrap;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     padding: 1ch 1.5ch;
+     border-radius: .3ch;
+     box-shadow: 0 1em 2em -.5em rgba(0, 0, 0, 0.35);
+     background: #333;
+     color: #fff;
+     z-index: 1000;
+    /* absurdity 2 */
+}
+/* Make the tooltips respond to hover */
+ [tooltip]:hover::before, [tooltip]:hover::after {
+     display: block;
+}
+/* don't show empty tooltips */
+ [tooltip='']::before, [tooltip='']::after {
+     display: none !important;
+}
+/* FLOW: UP */
+ [tooltip]:not([flow])::before, [tooltip][flow^="up"]::before {
+     bottom: 100%;
+     border-bottom-width: 0;
+     border-top-color: #333;
+}
+ [tooltip]:not([flow])::after, [tooltip][flow^="up"]::after {
+     bottom: calc(100% + 5px);
+}
+ [tooltip]:not([flow])::before, [tooltip]:not([flow])::after, [tooltip][flow^="up"]::before, [tooltip][flow^="up"]::after {
+     left: 50%;
+     transform: translate(-50%, -.5em);
+}
+/* FLOW: DOWN */
+ [tooltip][flow^="down"]::before {
+     top: 100%;
+     border-top-width: 0;
+     border-bottom-color: #333;
+}
+ [tooltip][flow^="down"]::after {
+     top: calc(100% + 5px);
+}
+ [tooltip][flow^="down"]::before, [tooltip][flow^="down"]::after {
+     left: 50%;
+     transform: translate(-50%, .5em);
+}
+/* FLOW: LEFT */
+ [tooltip][flow^="left"]::before {
+     top: 50%;
+     border-right-width: 0;
+     border-left-color: #333;
+     left: calc(0em - 5px);
+     transform: translate(-.5em, -50%);
+}
+ [tooltip][flow^="left"]::after {
+     top: 50%;
+     right: calc(100% + 5px);
+     transform: translate(-.5em, -50%);
+}
+/* FLOW: RIGHT */
+ [tooltip][flow^="right"]::before {
+     top: 50%;
+     border-left-width: 0;
+     border-right-color: #333;
+     right: calc(0em - 5px);
+     transform: translate(.5em, -50%);
+}
+ [tooltip][flow^="right"]::after {
+     top: 50%;
+     left: calc(100% + 5px);
+     transform: translate(.5em, -50%);
+}
+/* KEYFRAMES */
+ @keyframes tooltips-vert {
+     to {
+         opacity: .9;
+         transform: translate(-50%, 0);
+    }
+}
+ @keyframes tooltips-horz {
+     to {
+         opacity: .9;
+         transform: translate(0, -50%);
+    }
+}
+/* FX All The Things */
+ [tooltip]:not([flow]):hover::before, [tooltip]:not([flow]):hover::after, [tooltip][flow^="up"]:hover::before, [tooltip][flow^="up"]:hover::after, [tooltip][flow^="down"]:hover::before, [tooltip][flow^="down"]:hover::after {
+     animation: tooltips-vert 300ms ease-out forwards;
+}
+ [tooltip][flow^="left"]:hover::before, [tooltip][flow^="left"]:hover::after, [tooltip][flow^="right"]:hover::before, [tooltip][flow^="right"]:hover::after {
+     animation: tooltips-horz 300ms ease-out forwards;
+}
+ @media screen and (max-width:640px){
+     [tooltip]:not([flow])::before, [tooltip]:not([flow])::after, [tooltip][flow^="up"]::before, [tooltip][flow^="up"]::after {
+         left: 75%;
+    }
+}
