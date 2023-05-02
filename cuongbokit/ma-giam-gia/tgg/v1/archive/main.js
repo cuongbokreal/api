@@ -95,6 +95,7 @@ function fetchData(merchantId, input, page, action) {
             console.log(data);
             //Inner số trang
 	    mgg_page.setAttribute("disabled", "true"); //trường hợp mobile focus vào input
+	    mgg_page.disabled = true;
             mgg_page.value = page;
 	    mgg_page.blur() //blur 
 	    mgg_page.disabled = false;
