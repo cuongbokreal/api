@@ -84,14 +84,14 @@
      /*display:flex;*/
      display: grid; /*dùng grid đẹp hơn*/
      /*grid-template-columns: auto auto;*/
-     grid-template-columns: 1fr 2fr;
+     grid-template-columns: 1fr 3fr;
      margin-top: 10px;
 }
  .mgg_left{
-     margin: 0px 0px 0px 15px;
+     margin: 0px 0px 0px 10px;
      min-width: 20%;
-     width: 100px;
-     height: 100px;
+     width: 85px;
+     height: auto;
      padding: 5px;
      display: flex;
      flex-direction: column;
