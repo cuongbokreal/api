@@ -4,6 +4,8 @@ if(cbi_hostname != 'cuongbokit.blogspot.com'){
 }else{console.log('Chào mừng bạn đến với CuongbokIT Mã Giảm Giá!')}
 
 /*SETTING*/
+var hostname = window.location.hostname;
+var pathname = window.location.pathname;
 var myHeaders = new Headers();
 myHeaders.append("Authorization", "Token NJX0ajmdmDlubnsfBHrvCJQjWIehzXcA");
 var requestOptions = {
@@ -138,7 +140,7 @@ function fetchData(merchantId, input, page, action) {
                     })
                 }
 
-                var mgg_href = `${data.data[key].aff_link}&utm_source=cbi&utm_medium=/p/voucher-sap-mo.html&utm_campaign=voucherSapMo&utm_content=${new Date()}`;
+                var mgg_href = `${data.data[key].aff_link}&utm_source=${hostname}&utm_medium=${pathname}&utm_campaign=tgg_mgg&utm_content=${new Date()}`;
 
                 var mgg_tooltip = '';
                 if (data.data[key].content.length > data.data[key].name.length) { //lấy tooltip dài hơn giữa name và content
