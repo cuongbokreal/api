@@ -104,8 +104,8 @@
  .mgg_right{
      display: flex;
      flex-direction: column;
-     padding: 7px;
-     margin: 5px 5px 5px 0px;
+     padding: 5px;
+     margin: 5px 5px 0px 0px;
 }
  .mgg_img img {
      width: 95%;
@@ -134,6 +134,7 @@
 }
 .mgg_name{
     line-height: 20px;
+    margin-top: 5px;
 }
  .mgg_value{
      max-width: 275px;
