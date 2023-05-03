@@ -83,7 +83,8 @@
      height: 96%;
      /*display:flex;*/
      display: grid; /*dùng grid đẹp hơn*/
-     grid-template-columns: auto auto;
+     /*grid-template-columns: auto auto;*/
+     grid-template-columns: 1fr 2fr;
      margin-top: 10px;
 }
  .mgg_left{
