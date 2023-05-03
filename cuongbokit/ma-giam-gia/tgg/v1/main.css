@@ -87,8 +87,8 @@
  .mgg_left{
      margin: 0px 0px 0px 15px;
      min-width: 20%;
-     width: 125px;
-     height: 125px;
+     width: 100px;
+     height: 100px;
      padding: 5px;
      display: flex;
      flex-direction: column;
@@ -104,7 +104,7 @@
      padding: 7px;
 }
  .mgg_img img {
-     width: 80%;
+     width: 95%;
      height: auto;
      border: 1px solid #dedede;
      border-radius: 7px;
