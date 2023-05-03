@@ -158,11 +158,13 @@ function fetchData(merchantId, input, page, action) {
             ${mgg_min_spend}
   			</div>
             <!--p class="mgg_des" title="${data.data[key].content}">${data.data[key].content}</p-->
-			<p class="mgg_time">Ngày bắt đầu: <b>${data.data[key].start_time}</b></p>
-      <p class="mgg_time">Ngày kết thúc: <b>${data.data[key].end_time}</b></p>
-      <p>Còn <b>${data.data[key].remain}</b> lượt</p>
-      <p>${data.data[key].time_left}</p>
-          </div>
+	    <div class="mgg_content">
+	      <p class="mgg_time">Ngày bắt đầu: <b>${data.data[key].start_time}</b></p>
+	      <p class="mgg_time">Ngày kết thúc: <b>${data.data[key].end_time}</b></p>
+	      <p>Còn <b>${data.data[key].remain}</b> lượt</p>
+	      <p>${data.data[key].time_left}</p>
+	    </div>
+          </div> <!--hết details-->
           <div class="mgg_action">
           	<div class="mgg_info" flow="up" tooltip="${mgg_tooltip}">Chi tiết <i class="fa-solid fa-circle-info"></i></div>
             <div class="mgg_copy" data-code="${data.data[key].coupons[0].coupon_code}" data-href="${mgg_href}" onclick="copyVoucher(this)">Sao chép mã <i class="fa-regular fa-copy"></i></div>
