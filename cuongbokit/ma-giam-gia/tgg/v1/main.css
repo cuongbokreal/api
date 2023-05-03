@@ -81,7 +81,9 @@
      left: 0px;
      width: 98%;
      height: 96%;
-     display:flex;
+     /*display:flex;*/
+     display: grid; /*dùng grid đẹp hơn*/
+     grid-template-columns: auto auto;
      margin-top: 10px;
 }
  .mgg_left{
