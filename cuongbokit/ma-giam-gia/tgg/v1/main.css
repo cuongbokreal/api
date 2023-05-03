@@ -152,7 +152,10 @@
     font-size:15px;
 }
  .mgg_action{
-     display: flex;
+     /*display: flex;*/
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 2fr 3fr;
 }
  .mgg_info{
      font-weight: 500;
