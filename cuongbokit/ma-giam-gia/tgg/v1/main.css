@@ -132,6 +132,9 @@
      padding-right: 4px;
      display: inline-block;
 }
+.mgg_name{
+    line-height: 20px;
+}
  .mgg_value{
      max-width: 275px;
      font-weight:600;
@@ -149,7 +152,9 @@
      color: rgb(36, 36, 36);
 }
 .mgg_content{
-    font-size:15px;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 5px 0px 5px 0px;
 }
  .mgg_action{
      /*display: flex;*/
