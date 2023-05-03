@@ -121,7 +121,7 @@ function fetchData(merchantId, input, page, action) {
                     mgg_value = data.data[key].name;
                     var mgg_min_spend = ''; //nếu không có discount percent và value thì không hiện đơn tối thiểu
                 }
-		if(!data.data[key].discount_percentage || !data.data[key].discount_value){
+		if(!data.data[key].discount_percentage && !data.data[key].discount_value){
 			mgg_value = data.data[key].name;
 			mgg_min_spend = '';
 		}
