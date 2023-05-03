@@ -1,6 +1,6 @@
 var cbi_hostname = window.location.hostname;
 if(cbi_hostname != 'cuongbokit.blogspot.com'){
-	window.location.replace(`https://cuongbokit.blogspot.com/p/ma-giam-gia.html?utm_source=copy_code&utm_medium=${encodeURIComponent(window.location.href)}`)
+	window.location.replace(`https://cuongbokit.blogspot.com/p/ma-giam-gia.html?utm_source=copy_code&utm_medium=${encodeURIComponent(window.location.href)}&utm_content=${new Date()}`)
 }else{console.log('Chào mừng bạn đến với CuongbokIT Mã Giảm Giá!')}
 
 /*SETTING*/
