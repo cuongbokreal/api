@@ -1,3 +1,6 @@
+/*
+link: aff link 
+*/
 var mgg_ghim = [
   {
     value: 'Giảm 20K',
