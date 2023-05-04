@@ -1,9 +1,8 @@
-/*
 var cbi_hostname = window.location.hostname;
-if(cbi_hostname != 'cuongbokit.blogspot.com'){
-	window.location.replace(`https://cuongbokit.blogspot.com/p/ma-giam-gia.html?utm_source=copy_code&utm_medium=${encodeURIComponent(window.location.href)}&utm_content=${new Date()}`)
-}else{console.log('Chào mừng bạn đến với CuongbokIT Mã Giảm Giá!')}
-*/
+if(cbi_hostname != 'www.trumgiamgia.net' || cbi_hostname != 'trumgiamgia.net'){
+	window.location.replace(`https://www.trumgiamgia.net/?utm_source=copy_code&utm_medium=${encodeURIComponent(window.location.href)}&utm_content=${new Date()}`)
+}else{console.log('Chào mừng bạn đến với Trùm Giảm Giá!')}
+
 /*SETTING*/
 var hostname = window.location.hostname;
 var pathname = window.location.pathname;
