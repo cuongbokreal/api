@@ -23,5 +23,16 @@ var mgg_ghim = [
     remain: 'Không giới hạn',
     image: 'https://cdn.haitrieu.com/wp-content/uploads/2022/03/highlands-coffee-red-logo.png',
     detail: 'Mã Giảm Giá Highlands Coffee',
+  },
+  {
+    value: ' Mua 2 tặng 1 ',
+    minspend: '',
+    tag: 'Highlands',
+    link: 'https://shorten.asia/XSar7jfN',
+    start_time: '2023/05/02',
+    end_time: '2023/05/11',
+    remain: 'Không giới hạn',
+    image: 'https://cdn.haitrieu.com/wp-content/uploads/2022/03/highlands-coffee-red-logo.png',
+    detail: 'Mã Giảm Giá Highlands Coffee',
   }
 ]
