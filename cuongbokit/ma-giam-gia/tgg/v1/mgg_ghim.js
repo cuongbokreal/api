@@ -2,7 +2,7 @@ var mgg_ghim = [
   {
     value: 'Giảm 20K',
     minspend: 'Cho đơn từ 100K',
-    link: 'https://promo.highlandscoffee.com.vn/uudai4',
+    link: 'https://shorten.asia/Xr4mm3HE',
     start_time: '2023/05/02',
     end_time: '2023/05/11',
     remain: 'Không giới hạn',
@@ -12,7 +12,7 @@ var mgg_ghim = [
   {
     value: 'Giảm 25K',
     minspend: 'Cho đơn từ 120K',
-    link: 'https://promo.highlandscoffee.com.vn/uudai4',
+    link: 'https://shorten.asia/CsdpnHxs',
     start_time: '2023/05/02',
     end_time: '2023/05/11',
     remain: 'Không giới hạn',
