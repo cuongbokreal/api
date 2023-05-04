@@ -28,34 +28,7 @@ var mgg = document.getElementById('mgg');
 
 
 function fetchData(merchantId, input, page, action) {
-    /*
-    merchant: id number
-    input: keyword or url 
-    page: page
-    action: hanh dong next page, prev page
-    */
-    /*sETTING COOKIE MERCHANT*/
-    var merchant = ''
-    var campaign = '';
-    if (merchantId != 'all') {
-        if (merchantId.length >= 25) { //kí tự dài hơn 1 camp
-            campaign = merchantId;
-        } else { //kí tự có 1 camp
-            merchant = merchantId;
-            if (typeof getCookie('selected') === 'undefined') { //set selected
-                console.log('Chua chon');
-                selectedMerchant.classList.add('selected');
-                setCookie('selected', merchantId, 9999);
-            } else {
-                document.querySelectorAll(`[data-id="${getCookie('selected')}"]`)[0].classList.remove('selected');
-                var selectedMerchant = document.querySelectorAll(`[data-id="${merchantId}"]`)[0]
-                console.log(getCookie('selected'))
-                selectedMerchant.classList.add('selected');
-                setCookie('selected', merchantId, 9999);
-            }
-        } //end kí tự 1 camp
-    }
-    setCookie('merchantId', merchantId, 9999)
+    
     /*===XỬ LÝ INPUT LÀ URL HOẶC KÍ TỰ===*/
     var keyword = '';
     var url = '';
