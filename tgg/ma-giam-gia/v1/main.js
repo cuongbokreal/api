@@ -39,7 +39,7 @@ merchantList()
 
 
 var page = 1;
-var limit = 10;
+var limit = 12;
 var mgg_prev = document.getElementById('mgg_prev');
 var mgg_this = document.getElementById('mgg_this');
 var mgg_next = document.getElementById('mgg_next');
