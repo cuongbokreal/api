@@ -174,7 +174,7 @@ function fetchData(merchantId, input, page, action) {
           </div> <!--hết details-->
           <div class="mgg_action">
           	<div class="mgg_info" flow="up" tooltip="${mgg_tooltip}">Chi tiết <i class="fa-solid fa-circle-info"></i></div>
-            <div class="mgg_copy" data-code="${data.data[key].coupons[0].coupon_code}" data-href="${mgg_href}" onclick="copyVoucher(this)">Sao chép mã <i class="fa-regular fa-copy"></i></div>
+            <div class="mgg_copy" onclick="copyCouponCode(event, '${data.data[key].coupons[0].coupon_code}', '${mgg_href}', true)" data-code="${data.data[key].coupons[0].coupon_code}" data-href="${mgg_href}" onclick="copyVoucher(this)">Sao chép mã <i class="fa-regular fa-copy"></i></div>
           </div>
     </div>
     </div>`;
@@ -229,8 +229,28 @@ mgg_page.addEventListener("change", () => {
     }
 });
 
-var mgg_culi = document.getElementById('mgg_culi');
+/*=== COPY ===*/
+//Copy v2, không delay 
+var copyCouponCode = (event, couponCode, link, shouldCopy = false) => {
+    event.preventDefault();
+    event.stopPropagation();
+    if (!shouldCopy) {
+        window.open(link);
+    } else {
+        const input = document.createElement('input');
+        input.setAttribute('value', couponCode);
+        document.body.appendChild(input);
+        input.select();
+        document.execCommand('copy');
+        document.body.removeChild(input);
+        //statusCopy = true;
+        window.open(link);
 
+        //event.target.childNodes[0].textContent = couponCode;
+      	event.target.textContent = couponCode;
+    }
+}
+var mgg_culi = document.getElementById('mgg_culi');
 function copyVoucher(c) {
     mgg_culi.value = c.getAttribute('data-code');
     mgg_culi.focus();
