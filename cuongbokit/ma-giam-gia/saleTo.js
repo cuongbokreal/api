@@ -1,4 +1,8 @@
 var content_dday = `
+Xem chi tiết:
+- SHOPEE: https://www.trumgiamgia.net/2023/05/tong-hop-ma-shopee-sieu-sale-5-5.html
+- LAZADA: https://www.trumgiamgia.net/2023/05/tong-hop-ma-giam-gia-lazada-dday-5-5.html
+
 🏆TỔNG HỢP MÃ SHOPEE, LAZADA NGÀY SIÊU SALE 05/05🏆
 1. SHOPEE:
 ➖➖ MIỄN PHÍ VẬN CHUYỂN➖➖
