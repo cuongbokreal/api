@@ -112,6 +112,7 @@
      height: auto;
      border: 1px solid #dedede;
      border-radius: 50%;
+     object-fit: cover;
 }
  .mgg_tag_item{
      max-width: 100px;
