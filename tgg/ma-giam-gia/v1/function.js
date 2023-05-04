@@ -53,7 +53,7 @@ function fetchData(merchantId, input, page, action) {
   `;
     //window.location.hash = '';
     //window.location.hash = 'joinGroup';
-    fetch(`https://api.accesstrade.vn/v1/offers_informations/coupon?page=${page}&limit=${limit}&url=${encodeURIComponent(input)}&keyword=${''}&merchant=${merchant}&campaign=${campaign}`, requestOptions)
+    fetch(`https://api.accesstrade.vn/v1/offers_informations/coupon?page=${page}&limit=${limit}&url=${encodeURIComponent(input)}&keyword=${''}&merchant=${merchantId}`, requestOptions)
         .then(response => response.json())
         .then(data => {
             console.log(data);
