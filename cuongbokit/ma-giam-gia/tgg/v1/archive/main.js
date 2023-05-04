@@ -17,6 +17,7 @@ setCookie('selected', '4742147753565840242', 9999);
 
 var urlRegex = /^(https?:\/\/)?([\w.]+)\.([a-z]{2,6}\.?)(\/[\w\d#?=.&%+-]*)*\/?(\?([\w\d#?=.&%+-]+))?$/; //REGEX URL
 var mgg_page = document.getElementById('mgg_page');
+const deeplink = 'https://go.isclix.com/deep_link/5353514789844343379';
 
 function merchantList() {
     fetch(`https://api.accesstrade.vn/v1/offers_informations/merchant_list`, requestOptions)
@@ -43,6 +44,45 @@ var mgg_this = document.getElementById('mgg_this');
 var mgg_next = document.getElementById('mgg_next');
 var mgg = document.getElementById('mgg');
 
+/*===GHIM MGG====*/
+var content_ghim = '';
+for(let i=0; i<mgg_ghim.length; i++){
+	var mgg_href = `${deeplink}?url=${encodeURIComponent(mgg_ghim[i].link)}`;
+	var action_text = 'Sao chép mã';
+	var action = true;
+	var mgg_copy = '';
+	if(!mgg_ghim[i].code){ //khi mã lưu banner
+		action_text = 'Đến banner';
+		action = false;
+		mgg_copy = `<div class="mgg_copy" onclick="copyCouponCode(event, '', '${mgg_href}', ${action})">${action_text}<i class="fa-regular fa-copy"></i></div>`
+	}else{ //khi có mã
+		mgg_copy = `<div class="mgg_copy" onclick="copyCouponCode(event, '${mgg_ghim[i].code}', '${mgg_href}', ${action})">${action_text} <i class="fa-regular fa-copy"></i></div>`;
+	}
+	content_ghim += `<div class="mgg_item">
+      <div class="mgg_left">
+          <div class="mgg_img"><img src="${mgg_ghim[i].image}" alt="${mgg_ghim[i].value}"/></div>   
+      </div>
+      <div class="mgg_right">
+          <div class="mgg_details">
+          	<div class="mgg_tag"><div class="mgg_tag_item">Hot</div></div>
+            <div class="mgg_name" title="${mgg_ghim[i].value}"> 
+  			<div class="mgg_value">${mgg_ghim[i].value}</div> 
+			<div class="class="mgg_min_spend">${mgg_ghim[i].minspend}</div>
+  		</div>
+	    <div class="mgg_content">
+	      <p class="mgg_time">Ngày bắt đầu: <b>${mgg_ghim[i].start_time}</b></p>
+	      <p class="mgg_time">Ngày kết thúc: <b>${mgg_ghim[i].end_time}</b></p>
+	      <p>Còn <b>${mgg_ghim[i].remain}</b> lượt</p>
+	    </div>
+          </div> <!--hết details-->
+          <div class="mgg_action">
+          	<div class="mgg_info" flow="up" tooltip="${mgg_ghim[i].value}">Chi tiết <i class="fa-solid fa-circle-info"></i></div>
+            	${mgg_copy}
+          </div>
+    </div>
+    </div>`
+}
+document.querySelector('#mgg_ghim').innerHTML = content_ghim;
 function fetchData(merchantId, input, page, action) {
     /*
     merchant: id number
@@ -109,7 +149,7 @@ function fetchData(merchantId, input, page, action) {
             document.getElementById('mgg_total_page').innerText = Number.parseFloat(data.count / limit).toFixed(0);
             document.getElementById('mgg_count').innerText = data.count.toLocaleString()
             // Content inner HTML MGG
-            var content_html = '';
+            var content_html = ''; 
             Object.keys(data.data).forEach(key => {
 
                 var mgg_value = 0;
