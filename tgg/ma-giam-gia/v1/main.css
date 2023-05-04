@@ -73,6 +73,7 @@
      background: #fff;
      border-radius: 3px;
      margin: 10px 0 45px 0;
+     transition: all 0.5s ease-in-out;
 }
  .mgg_item{
      border: 1px solid #ff861a;
