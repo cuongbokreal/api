@@ -134,8 +134,8 @@ function fetchData(merchantId, input, page, action) {
 				</center>
 			    <!--end loading Shopee-->
   `;
-    window.location.hash = '';
-    window.location.hash = 'joinGroup';
+    //window.location.hash = '';
+    //window.location.hash = 'joinGroup';
     fetch(`https://api.accesstrade.vn/v1/offers_informations/coupon?page=${page}&limit=${limit}&url=${encodeURIComponent(input)}&keyword=${''}&merchant=${merchant}&campaign=${campaign}`, requestOptions)
         .then(response => response.json())
         .then(data => {
