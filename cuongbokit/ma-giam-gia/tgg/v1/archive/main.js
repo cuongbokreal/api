@@ -76,7 +76,7 @@ for(let i=0; i<mgg_ghim.length; i++){
 	    </div>
           </div> <!--hết details-->
           <div class="mgg_action">
-          	<div class="mgg_info" flow="up" tooltip="${mgg_ghim[i].value}">Chi tiết <i class="fa-solid fa-circle-info"></i></div>
+          	<div class="mgg_info" flow="up" tooltip="${mgg_ghim[i].detail}">Chi tiết <i class="fa-solid fa-circle-info"></i></div>
             	${mgg_copy}
           </div>
     </div>
