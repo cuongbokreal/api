@@ -47,16 +47,16 @@ var mgg = document.getElementById('mgg');
 /*===GHIM MGG====*/
 var content_ghim = '';
 for(let i=0; i<mgg_ghim.length; i++){
-	var mgg_href = `${deeplink}?url=${encodeURIComponent(mgg_ghim[i].link)}`;
+	//var mgg_href = `${deeplink}?url=${encodeURIComponent(mgg_ghim[i].link)}`;
 	var action_text = 'Sao chép mã';
 	var action = true;
 	var mgg_copy = '';
 	if(!mgg_ghim[i].code){ //khi mã lưu banner
 		action_text = 'Đến banner';
 		action = false;
-		mgg_copy = `<div class="mgg_copy" onclick="copyCouponCode(event, '', '${mgg_href}', ${action})">${action_text}<i class="fa-regular fa-copy"></i></div>`
+		mgg_copy = `<div class="mgg_copy" onclick="copyCouponCode(event, '', '${mgg_ghim[i].link}', ${action})">${action_text}<i class="fa-regular fa-copy"></i></div>`
 	}else{ //khi có mã
-		mgg_copy = `<div class="mgg_copy" onclick="copyCouponCode(event, '${mgg_ghim[i].code}', '${mgg_href}', ${action})">${action_text} <i class="fa-regular fa-copy"></i></div>`;
+		mgg_copy = `<div class="mgg_copy" onclick="copyCouponCode(event, '${mgg_ghim[i].code}', '${mgg_ghim[i].link}', ${action})">${action_text} <i class="fa-regular fa-copy"></i></div>`;
 	}
 	content_ghim += `<div class="mgg_item">
       <div class="mgg_left">
