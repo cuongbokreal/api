@@ -223,6 +223,7 @@ function fetchData(merchantId, input, page, action) {
     </div>`;
             })
             document.getElementById('mgg').innerHTML = content_html;
+	    limit = 12; //set chay limit
             if (action === 'next') {
 
                 mgg_prev.setAttribute('onclick', `fetchData('${merchantId}', '', ${page-1}, 'prev')`);
