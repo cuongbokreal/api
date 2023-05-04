@@ -84,6 +84,8 @@ for(let i=0; i<mgg_ghim.length; i++){
     </div>`
 }
 document.querySelector('#mgg_ghim').innerHTML = content_ghim;
+
+
 function fetchData(merchantId, input, page, action) {
     /*
     merchant: id number
