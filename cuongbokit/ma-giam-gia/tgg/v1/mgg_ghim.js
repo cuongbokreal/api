@@ -10,7 +10,7 @@ var mgg_ghim = [
     start_time: '2023/03/01',
     end_time: '∞',
     remain: 'Không giới hạn',
-    image: 'https://salt.tikicdn.com/ts/upload/e4/49/6c/270be9859abd5f5ec5071da65fab0a94.png',
+    image: 'https://salt.tikicdn.com/cache/128x128/ts/upload/92/ad/57/0d9a096885400b7b4752b67afdc72898.png',
     detail: 'Từ ngày 01/03/2023, Tiki đồng hành cùng nhà bán hàng ra mắt chương trình Freeship Không Giới Hạn. Cụ thể, giá trị đơn hàng được tính trên tổng giá trị giỏ hàng, không phân biệt của nhà bán nào. Giỏ hàng lúc thanh toán của bạn chỉ cần đạt giá trị từ 149.000₫ hoặc 299.000₫ sẽ được miễn phí vận chuyển tương ứng 15.000₫ hoặc 30.000₫.',
   },
   {
