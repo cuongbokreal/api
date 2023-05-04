@@ -64,7 +64,7 @@ for(let i=0; i<mgg_ghim.length; i++){
       </div>
       <div class="mgg_right">
           <div class="mgg_details">
-          	<div class="mgg_tag"><div class="mgg_tag_item">Hot</div></div>
+          	<div class="mgg_tag"><div class="mgg_tag_item">${mgg_ghim[i].tag}</div></div>
             <div class="mgg_name" title="${mgg_ghim[i].value}"> 
   			<div class="mgg_value">${mgg_ghim[i].value}</div> 
 			<div class="class="mgg_min_spend">${mgg_ghim[i].minspend}</div>
