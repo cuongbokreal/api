@@ -28,7 +28,7 @@ function merchantList() {
             var html_merchant = '';
             Object.keys(data.data).forEach((key) => {
                 html_merchant += `<div class="merchant_item" data-id="${data.data[key].id}" data-display_name="${data.data[key].display_name[0]}" data-login_name="${data.data[key].login_name}" onclick="fetchData('${data.data[key].id}', '', 1, 'next')">
-        <img class="merchant_img" src="${data.data[key].logo}"/>
+        <img class="merchant_img" alt="${data.data[key].display_name[0]}" src="${data.data[key].logo}"/>
         <p class="merchant_name">${data.data[key].display_name[0]} (${data.data[key].total_offer})</p>
   </div>`
             })
