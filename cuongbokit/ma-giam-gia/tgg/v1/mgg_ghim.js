@@ -8,7 +8,7 @@ var mgg_ghim = [
     end_time: '2023/05/11',
     remain: 'Không giới hạn',
     image: 'https://cdn.haitrieu.com/wp-content/uploads/2022/03/highlands-coffee-red-logo.png',
-    detail: '',
+    detail: 'Mã Giảm Giá Highlands Coffee',
   },
   {
     value: 'Giảm 25K',
@@ -19,6 +19,6 @@ var mgg_ghim = [
     end_time: '2023/05/11',
     remain: 'Không giới hạn',
     image: 'https://cdn.haitrieu.com/wp-content/uploads/2022/03/highlands-coffee-red-logo.png',
-    detail: '',
+    detail: 'Mã Giảm Giá Highlands Coffee',
   }
 ]
