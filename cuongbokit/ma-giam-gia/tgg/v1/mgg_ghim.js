@@ -7,7 +7,7 @@ var mgg_ghim = [
 
 {
     value: ' Giảm 20K đơn 99K',
-    minspend: ‘ Thời trang’,
+    minspend: ' Thời trang',
     tag: 'Lazada',
     link: 'https://shorten.asia/W8Zxdbv8',
     start_time: '2023/05/05',
