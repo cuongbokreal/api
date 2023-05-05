@@ -15,7 +15,7 @@ var mgg_ghim = [
     remain: '50',
     image: 'https://i.imgur.com/JwEMd2C.gif',
     detail: '   Code 20k/99k Fashion độc quyền Trùm Giảm Giá ',
-  code: ‘Lazlook20bvbayb’,
+    code: ‘Lazlook20bvbayb’,
   },
 {
     value: ' Giảm 25K đơn 99K',
@@ -27,7 +27,7 @@ var mgg_ghim = [
     remain: '50',
     image: 'https://i.imgur.com/JwEMd2C.gif',
     detail: '   Code 25k/99k toàn sàn độc quyền Trùm Giảm Giá ',
-  code: ‘LazT525xjitra’,
+code: ‘LazT525xjitra’,
   },
 
   {
