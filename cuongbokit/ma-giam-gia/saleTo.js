@@ -347,110 +347,101 @@ MÃ SĂN Ở CÁC KHUNG GIỜ TỪ 9H... MÌNH SẼ LÊN ĐẦY ĐỦ Ở TỪNG
 .
 
 2. LAZADA:
-🚛MIỄN PHÍ VẬN CHUYỂN:
-• 0H: Lưu mã Freeship 20K/0Đ, 20K/29K tại: https://shorten.asia/xPdjMtNC (có thể lọc user)
-• Lưu mã Freeship giảm 15K/29K, 50K//300K + Freeship 25K/69K lọc user tại: https://shorten.asia/C6frenRC
-• Lưu mã Freeship 20K/20K hoặc 20K/29K tại: https://shorten.asia/r3tgHhsg
+⏰MÃ LAZADA TỪ 12H NGÀY SIÊU SALE 05/05:
+👉 Zô lấy Voucher sale 5/5 độc quyền Trùm Giảm Giá (25k/99k toàn sàn, 20k/99k thời trang) tại https://www.trumgiamgia.net/  (mục mã HOT độc quyền)   
+
+🚛MIỄN PHÍ VẬN CHUYỂN: 
+• Lưu mã Freeship giảm 15K/29K, 50K//300K + Freeship 25K/69K lọc user tại: https://shorten.asia/NPRGPzAs 
+• Lưu mã Freeship 20K/20K hoặc 20K/29K tại: https://shorten.asia/B4KkMgab 
+• 12H, 16H, 18H, 20H: Lưu mã Freeship 20K/0Đ, 20K/29K tại: https://shorten.asia/fkBrkGJj  (có thể back)
 .
-🔥MÃ HOÀN TIỀN MAX: mã đã hiện sẵn, đúng giờ load trang lưu mã
-• 0H, 12H, 20H: Mã hoàn 50% tối đa 50K đơn từ 0Đ
-• 0H, 9H, 12H, 15H, 18H, 20H: Mã hoàn 10% tối đa 50K, 8% tối đa 100K, 6% tối đa 300K
-• 0H, 9H, 12H, 15H, 18H, 20H: Mã hoàn 15% tối đa 50K(chỉ áp làm đẹp, thời trang)
-• 0H: Mã hoàn 50% tối đa 30K đơn từ 59K(lọc user)
-=> Lưu mã tại: https://shorten.asia/DKxBMETV hoặc tại: https://shorten.asia/j2ha5pFA
+🔥MÃ HOÀN TIỀN MAX: 
+• 12H, 20H: Mã hoàn 50% tối đa 50K đơn từ 0Đ
+• 12H, 15H, 18H, 20H: Mã hoàn 10% tối đa 50K, 8% tối đa 100K, 6% tối đa 300K(back)
+• Mã hoàn 15% tối đa 50K(chỉ áp làm đẹp, thời trang)
+• Mã hoàn 50% tối đa 30K đơn từ 59K(lọc user)
+=> Lưu mã tại: https://shorten.asia/6syd2dmb  hoặc tại: https://shorten.asia/fkr2U6ZU 
 .
-🔥MÃ TOÀN SÀN & NGÀNH HÀNG: mã đã hiện sẵn, đúng giờ load trang lưu mã
-• 0H, 12H, 20H: Mã giảm 100K đơn từ 1500K toàn sàn
-• 0H: Mã giảm 20K, 15K, 15% áp các ngành hàng
-=> Lưu mã tại: https://shorten.asia/4hsJnPze hoặc tại: https://shorten.asia/84pucVwb
+🔥MÃ TOÀN SÀN & NGÀNH HÀNG: 
+• 12H, 20H: Mã giảm 100K đơn từ 1500K toàn sàn
+• Mã giảm 20K, 15K, 15% áp các ngành hàng
+=> Lưu mã tại: https://shorten.asia/MG4zqgqv  hoặc tại: https://shorten.asia/6tHqJ64x 
 .
-🔥0H, 12H, 19H, 21H: MÃ GIẢM 25K ĐƠN TỪ 99K ÁP CÁC NGÀNH HÀNG:
-=> Lưu mã Thời Trang tại: https://shorten.asia/52sAdNg8
-=> Lưu mã Beauty tại: https://shorten.asia/6sVTTbsF
-=> Lưu mã Tiêu Dùng - Mẹ & Bé - Chăm Sóc Sức Khỏe tại: https://shorten.asia/kh2H4y6K
+🔥12H, 19H, 21H: MÃ GIẢM 25K ĐƠN TỪ 99K ÁP CÁC NGÀNH HÀNG:
+=> Lưu mã Thời Trang tại: https://shorten.asia/GWDZDt2j 
+=> Lưu mã Beauty tại: https://shorten.asia/D8XBgYwH 
+=> Lưu mã Tiêu Dùng - Mẹ & Bé - Chăm Sóc Sức Khỏe tại: https://shorten.asia/5z6GBjmD 
 .
-🔥0H: MÃ GIẢM 50K/0Đ, 15K/40K, 20K/200K, 25K/120K, 100K/1TR LỌC USERI: mã đã hiện sẵn, đúng giờ load trang lưu mã
-=> Lưu mã tại: https://shorten.asia/Czm2fBTy hoặc tại: https://shorten.asia/KcXCzDFh
+🔥12H: MÃ NGâN HÀNG: mã back
+=> Lưu mã tại: https://shorten.asia/WzfAGddm 
 .
-🔥9H: MÃ NGâN HÀNG: còn back vào 12H
-=> Lưu mã tại: https://shorten.asia/X7HGggy2
-.
-🔥0H: MÃ ZALOPAY GIẢM 10K ĐƠN TỪ 299K + 9H: MÃ ZALOPAY GIẢM 5K ĐƠN TỪ 199K(LỌC USER): mã back
-=> Lưu mã tại: https://shorten.asia/3Zcve2uF
-.
-🔥9H: MÃ VNPT GIẢM 20K ĐƠN TỪ 40K(1 MÃ LỌC USER + 1 MÃ KHÔNG LỌC): mã back
-=> Lưu mã tại: https://shorten.asia/8qtfSUqE
-.
-🔥9H: MÃ MOMO GIẢM 5K ĐƠN TỪ 199K, 20K ĐƠN TỪ 299K: mã back
-=> Lưu mã tại: https://shorten.asia/QFYn2mSE
-.
-🔥0H, 12H, 20H: DEAL TRỢ GIÁ - LAZFLASH:
-=> Xem chi tiết tại: https://shorten.asia/Tz7gfynJ
+🔥12H, 20H: DEAL TRỢ GIÁ - LAZFLASH:
+=> Xem chi tiết tại: https://shorten.asia/9cU1tuxq 
 .
 🔥CÁC BANNER KOL CÓ THỂ LÊN MÃ TOÀN SÀN BẤT NGỜ:
 📌Các link thường lên mã nhập tay:
-• Eco: https://shorten.asia/uXekGgsf [0H, 12H, 18H]
-• HL: https://shorten.asia/16PSXPQT
-• Badi: https://shorten.asia/KQXVZYMG
-• HT: https://shorten.asia/GSc99kx3
-• Chloe: https://shorten.asia/CMQqeTMm
-• Trang: https://shorten.asia/Cd1NxNMS
+• Eco: https://shorten.asia/cNXKy8pE  [12H, 18H]
+• Badi: https://shorten.asia/qaeQDueG 
+• Chloe: https://shorten.asia/q6jzCHh2  
+• HL: https://shorten.asia/Z6E1ESBe 
+• HT: https://shorten.asia/p8SgHEEd 
+• Trang: https://shorten.asia/xWt2yE5T 
 .
 📌Các link lưu mã 20K/99K lúc 12H:
-• EX: https://shorten.asia/qtJua8Aa
+• EX: https://shorten.asia/mdZT7R2R  
 .
 📌Các link thường lên mã lưu(canh mỗi tiếng 1 lần): từ phút 55-00
-• Viettel: https://shorten.asia/Hw3Jr8X8
-• Vina: https://shorten.asia/Pw6czYx7
-• Mobi: https://shorten.asia/uSC1JeSJ
-• New: https://shorten.asia/KcXCzDFh
-• Shopiness: https://shorten.asia/j2ha5pFA
-• Chloe: https://shorten.asia/CMQqeTMm
-• Mai: https://shorten.asia/uPmCBnTu
+• Vina: https://shorten.asia/yZ6p33nk 
+• Viettel: https://shorten.asia/7gQcRqpv 
+• Mobi: https://shorten.asia/f48FxXqt 
+• New: https://shorten.asia/3wpgupnv 
+• Shopiness: https://shorten.asia/fkr2U6ZU 
+• Chloe: https://shorten.asia/bteHY5zz 
+• Mai: https://shorten.asia/eyqKQ3QW 
 .
 🔥MỘT SỐ BANNER SALE LƯU THÊM MÃ KHÁC:
-• Nổ ngày đôi: https://shorten.asia/84pucVwb
-• Siêu tiệc thương hiệu: https://shorten.asia/Z58Q7ry8
-• Top shop hà thành: https://shorten.asia/TFcS8P9G
-• Voucher tích lũy 400K: https://shorten.asia/RQGnq2jp
-• Giảm sốc ngày đầu: https://shorten.asia/mwjk6Yts
-• Top bán chạy: https://shorten.asia/mwjk6Yts
-• Freeship: https://shorten.asia/8rXNFrfR
-• Rẻ vô cực: https://shorten.asia/g48cr19s
-• Hoàn tiền gấp đôi: https://shorten.asia/ApzXMMVh
-• Điện gia dụng: https://shorten.asia/nQ7kWVCf
-• Điện thoại công nghệ: https://shorten.asia/NHxrnty1
-• Sức khỏe, làm đẹp: https://shorten.asia/3Wfd7PbM
-• Bách hóa, mẹ bé: https://shorten.asia/Sn1HucYA
-• Đẳng cấp xế xịn: https://shorten.asia/9suJy7eG
-• Nhà sang bếp xịn: https://shorten.asia/RNewWMcN
-• Thời trang nữ: https://shorten.asia/8VsP18SF
-• Thời trang nam: https://shorten.asia/w2tH8GMs
+• Nổ ngày đôi: https://shorten.asia/6tHqJ64x 
+• Siêu tiệc thương hiệu: https://shorten.asia/1X3ucPru 
+• Top shop hà thành: https://shorten.asia/jsvpw9gr 
+• Voucher tích lũy 400K: https://shorten.asia/rBaJPz1r 
+• Giảm sốc ngày đầu: https://shorten.asia/euX1uWfN 
+• Top bán chạy: https://shorten.asia/euX1uWfN 
+• Freeship: https://shorten.asia/FSJtSg16 
+• Rẻ vô cực: https://shorten.asia/3aq1Ezmx 
+• Hoàn tiền gấp đôi: https://shorten.asia/d8P7KRQp 
+• Điện gia dụng: https://shorten.asia/C5Ww1cyT 
+• Điện thoại công nghệ: https://shorten.asia/2JCaWbv4 
+• Sức khỏe, làm đẹp: https://shorten.asia/cnxC4SPC 
+• Bách hóa, mẹ bé: https://shorten.asia/yHJfaGPg 
+• Đẳng cấp xế xịn: https://shorten.asia/Dht48NvE 
+• Nhà sang bếp xịn: https://shorten.asia/TjuRg5qN 
+• Thời trang nữ: https://shorten.asia/JjdTp1Yd 
+• Thời trang nam: https://shorten.asia/xrBruzfu 
 .
-🔥0H: VOUCHER TÍCH LŨY CHO SALE 05/05:
-• Lưu 50K tích lũy tại: https://shorten.asia/4hsJnPze
-• Lưu thêm 50K tích luỹ dưới sản phẩm: https://shorten.asia/C649asG7
+🔥VOUCHER TÍCH LŨY CHO SALE 05/05:
+• Lưu tích lũy tại: https://shorten.asia/MG4zqgqv 
+• Lưu thêm tích luỹ dưới sản phẩm: https://shorten.asia/TEAMduqZ 
 => Thu thập hàng ngày, dùng được từ ngày 5-7/5
 .
+🔥MÃ ZALOPAY GIẢM 10K ĐƠN TỪ 299K + MÃ ZALOPAY GIẢM 5K ĐƠN TỪ 199K(LỌC USER): 
+=> Lưu mã tại: https://shorten.asia/13ZUNX33 
+.
+🔥MÃ VNPT GIẢM 20K ĐƠN TỪ 40K(1 MÃ LỌC USER + 1 MÃ KHÔNG LỌC):
+=> Lưu mã tại: https://shorten.asia/dhDqU9Bw 
+.
+🔥MÃ MOMO GIẢM 5K ĐƠN TỪ 199K, 20K ĐƠN TỪ 299K: 
+=> Lưu mã tại: https://shorten.asia/RtQMr5Xn 
+.
+🔥MÃ GIẢM 10% CHO LAZBEAUTY: 
+=> Lưu mã tại: https://shorten.asia/FQ5wJsnV 
+.
+🔥MÃ GIẢM 50K/0Đ, 15K/40K, 20K/200K, 25K/120K, 100K/1TR LỌC USER: 
+=> Lưu mã tại: https://shorten.asia/ERheGjKz  hoặc tại: https://shorten.asia/3wpgupnv 
+.
 🔥MÃ GIẢM 30K/30K + FREESHIP 20K, 50K CHO NGƯỜI MỚI:
-=> Lưu mã tại: https://shorten.asia/Znmu7UTH
+=> Lưu mã tại: https://shorten.asia/tf1rFk9t 
 .
-🔥MÃ NHẬP TAY GIẢM 25K/99K, 30K/150K, 50K (CẬP NHẬT THÊM LIÊN TỤC TẠI NHÓM ZALO, TELE):
-- Zalo: https://zalo.me/g/fqehfa279
-- Telegram: https://t.me/s/trumgiamgia (nhanh nhất)
-*Lưu ý đợt này code Lazada không áp được sản phẩm bách hóa, mẹ bé nhé
-.
-🔥0H: DEAL ĐỒNG GIÁ 5K: https://shorten.asia/g48cr19s
-.
-🔥SẢN PHẨM DÙNG THỬ 9K, X9K: https://shorten.asia/CfmjakTk
-.
-🔥0H: Đổi xu: https://shorten.asia/N4BS3gt3
-.
-🔥0H: Đổi sao: https://shorten.asia/ssM2aMZY
-.
-🔥0H: Đổi Gems lấy quà 0Đ, mã xịn: https://shorten.asia/zh8BBhqw
-
-
+🔥SẢN PHẨM DÙNG THỬ 9K, X9K: https://shorten.asia/QMhsK1Ts 
 `
 
 var updateTime = new Date(); //updateTime
