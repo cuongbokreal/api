@@ -4,19 +4,6 @@ link: aff link
 var mgg_ghim = [
 
 
-
-{
-    value: ' Giảm 20K đơn 99K',
-    minspend: ' Thời trang',
-    tag: 'Lazada',
-    link: 'https://shorten.asia/W8Zxdbv8',
-    start_time: '2023/05/05',
-    end_time: '2023/05/05 23:59',
-    remain: '50',
-    image: 'https://i.imgur.com/JwEMd2C.gif',
-    detail: '   Code 20k/99k Fashion độc quyền Trùm Giảm Giá ',
-    code: 'Lazlook20bvbayb',
-  },
 {
     value: ' Giảm 25K đơn 99K',
     minspend: 'Toàn sàn',
@@ -28,6 +15,18 @@ var mgg_ghim = [
     image: 'https://i.imgur.com/JwEMd2C.gif',
     detail: '   Code 25k/99k toàn sàn độc quyền Trùm Giảm Giá ',
 code: 'LazT525xjitra',
+  },
+{
+    value: ' Giảm 20K đơn 99K',
+    minspend: ' Thời trang',
+    tag: 'Lazada',
+    link: 'https://shorten.asia/W8Zxdbv8',
+    start_time: '2023/05/05',
+    end_time: '2023/05/05 23:59',
+    remain: '50',
+    image: 'https://i.imgur.com/JwEMd2C.gif',
+    detail: '   Code 20k/99k Fashion độc quyền Trùm Giảm Giá ',
+    code: 'Lazlook20bvbayb',
   },
 
   {
