@@ -4,6 +4,18 @@ link: aff link
 var mgg_ghim = [
 
   {
+    value: ' Giảm 20K đơn 99K',
+    minspend: ' Thời trang',
+    tag: 'Lazada độc quyền',
+    link: 'https://shorten.asia/W8Zxdbv8',
+    start_time: '2023/05/05',
+    end_time: '2023/05/05 23:59',
+    remain: '22',
+    image: ' https://i.imgur.com/gXA8JxH.png ',
+    detail: '   Code 20k/99k Fashion độc quyền Trùm Giảm Giá ',
+    code: 'Lazlook20bvbayb',
+  },
+  {
     value: 'Freeship không giới hạn',
     minspend: 'Toàn sàn',
     tag: 'Tiki',
