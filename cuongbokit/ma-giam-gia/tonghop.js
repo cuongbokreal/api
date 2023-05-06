@@ -256,7 +256,7 @@ var updateTime = new Date(); //updateTime
   if(thisHour > 20 && thisHour <= 21){saleHour = 21}else
   if(thisHour > 21 && thisHour <= 22){saleHour = 22}else
   if(thisHour > 22 && thisHour <= 23){saleHour = 23}else
-  if(thisHour > 23){saleHour = 0; today = `${updateTime.getDate() +1}/${updateTime.getMonth() + 1}`;}
+  if(thisHour >= 23){saleHour = 0; today = `${updateTime.getDate() +1}/${updateTime.getMonth() + 1}`;}
   
   console.log(saleHour)
   document.querySelector('#sale_time').innerText = `${saleHour}`;
