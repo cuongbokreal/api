@@ -9,7 +9,7 @@ var mgg_ghim = [
     tag: 'Lazada độc quyền',
     link: 'https://shorten.asia/W8Zxdbv8',
     start_time: '2023/05/05',
-    end_time: '2023/05/05 23:59',
+    end_time: '2023/05/06 23:59',
     remain: '22',
     image: ' https://i.imgur.com/gXA8JxH.png ',
     detail: '   Code 20k/99k Fashion độc quyền Trùm Giảm Giá ',
