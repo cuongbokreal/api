@@ -237,6 +237,32 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 .
 🔥TFNOVM3 Giảm 3% cho đơn từ 599K (Tefal): https://shorten.asia/f2QXMMry
 `
+/*===SETUP NGÀY GIỜ===*/
+var updateTime = new Date(); //updateTime
+  var today = `${updateTime.getDate()}/${updateTime.getMonth() + 1}`;
+  var thisHour = updateTime.getHours();
+  var sale_hour = 0;
+  if(thisHour >= 6 && thisHour <= 9){saleHour = 9}else
+  if(thisHour > 9 && thisHour <= 11){saleHour = 11}else
+  if(thisHour > 11 && thisHour <= 12){saleHour = 12}else
+  if(thisHour > 12 && thisHour <= 13){saleHour = 13}else
+  if(thisHour > 13 && thisHour <= 14){saleHour = 14}else
+  if(thisHour > 14 && thisHour <= 15){saleHour = 15}else
+  if(thisHour > 15 && thisHour <= 16){saleHour = 16}else
+  if(thisHour > 16 && thisHour <= 17){saleHour = 17}else
+  if(thisHour > 17 && thisHour <= 18){saleHour = 18}else
+  if(thisHour > 18 && thisHour <= 19){saleHour = 19}else
+  if(thisHour > 19 && thisHour <= 20){saleHour = 20}else
+  if(thisHour > 20 && thisHour <= 21){saleHour = 21}else
+  if(thisHour > 21 && thisHour <= 22){saleHour = 22}else
+  if(thisHour > 22 && thisHour <= 23){saleHour = 23}else
+  if(thisHour > 23){saleHour = 0; today = `${updateTime.getDate() +1}/${updateTime.getMonth() + 1}`;}
+  
+  console.log(saleHour)
+  document.querySelector('#sale_time').innerText = `${saleHour}`;
+  document.querySelector('#sale_day').innerText = today;
+
+
 
 document.getElementById('tonghop').innerHTML = api_mgg_content.replaceAll('\n', '<br/>');
   
