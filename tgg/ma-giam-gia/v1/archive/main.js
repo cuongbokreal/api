@@ -166,11 +166,14 @@ function fetchData(merchantId, input, page, action) {
                 }
 
                 var mgg_min_spend = `<div class="mgg_min_spend">Đơn tối thiểu ${data.data[key].min_spend /1000}K</div>` //set trước min spend để nếu không có value và percent thì không hiện min spend
-                if (data.data[key].discount_percentage == 0 && data.data[key].discount_value == 0) {
+                /*
+		if(data.data[key].shop_id != 0 && data.data[key].domain == 'tiki.vn'){ //trường hợp shop của tiki không hiện minspend
+		}else{}*/
+		if (data.data[key].discount_percentage == 0 && data.data[key].discount_value == 0) {
                     mgg_value = data.data[key].name;
                     var mgg_min_spend = ''; //nếu không có discount percent và value thì không hiện đơn tối thiểu
                 }
-		if(!data.data[key].discount_percentage && !data.data[key].discount_value){
+		if((!data.data[key].discount_percentage && !data.data[key].discount_value) || (data.data[key].shop_id != 0 && data.data[key].domain == 'tiki.vn')){
 			mgg_value = data.data[key].name;
 			mgg_min_spend = '';
 		}
