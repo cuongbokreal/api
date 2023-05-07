@@ -234,6 +234,7 @@ function fetchData(merchantId, input, page, action) {
 	  "discountCode": ${blacktick}${data.data[key].coupons[0].coupon_code}${blacktick},
 	  "priceCurrency": "VND",
 	  "price": ${blacktick}${mgg_min_spend}${blacktick},
+	  "validFrom": ${blacktick}${data.data[key].start_time}T23:59:59+07:00${blacktick},
 	  "validThrough": ${blacktick}${data.data[key].end_time}T23:59:59+07:00${blacktick}
 	}</script>
     `;
