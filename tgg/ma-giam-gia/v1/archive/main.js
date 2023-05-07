@@ -222,7 +222,19 @@ function fetchData(merchantId, input, page, action) {
             <div class="mgg_copy" onclick="copyCouponCode(event, '${data.data[key].coupons[0].coupon_code}', '${mgg_href}', true)" data-code="${data.data[key].coupons[0].coupon_code}" data-href="${mgg_href}" onclick="copyVoucher(this)">Sao chép mã <i class="fa-regular fa-copy"></i></div>
           </div>
     </div>
-    </div>`;
+    </div>
+    <script type='application/ld+json'>{
+	  "@context": "https://schema.org/",
+	  "@type": "Offer",
+	  "name": "${mgg_value}",
+	  "description": "${mgg_tooltip}",
+	  "url": "${mgg_href}",
+	  "discountCode": "${data.data[key].coupons[0].coupon_code}",
+	  "priceCurrency": "VND",
+	  "price": "${mgg_min_spend}",
+	  "validThrough": "${data.data[key].end_time}T23:59:59+07:00"
+	}</script>
+    `;
             })
             document.getElementById('mgg').innerHTML = content_html;
 	    limit = 12; //set chay limit
