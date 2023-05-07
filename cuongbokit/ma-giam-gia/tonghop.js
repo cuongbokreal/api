@@ -8,28 +8,24 @@ HOT: 🙆 Highlands đang tặng Voucher mua 2 tính tiền 1 free (áp dụng t
 https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1.html  
 
 <h2><b>SHOPEE</b></h2>
-⏰SHOPEE, LAZADA TỪ 12H - 18H NGÀY 07/05:
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• 12H, 15H, 18H: Lưu mã Freeship 25K/25K tại giỏ live: https://tinyurl.com/2kze9dhn  (back)
+• 18H: Lưu mã Freeship 25K/25K tại giỏ live: https://tinyurl.com/2kze9dhn  (back)
 • Lưu mã Freeship 35K/150K tại: https://tinyurl.com/2pqkm3vj 
 • Đổi mã Freeship giảm 50% tối đa 40K: https://tinyurl.com/2k6e5je4 
 • Quay mã Freeship: https://tinyurl.com/2eq3xm3e 
 .
 🔥MÃ TOÀN SÀN - LƯU TẠI LIVE:
-• 12H: Mã giảm 15% tối đa 100K đơn từ 250K mọi user + Mã giảm 50% tối đa 50K đơn từ 50K new user. Lưu mã tại live: https://tinyurl.com/2dtvxqwf  hoặc https://tinyurl.com/2h2htdbp 
-• 12H: Back mã giảm 20K đơn từ 99K. Lưu mã tại giỏ live: https://tinyurl.com/2kze9dhn 
-• 12H: Mã giảm 15K đơn từ 99K. Lưu mã tại live: https://tinyurl.com/2naaepgg 
+• 20H: Mã giảm 20K đơn từ 99K. Lưu mã tại giỏ live: https://tinyurl.com/2kze9dhn 
+• 21H: Mã giảm 15% tối đa 100K đơn từ 250K mọi user + Mã giảm 50% tối đa 50K đơn từ 50K new user. Lưu mã tại live: https://tinyurl.com/2dtvxqwf  hoặc https://tinyurl.com/2h2htdbp 
+• Sau 21H: Mã giảm 50% tối đa 15K đơn từ 20K. Lưu mã tại live: https://tinyurl.com/2naaepgg 
+• Mã giảm 10K/50K đã được tặng sẵn trong ví: https://tinyurl.com/2pcnjch6 
 .
-🔥12H, 12H30: MÃ GIẢM 15K/100K, 30K/200K, 40K/299K ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
-• List sản phẩm áp mã 15K, 30K, 40K: https://tinyurl.com/2q7bcbc3 
-=> Lưu mã tại 1 số live tại tab “X4 Giảm Giá”: https://tinyurl.com/2jbwp4k3 
-.
-🔥12H, 15H, 18H: BACK MÃ GIẢM 10K ĐƠN TỪ 25K ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
+🔥18H: BACK MÃ GIẢM 10K ĐƠN TỪ 25K ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
 • Lưu mã 1 tại: https://tinyurl.com/2kze9dhn  List sản phẩm áp mã: https://tinyurl.com/2jwzqw7c 
 • Lưu mã 2 tại một số live tại tab “X4 giảm giá”: https://tinyurl.com/2jbwp4k3  List sản phẩm áp mã: https://tinyurl.com/2mftyamf 
 .
-🔥12H, 15H, 18H: BACK MÃ GIẢM 50% TỐI ĐA 15K ĐƠN TỪ 0Đ ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
+🔥18H: BACK MÃ GIẢM 50% TỐI ĐA 15K ĐƠN TỪ 0Đ ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
 • List sản phẩm áp mã 15K: https://tinyurl.com/2pctvtz2 
 => Lưu mã tại giỏ live: https://tinyurl.com/2kze9dhn 
 .
@@ -50,6 +46,10 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 🔥LƯU SỚM MÃ SHOPEEMALL GIẢM 70K/500K, 40K/300K, 10% CHO 0H NGÀY 08/05 DÙNG: https://tinyurl.com/2eccaemu 
 => Áp chung list sản phẩm tại: https://tinyurl.com/2l7nuleu 
 .
+🔥GAME SHOPEE: https://mycollection.shop/thanhsansale 
+• Thử thách Shopee: https://tinyurl.com/2n3f359o 
+• Quay mã toàn sàn giảm 100K/100K, 20K/180K cho 0H dùng: https://tinyurl.com/2qxgxo5b 
+.
 🔥GAME SHOPEE: 
 • Thử thách Shopee: https://tinyurl.com/2n3f359o 
 • Quay mã toàn sàn giảm 100K/100K, 20K/180K cho 0H dùng: https://tinyurl.com/2qxgxo5b 
@@ -62,36 +62,22 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 • Lưu mã Freeship 20K/20K hoặc 20K/29K tại: https://tinyurl.com/2m7a3a5p 
 .
 🔥MÃ HOÀN TIỀN MAX:
-• 12H, 20H: Mã hoàn 50% tối đa 50K đơn từ 0Đ(đúng giờ load trang lưu mã)
-• 12H, 15H, 18H: Mã hoàn 10% tối đa 50K, 8% tối đa 100K, 6% tối đa 300K(back)
-• 12H, 15H, 18H: Mã hoàn 15% tối đa 50K chỉ áp làm đẹp, thời trang(back)
+• 20H: Mã hoàn 50% tối đa 50K đơn từ 0Đ(đúng giờ load trang lưu mã)
+• 18H: Mã hoàn 10% tối đa 50K, 8% tối đa 100K, 6% tối đa 300K(back)
+• 18H: Mã hoàn 15% tối đa 50K chỉ áp làm đẹp, thời trang(back)
 • Mã hoàn 50% tối đa 30K đơn từ 59K(lọc user)
 => Lưu mã tại: https://tinyurl.com/2krx7eyd  hoặc tại: https://tinyurl.com/2pzyo3et 
 .
 🔥MÃ TOÀN SÀN & NGÀNH HÀNG:
-• 12H, 20H: Mã giảm 100K đơn từ 1500K toàn sàn(đúng giờ load trang lưu mã)
+• 20H: Mã giảm 100K đơn từ 1500K toàn sàn(đúng giờ load trang lưu mã)
 • Mã giảm 20K, 15K, 15% áp các ngành hàng
 => Lưu mã tại: https://tinyurl.com/2p6yk9ba  hoặc tại: https://tinyurl.com/2zanx2ja 
 .
-🔥12H: MÃ NGâN HÀNG: mã back
-=> Lưu mã tại: https://tinyurl.com/2gsmhq5x 
-.
-🔥12H, 20H: DEAL TRỢ GIÁ - LAZFLASH:
-=> Xem chi tiết tại: https://tinyurl.com/2nh5qcn8 
-.
-🔥CÁC BANNER KOL CÓ THỂ LÊN MÃ TOÀN SÀN BẤT NGỜ:
-📌Các link lưu mã 20K/99K lúc 12H-12H05: có thể lên trễ - chắc chắn lên mã
-• EX: https://tinyurl.com/2m25b38v 
-.
-📌Các link có thể lên mã nhập tay:
-• Eco: https://tinyurl.com/2htw9s5q  [12H, 18H]
+🔥CÁC BANNER KOL CÓ THỂ LÊN CODE TOÀN SÀN BẤT NGỜ:
+• Eco: https://tinyurl.com/2htw9s5q  [18H]
 • HT: https://tinyurl.com/2jpnfcxk  [22H]
 .
-📌Các link có thể lên mã 25K/99K lưu lúc 17H:
-• Vina: https://tinyurl.com/2h7mlk8j  
-• Viettel: https://tinyurl.com/2opauyuq 
-.
-🔥MÃ TOÀN SÀN NHẬP TAY THÊM LƯỢT LÚC 12H HOẶC BẤT NGỜ: 
+🔥MÃ TOÀN SÀN NHẬP TAY THÊM LƯỢT BẤT NGỜ: 
 📌Mã giảm 30K đơn từ 99K:
 • Mã 1: https://tinyurl.com/2mtjoz2w 
 • Mã 2: https://tinyurl.com/2ozfzeoy 
@@ -133,10 +119,11 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 .
 🔥SẢN PHẨM DÙNG THỬ 9K, X9K: https://tinyurl.com/2ryppq64 
 .
+🔥20H: DEAL TRỢ GIÁ - LAZFLASH: https://tinyurl.com/2nh5qcn8 
+.
 🔥Watsons đang có ưu đãi mua 2 tính tiền 1: https://tinyurl.com/2noy4wux 
 .
 🔥Cocoon đang có ưu đãi mua 1 tặng 1: https://tinyurl.com/2lxsjy85 
-
 
 
 <b>TIKI</b>
