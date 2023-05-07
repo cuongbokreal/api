@@ -226,13 +226,13 @@ function fetchData(merchantId, input, page, action) {
     <script type='application/ld+json'>{
 	  "@context": "https://schema.org/",
 	  "@type": "Offer",
-	  "name": "${mgg_value}",
-	  "description": "${mgg_tooltip}",
-	  "url": "${mgg_href}",
-	  "discountCode": "${data.data[key].coupons[0].coupon_code}",
+	  "name": `${mgg_value}`,
+	  "description": `${mgg_tooltip}`,
+	  "url": `${mgg_href}`,
+	  "discountCode": `${data.data[key].coupons[0].coupon_code}`,
 	  "priceCurrency": "VND",
-	  "price": "${mgg_min_spend}",
-	  "validThrough": "${data.data[key].end_time}T23:59:59+07:00"
+	  "price": `${mgg_min_spend}`,
+	  "validThrough": `${data.data[key].end_time}T23:59:59+07:00`
 	}</script>
     `;
             })
