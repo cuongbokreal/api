@@ -227,15 +227,15 @@ function fetchData(merchantId, input, page, action) {
     <script type='application/ld+json'>{
 	  "@context": "https://schema.org/",
 	  "@type": "Offer",
-	  "name": ${blacktick}${mgg_value}${blacktick},
-	  "image": ${blacktick}${data.data[key].image}${blacktick},
-	  "description": ${blacktick}${mgg_tooltip}${blacktick},
-	  "url": ${blacktick}${mgg_href}${blacktick},
-	  "discountCode": ${blacktick}${data.data[key].coupons[0].coupon_code}${blacktick},
+	  "name": "${mgg_value}",
+	  "image": "${data.data[key].image}",
+	  "description": "${mgg_tooltip.replaceAll('\n', ' ')}",
+	  "url": "${mgg_href}",
+	  "discountCode": "${data.data[key].coupons[0].coupon_code}",
 	  "priceCurrency": "VND",
-	  "price": ${blacktick}${data.data[key].min_spend}${blacktick},
-	  "validFrom": ${blacktick}${data.data[key].start_time}${blacktick},
-	  "validThrough": ${blacktick}${data.data[key].end_time}T23:59:59+07:00${blacktick}
+	  "price": "${data.data[key].min_spend}",
+	  "validFrom": "${data.data[key].start_time}",
+	  "validThrough": "${data.data[key].end_time}T23:59:59+07:00"
 	}</script>
     `;
             })
