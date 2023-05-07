@@ -228,6 +228,7 @@ function fetchData(merchantId, input, page, action) {
 	  "@context": "https://schema.org/",
 	  "@type": "Offer",
 	  "name": ${blacktick}${mgg_value}${blacktick},
+	  "image": ${blacktick}${data.data[key].image}${blacktick},
 	  "description": ${blacktick}${mgg_tooltip}${blacktick},
 	  "url": ${blacktick}${mgg_href}${blacktick},
 	  "discountCode": ${blacktick}${data.data[key].coupons[0].coupon_code}${blacktick},
