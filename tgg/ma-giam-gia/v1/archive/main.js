@@ -18,6 +18,7 @@ setCookie('selected', '4742147753565840242', 9999);
 var urlRegex = /^(https?:\/\/)?([\w.]+)\.([a-z]{2,6}\.?)(\/[\w\d#?=.&%+-]*)*\/?(\?([\w\d#?=.&%+-]+))?$/; //REGEX URL
 var mgg_page = document.getElementById('mgg_page');
 const deeplink = 'https://go.isclix.com/deep_link/5353514789844343379';
+var blacktick = decodeURIComponent("%60")
 
 function merchantList() {
     fetch(`https://api.accesstrade.vn/v1/offers_informations/merchant_list`, requestOptions)
@@ -226,13 +227,13 @@ function fetchData(merchantId, input, page, action) {
     <script type='application/ld+json'>{
 	  "@context": "https://schema.org/",
 	  "@type": "Offer",
-	  "name": `${mgg_value}`,
-	  "description": `${mgg_tooltip}`,
-	  "url": `${mgg_href}`,
-	  "discountCode": `${data.data[key].coupons[0].coupon_code}`,
+	  "name": ${blacktick}${mgg_value}${blacktick},
+	  "description": ${blacktick}${mgg_tooltip}${blacktick},
+	  "url": ${blacktick}${mgg_href}${blacktick},
+	  "discountCode": ${blacktick}${data.data[key].coupons[0].coupon_code}${blacktick},
 	  "priceCurrency": "VND",
-	  "price": `${mgg_min_spend}`,
-	  "validThrough": `${data.data[key].end_time}T23:59:59+07:00`
+	  "price": ${blacktick}${mgg_min_spend}${blacktick},
+	  "validThrough": ${blacktick}${data.data[key].end_time}T23:59:59+07:00${blacktick}
 	}</script>
     `;
             })
