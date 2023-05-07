@@ -227,7 +227,7 @@ function fetchData(merchantId, input, page, action) {
     <script type='application/ld+json'>{
 	  "@context": "https://schema.org/",
 	  "@type": "Offer",
-	  "name": ${blacktick}${mgg_value}${blacktick},
+	  "name": ${blacktick}${mgg_value} ${mgg_min_spend}${blacktick},
 	  "image": ${blacktick}${data.data[key].image}${blacktick},
 	  "description": ${blacktick}${mgg_tooltip}${blacktick},
 	  "url": ${blacktick}${mgg_href}${blacktick},
