@@ -10,121 +10,95 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 <h2><b>SHOPEE</b></h2>
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• 18H: Lưu mã Freeship 25K/25K tại giỏ live: https://tinyurl.com/2kze9dhn  (back)
-• Lưu mã Freeship 35K/150K tại: https://tinyurl.com/2pqkm3vj 
-• Đổi mã Freeship giảm 50% tối đa 40K: https://tinyurl.com/2k6e5je4 
-• Quay mã Freeship: https://tinyurl.com/2eq3xm3e 
+• 12H, 15H, 18H: Lưu mã Freeship 25K/25K tại giỏ live: https://tinyurl.com/2jb9b2uw  (back)
+• Lưu mã Freeship 35K/150K tại: https://tinyurl.com/2nu62zel 
+• Đổi mã Freeship giảm 50% tối đa 40K: https://tinyurl.com/2q36pg33 
+• Quay mã Freeship: https://tinyurl.com/2epcjkea 
 .
 🔥MÃ TOÀN SÀN - LƯU TẠI LIVE:
-• 20H: Mã giảm 20K đơn từ 99K. Lưu mã tại giỏ live: https://tinyurl.com/2kze9dhn 
-• 21H: Mã giảm 15% tối đa 100K đơn từ 250K mọi user + Mã giảm 50% tối đa 50K đơn từ 50K new user. Lưu mã tại live: https://tinyurl.com/2dtvxqwf  hoặc https://tinyurl.com/2h2htdbp 
-• Sau 21H: Mã giảm 50% tối đa 15K đơn từ 20K. Lưu mã tại live: https://tinyurl.com/2naaepgg 
-• Mã giảm 10K/50K đã được tặng sẵn trong ví: https://tinyurl.com/2pcnjch6 
+• 12H: Mã giảm 15% tối đa 100K đơn từ 250K mọi user + Mã giảm 50% tối đa 50K đơn từ 50K new user. Lưu mã tại live: https://tinyurl.com/2lrjzed2  hoặc https://tinyurl.com/2hmdh69u 
+• Sau 12H: Mã giảm 15K đơn từ 99K. Lưu mã tại live: https://tinyurl.com/2p5b67m6 
+• Mã giảm 10K/50K, 10% tối đa 100K đơn từ 300K đã được tặng sẵn trong ví: https://tinyurl.com/2g3vt38o 
 .
-🔥18H: BACK MÃ GIẢM 10K ĐƠN TỪ 25K ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
-• Lưu mã 1 tại: https://tinyurl.com/2kze9dhn  List sản phẩm áp mã: https://tinyurl.com/2jwzqw7c 
-• Lưu mã 2 tại một số live tại tab “X4 giảm giá”: https://tinyurl.com/2jbwp4k3  List sản phẩm áp mã: https://tinyurl.com/2mftyamf 
+🔥12H, 12H30: MÃ GIẢM 15K/100K, 30K/200K, 40K/299K ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
+• List sản phẩm áp mã 15K, 30K, 40K: https://tinyurl.com/2grw3oft 
+=> Lưu mã tại 1 số live tại tab “X4 Giảm Giá”: https://tinyurl.com/2n2om3kk 
 .
-🔥18H: BACK MÃ GIẢM 50% TỐI ĐA 15K ĐƠN TỪ 0Đ ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
-• List sản phẩm áp mã 15K: https://tinyurl.com/2pctvtz2 
-=> Lưu mã tại giỏ live: https://tinyurl.com/2kze9dhn 
+🔥MÃ SHOPEEMALL - SIÊU SALE VOUCHER: một số mã đã lưu sớm được 
+• 12H: Mã giảm 70K đơn từ 500K + Mã giảm 40K đơn từ 300K + Mã giảm 10% tối đa 50K đơn từ 500K
+=> Lưu sớm mã tại: https://tinyurl.com/2kjeep5h 
+=> Áp chung list sản phẩm tại: https://tinyurl.com/2gxhn9ls 
 .
-🔥KOL AFFILIATE:
-• Mã giảm 20K đơn từ 99K(chỉ áp thời trang)
-• Mã giảm 20% tối đa 50K đơn từ 150K(chỉ áp làm đẹp)
-• Mã giảm 50K đơn từ 500K(áp đa số)
-=> Lưu mã tại: https://tinyurl.com/2jzs3oqs 
+🔥MÃ SHOPEEMALL - KOL AFFILIATE: đúng giờ load trang lên mã mới
+• 12H: Mã giảm 20K đơn từ 99K(thời trang)
+• 12H: Mã giảm 20% tối đa 50K đơn từ 99K(sức khỏe, làm đẹp)
+• Mã giảm 30K đơn từ 180K(toàn sàn ShopeeMall)
+=> Lưu mã tại: https://tinyurl.com/2z347dne 
 .
-🔥SHOP MỚI LÊN SÀN: https://tinyurl.com/2ls9wg26 
-• NSF5P1FS giảm 20K đơn từ 70K. List sản phẩm áp mã: https://tinyurl.com/2frcpo47 
-• NSF5P115 giảm 15K đơn từ 50K. List sản phẩm áp mã: https://tinyurl.com/2kd9h6kt 
+🔥MÃ SHOPEEMALL - NHẬP TAY:
+ • Mã giảm 40K đơn từ 300K. Xem tên mã trên ô tìm kiếm: https://tinyurl.com/2duv65k9  (mã 1)
+ • Mã giảm 40K đơn từ 300K. Xem tên mã trên ô tìm kiếm: https://tinyurl.com/2f639rrr  (mã 2)
 .
-🔥SHOPEEPAY: https://tinyurl.com/2lej98lm 
+🔥12H, 15H, 18H: BACK MÃ GIẢM 10K ĐƠN TỪ 25K ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
+• Lưu mã 1 tại: https://tinyurl.com/2jb9b2uw  List sản phẩm áp mã: https://tinyurl.com/2oatpps5 
+• Lưu mã 2 tại một số live tại tab “X4 giảm giá”: https://tinyurl.com/2n2om3kk  List sản phẩm áp mã: https://tinyurl.com/2qdg9tto 
+.
+🔥12H, 15H, 18H: BACK MÃ GIẢM 50% TỐI ĐA 15K ĐƠN TỪ 0Đ ÁP MỘT SỐ SẢN PHẨM - LƯU TẠI LIVE:
+• List sản phẩm áp mã 15K: https://tinyurl.com/2pwpjmg7 
+=> Lưu mã tại giỏ live: https://tinyurl.com/2zgrul3v 
+.
+🔥SHOP XU HƯỚNG: https://tinyurl.com/2ookgx8m 
+• 12H: Lưu, dùng luôn loạt mã shop bán giảm 30K/99K, 60K/200K tại: https://tinyurl.com/2ookgx8m  
+• Tặng sẵn mã giảm 20%, 30% tối đa 50K, 100K trong ví: https://tinyurl.com/2g3vt38o 
+.
+🔥MÃ ÁP ĐA SỐ SẢN PHẨM:
+• AFFMWM40 giảm 15% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/2o4ye5ld 
+• Mã giảm 4%-7% tối đa 40K đơn từ 0Đ. Lưu mã tại: https://tinyurl.com/2q36pg33 
+• Mã giảm 30K đơn từ 150K. Lưu mã tại: https://tinyurl.com/2pjytf2n 
+• Mã giảm 50K đơn từ 500K. Lưu mã tại: https://tinyurl.com/2z347dne 
+.
+🔥BẮT TREND GIÁ SỐC: https://tinyurl.com/2njtz4lx 
+• BATREND15K giảm 15K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/2ebltdxq 
+• BATREND40K giảm 40K đơn từ 200K. List sản phẩm áp mã: https://tinyurl.com/2e4qhpry 
+.
+🔥SHOP MỚI LÊN SÀN: https://tinyurl.com/2h8mqvtd 
+• NSF5P1FS giảm 20K đơn từ 70K. List sản phẩm áp mã: https://tinyurl.com/2qr7x4a8 
+• NSF5P115 giảm 15K đơn từ 50K. List sản phẩm áp mã: https://tinyurl.com/2k5nohpx 
+.
+🔥SHOPEEPAY: https://tinyurl.com/2m8a8lqj 
 • SPPP1MAYGMV40K giảm 5% tối đa 40K đơn từ 400K
 • SPPP1MAY8K giảm 8K đơn từ 120K
 .
-🔥LƯU SỚM MÃ SHOPEEMALL GIẢM 70K/500K, 40K/300K, 10% CHO 0H NGÀY 08/05 DÙNG: https://tinyurl.com/2eccaemu 
-=> Áp chung list sản phẩm tại: https://tinyurl.com/2l7nuleu 
+🔥TECH ZONE: https://tinyurl.com/2zuzkshf 
+• ELTECH85 giảm 5% tối đa 200K đơn từ 400K
 .
-🔥GAME SHOPEE: https://mycollection.shop/thanhsansale 
-• Thử thách Shopee: https://tinyurl.com/2n3f359o 
-• Quay mã toàn sàn giảm 100K/100K, 20K/180K cho 0H dùng: https://tinyurl.com/2qxgxo5b 
+🔥CIMB: https://tinyurl.com/2gvd9z2p 
+• Giảm 30K đơn từ 150K khi thanh toán qua thẻ CIMB
 .
-🔥GAME SHOPEE: 
-• Thử thách Shopee: https://tinyurl.com/2n3f359o 
-• Quay mã toàn sàn giảm 100K/100K, 20K/180K cho 0H dùng: https://tinyurl.com/2qxgxo5b 
+🔥GAME SHOPEE:
+• Thử thách Shopee: https://tinyurl.com/2zk93enr 
+• Quay mã toàn sàn giảm 100K/100K, 20K/180K cho 0H dùng: https://tinyurl.com/2ge8dh2c 
 
 <h2><b>LAZADA</b></h2>
 ➖➖➖➖LAZADA➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• Lưu mã Freeship 20K/0Đ, 20K/29K, 20K/99K, 20K/150K tại: https://tinyurl.com/2pjpagor  (có thể back, lọc user)
-• Lưu mã Freeship giảm 15K/29K, 50K//300K + Freeship 25K/69K lọc user tại: https://tinyurl.com/2qe6nvzs 
-• Lưu mã Freeship 20K/20K hoặc 20K/29K tại: https://tinyurl.com/2m7a3a5p 
+• Lưu mã Freeship giảm 15K/29K, 50K//300K + Freeship 25K/69K lọc user tại: https://tinyurl.com/2hfz5j35 
+• Lưu mã Freeship 20K/20K hoặc 20K/29K tại: https://tinyurl.com/2ldss6wz 
 .
-🔥MÃ HOÀN TIỀN MAX:
-• 20H: Mã hoàn 50% tối đa 50K đơn từ 0Đ(đúng giờ load trang lưu mã)
-• 18H: Mã hoàn 10% tối đa 50K, 8% tối đa 100K, 6% tối đa 300K(back)
-• 18H: Mã hoàn 15% tối đa 50K chỉ áp làm đẹp, thời trang(back)
-• Mã hoàn 50% tối đa 30K đơn từ 59K(lọc user)
-=> Lưu mã tại: https://tinyurl.com/2krx7eyd  hoặc tại: https://tinyurl.com/2pzyo3et 
+🔥12H: MÃ NGâN HÀNG: mã back 
+=> Lưu mã tại: https://tinyurl.com/2lvxo7wv 
 .
-🔥MÃ TOÀN SÀN & NGÀNH HÀNG:
-• 20H: Mã giảm 100K đơn từ 1500K toàn sàn(đúng giờ load trang lưu mã)
-• Mã giảm 20K, 15K, 15% áp các ngành hàng
-=> Lưu mã tại: https://tinyurl.com/2p6yk9ba  hoặc tại: https://tinyurl.com/2zanx2ja 
-.
-🔥CÁC BANNER KOL CÓ THỂ LÊN CODE TOÀN SÀN BẤT NGỜ:
-• Eco: https://tinyurl.com/2htw9s5q  [18H]
-• HT: https://tinyurl.com/2jpnfcxk  [22H]
-.
-🔥MÃ TOÀN SÀN NHẬP TAY THÊM LƯỢT BẤT NGỜ: 
-📌Mã giảm 30K đơn từ 99K:
-• Mã 1: https://tinyurl.com/2mtjoz2w 
-• Mã 2: https://tinyurl.com/2ozfzeoy 
-• Mã 3: https://tinyurl.com/2zodn9wr 
-• Mã 4: https://tinyurl.com/2gy84baw 
-• Mã 5: https://tinyurl.com/2glr65v8 
-• Mã 6: https://tinyurl.com/2obk6rh9 
-• Mã 7: https://tinyurl.com/2fzqrnkh 
-.
-📌Mã giảm 40K đơn từ 199K:
-• Mã 1: https://tinyurl.com/2e5gvrg5 
-• Mã 2: https://tinyurl.com/2f6qntgv 
-• Mã 3: https://tinyurl.com/2ql22zpk 
-• Mã 4: https://tinyurl.com/2qrue5wc 
-• Mã 5: https://tinyurl.com/2ej7mytm 
-• Mã 6: https://tinyurl.com/2hg8jkp9 
-• Mã 7: https://tinyurl.com/2fdm2gnn 
-• Mã 8: https://tinyurl.com/2j54dhdb 
-• Mã 9: https://tinyurl.com/2g83fvho 
-• Mã 10: https://tinyurl.com/2mmocut7 
-.
-📌Mã giảm 50K đơn từ 299K:
-• Mã 1: https://tinyurl.com/2lleksse 
-• Mã 2: https://tinyurl.com/2o4os7ah 
-.
-🔥VOUCHER TÍCH LŨY CHO SALE 05/05:
-• Lưu 50K tích lũy tại: https://tinyurl.com/2p6yk9ba 
-• Lưu thêm 50K tích luỹ dưới sản phẩm: https://tinyurl.com/2ewvc9a6 
-=> Thu thập hàng ngày, dùng được từ ngày 5-7/5
-.
-🔥MÃ LÀM ĐẸP GIẢM 10% CHO LAZBEAUTY CLUB:
-=> Lưu mã tại: https://tinyurl.com/2nt5u6qr 
-.
-🔥MÃ GIẢM 50K/0Đ, 15K/40K, 20K/200K, 25K/120K, 100K/1TR LỌC USERI:
-=> Lưu mã tại: https://tinyurl.com/2gevrzog  hoặc tại: https://tinyurl.com/2hn3v7wy 
+🔥MÃ HOÀN TIỀN MAX 6% TỐI ĐA 50K, 300K:
+=> Lưu mã tại: https://tinyurl.com/2qul5uu4  hoặc tại: https://tinyurl.com/2fjrx28b 
 .
 🔥MÃ GIẢM 30K/30K + FREESHIP 20K, 50K CHO NGƯỜI MỚI:
-=> Lưu mã tại: https://tinyurl.com/2z3rlfcz 
+=> Lưu mã tại: https://tinyurl.com/2f9hflen 
 .
-🔥SẢN PHẨM DÙNG THỬ 9K, X9K: https://tinyurl.com/2ryppq64 
+🔥LƯU LOẠT MÃ NGÀNG HÀNG TẠI: https://tinyurl.com/2mpf4mqw 
 .
-🔥20H: DEAL TRỢ GIÁ - LAZFLASH: https://tinyurl.com/2nh5qcn8 
+🔥SẢN PHẨM DÙNG THỬ 9K, X9K: https://tinyurl.com/2k94ubbt 
 .
-🔥Watsons đang có ưu đãi mua 2 tính tiền 1: https://tinyurl.com/2noy4wux 
-.
-🔥Cocoon đang có ưu đãi mua 1 tặng 1: https://tinyurl.com/2lxsjy85 
-
+🔥12H, 20H: DEAL TRỢ GIÁ - LAZFLASH: https://tinyurl.com/2jengths 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
