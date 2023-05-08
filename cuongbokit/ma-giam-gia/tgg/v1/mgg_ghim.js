@@ -10,7 +10,7 @@ var mgg_ghim = [
     link: 'https://shorten.asia/W8Zxdbv8',
     start_time: '2023/05/05',
     end_time: '2023/05/09 23:59',
-    remain: '30',
+    remain: '29',
     image: ' https://i.imgur.com/gXA8JxH.png ',
     detail: '   Code 25k/99k toàn sàn độc quyền Trùm Giảm Giá ',
 code: 'LazT525dmnpj8',
