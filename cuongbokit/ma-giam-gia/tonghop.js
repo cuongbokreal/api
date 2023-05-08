@@ -93,11 +93,30 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 <h2><b>LAZADA</b></h2>
 ➖➖➖➖LAZADA➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• Lưu mã Freeship giảm 15K/29K, 50K//300K + Freeship 25K/69K lọc user tại: https://tinyurl.com/2hfz5j35 
+• 0H: Lưu mã Freeship 20K/0Đ, 15K/99K tại: https://tinyurl.com/2hfz5j35  (back vào 9H, 12H, 16H)
+• Lưu mã Freeship giảm 15K/49K, 50K/300K + Freeship 25K/69K lọc user tại: https://tinyurl.com/2hfz5j35 
 • Lưu mã Freeship 20K/20K hoặc 20K/29K tại: https://tinyurl.com/2ldss6wz 
 .
-🔥12H: MÃ NGâN HÀNG: mã back 
+🔥VOUCHER CHỚP NHOÁNG - MÃ TOÀN SÀN: đúng giờ load trang lưu mã
+• 15H: Mã giảm 50% tối đa 30K đơn từ 0Đ
+• 16H: Mã giảm 50% tối đa 40K đơn từ 0Đ
+• 17H: Mã giảm 50% tối đa 50K đơn từ 0Đ
+=> Lưu mã tại: https://tinyurl.com/2hfz5j35 
+.
+🔥9H: MÃ NGâN HÀNG: còn back vào 12H
 => Lưu mã tại: https://tinyurl.com/2lvxo7wv 
+.
+🔥9H: MÃ ZALOPAY GIẢM 10K ĐƠN TỪ 299K, 5K ĐƠN TỪ 199K: mã back
+=> Lưu mã tại: https://tinyurl.com/2k7qvqbp 
+.
+🔥9H: MÃ VNPT GIẢM 20K ĐƠN TỪ 40K(1 MÃ LỌC USER + 1 MÃ KHÔNG LỌC): mã back
+=> Lưu mã tại: https://tinyurl.com/2fyb5g7r 
+.
+🔥9H: MÃ MOMO GIẢM 5K ĐƠN TỪ 199K, 20K ĐƠN TỪ 299K: mã back
+=> Lưu mã tại: https://tinyurl.com/2p7edg8v 
+.
+🔥0H, 12H, 20H: DEAL TRỢ GIÁ - LAZFLASH:
+=> Xem chi tiết tại: https://tinyurl.com/2jengths 
 .
 🔥MÃ HOÀN TIỀN MAX 6% TỐI ĐA 50K, 300K:
 => Lưu mã tại: https://tinyurl.com/2qul5uu4  hoặc tại: https://tinyurl.com/2fjrx28b 
@@ -109,7 +128,19 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 .
 🔥SẢN PHẨM DÙNG THỬ 9K, X9K: https://tinyurl.com/2k94ubbt 
 .
-🔥12H, 20H: DEAL TRỢ GIÁ - LAZFLASH: https://tinyurl.com/2jengths 
+🔥0H: PHỤ KIỆN ĐIỆN THOẠI 1K, DƯỚI 9K: https://tinyurl.com/2zc2q9gv 
+.
+🔥0H: Đổi xu: https://tinyurl.com/2nzzjjkt 
+.
+🔥0H: Đổi sao: https://tinyurl.com/2qysqv2w 
+.
+🔥0H: Đổi Gems lấy quà 0Đ, mã xịn: https://tinyurl.com/2qta7cux 
+.
+🔥Lưu mã shop KuuLaa giảm 50K/50K: https://tinyurl.com/2odxxyeu 
+.
+🔥Lưu mã shop BASEUS giảm 100K/200K: https://tinyurl.com/2gketff5 
+.
+🔥Lưu mã shop Chill Cocktail giảm 50%, 200K: https://tinyurl.com/2ms7erjt 
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
