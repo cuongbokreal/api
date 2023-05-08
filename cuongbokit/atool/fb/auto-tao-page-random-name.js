@@ -8,7 +8,7 @@ var lsd = require(["LSD"]).token;
 var hsi = require(["SiteData"]).hsi;
 var namepage = "Cuongbokit.blogspot.com";
 var url = "https://www.facebook.com/api/graphql/";
-var delay = 5000;
+var delay = 30000; //khuyến nghị: thời gian delay nên để hơn 30000 (30s/1page)
 var pages = 10;
 
 function randomString(length) {
