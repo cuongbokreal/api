@@ -82,5 +82,17 @@ code: 'LazT525qdd6y2',
     remain: 'Không giới hạn',
     image: 'https://cdn.haitrieu.com/wp-content/uploads/2022/03/highlands-coffee-red-logo.png',
     detail: 'B1: Nhấn Đến banner để lưu mã. => B2:Chọn mã muốn lấy và nhấn vào mã đó. => B3: Chụp ảnh màn hình voucher và áp tại điểm bán của Highlands',
-  }
+  },
+    {
+    value: 'Giảm 100K cho đơn từ 599k',
+    minspend: 'Mọi đơn hàng',
+    tag: 'Unica độc quyền',
+    link: 'https://shorten.asia/C61X9J1G',
+    start_time: '2023/01/01',
+    end_time: '2023/06/30 23:59',
+    remain: '358',
+    image: ' https://static.accesstrade.vn/adv/img/logo/unica.jpg ',
+    detail: '   Code 100K/599k toàn sàn độc quyền Trùm Giảm Giá ',
+code: 'MBUNICA100K',
+  },
 ]
