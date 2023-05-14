@@ -5,7 +5,7 @@ var mgg_ghim = [
 
   {
     value: ' Giảm 25K đơn 99K',
-    minspend: 'Toàn sàn',
+    minspend: 'Toàn sàn (có thể lọc TK)',
     tag: 'Lazada độc quyền',
     link: 'https://shorten.asia/W8Zxdbv8',
     start_time: '2023/05/05',
@@ -17,7 +17,7 @@ code: 'LazT525dmnpj8',
   },
   {
     value: ' Giảm 25K đơn 99K (mã 2)',
-    minspend: 'Toàn sàn',
+    minspend: 'Toàn sàn (có thể lọc TK)',
     tag: 'Lazada độc quyền',
     link: 'https://shorten.asia/W8Zxdbv8',
     start_time: '2023/05/05',
@@ -29,7 +29,7 @@ code: 'LazT525qdd6y2',
   },
   {
     value: ' Giảm 20K đơn 99K',
-    minspend: ' Thời trang',
+    minspend: ' Thời trang (có thể lọc TK)',
     tag: 'Lazada độc quyền',
     link: 'https://shorten.asia/W8Zxdbv8',
     start_time: '2023/05/05',
