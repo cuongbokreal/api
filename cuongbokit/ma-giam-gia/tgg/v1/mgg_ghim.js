@@ -5,14 +5,14 @@ var mgg_ghim = [
 
   {
     value: ' Giảm 25K đơn 99K',
-    minspend: 'Toàn sàn (ngoại trừ bách hóa và mẹ bé )',
+    minspend: 'Toàn sàn (trừ bách hóa và mẹ bé )',
     tag: 'Lazada độc quyền',
     link: 'https://shorten.asia/aqpW5YDS',
     start_time: '2023/05/15',
     end_time: '2023/05/16 23:59',
     remain: '30',
     image: ' https://i.imgur.com/gXA8JxH.png ',
-    detail: '   Code 25k/99k toàn sàn (ngoại trừ bách hóa và mẹ bé ) độc quyền Trùm Giảm Giá ',
+    detail: '   Code 25k/99k toàn sàn (trừ bách hóa và mẹ bé ) độc quyền Trùm Giảm Giá ',
 code: 'LazT525w4v4kr',
   },
   {
