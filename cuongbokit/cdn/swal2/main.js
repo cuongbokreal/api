@@ -14,3 +14,16 @@ onOpen: Hàm được gọi khi hộp thoại mở.
 onClose: Hàm được gọi khi hộp thoại đóng.
 */
 
+/*
+Swal.fire({
+      title: 'Cảnh báo!',
+      text: 'Đây là một thông báo cảnh báo.',
+      icon: 'warning',
+      confirmButtonText: 'OK'
+    }).then((result) => {
+      if (result.isConfirmed) {
+        console.log('Người dùng đã xác nhận.');
+      }
+    });
+*/
+
