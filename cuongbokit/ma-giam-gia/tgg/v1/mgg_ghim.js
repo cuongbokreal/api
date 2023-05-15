@@ -10,7 +10,7 @@ var mgg_ghim = [
     link: 'https://shorten.asia/4TJDGVuJ',
     start_time: '2023/05/15',
     end_time: '2023/05/16 23:59',
-    remain: '18',
+    remain: '25',
     image: ' https://i.imgur.com/gXA8JxH.png ',
     detail: 'Code 20k/99k thời trang độc quyền Trùm Giảm Giá ',
 code: 'Lazlook20b2fgi7',
