@@ -4,6 +4,18 @@ link: aff link
 var mgg_ghim = [
 
   {
+    value: ' Giảm 20K đơn 99K',
+    minspend: 'Thời trang',
+    tag: 'Lazada độc quyền',
+    link: 'https://shorten.asia/4TJDGVuJ',
+    start_time: '2023/05/15',
+    end_time: '2023/05/16 23:59',
+    remain: '18',
+    image: ' https://i.imgur.com/gXA8JxH.png ',
+    detail: '   Code 20k/99k thời trang độc quyền Trùm Giảm Giá ',
+code: 'Lazlook20b2fgi7',
+  },
+  {
     value: ' Giảm 25K đơn 99K',
     minspend: 'Toàn sàn (trừ bách hóa và mẹ bé )',
     tag: 'Lazada độc quyền',
