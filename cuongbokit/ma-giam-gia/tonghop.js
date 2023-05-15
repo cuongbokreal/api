@@ -8,8 +8,6 @@ HOT: 🙆 Highlands đang tặng Voucher mua 2 tính tiền 1 free (áp dụng t
 https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1.html  
 
 <h2><b>SHOPEE</b></h2>
-👉 Mã LAZADA giảm 25k đơn 99k còn lượt tại: http://trumgiamgia.net/
-
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
 • 12H, 15H, 18H: Lưu mã Freeship 25K/25K toàn sàn tại giỏ live: https://tinyurl.com/2kslatnf  (back)
@@ -89,43 +87,87 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 • Quay mã toàn sàn giảm 100K/100K, 20K/180K cho 0H dùng: https://tinyurl.com/2dtshtbj 
 
 <h2><b>LAZADA</b></h2>
-➖➖➖➖LAZADA➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• Lưu mã Freeship 20K/20K hoặc 20K/29K tại: https://tinyurl.com/2mkvajvd  (mã mới hôm nay)
-• Lưu mã Freeship giảm 15K/49K, 50K/300K + Freeship 25K/69K lọc user tại: https://tinyurl.com/2hefh9rf 
+• 0H: Lưu mã Freeship 20K/0Đ, 15K/99K tại: https://shorten.asia/6cTwrUBC (back vào 9H, 12H, 16H - mọi user)
+• Lưu mã Freeship 20K/0Đ tại: https://shorten.asia/bu1MnhA4 (lọc user, có thể back)
+• Lưu mã Freeship 20K/20K hoặc 20K/29K tại: https://shorten.asia/JsS987MW
+• Lưu mã Freeship giảm 15K/49K, 50K/300K + Freeship 25K/69K lọc user tại: https://shorten.asia/6cTwrUBC
+.
+🔥VOUCHER CHỚP NHOÁNG - MÃ TOÀN SÀN: đúng giờ load trang lưu mã
+• 15H: Mã giảm 50% tối đa 30K đơn từ 0Đ
+• 16H: Mã giảm 50% tối đa 40K đơn từ 0Đ
+• 17H: Mã giảm 50% tối đa 50K đơn từ 0Đ
+=> Lưu mã tại: https://shorten.asia/6cTwrUBC
 .
 🔥MÃ HOÀN TIỀN MAX:
+• 0H, 12H, 20H: Mã hoàn 50% tối đa 50K đơn từ 0Đ(mã mới)
 • 12H: Mã hoàn 10% tối đa 50K đơn từ 150K(mã mới)
-• 12H, 16H, 18H, 20H: Mã  hoàn 15% tối đa 100K áp Thời trang, Sắc đẹp(back)
-=> Lưu mã tại: https://tinyurl.com/2pxrc4qk  hoặc tại: https://tinyurl.com/2me2vwol 
+• 9H, 12H, 15H, 18H, 20H: Mã hoàn 10% tối đa 50K, 8% tối đa 100K(back)
+• 9H, 12H, 15H, 18H, 20H: Mã hoàn 15% tối đa 100K áp Thời trang, Làm đẹp(back)
+• Mã hoàn 50% tối đa 30K đơn từ 59K(lọc user)
+=> Lưu mã tại: https://shorten.asia/B5S1jFME hoặc tại: https://shorten.asia/SfXZbYNP
 .
-🔥12H: MÃ NGâN HÀNG: mã back
-=> Lưu mã tại: https://tinyurl.com/2mrqm755 
+🔥MÃ TOÀN SÀN & NGÀNH HÀNG: 
+• 0H, 12H, 20H: Mã giảm 100K đơn từ 1500K toàn sàn
+• Mã giảm 300K, 120K, 80K/1tr, 20%, 15%, 20K, 15K,... áp các ngành hàng
+=> Lưu mã tại: https://shorten.asia/SUvrbaEp hoặc tại: https://shorten.asia/rH7BKs8q
 .
-🔥19H: LƯU MÃ SHOP PEPSICO GIẢM 25K ĐƠN 250K 
-=> Lưu mã tại: https://tinyurl.com/2z5xdt3e 
+🔥9H: MÃ NGâN HÀNG: còn back vào 12H
+=> Lưu mã tại: https://shorten.asia/NmwECdQk
 .
-🔥MÃ ZALOPAY 10K/69K, 10K/99K + MÃ VISA 50K: 
-=> Lưu mã tại: https://tinyurl.com/2zcb3z8c 
+🔥9H: MÃ ZALOPAY GIẢM 10K ĐƠN TỪ 299K, 5K ĐƠN TỪ 199K, 15K ĐƠN TỪ 549K: mã back
+=> Lưu mã tại: https://shorten.asia/wUVFzSPs
+.
+🔥9H: MÃ VNPT GIẢM 20K ĐƠN TỪ 40K(1 MÃ LỌC USER + 1 MÃ KHÔNG LỌC): mã back
+=> Lưu mã tại: https://shorten.asia/vh42EBbu
+.
+🔥9H: MÃ MOMO GIẢM 5K ĐƠN TỪ 199K, 20K ĐƠN TỪ 299K: mã back
+=> Lưu mã tại: https://shorten.asia/1dF7jcD8
+.
+🔥0H, 12H, 20H: DEAL TRỢ GIÁ - LAZFLASH:
+=> Xem chi tiết tại: https://shorten.asia/vA5ZcPZu
+.
+🔥CÁC BANNER KOL CÓ THỂ LÊN CODE BẤT NGỜ:
+📌Các link có thể lên mã nhập tay:
+• Eco: https://shorten.asia/aDCdxxX8
+• Badi: https://shorten.asia/XKZKjm3z
+• HL: https://shorten.asia/8RcVbYbY
+• HT: https://shorten.asia/cwWc8caS
+• Chloe: https://shorten.asia/7bv7H7PU
+• Mai: https://shorten.asia/zdmusevx
+• Trang: https://shorten.asia/qGBgUbyj
+.
+📌Các link có thể lên mã lưu giảm 20K/99K lúc 12H-12H05: thường lên trễ
+• EX: https://shorten.asia/2UQA2uUV
+.
+📌Các link có thể lên mã lưu(canh mỗi tiếng 1 lần): 
+• Viettel: https://shorten.asia/QY1W4E5Z
+• Vina: https://shorten.asia/CzqsETCS
+.
+🔥MÃ LAZBEAUTY CLUB GIẢM 10% ĐƠN 249K, 8% ĐƠN 399K
+=> Lưu mã tại: https://shorten.asia/USwWHFFs
 .
 🔥MÃ GIẢM 30K/30K + FREESHIP 20K, 50K CHO NGƯỜI MỚI:
-=> Lưu mã tại: https://tinyurl.com/2mhh4qbh 
+=> Lưu mã tại: https://shorten.asia/SFDuUBgu
 .
-🔥LƯU MÃ GIẢM 10% LÀM ĐẸP TẠI: https://tinyurl.com/2ps8pjkl 
+🔥MÃ NHẬP TAY GIẢM 25K/99K, 30K, 50K (CẬP NHẬT THÊM LIÊN TỤC TẠI NHÓM ZALO, TELE):
+- Zalo: https://zalo.me/g/fqehfa279 
+- Telegram: https://t.me/trumgiamgia (nhanh nhất)
+*Lưu ý đợt này code Lazada không áp được sản phẩm bách hóa, mẹ bé nhé
 .
-🔥LƯU LOẠT MÃ NGÀNG HÀNG TẠI: https://tinyurl.com/2j6phx2d 
+🔥0H: PHỤ KIỆN ĐIỆN THOẠI 1K, DƯỚI 9K: https://shorten.asia/Eg3s1p1v
 .
-🔥SẢN PHẨM DÙNG THỬ 9K, X9K: https://tinyurl.com/2fpjnd6d 
+🔥SẢN PHẨM DÙNG THỬ 9K, X9K: https://shorten.asia/AFB8ypn1
 .
-🔥12H, 20H: DEAL TRỢ GIÁ - LAZFLASH: https://tinyurl.com/2ln2obhg 
+🔥Watsons đang có ưu đãi mua 2 tính tiền 1: https://shorten.asia/f4txcaWH
 .
-🔥Lưu mã shop KuuLaa giảm 50K/50K: https://tinyurl.com/2ljlzhuk 
+🔥Cocoon đang có ưu đãi mua 1 tặng 1: https://shorten.asia/THVsz6Nc
 .
-🔥Lưu mã shop CP FRESH MART giảm 50%: https://tinyurl.com/2jh2ydty 
+🔥Johnson & Johnson đang có ưu đãi mua 1 tặng 1: https://shorten.asia/ZdnuNEdP 
 .
-🔥Lưu mã shop Chill Cocktail giảm 50%, 200K: https://tinyurl.com/2hs67h7w 
+🔥0H: Đổi xu: https://shorten.asia/69s7fsRN
 .
-🔥Lưu mã shop Vinamilk giảm 49K: https://tinyurl.com/2o2vptcn 
+🔥0H: Đổi sao: https://shorten.asia/QdR2cKbT
 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
