@@ -24,7 +24,7 @@ code: 'LazT52521ipex',
     end_time: '2023/07/16 23:59',
     remain: '∞',
     image: ' https://kfcvn-static.cognizantorderserv.com/images/web/kfc-logo.svg?v=5.0',
-    detail: '   Code 20k/99k Fashion độc quyền Trùm Giảm Giá ',
+    detail: 'Tặng 1 Miếng Gà trị giá 36.000đ cho đơn hàng từ 99.000đ (không bao gồm phí vận chuyển). Nhập mã tại bước thanh toán để nhận ưu đãi (chọn phần ăn 1 Miếng Gà trước khi nhập mã)',
 code: '',
   },
      {
