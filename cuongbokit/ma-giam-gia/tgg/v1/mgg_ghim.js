@@ -15,6 +15,18 @@ var mgg_ghim = [
     detail: '   Code 25k/99k toàn sàn độc quyền Trùm Giảm Giá ',
 code: 'LazT52521ipex',
   },
+    {
+    value: ' Giảm 20K đơn 99K ',
+    minspend: 'Thời trang Lazada',
+    tag: 'Lazada độc quyền',
+    link: 'https://shorten.asia/syyc5XF8',
+    start_time: '2023/05/25',
+    end_time: '2023/05/27 23:59',
+    remain: '30',
+    image: ' https://i.imgur.com/gXA8JxH.png ',
+    detail: '   Code 20k/99k Fashion độc quyền Trùm Giảm Giá ',
+code: 'Lazlook2095upi7',
+  },
   {
     value: 'Freeship không giới hạn',
     minspend: 'Toàn sàn',
