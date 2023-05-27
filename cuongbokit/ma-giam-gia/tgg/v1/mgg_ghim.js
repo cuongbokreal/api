@@ -16,6 +16,18 @@ var mgg_ghim = [
 code: 'LazT52521ipex',
   },
     {
+    value: 'Tặng 1 miếng gà ',
+    minspend: 'Cho đơn từ 99k',
+    tag: 'KFC Vietnam',
+    link: 'https://shorten.asia/pQCedgpr',
+    start_time: '2023/05/18',
+    end_time: '2023/07/16 23:59',
+    remain: '∞',
+    image: ' https://kfcvn-static.cognizantorderserv.com/images/web/kfc-logo.svg?v=5.0',
+    detail: '   Code 20k/99k Fashion độc quyền Trùm Giảm Giá ',
+code: '',
+  },
+     {
     value: ' Giảm 20K đơn 99K ',
     minspend: 'Thời trang Lazada',
     tag: 'Lazada độc quyền',
