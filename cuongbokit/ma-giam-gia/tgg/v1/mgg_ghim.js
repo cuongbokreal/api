@@ -2,19 +2,6 @@
 link: aff link 
 */
 var mgg_ghim = [
-
-{
-    value: ' Giảm 25K đơn 99K ',
-    minspend: 'Toàn sàn',
-    tag: 'Lazada độc quyền',
-    link: 'https://shorten.asia/P7fhHcZV',
-    start_time: '2023/05/25',
-    end_time: '2023/06/10 23:59',
-    remain: '30',
-    image: ' https://i.imgur.com/gXA8JxH.png ',
-    detail: '   Code 25k/99k toàn sàn độc quyền Trùm Giảm Giá ',
-code: 'LazT52521ipex',
-  },
     {
     value: 'Tặng 1 miếng gà ',
     minspend: 'Cho đơn từ 99k',
@@ -111,5 +98,17 @@ code: 'MBUNICA50K',
     image: ' https://static.accesstrade.vn/adv/img/logo/unica.jpg ',
     detail: '   Code 100K/599k toàn sàn độc quyền Trùm Giảm Giá ',
 code: 'MBUNICA100K',
+  },
+  {
+    value: ' Giảm 25K đơn 99K ',
+    minspend: 'Toàn sàn',
+    tag: 'Lazada độc quyền',
+    link: 'https://shorten.asia/P7fhHcZV',
+    start_time: '2023/05/25',
+    end_time: '2023/06/10 23:59',
+    remain: '30',
+    image: ' https://i.imgur.com/gXA8JxH.png ',
+    detail: '   Code 25k/99k toàn sàn độc quyền Trùm Giảm Giá ',
+code: 'LazT52521ipex',
   },
 */
