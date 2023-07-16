@@ -5,6 +5,7 @@
 /*===SEARCH===*/
  #search{
      display: flex;
+     margin: 10px 0 10px 0;
 }
  #search_input{
      min-width: 75%;
