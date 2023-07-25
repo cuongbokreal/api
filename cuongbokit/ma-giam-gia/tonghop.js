@@ -87,33 +87,87 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 <h2><b>LAZADA</b></h2>
 ➖➖➖➖LAZADA➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• Lưu mã Freeship 5K/10K,15K/49K, 25K/150K, 50K/300K đơn từy user tại: https://tinyurl.com/2ordbs7s 
-• Lưu mã Freeship 8K, 10K/19K tại: https://tinyurl.com/2z5u38mk 
-• Lưu thêm mã Freeship 25K/99K tại: https://tinyurl.com/2moqro69 
+• Lưu mã Freeship 5K/10K,15K/49K, 25K/150K, 50K/300K lọc tùy user tại: https://tinyurl.com/29vbrlpe 
+• Lưu mã Freeship 8K, 10K/19K tại: https://tinyurl.com/26dos89z 
 .
-🔥MÃ HOÀN TIỀN MAX 25% TỐI ĐA 200K + 20% TỐI ĐA 30K + 12% TỐI ĐA 300K + 15% TỐI ĐA 100K:
-=> Lưu mã tại: https://tinyurl.com/2n5hhvjq  hoặc tại: https://tinyurl.com/2q2zfhfd 
+🔥MÃ TOÀN SÀN & NGÀNH HÀNG:
+• 20H: Mã toàn sàn giảm 100K đơn từ 1200K
+• Mã toàn sàn giảm 10%, 7% + thời trang, làm đẹp, bách hóa, điện tử, quốc tế giảm 15%, 30K, 60K,..
+=> Lưu mã tại: https://tinyurl.com/29vbrlpe 
 .
-🔥MÃ LAZBEAUTY CLUB GIẢM 15%, 12%, 10%: 
-=> Lưu mã tại: https://tinyurl.com/2l2vxrz7 
+🔥MÃ HOÀN TIỀN MAX: 
+• 20H: Mã hoàn 50% tối đa 50K đơn từ 0Đ
+• Mã hoàn 12% tối đa 500K, 15% tối đa 300K, 12% tối đa 300K, 12% tối đa 100K(mã mới hôm nay)
+• Mã hoàn 15% tối đa 100K, 12% tối đa 300K, 20% tối đa 30K, 20% tối đa 100K
+=> Lưu mã tại: https://tinyurl.com/22bwwqq9  hoặc tại: https://tinyurl.com/2d283rrq 
 .
-🔥VOUCHER TÍCH LUỸ 300K DÙNG ĐƯỢC TỪ 21-23/07 DÙNG: 
-• Lưu 50K tích lũy tại: https://tinyurl.com/2jrpu5am 
-• Lưu thêm 50K tích luỹ dưới sản phẩm: https://tinyurl.com/2ghy9cyz 
+🔥CÁC BANNER KOL CÓ THỂ LÊN MÃ TOÀN SÀN GIẢM 25K/125K LƯU SAU 20H: lưu app
+• DEM: https://tinyurl.com/27fykaab 
+• VV: https://tinyurl.com/23nj99kn 
+• HOA: https://tinyurl.com/2yxdnavs 
+• TDTM: https://tinyurl.com/2xqzbnp3 
+• MIA: https://tinyurl.com/263farfu 
+• BLGG: https://tinyurl.com/22m9h7ju 
+• LN: https://tinyurl.com/2bk7lzdg 
+• KA: https://tinyurl.com/233x7fxe 
+• ĐAM: https://tinyurl.com/239sj276 
+• GHIEN: https://tinyurl.com/2ykwp5j4 
+• THAO: https://tinyurl.com/29hl4ebu 
+• DUC: https://tinyurl.com/24ejgurs 
+• YMGG: https://tinyurl.com/2clhdke9 
+• EB: https://tinyurl.com/26xy5xty 
+• HNCG: https://tinyurl.com/2yrs3ppt 
+• HSS: https://tinyurl.com/2d93ffyz 
+• TOP: https://tinyurl.com/25cf368p 
+• TWS: https://tinyurl.com/27ltvuh3 
+• MOT: https://tinyurl.com/29appr55 
+• Đang chờ cập nhật thêm
+.
+🔥CÁC BANNER KOL CÓ THỂ LÊN MÃ TOÀN SÀN GIẢM 20K/70K, 25K/99K, 30K/99K, 50K/250K NHẬP TAY + MÃ GIẢM 15K/99K, 25K/99K, 30K/99K, 50K LƯU BANNER LỌC USER HÀ NỘI: lưu app
+• NCĐ: https://tinyurl.com/22fe5kd5 
+• ECO: https://tinyurl.com/2cscp7ly 
+• AC: https://tinyurl.com/266tgl2q 
+• EX: https://tinyurl.com/2dorzlv4 
+• NEW: https://tinyurl.com/273ba2ct 
+• ZL:  https://tinyurl.com/25q5qdm9 
+• VN: https://tinyurl.com/236ed8ka 
+• BD: https://tinyurl.com/2yv99jcp 
+• CHL: https://tinyurl.com/25jaeqfh 
+• DIEP: https://tinyurl.com/282km4uk 
+• HT: https://tinyurl.com/2awljnq7 
+.
+🔥MỘT SỐ BANNER SALE LƯU THÊM LOẠT MÃ KHÁC:
+• Rẻ cuối tháng: https://tinyurl.com/2cxvbprx 
+• Siêu tiệc thương hiệu: https://tinyurl.com/24b5b47w 
+• Top shop hà thành: https://tinyurl.com/2dfvr28a 
+• Tất cả rẻ: https://tinyurl.com/2bdc9v6o 
+• Giá tốt: https://tinyurl.com/29oggyzm       
+• Top xu hướng: https://tinyurl.com/2apq83jf 
+• Top shop lazada: https://tinyurl.com/2b32phd3 
 .
 🔥MÃ CHO NGƯỜI MỚI:
-• Lưu mã giảm 100K/101K Viettelmoney: https://tinyurl.com/2qg95osu 
-• Lưu mã giảm 100K/0Đ Viettinbank: https://tinyurl.com/2odmlkrb 
+• Lưu mã giảm 100K/101K Viettelmoney: https://tinyurl.com/28gbccb4 
+• Lưu mã giảm 100K/0Đ Viettinbank: https://tinyurl.com/22usf83k 
+.
+🔥MỘT SỐ MÃ SHOP:
+• Chill Cocktail giảm 50%, 200K: https://tinyurl.com/2ac2ht5v 
+• Masan giảm 30K/100K, 160K: https://tinyurl.com/2b6gvaww 
+• Adidas giảm 15%: https://tinyurl.com/24jo94om 
+• Watsons mua 2 tính tiền 1: https://tinyurl.com/2xn45u57 
+• Tsimple giảm 99K/10K: https://tinyurl.com/29jbnrls 
+• Anessa giảm 30K, 70K: https://tinyurl.com/25e5mjzn 
+• KuuLaa giảm 50K/50K: https://tinyurl.com/2c7qndxp 
+• Lotte giảm 15K/0Đ: https://tinyurl.com/29e6vkpy 
+• Bỉm giảm 50%: https://tinyurl.com/293ue6vd 
 .
 🔥DEAL TRỢ GIÁ, 1K, 9K, X9K:
-• Deal hot 1K, 9K, dưới 49K: https://tinyurl.com/2z5u38mk 
-• 20H: Deal trợ giá - flash sale: https://tinyurl.com/2hp6dy93 
-• Deal dùng thử 9K, x9K: https://tinyurl.com/2eeep7ww 
+• Deal hot 1K, 9K, dưới 49K: https://tinyurl.com/26dos89z 
+• 20H: Deal trợ giá - flash sale: https://tinyurl.com/27bkegnf 
+• Deal dùng thử 9K, x9K: https://tinyurl.com/26rfzfn2 
 .
-🔥LƯU THÊM MÃ TOÀN SÀN, NGÀNH HÀNG TẠI: https://tinyurl.com/2ordbs7s 
+🔥MỘT SỐ MÃ NGâN HÀNG, MOMO, ZALOPAY: https://tinyurl.com/2cu3bkuw 
 .
-🔥SIÊU SALE SẮC ĐẸP: https://tinyurl.com/2jrpu5am 
-
+🔥LƯU MÃ LAZBEAUTY CLUB GIẢM 8%, 10% TẠI: https://tinyurl.com/29xg8dbh 
 <b>TIKI</b>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs 
 ► Lưu thêm các voucher từ shop bán tại banner.
