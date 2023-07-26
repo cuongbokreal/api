@@ -2,18 +2,6 @@
 link: aff link 
 */
 var mgg_ghim = [
-    {
-    value: 'Tặng 1 miếng gà ',
-    minspend: 'Cho đơn từ 99k',
-    tag: 'KFC Vietnam',
-    link: 'https://shorten.asia/pQCedgpr',
-    start_time: '2023/05/18',
-    end_time: '2023/07/18 23:59',
-    remain: '∞',
-    image: ' https://kfcvn-static.cognizantorderserv.com/images/web/kfc-logo.svg?v=5.0',
-    detail: 'Tặng 1 Miếng Gà trị giá 36.000đ cho đơn hàng từ 99.000đ (không bao gồm phí vận chuyển). Nhập mã tại bước thanh toán để nhận ưu đãi (chọn phần ăn 1 Miếng Gà trước khi nhập mã)',
-code: '',
-  },
   {
     value: 'Freeship không giới hạn',
     minspend: 'Toàn sàn',
