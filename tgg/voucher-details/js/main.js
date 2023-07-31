@@ -21,10 +21,10 @@ var getUrlParameter = function getUrlParameter(sParam) {
     }
 };
 
-var vc_title = getUrlParameter('vc_title');
-var vc_brand = getUrlParameter('vc_brand');
-var vc_brand_image = getUrlParameter('vc_brand_image');
-var vc_des = getUrlParameter('vc_des');
+var vc_title = decodeURIComponent(getUrlParameter('vc_title'));
+var vc_brand = decodeURIComponent(getUrlParameter('vc_brand'));
+var vc_brand_image = decodeURIComponent(getUrlParameter('vc_brand_image'));
+var vc_des = decodeURIComponent(getUrlParameter('vc_des'));
 var vc_code = getUrlParameter('vc_code'); //window.atob
 var vc_href = decodeURIComponent(getUrlParameter('vc_href'));
 var ctvId = getUrlParameter('ctvId');
