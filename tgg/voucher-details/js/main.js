@@ -38,10 +38,10 @@ var inner_code = document.getElementById('vc_code');
 var vc_copy = document.querySelector('#vc_copy');
 //if (!inner_code != 'undefined'){window.location.replace('/?utm_source=voucher_details_page')}
 
-inner_title.innerText = vc_title;
-inner_brand.innerText = vc_brand;
+inner_title.innerText = decodeURIComponent(vc_title);
+inner_brand.innerText = decodeURIComponent(vc_brand);
 inner_brand_image.style.backgroundImage = `url(${vc_brand_image})`;
-inner_des.innerText = vc_des;
+inner_des.innerText = decodeURIComponent(vc_des);
 inner_code.value = window.atob(vc_code);
 
 document.title = vc_title;
