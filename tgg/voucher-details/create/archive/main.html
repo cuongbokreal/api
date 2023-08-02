@@ -1,207 +1,208 @@
 <title>Tạo trang voucher chi tiết</title>
-	<label>Title mã:</label>
-    <input class="tool-input" placeholder="Nhập tiêu đề Voucher" onclick="this.select()" id="title"/>
-    <label>Mã voucher:</label>
-    <input class="tool-input" placeholder="Nhập mã Voucher" onclick="this.select()" id="code"/>
-    <label>Mô tả mã:</label>
-	<textarea class="tool-input" placeholder="Nhập mô tả Voucher" onclick="this.select()" id="des"></textarea>
+<label>Title mã:</label>
+<input class="tool-input" placeholder="Nhập tiêu đề Voucher" onclick="this.select()" id="title" />
+<label>Mã voucher:</label>
+<input class="tool-input" placeholder="Nhập mã Voucher" onclick="this.select()" id="code" />
+<label>Mô tả mã:</label>
+<textarea class="tool-input" placeholder="Nhập mô tả Voucher" onclick="this.select()" id="des"></textarea>
 <label>Start 2023-08-04T00:00:</label>
-    <input class="tool-input" placeholder="Nhập start Voucher" id="start" value="2023-08-04T00:00"/>
+<input class="tool-input" placeholder="Nhập start Voucher" id="start" value="" />
 <label>End:</label>
-    <input class="tool-input" placeholder="Nhập end Voucher" id="end" value="2023-08-05T00:00"/>
-    <label>Chọn sàn TMDT:</label>
-    <select id="href" style="height: auto;" onchange="change(this)">
-      <option id="shopeeHref" value="SHOPEE">SHOPEE</option>
-      <option id="lazadaHref" value="LAZADA">LAZADA</option>
-      <option id="tikiHref" value="TIKI">TIKI</option>
-     </select><br/><br/>
-    <label>Link Aff:</label>
-    <input class="tool-input" value="https://shopee.vn" placeholder="Nhập link Aff (Chọn sàn rồi thì tự động điền)" onclick="this.select()" id="link"/>
-    <label>Link Ảnh (nếu có):</label>  
-    <input class="tool-input" placeholder="Link ảnh, chọn sàn rồi thì tự động link ảnh" onclick="this.select()" id="imgUrl" value="https://cf.shopee.vn/file/e6a3b7beffa95ca492926978d5235f79"/>  
-	    <!--input id="inputVoucherDetailsLink" onclick="this.select()"-->
-	    <button onclick="getVoucherDetailsLink()" id="createDetails" class="button">Tạo Link Voucher Deatils (Tự động copy khi click tạo)</button>
-	    <a id="hrefDetails" target="_blank">Mở link đã tạo</a> 
+<input class="tool-input" placeholder="Nhập end Voucher" id="end" value="2023-08-05T00:00" />
+<label>Chọn sàn TMDT:</label>
+<select id="href" style="height: auto;" onchange="change(this)">
+	<option id="shopeeHref" value="SHOPEE">SHOPEE</option>
+	<option id="lazadaHref" value="LAZADA">LAZADA</option>
+	<option id="tikiHref" value="TIKI">TIKI</option>
+</select>
+<br />
+<br />
+<label>Link Aff:</label>
+<input class="tool-input" value="https://shopee.vn" placeholder="Nhập link Aff (Chọn sàn rồi thì tự động điền)" onclick="this.select()" id="link" />
+<label>Link Ảnh (nếu có):</label>
+<input class="tool-input" placeholder="Link ảnh, chọn sàn rồi thì tự động link ảnh" onclick="this.select()" id="imgUrl" value="https://cf.shopee.vn/file/e6a3b7beffa95ca492926978d5235f79" />
+<!--input id="inputVoucherDetailsLink" onclick="this.select()"-->
+<button onclick="getVoucherDetailsLink()" id="createDetails" class="button">Tạo Link Voucher Deatils (Tự động copy khi click tạo)</button>
+<a id="hrefDetails" target="_blank">Mở link đã tạo</a>
 
-<input  class="tool-input" id="shortenLink" onclick="copyValue(this)" placeholder="link rut gon" />
-    <input  class="tool-input" id="inputVoucherDetailsLink" onclick="copyValue(this)" placeholder="Kết quả hiển thị ở đây"/><br/>
- <input  class="tool-input" id="inputIdVoucher" onclick="copyValue(this)" placeholder="idVoucher" />
+<input class="tool-input" id="shortenLink" onclick="copyValue(this)" placeholder="link rut gon" />
+<input class="tool-input" id="inputVoucherDetailsLink" onclick="copyValue(this)" placeholder="Kết quả hiển thị ở đây" /><br />
+<input class="tool-input" id="inputIdVoucher" onclick="copyValue(this)" placeholder="idVoucher" />
 
 <!--firebase-->
-<script src='https://www.gstatic.com/firebasejs/8.2.10/firebase-app.js'></script>
-<script src='https://www.gstatic.com/firebasejs/8.2.10/firebase-database.js'></script>
-<script src='https://www.gstatic.com/firebasejs/8.2.10/firebase-analytics.js'></script>
+<script src="https://www.gstatic.com/firebasejs/8.2.10/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.2.10/firebase-database.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.2.10/firebase-analytics.js"></script>
 
 <script>
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
-  apiKey: "AIzaSyDaZdi-_M9yN9d_kFBv1FBTs03ifASOzfA",
-  authDomain: "trumgiamgia.firebaseapp.com",
-  databaseURL: "https://trumgiamgia-default-rtdb.firebaseio.com",
-  projectId: "trumgiamgia",
-  storageBucket: "trumgiamgia.appspot.com",
-  messagingSenderId: "847348910930",
-  appId: "1:847348910930:web:2b313fb8051d8d95dfc88b",
-  measurementId: "G-J3E3VC8HGG"
-};
-firebase.initializeApp(firebaseConfig);
-firebase.analytics(); 
-  
-  var listImgSrc = ['https://cf.shopee.vn/file/e6a3b7beffa95ca492926978d5235f79', 'https://cdn.chanhtuoi.com/uploads/2020/06/logo-lazada-2.png', 'https://salt.tikicdn.com/ts/upload/e4/49/6c/270be9859abd5f5ec5071da65fab0a94.png'];
-  var createDetails = document.querySelector("#createDetails");
-  var shortenLink = document.querySelector("#shortenLink");
+	// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+	const firebaseConfig = {
+	  apiKey: "AIzaSyDaZdi-_M9yN9d_kFBv1FBTs03ifASOzfA",
+	  authDomain: "trumgiamgia.firebaseapp.com",
+	  databaseURL: "https://trumgiamgia-default-rtdb.firebaseio.com",
+	  projectId: "trumgiamgia",
+	  storageBucket: "trumgiamgia.appspot.com",
+	  messagingSenderId: "847348910930",
+	  appId: "1:847348910930:web:2b313fb8051d8d95dfc88b",
+	  measurementId: "G-J3E3VC8HGG"
+	};
+	firebase.initializeApp(firebaseConfig);
+	firebase.analytics();
 
-  function getVoucherDetailsLink(){
-    var updateTime = new Date();
-    var thisYear = updateTime.getFullYear();
-    var thisMonth = updateTime.getMonth() + 1;
-    var pathYear = thisYear.toString().slice(-2);
-    var pathMonth = addLeadingZero(thisMonth)
-    var path = `voucher-details/${pathYear}/${pathMonth}/`
-    console.log(path);
-    var thisRandomString = randomString(20);
-    
-	var title = document.getElementById('title').value;
-    var code = document.getElementById('code').value;
-    var des = document.getElementById('des').value; 
-	var brand =  document.getElementById('href').value;
-    var start =  document.getElementById('start').value;
-    var end =  document.getElementById('end').value;
-		brand = brand.replaceAll("https://","");
-		title = title.replaceAll(code,"");
-		des = des.replaceAll(code,"");
-		document.getElementById('title').value = title;
-		document.getElementById('des').value = des;
-		title = title.replaceAll("%","%25");
-		des = des.replaceAll("%","%25");
-		title = title.replaceAll("&","%26");
-		des = des.replaceAll("&","%26");
-    	des = des.replaceAll("\n","<br/>");
-    
-	    var imgUrl = document.getElementById('imgUrl').value; 
-		var link = document.getElementById('link').value;
-    console.log(start)
-    console.log(end)
-    if(document.getElementById('start').value.length < 5){start = ''}else{start = dateToTs(start)}
-    if(document.getElementById('end').value.length < 5){end = ''}else{end = dateToTs(end)}
-		console.log(start)
-    console.log(end)
-    //Up database
-    firebase.database().ref(path + thisRandomString).set({
-      brand: brand,
-      code: code,
-      des: des,
-      end: end,
-      href: link,
-      image: imgUrl,
-      start: start,
-      title: title
-    });
-    var kqLink = `https://www.trumgiamgia.net/p/voucher-details.html?id=${pathYear}${pathMonth}${thisRandomString}`
-    document.querySelector('#inputVoucherDetailsLink').value = kqLink;
-    document.querySelector('#inputIdVoucher').value = thisRandomString;
-    fetch(`https://tinyurl.com/api-create.php?url=${encodeURIComponent(kqLink)}`)
-    .then(cc=>cc.text())
-    .then(data => shortenLink.value = data;)
-    
-    createDetails.setAttribute('onclick', '');
-    setTimeout(()=>{createDetails.setAttribute('onclick', 'getVoucherDetailsLink()')}, 2000)
-    
-	}
-  
-	function change(){
-          var option = document.getElementById('href');
-          if (option.value === 'SHOPEE'){
-                link.value ="https://shopee.vn";
-                imgUrl.value = listImgSrc[0];
-            }
-            else if (option.value === 'LAZADA'){
-                link.value ="https://lazada.vn";
-                imgUrl.value = listImgSrc[1];
-            }
-            else if (option.value === 'TIKI'){
-                link.value ="https://tiki.vn";
-                imgUrl.value = listImgSrc[2];
-            }
-          }
-  
-  function addLeadingZero(number) {
-    return number.toString().padStart(2, '0');
-  }
-  function randomString(length) {
-    const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-    let result = '';
-    for (let i = 0; i < length; i++) {
-      const randomIndex = Math.floor(Math.random() * characters.length);
-      result += characters.charAt(randomIndex);
-    }
-    return result;
-  }
-  function dateToTs(date){
-    return new Date(date).getTime();
-  }
-  
-  /*Extension*/
-  function copyValue(c){
-        if(c.value.length >= 1){
-          c.focus();
-          c.select();
-          document.execCommand("Copy");
-          console.log(`Copied: ${c.value}`);
-	toast({title: 'Thành công', message: `Đã copy <b>${c.value}</b>`, type: "success", duration: 3000});
-        }else{
-		console.log('Không có dữ liệu để copy!' + c);
-		toast({title: 'Lỗi', message: `Không có dữ liệu để copy!`, type: "error", duration: 3000});
-	}
-  }
+	  var listImgSrc = ['https://cf.shopee.vn/file/e6a3b7beffa95ca492926978d5235f79', 'https://cdn.chanhtuoi.com/uploads/2020/06/logo-lazada-2.png', 'https://salt.tikicdn.com/ts/upload/e4/49/6c/270be9859abd5f5ec5071da65fab0a94.png'];
+	  var createDetails = document.querySelector("#createDetails");
+	  var shortenLink = document.querySelector("#shortenLink");
+
+	  function getVoucherDetailsLink(){
+	    var updateTime = new Date();
+	    var thisYear = updateTime.getFullYear();
+	    var thisMonth = updateTime.getMonth() + 1;
+	    var pathYear = thisYear.toString().slice(-2);
+	    var pathMonth = addLeadingZero(thisMonth)
+	    var path = `voucher-details/${pathYear}/${pathMonth}/`
+	    console.log(path);
+	    var thisRandomString = randomString(20);
+
+		var title = document.getElementById('title').value;
+	    var code = document.getElementById('code').value;
+	    var des = document.getElementById('des').value;
+		var brand =  document.getElementById('href').value;
+	    var start =  document.getElementById('start').value;
+	    var end =  document.getElementById('end').value;
+			brand = brand.replaceAll("https://","");
+			title = title.replaceAll(code,"");
+			des = des.replaceAll(code,"");
+			document.getElementById('title').value = title;
+			document.getElementById('des').value = des;
+			title = title.replaceAll("%","%25");
+			des = des.replaceAll("%","%25");
+			title = title.replaceAll("&","%26");
+			des = des.replaceAll("&","%26");
+	    	des = des.replaceAll("\n","<br/>");
+
+		    var imgUrl = document.getElementById('imgUrl').value;
+			var link = document.getElementById('link').value;
+	    console.log(start)
+	    console.log(end)
+	    if(document.getElementById('start').value.length < 5){start = ''}else{start = dateToTs(start)}
+	    if(document.getElementById('end').value.length < 5){end = ''}else{end = dateToTs(end)}
+			console.log(start)
+	    console.log(end)
+	    //Up database
+	    firebase.database().ref(path + thisRandomString).set({
+	      brand: brand,
+	      code: code,
+	      des: des,
+	      end: end,
+	      href: link,
+	      image: imgUrl,
+	      start: start,
+	      title: title
+	    });
+	    var kqLink = `https://www.trumgiamgia.net/p/voucher-details.html?id=${pathYear}${pathMonth}${thisRandomString}`
+	    document.querySelector('#inputVoucherDetailsLink').value = kqLink;
+	    document.querySelector('#inputIdVoucher').value = thisRandomString;
+	    fetch(`https://tinyurl.com/api-create.php?url=${encodeURIComponent(kqLink)}`)
+	    .then(cc=>cc.text())
+	    .then(data => {shortenLink.value = data})
+
+	    createDetails.setAttribute('onclick', '');
+	    setTimeout(()=>{createDetails.setAttribute('onclick', 'getVoucherDetailsLink()')}, 2000)
+
+		}
+
+		function change(){
+	          var option = document.getElementById('href');
+	          if (option.value === 'SHOPEE'){
+	                link.value ="https://shopee.vn";
+	                imgUrl.value = listImgSrc[0];
+	            }
+	            else if (option.value === 'LAZADA'){
+	                link.value ="https://lazada.vn";
+	                imgUrl.value = listImgSrc[1];
+	            }
+	            else if (option.value === 'TIKI'){
+	                link.value ="https://tiki.vn";
+	                imgUrl.value = listImgSrc[2];
+	            }
+	          }
+
+	  function addLeadingZero(number) {
+	    return number.toString().padStart(2, '0');
+	  }
+	  function randomString(length) {
+	    const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+	    let result = '';
+	    for (let i = 0; i < length; i++) {
+	      const randomIndex = Math.floor(Math.random() * characters.length);
+	      result += characters.charAt(randomIndex);
+	    }
+	    return result;
+	  }
+	  function dateToTs(date){
+	    return new Date(date).getTime();
+	  }
+	  /*Extension*/
+	  function copyValue(c){
+	        if(c.value.length >= 1){
+	          c.focus();
+	          c.select();
+	          document.execCommand("Copy");
+	          console.log(`Copied: ${c.value}`);
+		toast({title: 'Thành công', message: `Đã copy <b>${c.value}</b>`, type: "success", duration: 3000});
+	        }else{
+			console.log('Không có dữ liệu để copy!' + c);
+			toast({title: 'Lỗi', message: `Không có dữ liệu để copy!`, type: "error", duration: 3000});
+		}
+	  }
 </script>
 <style>
-img{max-width:200px;max-height:200px;margin-right:15px;border:1px solid black}
-          *{margin-top:10px;}
-          #href{height: 1.75rem;padding: 5px;margin-left: 10px;}
-          #ketqua{height:250px;width:100%;margin-top:10px;line-height: normal;}   
-            #4CAF50
-            div{padding:1px}
-          .tool-input {
-            font-family: "Roboto", sans-serif;
-            outline: 0;
-            background: #f2f2f2;
-            width: 100%;
-            border: 0;
-            margin: 0 0 15px;
-            padding: 15px;
-            box-sizing: border-box;
-            font-size: 14px;
-          }
+	img{max-width:200px;max-height:200px;margin-right:15px;border:1px solid black}
+	          *{margin-top:10px;}
+	          #href{height: 1.75rem;padding: 5px;margin-left: 10px;}
+	          #ketqua{height:250px;width:100%;margin-top:10px;line-height: normal;}
+	            #4CAF50
+	            div{padding:1px}
+	          .tool-input {
+	            font-family: "Roboto", sans-serif;
+	            outline: 0;
+	            background: #f2f2f2;
+	            width: 100%;
+	            border: 0;
+	            margin: 0 0 15px;
+	            padding: 15px;
+	            box-sizing: border-box;
+	            font-size: 14px;
+	          }
 
-          .button {
-            font-family: "Roboto", sans-serif;
-            text-transform: uppercase;
-            outline: 0;
-            background: #4CAF50;
-            border: 1px solid #f44296;
-            width: 100%;
-            padding: 15px;
-            color: #FFFFFF;
-            font-size: 14px;
-            -webkit-transition: all 0.3 ease;
-            transition: all 0.3 ease;
-            cursor: pointer;
-          }
-          .button:hover,.button:active,.button:focus {
-            background: #43A047;
-          }
-          .button:hover {
-            box-shadow: 0 12px 16px 0 rgba(0,0,0,0.09), 0 17px 50px 0 rgba(0,0,0,0.09);
-          }  
+	          .button {
+	            font-family: "Roboto", sans-serif;
+	            text-transform: uppercase;
+	            outline: 0;
+	            background: #4CAF50;
+	            border: 1px solid #f44296;
+	            width: 100%;
+	            padding: 15px;
+	            color: #FFFFFF;
+	            font-size: 14px;
+	            -webkit-transition: all 0.3 ease;
+	            transition: all 0.3 ease;
+	            cursor: pointer;
+	          }
+	          .button:hover,.button:active,.button:focus {
+	            background: #43A047;
+	          }
+	          .button:hover {
+	            box-shadow: 0 12px 16px 0 rgba(0,0,0,0.09), 0 17px 50px 0 rgba(0,0,0,0.09);
+	          }
 
-          .message {
-            margin: 15px 0 0;
-            color: #b3b3b3;
-            font-size: 12px;
-          }
-          #trai{position:absolute;width:100%;overflow:hidden;max-width:100%;float:left;left:0}
-          #phai{position:absolute;width:100%;overflow:hidden;max-width:35%;float:right;right:0;border: 1px solid black;height: 100%;}
-          #phai iframe{overflow:hidden;max-height:fit-content;height: 100%;}
-          #linkButton{position:absolute;right:0;margin:10px;z-index:99}	
+	          .message {
+	            margin: 15px 0 0;
+	            color: #b3b3b3;
+	            font-size: 12px;
+	          }
+	          #trai{position:absolute;width:100%;overflow:hidden;max-width:100%;float:left;left:0}
+	          #phai{position:absolute;width:100%;overflow:hidden;max-width:35%;float:right;right:0;border: 1px solid black;height: 100%;}
+	          #phai iframe{overflow:hidden;max-height:fit-content;height: 100%;}
+	          #linkButton{position:absolute;right:0;margin:10px;z-index:99}
 </style>
