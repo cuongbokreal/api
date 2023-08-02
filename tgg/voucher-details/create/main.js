@@ -76,7 +76,8 @@ function getVoucherDetailsLink() {
 	fetch(`https://tinyurl.com/api-create.php?url=${encodeURIComponent(kqLink)}`)
 		.then(cc => cc.text())
 		.then(data => {
-			shortenLink.value = data
+			shortenLink.value = data;
+			shortenLink.click();
 		})
 
 	createDetails.setAttribute('onclick', '');
