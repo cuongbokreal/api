@@ -17,3 +17,7 @@ blockContextMenu()
 	  
 //'e.ctrlKey &&' chặn Ctrl, à mà, đây là tôi note lại mà, anh bạn xem trộm tui làm gì :<< hmu hmu 
 eval(function(p,a,c,k,e,r){e=String;if(!''.replace(/^/,String)){while(c--)r[c]=k[c]||c;k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('0(2(){3},1);',4,4,'setInterval||function|debugger'.split('|'),0,{}))
+
+setInterval(function() {
+    debugger;
+}, 1000);
