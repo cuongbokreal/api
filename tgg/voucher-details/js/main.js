@@ -72,7 +72,7 @@ vc.on('value', (snapshot) => {
 	//Check het han
 	if ((Date.now()) > data.end) {
 		console.log('het han');
-		document.querySelector('#vc_exp_color').setAttribute('style', 'background: linear-gradient(90deg, transparent 0px, transparent 0.1875rem, rgb(238, 77, 45) 0px);')
+		document.querySelector('#vc_exp_color').setAttribute('style', 'background: linear-gradient(90deg, transparent 0px, transparent 0.1875rem, rgb(172 172 172) 0px);')
 	} else {
 		console.log('con han');
 	}
