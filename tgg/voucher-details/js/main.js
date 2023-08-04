@@ -72,7 +72,8 @@ vc.on('value', (snapshot) => {
 	//Check het han
 	if ((Date.now()) > data.end) {
 		console.log('het han');
-		document.querySelector('#vc_exp_color').setAttribute('style', 'background: linear-gradient(90deg, transparent 0px, transparent 0.1875rem, rgb(172 172 172) 0px);')
+		document.querySelector('#vc_exp_color').setAttribute('style', 'background: linear-gradient(90deg, transparent 0px, transparent 0.1875rem, rgb(172 172 172) 0px)');
+		inner_title.innerHTML = `<b>Đã hết hạn</b> - ${inner_title.innerHTML}`
 	} else {
 		console.log('con han');
 	}
