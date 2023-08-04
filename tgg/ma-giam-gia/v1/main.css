@@ -217,7 +217,7 @@
 }
 /*=== RESPONSIVE ===*/
  @media screen and (max-width:640px){
-     #mgg, #mgg_ghim {
+     .mgg, #mgg, #mgg_ghim {
          display: block;
     }
      #search_action {
