@@ -156,6 +156,7 @@ var updateTime = new Date(); //updateTime
   var today = `${updateTime.getDate()}/${updateTime.getMonth() + 1}`;
   var thisHour = updateTime.getHours();
   var sale_hour = 0;
+  if(thisHour == 0 && thisHour <= 6){saleHour = 0}else
   if(thisHour >= 6 && thisHour <= 9){saleHour = 9}else
   if(thisHour > 9 && thisHour <= 11){saleHour = 11}else
   if(thisHour > 11 && thisHour <= 12){saleHour = 12}else
