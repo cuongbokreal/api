@@ -70,7 +70,7 @@ vc.on('value', (snapshot) => {
 	inner_des.innerHTML = inner_start + inner_end + '<div><h4 class="des_head">Mô tả chi tiết: </h4>' + inner_des.innerHTML + '</div>';
 
 	//Check het han
-	if ((Date.now()) > data.end) {
+	if (data.end != "" && ((Date.now()) > data.end)) {
 		console.log('het han');
 		document.querySelector('#vc_exp_color').setAttribute('style', 'background: linear-gradient(90deg, transparent 0px, transparent 0.1875rem, rgb(172 172 172) 0px)');
 		inner_title.innerHTML = `<b>Đã hết hạn</b> - ${inner_title.innerHTML}`
