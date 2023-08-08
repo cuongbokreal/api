@@ -449,6 +449,10 @@ MÃ SĂN Ở CÁC KHUNG GIỜ TỪ 9H... MÌNH SẼ LÊN ĐẦY ĐỦ Ở TỪNG
 🔥MÃ NHẬP TAY GIẢM 15K/50K, 20K/99K, 25K/125K, 30K/200K, 50K/350K: chờ cập nhật sau trên Zalo, Tele
 .
 🔥LƯU MÃ LAZBEAUTY CLUB GIẢM 12%, 10% TẠI: https://tinyurl.com/2d4xmd9d 
+.
+🔥 Tổng Hợp Hơn 1300+ Deal LAZADA Siêu Sale 8.8: https://www.trumgiamgia.net/2023/08/tong-hop-deal-lazada-sieu-sale-thang-8.html
+🔥 Tổng Hợp 1000 Deal Thời Trang LAZADA 8.8-10.8: https://www.trumgiamgia.net/2023/08/tong-hop-deal-thoi-trang-lazada-sieu.html
+🔥 Tổng Hợp 1000 Deal Sức Khỏe & Làm Đẹp LAZADA Siêu Sale 8.8: https://www.trumgiamgia.net/2023/08/tong-hop-1000-deal-suc-khoe-lam-dep.html
 
 <h2>3. TIKI</h2>
 ✨ Tiki ngon: https://shorten.asia/earBSNjs
