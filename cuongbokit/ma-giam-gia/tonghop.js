@@ -38,33 +38,53 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 ⚠️NOTE: Trước khi đặt hàng, bấm vào link này giúp ad đạt đủ KPI, để xin thêm nhiều voucher, ưu đãi xịn cho nhóm nhé: https://tinyurl.com/2jpes8yj  
 
 <h2><b>LAZADA</b></h2>
-🎉 B. LAZADA 
+💐𝐋𝐀𝐙𝐀𝐃𝐀 𝟏𝟐𝐇-𝟏𝟓𝐇
 
-🔥 9H: Lưu mã ngân hàng lên mới: https://tinyurl.com/29afqsrn 
+---------> mã KOL code độc quyền cập nhật tại Tele: https://t.me/trumgiamgia  
 
-🔥 Hoàn tiền max: https://tinyurl.com/23ly2qe7   
+🌸   𝐇𝐨à𝐧 𝐭𝐢ề𝐧 𝐦𝐚𝐱: https://tinyurl.com/27nhbagm  
+👉🏻 12H: Lưu mã hoàn 50% tối đa 50K
 
-🔰 Thu thập tích lũy đến 400k: https://tinyurl.com/25ljbvjw  
-►Thu thập hằng ngày từ ngày 06 -10/08 (dùng ngày 08 - 10/08)
-►Thu thập tại banner và dưới sản phẩm ở tại trang tích lũy
+🌸 𝐂𝐎𝐃𝐄 𝐗Ả 𝐇𝐎À𝐍 𝐓𝐈Ề𝐍
+Code độc quyền toàn sàn ( k lọc gì hết)
+20/99
+https://tinyurl.com/2b4n4ucm 
+https://tinyurl.com/2y5f8hza 
+https://tinyurl.com/2652n7fg 
+https://tinyurl.com/287m7bh2 
+https://tinyurl.com/2bzds4q6 
+https://tinyurl.com/29tzy854 
 
-🔰Voucher Plus: https://tinyurl.com/2y7rcnx4  
-► Giảm 8% tối đa 20k đơn từ 69K, giảm 30k đơn từ 350k, giảm 50k đơn từ 650k
+25/125 dùng lẹ (hết nhanh)
+https://tinyurl.com/27qvh43z 
+https://tinyurl.com/238ypljt 
 
-🔰Voucher LazBeauty: https://tinyurl.com/2bhh3zua   
-► Giảm 10% đơn từ 299k, giảm 12% đơn từ 499k cho các sản phẩm thuộc danh mục LazBeauty
+30/200 dùng nhanh
+https://tinyurl.com/24tujz7v 
+https://tinyurl.com/24g6tare 
 
-🔰LazFlash Max: https://tinyurl.com/2b77j53m  
-► Săn deal trợ giá sốc từ Lazada lên mới lúc 9H
-.
-🔰 LazCoin: https://tinyurl.com/26jk89a2  
-► Đổi LazCoin lấy voucher 50K đơn từ 200K, 30K đơn từ  200K, 10K đơn từ 100K toàn sàn 
+🌸 𝟎𝐇, 𝟗𝐇, 𝟏𝟐𝐇, 𝟐𝟎𝐇, 𝟐𝟐𝐇 - 𝐋ê𝐧 𝐦ớ𝐢 𝐦ã 𝟑𝟎𝐤/𝟗𝟗𝐊, 𝟐𝟓𝐤/𝟗𝟗𝐤 
+👉🏻 Link 1: https://tinyurl.com/29q3sez8  
+👉🏻 Link 2: https://tinyurl.com/26ylhdsk  
+👉🏻 Link 3: https://tinyurl.com/2xs5o3om  
+👉🏻 Link 4: https://tinyurl.com/2ytfg5pf  
 
-🔰Lưu mã Zalopay: https://tinyurl.com/2c3cjx7l  
- .
-🔰 Lưu mã Momo: https://tinyurl.com/26fappz7  
- .
-🔰Lưu mã VNPT: https://tinyurl.com/2clcoodx
+🌸 𝟎𝐇, 𝟗𝐇, 𝟏𝟐𝐇, 𝟐𝟎𝐇 - 𝐋ê𝐧 𝐦ớ𝐢 𝐦ã 𝟑𝟎𝐤/𝟗𝟗𝐊, 𝟐𝟓𝐤/𝟗𝟗𝐤 𝐦ụ𝐜 𝐇à 𝐍ộ𝐢 ( 𝐥ọ𝐜 )
+👉🏻 Link 1: https://tinyurl.com/24cpnh7z  
+👉🏻 Link 2: https://tinyurl.com/2by8w3pq  
+👉🏻 Link 3: https://tinyurl.com/29cd574o  
+👉🏻 Link 4: https://tinyurl.com/24qgdol2  
+👉🏻 Link 5: https://tinyurl.com/25kur6f3  
+
+🌸 𝐌ã 𝐭𝐨à𝐧 𝐬à𝐧: https://tinyurl.com/2yfopvbv  
+👉🏻 12H: Lên mới mã 100K đơn 1tr
+
+🌸 𝗦𝗮𝗹𝗲 𝗱ướ𝗶 𝟰𝟵𝗸: https://tinyurl.com/279ql335  
+👉🏻 Lưu freeship 9/0, 10/19, 8/0
+👉🏻 Săn deal đồng giá 1K - 9K 
+
+🌸  𝗙𝗹𝗮𝘀𝗵 𝘀𝗮𝗹𝗲 https://tinyurl.com/2y2y2nve  
+👉🏻 săn list deal trợ giá tại banner 
 .
 🔥 Tổng Hợp Hơn 1300+ Deal LAZADA Siêu Sale 8.8: https://www.trumgiamgia.net/2023/08/tong-hop-deal-lazada-sieu-sale-thang-8.html
 🔥 Tổng Hợp 1000 Deal Thời Trang LAZADA 8.8-10.8: https://www.trumgiamgia.net/2023/08/tong-hop-deal-thoi-trang-lazada-sieu.html
