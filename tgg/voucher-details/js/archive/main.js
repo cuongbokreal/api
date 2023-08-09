@@ -85,7 +85,7 @@ vc.on('value', (snapshot) => {
 
 function createAffLink(url) {
 	if ((url.includes("https://shopee.vn") || url.includes("https://lazada.vn") || url.includes("highlandscoffee.com.vn") || url.includes("https://tiki.vn")) == true) {
-		return `https://go.isclix.com/deep_link/5353514789844343379?url=${encodeURIComponent(url)}`
+		return `https://go.isclix.com/deep_link/5353514789844343379?url=${encodeURIComponent(url)}&utm_source=voucherDetails&utm_medium=${location.pathname}&utm_campaign=${document.title}&utm_content=${location.href}`
 	}
 }
 
