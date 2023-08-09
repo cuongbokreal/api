@@ -8,25 +8,33 @@ HOT: 🙆 Highlands đang tặng Voucher mua 2 tính tiền 1 free (áp dụng t
 https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1.html  
 
 <h2><b>SHOPEE</b></h2>
-🎉 A. SHOPEE
 
-⭐️1. Khung giờ săn sale: https://tinyurl.com/249bs6lr  
-►  AFFUNZB3  giảm 40k đơn từ 250k, List áp dụng => https://tinyurl.com/2aoz5ypn  
-►  AFFUNFH0 giảm 20%, tối đa 30k đơn từ 99k, List áp dụng => https://tinyurl.com/27amvjf2 
-►  AFFGMTI2 giảm 23k đơn từ 99k  List áp dụng => https://tinyurl.com/27amvjf2  
-►  AFFGMLS4 giảm 15%, tối đa 50k đơn từ 199k List áp dụng => https://tinyurl.com/27amvjf2  
-►  AFFDC58 giảm 20%, tối đa 50k đơn từ 199k, List áp dụng => https://tinyurl.com/27amvjf2  
-►  AFFCR3 giảm 30k đơn từ 99k,  List áp dụng => https://tinyurl.com/27amvjf2  
+💐 𝐒𝐇𝐎𝐏𝐄𝐄 𝟏𝟐𝐇-𝟏𝟕𝐇
 
-⭐️2. Ưu đãi KOL: https://tinyurl.com/2ypsyekh  
-► Lưu banner + dùng ngay mã giảm 30k chơi 150k cho thời trang & làm đẹp
-► Lưu banner + dùng ngay mã giảm 20%, tối đa 50k đơn từ 199k cho thời trang & làm đẹp
+🚛𝐌𝐢ễ𝐧 𝐩𝐡í 𝐯ậ𝐧 𝐜𝐡𝐮𝐲ể𝐧
+👉🏻 Lưu freeship 15k/0đ: https://tinyurl.com/27tygxnu  
+👉🏻 Lưu freeship 25k/0đ, Freeship 25/25 trong live: https://tinyurl.com/24z9s7eq  
+👉🏻 Lưu freeship giảm 35k/150k ,10k/0đ tại: https://tinyurl.com/2y7z7e5m  
+👉🏻 Đổi xu lấy freeship 40k đơn 0đ: https://tinyurl.com/24wxzesa  
 
-⭐️ Shop nổi bật: https://tinyurl.com/23fwqtyx  
-► NSF8P125 giảm 25k đơn từ 70k. List áp mã: https://tinyurl.com/29kb6ezs 
-► NSF8P118 giảm 18k đơn từ 50k. List áp mã: https://tinyurl.com/29kb6ezs 
-► NSF8P1HB giảm 30k đơn từ 85k . List áp mã: https://tinyurl.com/2dmvbj73 
-► NSF8P1FS giảm 30k đơn từ 85k. List áp mã: https://tinyurl.com/24gx4crb
+🌸 𝐌Ã 𝐆Ầ𝐍 𝐓𝐎À𝐍 𝐒À𝐍 
+👉🏻 AFFUNZB3 giảm 40k từ 250k áp list https://tinyurl.com/22teyaqo  
+👉🏻 AFFUNFH0 giảm 20%, max 30k/99k áp list https://tinyurl.com/2cev7g7j  
+👉🏻 AFFGMTI2 giảm 23k từ 99k áp list https://tinyurl.com/289p684e  
+👉🏻 AFFGMLS4 giảm 15%, max 50k/199k áp list https://tinyurl.com/2yl8ulj6  
+👉🏻 AFFDC58 giảm 20%, max 50k/199k áp list https://tinyurl.com/26ktcbgc   
+👉🏻 AFFCR3 giảm 30k từ 99k áp list https://tinyurl.com/23a4oz78  
+
+🌸 𝐒ă𝐧 𝐬𝐚𝐥𝐞 𝐜ù𝐧𝐠 𝐊𝐎𝐋: https://tinyurl.com/29vlx4pg  
+👉🏻 12H: Lên mã 20% max 50k/99k, 30/150
+
+🌸𝐒𝐀𝐋𝐄 𝐌Ỹ 𝐏𝐇Ẩ𝐌: https://tinyurl.com/2b6q3rxy 
+👉🏻 Lưu loạt mã 30/0 tại banner dùng lúc 12H
+
+🌸  𝐒𝐡𝐨𝐩 𝐦ớ𝐢 𝐥ê𝐧 𝐬à𝐧: https://tinyurl.com/25qevtmb  
+👉🏻  NSF80888 giảm 88K đơn 288K áp list https://tinyurl.com/2bkgrydz  
+👉🏻 Lưu thêm loạt mã giảm 40/129, 30/85, 25/70, 20/50 ,15/50 tại banner
+
 ⚠️NOTE: Trước khi đặt hàng, bấm vào link này giúp ad đạt đủ KPI, để xin thêm nhiều voucher, ưu đãi xịn cho nhóm nhé: https://tinyurl.com/2jpes8yj  
 
 <h2><b>LAZADA</b></h2>
