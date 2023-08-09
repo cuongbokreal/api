@@ -8,157 +8,55 @@ HOT: 🙆 Highlands đang tặng Voucher mua 2 tính tiền 1 free (áp dụng t
 https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1.html  
 
 <h2><b>SHOPEE</b></h2>
-➖➖➖➖SHOPEE➖➖➖➖
-🚛MIỄN PHÍ VẬN CHUYỂN:
-• 0H: Đã tặng sẵn 3 mã Freeship 25K/25K toàn sàn + 5 mã Freeship Xtra 300K/100K trong ví dùng được từ 0H: https://tinyurl.com/28wczxgk 
-• 20H: Đã tặng sẵn 2 mã Freeship 25K/0Đ toàn sàn trong ví dùng được từ 20H: https://tinyurl.com/28wczxgk 
-• 0H: Lưu mã Freeship 35K/150K tại: https://tinyurl.com/2yn6bqy6 
-• Đổi mã Freeship giảm 50% tối đa 40K: https://tinyurl.com/288hkezl 
-• Quay mã Freeship xu: https://tinyurl.com/2yqydp26 
-.
-🔥MÃ TOÀN SÀN(LIVE):
-• 0H: Đã tặng sẵn 1 mã giảm 100K đơn từ 400K + 1 mã giảm 50% tối đa 40K đơn từ 0Đ trong ví dùng được từ 0H: https://tinyurl.com/28wczxgk 
-• 0H: Đã tặng sẵn loạt mã giảm 10K/50K, 20K/100K, 40K/200K+ 25% tối đa 10K/0Đ, 20K/50K, 40K/100K trong ví dùng được từ 0H: https://tinyurl.com/28wczxgk 
-• 0H: Có thể lên mã giảm 25% tối đa 45K/180K, 50K/200K. Lưu mã tại giỏ live: https://tinyurl.com/23vfamj6 
-• Sau 12H: Mã giảm 15K đơn từ 99K + Sau 21H: Mã giảm 50% tối đa 15K đơn từ 20K. Lưu mã tại live: https://tinyurl.com/2c8q9rss 
-.
-🔥MÃ ÁP ĐA SỐ SẢN PHẨM:
-• 0H: AFFCR3 giảm 30K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/23op94lk 
-• 0H: AFFUNZB3 giảm 40K đơn từ 250K. List sản phẩm áp mã: https://tinyurl.com/25hfx7ak 
-• 0H: AFFDC58 giảm 20% tối đa 50K đơn từ 199K. List sản phẩm áp mã: https://tinyurl.com/2534g6eq 
-• 0H: AFFUNFH0 giảm 20% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/22gxurq5 
-• 0H: AFFGMLS4 giảm 15% tối đa 50K đơn từ 199K. List sản phẩm áp mã: https://tinyurl.com/2ye8y972 
-• 0H: AFFGMTI2 giảm 23K đơn từ 99K. List sản phẩm áp mã: https://tinyurl.com/2yt86ysy 
-.
-🔥MÃ THỜI TRANG, LÀM ĐẸP - KOL AFFILIATE: đúng giờ load trang lên mã
-• 0H: Mã giảm 20% tối đa 50K đơn từ 99K
-• 0H, 12H: Mã giảm 30K đơn từ 150K 
-=> Lưu mã tại: https://tinyurl.com/2bvnguxr 
-.
-🔥MÃ TOÀN SÀN:
-• 9H: Mã giảm 4%-7% tối đa 40K đơn từ 0Đ. Lưu mã tại: https://tinyurl.com/288hkezl 
-.
-🔥MỸ PHẨM: https://tinyurl.com/2a7qcmfe 
-• Săn voucher 30K các khung giờ:
-• 0H: WATSTUE01 (mã shop) giảm 30K đơn từ 0Đ cho shop Watsons Vietnam Official Store: https://tinyurl.com/2b332ree 
-• 0H: U30K0908 (mã shop) giảm 30K đơn từ 0Đ cho shop Unilever Việt Nam _ Health & Beauty: https://tinyurl.com/2c283l2q 
-• 0H: PAUL98PV1 (mã shop) giảm 30K đơn từ 0Đ cho shop Paula's Choice Official Store: https://tinyurl.com/2db8hxfa 
-• 0H: INNIHBTUE (mã shop) giảm 30K đơn từ 0Đ cho shop Innisfree Official Store: https://tinyurl.com/29txb9d3 
-• 0H38s: LORE9G30K (mã shop) giảm 30K đơn từ 0Đ cho shop L'Oreal Paris Official Store: https://tinyurl.com/292x2mlz 
-• 0H28s: PAUL98PV2 giảm 88K đơn từ 350K cho shop Paula's Choice Official Store: https://tinyurl.com/2db8hxfa 
-• 0H: COS50K9 giảm 10% tối đa 50K đơn từ 250k
-• 0H: COSMALL9 giảm 12% tối đa 200K đơn từ 400K
-• 0H: COSMS9 giảm 10% tối đa 200K đơn từ 350k
-• 0H: COSPER50K9 giảm 10% tối đa 50K đơn từ 250k
-• 0H: COSPERMS9 giảm 10% tối đa 80K đơn từ 350k
-• 0H: COSPERMALL9 giảm 12% tối đa 100K đơn từ 400K
-• 0H: COS50KP9 giảm 10% tối đa 50K đơn từ 250k
-• Voucher ưu đãi từ các shop bán.
-.
-🔥THỜI TRANG: https://tinyurl.com/2cl73pu8 
-• 0H: FASPHAULAUG15 giảm 12% tối đa 30K đơn từ 99K
-• 0H: FASPHAULAUG5 giảm 12% tối đa 30K đơn từ 99K
-• 0H: FASPHAULAUG16 giảm 12% tối đa 40K đơn từ 300K
-• 0H: FASPHAULAUG6 giảm 12% tối đa 40K đơn từ 300K
-• 0H: FAFF08 giảm 12% tối đa 30K đơn từ 200K [Ví]
-.
-🔥ĐỜI SỐNG: https://tinyurl.com/2an7ma5t 
-• 0H: LIFEB2S50K giảm 10% tối đa 50K đơn từ 200K
-• 0H: LIFEB2S20K giảm 20K đơn từ 150k
-• 0H: LIFEB2S30K giảm 30K đơn từ 99K
-• 0H: LIFEB2S20KDP giảm 10% tối đa 20K đơn từ 99K [Ví]
-• 0H: LIFEB2S50KDP giảm 10% tối đa 50K đơn từ 300K [Ví]
-• Voucher ưu đãi từ các shop bán.
-.
-🔥B2S: https://tinyurl.com/29u6843e 
-• 0H: LIFEB2S50K giảm 10% tối đa 50K đơn từ 200K
-• 0H: LIFEB2S20K giảm 20K đơn từ 150K
-• 0H: LIFEB2S30K giảm 30K đơn từ 99K
-• 0H: ELAS6B2 giảm 6% tối đa 2m từ 3m [Ví]
-• Săn deal đồng giá 1k
+🎉 A. SHOPEE
 
-🔥MUM CLUB: https://tinyurl.com/227gp6yh 
-.
-• SMCMBBAU1 giảm 8% tối đa 100K đơn từ 300K
-• SMCNEWAUG giảm 15% tối đa 60K đơn từ 199K
-• Voucher ưu đãi từ các shop bán.
-• Mở quà săn xu tại banner.
-.
-🔥0H: MÃ SHOP MUA ĐỒ DÙNG HỌC TẬP GIẢM 80%, 60%:
-• Shop Classmate - Hàng chính hãng: https://tinyurl.com/27bxlx7s 
-• Shop Classmate HCM Official: https://tinyurl.com/29efered 
-• Shop Classmate Official Store: https://tinyurl.com/25sq39pa  
-• Shop Mondez Official Store: https://tinyurl.com/27zh6tzb 
-.
-🔥SHOP MỚI LÊN SÀN: https://tinyurl.com/2yn6bqy6 
-• NSF8P125 giảm 25K đơn từ 70K. List sản phẩm áp mã: https://tinyurl.com/2aycklfr 
-• NSF80840 giảm 40K đơn từ 129K. List sản phẩm áp mã: https://tinyurl.com/2c9zyrgn 
-• NSF80820 giảm 20K đơn từ 50K. List sản phẩm áp mã: https://tinyurl.com/27f2cbgb  
-• NSF8P118 giảm 18K đơn từ 50K. List sản phẩm áp mã: https://tinyurl.com/2bqmkbnp 
-• NSF8P1FS giảm 30K đơn từ 85K. List sản phẩm áp mã: https://tinyurl.com/2b588qvh 
-• NSF8P1HB giảm 30K đơn từ 85K. List sản phẩm áp mã: https://tinyurl.com/2cgrz9pv 
-.
-🔥SHOPEEPAY: https://tinyurl.com/2dzt2bej 
-• SPPP1AUGGMV40K giảm 5% tối đa 40K đơn từ 400K
-• SPPP1AUG8K giảm 8K đơn từ 120K
-.
-🔥GAME SHOPEE: 
-• 0H: Quay Iphone 14: https://tinyurl.com/28batu4e 
-• 0H, 9H: Mở hộp quà rewards: https://tinyurl.com/288hkezl  hoặc tại: https://tinyurl.com/2c67dodv 
-• 0H: Thử thách Shopee: https://tinyurl.com/29tbd534 
-• Quay mã toàn sàn giảm 100K/100K, 20K/180K cho 0H dùng: https://tinyurl.com/2cg2qa53
+⭐️1. Khung giờ săn sale: https://tinyurl.com/249bs6lr  
+►  AFFUNZB3  giảm 40k đơn từ 250k, List áp dụng => https://tinyurl.com/2aoz5ypn  
+►  AFFUNFH0 giảm 20%, tối đa 30k đơn từ 99k, List áp dụng => https://tinyurl.com/27amvjf2 
+►  AFFGMTI2 giảm 23k đơn từ 99k  List áp dụng => https://tinyurl.com/27amvjf2  
+►  AFFGMLS4 giảm 15%, tối đa 50k đơn từ 199k List áp dụng => https://tinyurl.com/27amvjf2  
+►  AFFDC58 giảm 20%, tối đa 50k đơn từ 199k, List áp dụng => https://tinyurl.com/27amvjf2  
+►  AFFCR3 giảm 30k đơn từ 99k,  List áp dụng => https://tinyurl.com/27amvjf2  
+
+⭐️2. Ưu đãi KOL: https://tinyurl.com/2ypsyekh  
+► Lưu banner + dùng ngay mã giảm 30k chơi 150k cho thời trang & làm đẹp
+► Lưu banner + dùng ngay mã giảm 20%, tối đa 50k đơn từ 199k cho thời trang & làm đẹp
+
+⭐️ Shop nổi bật: https://tinyurl.com/23fwqtyx  
+► NSF8P125 giảm 25k đơn từ 70k. List áp mã: https://tinyurl.com/29kb6ezs 
+► NSF8P118 giảm 18k đơn từ 50k. List áp mã: https://tinyurl.com/29kb6ezs 
+► NSF8P1HB giảm 30k đơn từ 85k . List áp mã: https://tinyurl.com/2dmvbj73 
+► NSF8P1FS giảm 30k đơn từ 85k. List áp mã: https://tinyurl.com/24gx4crb
 ⚠️NOTE: Trước khi đặt hàng, bấm vào link này giúp ad đạt đủ KPI, để xin thêm nhiều voucher, ưu đãi xịn cho nhóm nhé: https://tinyurl.com/2jpes8yj  
 
 <h2><b>LAZADA</b></h2>
-➖➖➖➖LAZADA➖➖➖➖
-🚛MIỄN PHÍ VẬN CHUYỂN: lọc tùy user 
-• Lưu mã Freeship 5K/19K, 10K/49K, 15K/99K, 50K/300K tại: https://tinyurl.com/26mdljqv  + https://tinyurl.com/2yruw3qj 
-• Lưu mã Freeeship 30K/200K mới tại: https://tinyurl.com/2y9glhzo 
+🎉 B. LAZADA 
+
+🔥 9H: Lưu mã ngân hàng lên mới: https://tinyurl.com/29afqsrn 
+
+🔥 Hoàn tiền max: https://tinyurl.com/23ly2qe7   
+
+🔰 Thu thập tích lũy đến 400k: https://tinyurl.com/25ljbvjw  
+►Thu thập hằng ngày từ ngày 06 -10/08 (dùng ngày 08 - 10/08)
+►Thu thập tại banner và dưới sản phẩm ở tại trang tích lũy
+
+🔰Voucher Plus: https://tinyurl.com/2y7rcnx4  
+► Giảm 8% tối đa 20k đơn từ 69K, giảm 30k đơn từ 350k, giảm 50k đơn từ 650k
+
+🔰Voucher LazBeauty: https://tinyurl.com/2bhh3zua   
+► Giảm 10% đơn từ 299k, giảm 12% đơn từ 499k cho các sản phẩm thuộc danh mục LazBeauty
+
+🔰LazFlash Max: https://tinyurl.com/2b77j53m  
+► Săn deal trợ giá sốc từ Lazada lên mới lúc 9H
 .
-🔥MÃ HOÀN TIỀN MAX: 
-• 0H, 12H, 20H: Mã hoàn 50% tối đa 50K đơn từ 0Đ
-• Mã hoàn 20% tối đa 30K, 10% tối đa 100K, 6% tối đa 300K
-=> Lưu mã tại: https://tinyurl.com/2azjjwau  hoặc tại: https://tinyurl.com/2ceapg5o 
-.
-🔥MÃ TOÀN SÀN & NGÀNH HÀNG:
-• 0H, 12H, 20H: Mã toàn sàn giảm 100K đơn từ 1200K
-• 0H: Mã toàn sàn 6%, thời trang, bách hóa mẹ bé, nhà cửa đời sống, điện tử, quốc tế, lazbeauty club
-=> Lưu mã tại: https://tinyurl.com/26mdljqv 
-.
-🔥9H, 12H: MÃ NGâN HÀNG:
-=> Lưu mã tại: https://tinyurl.com/25mrfv33 
-.
-🔥9H, 12H: MÃ MOMO, ZALOPAY, VIETTEL MONEY: mã back
-• Lưu mã ZaloPay giảm 5K/199K, 10K/299K tại: https://tinyurl.com/22wltwe8 
-• Lưu mã Momo giảm 5K/199K tại: https://tinyurl.com/2y576xqt 
-• Lưu mã Viettel Money giảm tại: https://tinyurl.com/249ed4r3 
-.
-🔥CÁC BANNER KOL CÓ THỂ LÊN MÃ TOÀN SÀN GIẢM 25K/125K BẤT NGỜ:
-• MIA: https://tinyurl.com/284ooxqk 
-• LN: https://tinyurl.com/2223uszn 
-• TWS: https://tinyurl.com/2c4zukvn 
-• DIEM: https://tinyurl.com/25cstf7a 
-• Đang chờ cập nhật thêm
-.
-🔥CÁC BANNER KOL CÓ THỂ LÊN MÃ TOÀN SÀN GIẢM 25K/99K, 30K/99K, 50K/350K BẤT NGỜ + HOÀN TIỀN 30%:
-• EX: https://tinyurl.com/2y9glhzo  
-• NEW: https://tinyurl.com/2b7xvh35  
-• MVT: https://tinyurl.com/26zxlchw  
-• HT: https://tinyurl.com/22g8pvyn  
-• NCĐ: https://tinyurl.com/28r4tw7v 
-• AC: https://tinyurl.com/2a4b76aq 
-• ECO: https://tinyurl.com/2y2vuyub 
-• HN: https://tinyurl.com/24n4pzs4 
-• VN: https://tinyurl.com/2ytzxqjd 
-• ZL: https://tinyurl.com/22wltwe8 
-• MM: https://tinyurl.com/2y576xqt 
-• BD: https://tinyurl.com/2d5lk8v8 
-• CHL: https://tinyurl.com/2agpfsgs 
-• DIEP: https://tinyurl.com/28lyabmy 
-.
-🔥MỘT SỐ BANNER SALE LƯU THÊM LOẠT MÃ KHÁC:
-• Giá tốt nhất tháng: https://tinyurl.com/2yythuo4 
-• Siêu tiệc thương hiệu: https://tinyurl.com/2adzcfv7
+🔰 LazCoin: https://tinyurl.com/26jk89a2  
+► Đổi LazCoin lấy voucher 50K đơn từ 200K, 30K đơn từ  200K, 10K đơn từ 100K toàn sàn 
+
+🔰Lưu mã Zalopay: https://tinyurl.com/2c3cjx7l  
+ .
+🔰 Lưu mã Momo: https://tinyurl.com/26fappz7  
+ .
+🔰Lưu mã VNPT: https://tinyurl.com/2clcoodx
 .
 🔥 Tổng Hợp Hơn 1300+ Deal LAZADA Siêu Sale 8.8: https://www.trumgiamgia.net/2023/08/tong-hop-deal-lazada-sieu-sale-thang-8.html
 🔥 Tổng Hợp 1000 Deal Thời Trang LAZADA 8.8-10.8: https://www.trumgiamgia.net/2023/08/tong-hop-deal-thoi-trang-lazada-sieu.html
