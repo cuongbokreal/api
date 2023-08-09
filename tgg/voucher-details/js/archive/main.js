@@ -83,10 +83,24 @@ vc.on('value', (snapshot) => {
 
 /*=== FUNCTION ===*/
 
+/*
 function createAffLink(url) {
 	if ((url.includes("https://shopee.vn") || url.includes("https://lazada.vn") || url.includes("highlandscoffee.com.vn") || url.includes("https://tiki.vn")) == true) {
 		return `https://go.isclix.com/deep_link/5353514789844343379?url=${encodeURIComponent(url)}&utm_source=voucherDetails&utm_medium=${location.pathname}&utm_campaign=${document.title}&utm_content=${location.href}`
 	}
+}
+*/
+function createAffLink(url) {
+    const lowerCaseUrl = url.toLowerCase();
+    const validDomains = ["https://shopee.vn", "https://lazada.vn", "https://highlandscoffee.com.vn", "https://tiki.vn"];
+    if (validDomains.some(domain => lowerCaseUrl.includes(domain))) {
+        const utmMedium = location.pathname;
+        const utmCampaign = document.title;
+        const utmContent = location.href;
+        const encodedUrl = encodeURIComponent(url);
+        return `https://go.isclix.com/deep_link/5353514789844343379?url=${encodedUrl}&utm_source=voucherDetails&utm_medium=${utmMedium}&utm_campaign=${utmCampaign}&utm_content=${utmContent}`;
+    }
+    return false;
 }
 
 function createTs() {
