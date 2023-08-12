@@ -8,9 +8,6 @@ HOT: 🙆 Highlands đang tặng Voucher mua 2 tính tiền 1 free (áp dụng t
 https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1.html  
 
 <h2><b>SHOPEE</b></h2>
-
-💐 𝐒𝐇𝐎𝐏𝐄𝐄 𝟏𝟐𝐇-𝟏𝟕𝐇
-
 🚛𝐌𝐢ễ𝐧 𝐩𝐡í 𝐯ậ𝐧 𝐜𝐡𝐮𝐲ể𝐧
 👉🏻 Lưu freeship 15k/0đ: https://tinyurl.com/27tygxnu  
 👉🏻 Lưu freeship 25k/0đ, Freeship 25/25 trong live: https://tinyurl.com/24z9s7eq  
@@ -38,8 +35,6 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 ⚠️NOTE: Trước khi đặt hàng, bấm vào link này giúp ad đạt đủ KPI, để xin thêm nhiều voucher, ưu đãi xịn cho nhóm nhé: https://tinyurl.com/2jpes8yj  
 
 <h2><b>LAZADA</b></h2>
-💐𝐋𝐀𝐙𝐀𝐃𝐀 𝟏𝟐𝐇-𝟏𝟓𝐇
-
 ---------> mã KOL code độc quyền cập nhật tại Tele: https://t.me/trumgiamgia  
 
 🌸   𝐇𝐨à𝐧 𝐭𝐢ề𝐧 𝐦𝐚𝐱: https://tinyurl.com/27nhbagm  
