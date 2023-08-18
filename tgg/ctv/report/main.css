@@ -96,7 +96,7 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#a1a1aa}
 input::placeholder,textarea::placeholder{color:#a1a1aa}
 button{cursor:pointer}table{border-collapse:collapse}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}
-a{color:inherit;text-decoration:inherit}
+a{text-decoration:inherit}
 button,input,optgroup,select,textarea{padding:0;line-height:inherit;color:inherit}
 pre,code,kbd,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace}
 img,svg,video,canvas,audio,iframe,embed,object{display:block;vertical-align:middle}
