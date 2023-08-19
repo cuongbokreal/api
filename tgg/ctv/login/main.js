@@ -1,4 +1,4 @@
-  var cookieUser = getCookie('username');
+var cookieUser = getCookie('username');
   if(cookieUser != null){
     document.getElementById('main-form').innerHTML = `<p>Xin chào ${getCookie('username')}, bạn có muốn <a href="#" onclick="logout()">đăng xuất</a>?</p>`;
     //window.location.href = '/p/ctv-report.html';
