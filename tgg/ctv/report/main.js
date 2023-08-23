@@ -1,4 +1,4 @@
-    //SETTING
+//SETTING
   const tile = 60/100;
   var lang = {
     null_order : 'Chưa có dữ liệu để hiển thị'
