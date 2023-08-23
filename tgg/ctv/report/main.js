@@ -1,5 +1,8 @@
     //SETTING
   const tile = 60/100;
+  var lang = {
+    null_order : 'Chưa có dữ liệu để hiển thị'
+  }
   
   //SETUP
   var monthSelect = document.getElementById("monthSelect");
@@ -132,7 +135,7 @@ if(ctv != null){
         //document.querySelector('#innerChuyenDoi').innerHTML = parseNumber(total_billing);
       }else{
         console.log('deo co don');
-        document.querySelector('#innerData').innerHTML = `<div style="text-align:center">Chưa có đơn hàng</div>`;
+        document.querySelector('#innerData').innerHTML = `<div style="text-align:center">${lang.null_order}</div>`;
         document.querySelector('#innerHoaHong').innerHTML = '0';
         //document.querySelector('#innerChuyenDoi').innerHTML = '0';
       }
