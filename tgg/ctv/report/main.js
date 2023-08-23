@@ -1,4 +1,4 @@
-  //SETTING
+    //SETTING
   const tile = 60/100;
   
   //SETUP
@@ -71,25 +71,25 @@ if(ctv != null){
             shopee.total += 1;
             shopee.billing += thisOrder.billing;
             shopee.pub_commission += pub_commission ;
-            if(thisOrder.order_approved == 1){shopee.order_approved += pub_commission }else
-            if(thisOrder.order_reject == 1){shopee.order_reject += pub_commission }else
-            if(thisOrder.order_pending == 1){shopee.order_pending += pub_commission }
+            if(thisOrder.order_approved >= 1){shopee.order_approved += pub_commission }else
+            if(thisOrder.order_reject >= 1){shopee.order_reject += pub_commission }else
+            if(thisOrder.order_pending >= 1){shopee.order_pending += pub_commission }
           }else
           if(thisOrder.merchant == 'lazadacps' || thisOrder.merchant == 'lazada_content' || thisOrder.merchant == 'lazada_kol'){
             lazada.total += 1;
             lazada.billing += thisOrder.billing;
             lazada.pub_commission += pub_commission ;
-            if(thisOrder.order_approved == 1){lazada.order_approved += pub_commission }else
-            if(thisOrder.order_reject == 1){lazada.order_reject += pub_commission }else
-            if(thisOrder.order_pending == 1){lazada.order_pending += pub_commission }
+            if(thisOrder.order_approved >= 1){lazada.order_approved += pub_commission }else
+            if(thisOrder.order_reject >= 1){lazada.order_reject += pub_commission }else
+            if(thisOrder.order_pending >= 1){lazada.order_pending += pub_commission }
           }else
           if(thisOrder.merchant == 'tikivn'){
             tiki.total += 1;
             tiki.billing += thisOrder.billing;
             tiki.pub_commission += pub_commission ;
-            if(thisOrder.order_approved == 1){tiki.order_approved += pub_commission }else
-            if(thisOrder.order_reject == 1){tiki.order_reject += pub_commission }else
-            if(thisOrder.order_pending == 1){tiki.order_pending += pub_commission }
+            if(thisOrder.order_approved >= 1){tiki.order_approved += pub_commission }else
+            if(thisOrder.order_reject >= 1){tiki.order_reject += pub_commission }else
+            if(thisOrder.order_pending >= 1){tiki.order_pending += pub_commission }
           }
         })
 
