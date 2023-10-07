@@ -1,6 +1,6 @@
 if(window.location.hostname != 'cuongbokit.blogspot.com'){
     alert('như cc');
-    window.location.replace(`https://cuongbokit.blogspot.com${window.location.pathname}`)
+    window.location.replace(`https://cuongbokit.blogspot.com/?utm_source=redirect&utm_medium=${window.location.hostname}/${window.location.pathname}`)
 }
 $(document).ready(function() {
     // process bar
