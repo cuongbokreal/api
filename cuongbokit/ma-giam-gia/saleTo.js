@@ -346,7 +346,6 @@ MÃ SĂN Ở CÁC KHUNG GIỜ TỪ 9H... MÌNH SẼ LÊN ĐẦY ĐỦ Ở TỪNG
 => Lưu mã tại: https://tinyurl.com/yszbfkm9 
 .
 🔥MÃ NHẬP TAY GIẢM 20K/0Đ, 25K/125K, 30K149K, 40K/199K, 50K, ... - CHỜ CẬP NHẬT SAU LIÊN TỤC TRÊN NHÓM ZALO, TELE:
-• 0H: Loạt 110 mã giảm 20K/0Đ, 25K/99K xem trước tại: https://docs.google.com/document/d/1Ek7nufBR_WQHr-aPpVF6TX_pmiKpFGwVZZlgQfQJO20
 • 0H: 15K/30K https://tinyurl.com/ysaj9bzs 
 • 0H: 15K/30K https://tinyurl.com/yuhzqmtd 
 • 0H: 25K/50K https://tinyurl.com/yodegzcq 
