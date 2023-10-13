@@ -7,7 +7,7 @@
 
 
 2. Form khung code:
-<div class="cbi-khung-code">
+<div class="cbi-khung-code" ondblclick="selectAllText()">
   <pre><code class="language-html">&lt;p&gt;Đây là nội dung bạn muốn hiển thị trong khung chứa.&lt;/p&gt;</code></pre>
   <pre><code class="language-css">.cbi-khung-code { background-color: #f7f7f7; }</code></pre>
   <pre><code class="language-javascript">function copyToClipboard() { /* ... */ }</code></pre>
