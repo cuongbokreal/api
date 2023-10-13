@@ -11,8 +11,12 @@
 // ==/UserScript==
 
 console.log(
-  '%cShare bởi CuongbokIT: https://cuongbokit.blogspot.com/2023/10/cach-hack-dap-an-duolingo-auto-correct-answer-chinh-xac.html',
+  '%cShare bởi CuongbokIT',
   'color: #0043ff; background-color: #fff8f8; font-weight: bold; font-size: 20px;'
+);
+console.log(
+  '%chttps://cuongbokit.blogspot.com/2023/10/cach-hack-dap-an-duolingo-auto-correct-answer-chinh-xac.html',
+  'color: #0043ff; background-color: white; font-weight: bold; font-size: 10px;'
 );
 
 let solvingIntervalId;
