@@ -2,6 +2,9 @@
 <link href="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/themes/prism.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/prism.js"></script>
 
+<link href="https://cuongbokreal.github.io/api/cuongbokit/tien-ich/khung-chua-code/main.css" rel="stylesheet">
+<script src="https://cuongbokreal.github.io/api/cuongbokit/tien-ich/khung-chua-code/main.js"></script>
+
 
 2. Form khung code:
 <div class="cbi-khung-code">
