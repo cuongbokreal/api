@@ -1,5 +1,5 @@
-function copyToClipboard() {
-        const textToCopy = document.querySelector('.cbi-khung-code').textContent;
+function copyToClipboard(elmQuery) {
+        const textToCopy = document.querySelector(elmQuery).textContent;
         const tempTextArea = document.createElement('textarea');
         tempTextArea.value = textToCopy;
         document.body.appendChild(tempTextArea);
