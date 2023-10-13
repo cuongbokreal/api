@@ -9,7 +9,12 @@
 // Feel free to donate something at: https://www.patreon.com/MikailCayoglu/membership
 // Published on Greasyfork: https://greasyfork.org/de/scripts/463285
 // ==/UserScript==
- 
+
+console.log(
+  '%cShare bởi CuongbokIT: https://cuongbokit.blogspot.com/2023/10/cach-hack-dap-an-duolingo-auto-correct-answer-chinh-xac.html',
+  'color: #0043ff; background-color: #fff8f8; font-weight: bold; font-size: 20px;'
+);
+
 let solvingIntervalId;
 let isAutoMode = false;
 const debug = false;
