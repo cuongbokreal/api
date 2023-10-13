@@ -7,6 +7,7 @@ function copyToClipboard(elmQuery) {
         document.execCommand('copy');
         document.body.removeChild(tempTextArea);
         console.log('Nội dung đã được sao chép vào clipboard.');
+        toast({title: 'Thành công', message: `Nội dung đã được sao chép vào clipboard.`, type: "success", duration: 3000});
 }
 function selectAllText() {
     const contentContainer = document.querySelector('.content-container');
