@@ -15,3 +15,9 @@
 3. JS prism
 // Tô màu mã nguồn sau khi tải trang
 Prism.highlightAll();
+
+4. Function copy:
+copyToClipboard(elmQuery) 
+
+elmQuery = querySelector
+vd: copyToClipboard('.cbi-khung-code')
