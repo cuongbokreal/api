@@ -1,29 +1,28 @@
 // ==UserScript==
-// @name        DuoPower
+// @name        TrioLingo
 // @namespace   Violentmonkey Scripts
 // @match       https://*.duolingo.com/*
-// @grant       none
-// @version     2.3
-// @author      Mikail Deniz Cayoglu
-// @description Duolingo Auto-Solver cheat [WORKING APRIL 2023]
-// Feel free to donate something at: https://www.patreon.com/MikailCayoglu/membership
-// Published on Greasyfork: https://greasyfork.org/de/scripts/463285
+// @grant       GM_log
+// @version     1.0
+// @author      Cerberus
+// @description Duolingo cheat script hack. Based on DuoPower
 // ==/UserScript==
-
+ 
 let solvingIntervalId;
-let isAutoMode = false;
-const debug = false;
+let isAutoMode = true;
+const debug = true;
  
 function addButtons() {
     if (window.location.pathname === '/learn') {
         let button = document.querySelector('a[data-test="global-practice"]');
         if (button) {
-            return;
+            button.click();
         }
     }
  
     const solveAllButton = document.getElementById("solveAllButton");
     if (solveAllButton !== null) {
+        solving();
         return;
     }
  
@@ -100,6 +99,8 @@ function addButtons() {
  
         solveCopy.addEventListener('click', solving);
         pauseCopy.addEventListener('click', solve);
+ 
+        solving();
     }
 }
  
@@ -108,10 +109,10 @@ setInterval(addButtons, 3000);
  
 function solving() {
     if (solvingIntervalId) {
-        clearInterval(solvingIntervalId);
-        solvingIntervalId = undefined;
-        document.getElementById("solveAllButton").innerText = "SOLVE ALL";
-        isAutoMode = false;
+        //clearInterval(solvingIntervalId);
+        //solvingIntervalId = undefined;
+        //document.getElementById("solveAllButton").innerText = "SOLVE ALL";
+        //isAutoMode = false;
     } else {
         document.getElementById("solveAllButton").innerText = "PAUSE SOLVE";
         isAutoMode = true;
@@ -161,6 +162,9 @@ function solve() {
     } else if (window.sol.type === 'listenMatch') {
         if (debug)
             document.getElementById("solveAllButton").innerText = 'Listen Match';
+ 
+        console.log('hello');
+ 
         const nl = document.querySelectorAll('[data-test$="challenge-tap-token"]');
         window.sol.pairs?.forEach((pair) => {
             for (let i = 0; i < nl.length; i++) {
@@ -168,7 +172,9 @@ function solve() {
                 if (nl[i].querySelectorAll('[data-test="challenge-tap-token-text"]').length > 1) {
                     nlInnerText = nl[i].querySelector('[data-test="challenge-tap-token-text"]').innerText.toLowerCase().trim();
                 } else {
-                    nlInnerText = findSubReact(nl[i]).text.toLowerCase().trim();
+                    //nlInnerText = findSubReact(nl[i]).textContent.toLowerCase().trim();
+                    nlInnerText = nl[i].getAttribute('data-test').split('-')[0].toLowerCase().trim();
+                    console.log(nlInnerText);
                 }
                 if (
                     (
@@ -318,13 +324,25 @@ function findReact(dom, traverseUp = 0) {
         dom = dom.parentElement;
         reactProps = Object.keys(dom.parentElement).find((key) => key.startsWith("__reactProps$"));
     }
-    return dom?.parentElement?.[reactProps]?.children[0]?._owner?.stateNode;
+    if(dom?.parentElement?.[reactProps]?.children[0] == null){
+return dom?.parentElement?.[reactProps]?.children[1]?._owner?.stateNode;
+}
+else{
+return dom?.parentElement?.[reactProps]?.children[0]?._owner?.stateNode;
+}
+    //return dom?.parentElement?.[reactProps]?.children[0]?._owner?.stateNode;
 }
  
  
 window.findReact = findReact;
  
 window.ss = solving;
+
+
+
+
+
+
 
 console.log('Áp code thành công!')
 console.log(
