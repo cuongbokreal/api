@@ -6,5 +6,5 @@ function copyToClipboard(elmQuery) {
         tempTextArea.select();
         document.execCommand('copy');
         document.body.removeChild(tempTextArea);
-        alert('Nội dung đã được sao chép vào clipboard.');
+        console.log('Nội dung đã được sao chép vào clipboard.');
 }
