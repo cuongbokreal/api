@@ -10,20 +10,6 @@
 // Published on Greasyfork: https://greasyfork.org/de/scripts/463285
 // ==/UserScript==
 
-console.log(
-  '%cShare bởi CuongbokIT',
-  'color: #0043ff; background-color: #fff8f8; font-weight: bold; font-size: 20px;'
-);
-console.log(
-  '%cLink bài viết:',
-  'color: #0043ff; background-color: white; font-weight: bold; font-size: 12px;'
-);
-
-console.log(
-  '%chttps://cuongbokit.blogspot.com/2023/10/cach-hack-dap-an-duolingo-auto-correct-answer-chinh-xac.html',
-  'color: #0043ff; background-color: white; font-weight: bold; font-size: 10px;'
-);
-
 let solvingIntervalId;
 let isAutoMode = false;
 const debug = false;
@@ -339,3 +325,17 @@ function findReact(dom, traverseUp = 0) {
 window.findReact = findReact;
  
 window.ss = solving;
+
+console.log('Áp code thành công!')
+console.log(
+  '%cShare bởi CuongbokIT',
+  'color: #0043ff; background-color: #fff8f8; font-weight: bold; font-size: 20px;'
+);
+console.log(
+  '%cLink bài viết:',
+  'color: #0043ff; background-color: white; font-weight: bold; font-size: 12px;'
+);
+console.log(
+  '%chttps://cuongbokit.blogspot.com/2023/10/cach-hack-dap-an-duolingo-auto-correct-answer-chinh-xac.html',
+  'color: #0043ff; background-color: white; font-weight: bold; font-size: 10px;'
+);
