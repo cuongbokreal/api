@@ -240,6 +240,58 @@ MÃ SĂN Ở CÁC KHUNG GIỜ TỪ 9H... MÌNH SẼ LÊN ĐẦY ĐỦ Ở TỪNG
 .
 .
 
+2. LAZADA:
+🚛MIỄN PHÍ VẬN CHUYỂN: 
+• 0H, 12H, 20H: Lưu mã Freeship giảm 9K/99K tại: https://tinyurl.com/2xd9dvyn 
+• Lưu mã Freeship giảm 20K/0Đ, 5K/19K, 15K/49K, 25K/125K, 50K/300K tại: https://tinyurl.com/ylef3z5f 
+.
+🔥MÃ TOÀN SÀN: 
+• 0H, 12H, 20H: Lưu mã giảm 20K đơn từ 99K
+• 0H15, 12H15, 20H15: Lưu mã giảm 100K đơn từ 500K
+• 20H ngày 14/10, 12H, 20H: Lưu mã giảm 100K đơn từ 1000K
+• 13H, 15H, 17H, 19H, 21H: Mã nhập tay giảm 50K đơn từ 200K
+=> Lưu mã tại: https://tinyurl.com/2xd9dvyn 
+.
+🔥MÃ HOÀN TIỀN MAX: 
+• 0H, 12H, 20H: Lưu mã hoàn tiền 30% tối đa 50K/99K tại: https://tinyurl.com/2xd9dvyn 
+• 0H: Lưu mã hoàn tiền 10% tối đa 100K, 30K tại: https://tinyurl.com/ypnrxeyy  
+.
+🔥0H, 9H, 12H: LOẠT MÃ NGâN HÀNG, MOMO, ZALOPAY, VNPT, VIETTEL MONEY: 
+=> Lưu mã tại: https://tinyurl.com/yu4zwmkt 
+.
+🔥MÃ NHẬP TAY GIẢM 25K/125K, 30K149K, 40K/199K, 50K, ... - CHỜ CẬP NHẬT SAU LIÊN TỤC TRÊN NHÓM ZALO, TELE:
+   - Zalo: https://zalo.me/g/fqehfa279
+   - Telegram: https://t.me/trumgiamgia (MỚI)
+.
+🔥CÁC BANNER KOL CÓ THỂ LÊN MÃ TOÀN SÀN GIẢM 15K/50K, 25K/99K, 30K/99K, 50K/350K BẤT NGỜ:
+• VN: https://tinyurl.com/yn5q6m9x 
+• ZL: https://tinyurl.com/yvjjew26  
+• MM: https://tinyurl.com/ypg3c3ma 
+• AC: https://tinyurl.com/ynygo5h5 
+• ECO: https://tinyurl.com/ytvzupj3 
+• NEW: https://tinyurl.com/ypdvks9t 
+• NCĐ: https://tinyurl.com/yny2jaem 
+• MVT: https://tinyurl.com/ywvjt9w3 
+• HT: https://tinyurl.com/ywlabt5f 
+• BD: https://tinyurl.com/yrx8zlgy 
+• CHL: https://tinyurl.com/yq43zqc2 
+• DIEP: https://tinyurl.com/2x9ondun 
+.
+🔥0H: VOUCHER BONUS:
+• Lưu voucher bonus tại: https://tinyurl.com/yqfyag9e 
+• Lưu thêm dưới sản phẩm: https://s.lazada.vn/s.WUmVW
+.
+🔥DEAL TRỢ GIÁ, 1K, 9K, X9K:
+• Choice mua 3 chỉ 39K, 69K, 129K: https://tinyurl.com/yrcc9bjy  (HOT)
+• 0H: Deal hot 1K, 9K, dưới 49K: https://tinyurl.com/ylef3z5f 
+• 0H, 12H, 20H: Deal trợ giá - flash sale: https://tinyurl.com/yuzrel3a 
+• Deal dùng thử 9K, x9K: https://tinyurl.com/ywv5qkbu 
+.
+🔥LAZGAME:
+• 0H: Đổi Gems lấy quà 0Đ, mã toàn sàn: https://tinyurl.com/yk7uyzno 
+• 0H: Đổi sao: https://tinyurl.com/yn8c4v67 
+• 0H: Đổi xu: https://tinyurl.com/ytl9fh7p 
+• Iphone 14: https://tinyurl.com/ymgupetj 
 
 `
 
