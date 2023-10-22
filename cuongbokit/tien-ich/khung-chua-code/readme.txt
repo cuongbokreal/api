@@ -1,8 +1,8 @@
 1. Trước tiên cần import thư viện prism để highlight màu code
-<link href="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/themes/prism.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/themes/prism.css" rel="stylesheet"/>
 <script src="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/prism.js"></script>
 
-<link href="https://cuongbokreal.github.io/api/cuongbokit/tien-ich/khung-chua-code/main.css" rel="stylesheet">
+<link href="https://cuongbokreal.github.io/api/cuongbokit/tien-ich/khung-chua-code/main.css" rel="stylesheet"/>
 <script src="https://cuongbokreal.github.io/api/cuongbokit/tien-ich/khung-chua-code/main.js"></script>
 
 
