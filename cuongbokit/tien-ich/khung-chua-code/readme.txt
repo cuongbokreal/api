@@ -11,7 +11,7 @@
   <pre><code class="language-html">&lt;p&gt;Đây là nội dung bạn muốn hiển thị trong khung chứa.&lt;/p&gt;</code></pre>
   <pre><code class="language-css">.cbi-khung-code { background-color: #f7f7f7; }</code></pre>
   <pre><code class="language-javascript">function copyToClipboard() { /* ... */ }</code></pre>
-  <button class="cbi-copy-button" onclick="copyToClipboard()">Copy Nội Dung</button>
+  <button class="cbi-copy-button" onclick="copyToClipboard('.cbi-khung-code')">Copy Nội Dung</button>
 </div>
 
 
