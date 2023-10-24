@@ -124,8 +124,8 @@ Mã KOL giảm 25% tối đa 40K/120K, giảm 20% tối đa 40K/99K, giảm 30K/
 .
 🔥0H: MÃ KOL GIẢM 25% TỐI ĐA 40K ĐƠN TỪ 120K - LƯU TẠI BANNER KOL: 
 • Dự kiến có đến 50 - 100 link lưu, mỗi link 1 mã khác nhau: chờ cập nhật sau trên nhóm zalo, tele vào tối ngày 24/10 và xuyên suốt cả ngày 25/10:
- - Zalo: 
- - Telegram:  (nhanh nhất)
+ - Zalo: https://zalo.me/g/fqehfa279
+ - Telegram: https://t.me/trumgiamgia (nhanh nhất)
 .
 🔥GAME SHOPEE: 
 • 21H: Đậu thần leo mây kiếm 600 xu: https://tinyurl.com/ymqva93s  hoặc tại: https://tinyurl.com/yvzy2wnm 
