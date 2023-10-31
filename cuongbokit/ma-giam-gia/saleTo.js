@@ -136,6 +136,7 @@ if(thisDate == thisMonth){dday = thisDate}else //cùng ngày
 if(thisDate + 1 == thisMonth){dday = thisMonth}else //trước 1 ngày
 if(thisDate > 0 && thisDate <= 15){dday = 15}else //15 hàng tháng
 if(thisDate > 15 && thisDate <= 25){dday = 25} //25 hàng tháng
+else{dday = thisDate + 1}
 
 if (content_dday.length >= 20){
   content_dday = `<h4  class="title-block">🔥 Tiết Lộ Mã Giảm Giá ngày SALE <span style="color:red">${dday}.${thisMonth}</span></h4>` + content_dday
