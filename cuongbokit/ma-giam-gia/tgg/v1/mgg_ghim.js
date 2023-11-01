@@ -14,7 +14,7 @@ var mgg_ghim = [
     detail: 'B1: Nhấn Đến banner để lưu mã. => B2:Chọn mã muốn lấy và nhấn vào mã đó. => B3: Chụp ảnh màn hình voucher và áp tại điểm bán của Highlands',
   },
   {
-    value: ' Giảm 20K cho đơn từ 139k',
+    value: 'Trà chiều 129K',
     minspend: '',
     tag: 'Highlands Coffee',
     link: 'https://shorten.asia/yWcZW9UZ',
