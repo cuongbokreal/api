@@ -18,7 +18,7 @@ var mgg_ghim = [
     minspend: '',
     tag: 'Highlands Coffee',
     link: 'https://shorten.asia/yWcZW9UZ',
-    sstart_time: '2023/11/19',
+    start_time: '2023/11/19',
     end_time: '2023/11/26',
     remain: 'Không giới hạn',
     image: 'https://cdn.haitrieu.com/wp-content/uploads/2022/03/highlands-coffee-red-logo.png',
