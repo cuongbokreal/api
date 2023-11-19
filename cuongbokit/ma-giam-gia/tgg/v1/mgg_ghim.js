@@ -2,35 +2,24 @@
 link: aff link 
 */
 var mgg_ghim = [
-{
-    value: ' Giảm 30K cho đơn từ 120k',
+    {
+    value: ' Giảm 35k đơn 135k',
     minspend: '',
     tag: 'Highlands Coffee',
     link: 'https://shorten.asia/yWcZW9UZ',
-    start_time: '2023/11/01',
-    end_time: '2023/11/08',
+    start_time: '2023/11/19',
+    end_time: '2023/11/26',
     remain: 'Không giới hạn',
     image: 'https://cdn.haitrieu.com/wp-content/uploads/2022/03/highlands-coffee-red-logo.png',
     detail: 'B1: Nhấn Đến banner để lưu mã. => B2:Chọn mã muốn lấy và nhấn vào mã đó. => B3: Chụp ảnh màn hình voucher và áp tại điểm bán của Highlands',
   },
   {
-    value: 'Trà chiều 129K',
+    value: ' Mua 3 được 4',
     minspend: '',
     tag: 'Highlands Coffee',
     link: 'https://shorten.asia/yWcZW9UZ',
-    start_time: '2023/11/01',
-    end_time: '2023/11/08',
-    remain: 'Không giới hạn',
-    image: 'https://cdn.haitrieu.com/wp-content/uploads/2022/03/highlands-coffee-red-logo.png',
-    detail: 'B1: Nhấn Đến banner để lưu mã. => B2:Chọn mã muốn lấy và nhấn vào mã đó. => B3: Chụp ảnh màn hình voucher và áp tại điểm bán của Highlands',
-  },
-  {
-    value: ' Mua 2 được 3',
-    minspend: '',
-    tag: 'Highlands Coffee',
-    link: 'https://shorten.asia/yWcZW9UZ',
-    start_time: '2023/11/01',
-    end_time: '2023/11/08',
+    sstart_time: '2023/11/19',
+    end_time: '2023/11/26',
     remain: 'Không giới hạn',
     image: 'https://cdn.haitrieu.com/wp-content/uploads/2022/03/highlands-coffee-red-logo.png',
     detail: 'B1: Nhấn Đến banner để lưu mã. => B2:Chọn mã muốn lấy và nhấn vào mã đó. => B3: Chụp ảnh màn hình voucher và áp tại điểm bán của Highlands',
