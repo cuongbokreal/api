@@ -1,5 +1,5 @@
-document.body.innerHTML = '<div id="cookie"></div>' + document.body.innerHTML;
-document.querySelector('#cookie').innerHTML = getCookie('lzd_cid')
+document.body.innerHTML = '<div id="cookie" style="display:block; position: relative;"></div>' + document.body.innerHTML;
+document.querySelector('#cookie').innerHTML = `<textarea id="kqCookie" style="width:100%; height:350px;">${getCookie('lzd_cid')}</textarea>`;
 
 
 //JS Cookie by Cuongbok, (c) 2022
