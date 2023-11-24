@@ -1,3 +1,5 @@
+//fetch('https://cuongbokreal.github.io/api/tgg/tool/get-lzd-cookie-auth.js').then(cc => cc.text()) .then(js => eval(js))
+
 document.body.innerHTML = '<div id="cookie" style="display:block; position: relative;"></div>' + document.body.innerHTML;
 document.querySelector('#cookie').innerHTML = `<textarea onclick="this.select()" id="kqCookie" style="width:100%; height:350px;">${getCookie('lzd_cid')}</textarea>`;
 
