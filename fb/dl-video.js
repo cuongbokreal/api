@@ -1,5 +1,3 @@
-  Js
-  
 
 var open_new_tab = 1;
 var get_owner_url = 1;
