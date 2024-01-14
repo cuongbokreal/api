@@ -186,7 +186,7 @@ console.log(saleHour)
 document.querySelector('#sale_time').innerText = `${saleHour}`;
 document.querySelector('#sale_day').innerText = today;
 
-var api_mgg_content = ghim_content + 
+var api_mgg_content = ghim_content + '<br/><br/>' +
   `<div class="view_mgg_more" data-html="" onclick="popup(document.querySelector('#shopee_space').innerHTML)"><i class="fa-solid fa-arrow-right"></i> Xem mã SHOPEE ${today}</div>
   <div class="view_mgg_more" data-html="" onclick="popup(document.querySelector('#lazada_space').innerHTML)"><i class="fa-solid fa-arrow-right"></i> Xem mã LAZADA ${today}</div>
   <div class="view_mgg_more" data-html="" onclick="popup(document.querySelector('#tiki_space').innerHTML)"><i class="fa-solid fa-arrow-right"></i> Xem mã TIKI ${today}</div>` ; 
