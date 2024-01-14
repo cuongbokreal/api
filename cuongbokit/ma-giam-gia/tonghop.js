@@ -212,6 +212,7 @@ function decodeHTML(input) {
 }
 function popup(htmlContent) {
     popupContent.innerHTML = decodeHTML(htmlContent).replaceAll('\n','<br/>');
+    console.log(popupContent.innerHTML)
     popupContainer.style.display = 'block';
     overlay.style.display = 'block';
     popupContainer.focus()
