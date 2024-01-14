@@ -152,9 +152,9 @@ var overlay = document.getElementById('overlay');
   var popupContent = document.getElementById('popupContent');
 
 var api_mgg_content = ghim_content + 
-  `<div data-html="${encodeHTML(shopee_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã SHOPEE ${today}</div>` +
-  `<div data-html="${encodeHTML(lazada_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã LAZADA ${today}</div>` +
-  `<div data-html="${encodeHTML(tiki_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã TIKI ${today}</div>` ; 
+  `<div data-html="${encodeHTML(shopee_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã SHOPEE ${today}</div>
+  <div data-html="${encodeHTML(lazada_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã LAZADA ${today}</div>
+  <div data-html="${encodeHTML(tiki_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã TIKI ${today}</div>` ; 
 
 /*===SETUP NGÀY GIỜ===*/
 var updateTime = new Date(); //updateTime
