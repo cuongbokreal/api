@@ -148,8 +148,8 @@ var tiki_content = `<b>TIKI</b>
 
 
 var overlay = document.getElementById('overlay');
-  var popupContainer = document.getElementById('popupContainer');
-  var popupContent = document.getElementById('popupContent');
+var popupContainer = document.getElementById('popupContainer');
+var popupContent = document.getElementById('popupContent');
 
 shopee_content = shopee_content.replaceAll('\n','<br>');
 lazada_content = lazada_content.replaceAll('\n','<br>');
@@ -182,9 +182,9 @@ var updateTime = new Date(); //updateTime
   if(thisHour > 22 && thisHour <= 23){saleHour = 23}else
   if(thisHour >= 23){saleHour = 0; today = `${updateTime.getDate() +1}/${updateTime.getMonth() + 1}`;}
   
-  console.log(saleHour)
-  document.querySelector('#sale_time').innerText = `${saleHour}`;
-  document.querySelector('#sale_day').innerText = today;
+console.log(saleHour)
+document.querySelector('#sale_time').innerText = `${saleHour}`;
+document.querySelector('#sale_day').innerText = today;
 
 var api_mgg_content = ghim_content + 
   `<div data-html="" onclick="popup(document.querySelector('#shopee_space').innerHTML)">Xem mã SHOPEE ${today}</div>
@@ -193,10 +193,11 @@ var api_mgg_content = ghim_content +
 console.log(api_mgg_content)
 
 document.getElementById('tonghop').innerHTML = api_mgg_content.replaceAll('\n', '<br/>');
-  
 $("#tonghop").each(function(){
    $(this).html( $(this).html().replace(/((http|https|ftp):\/\/[\w?=&.\/-;#~%-]+(?![\w\s?&.\/;#~%"=-]*>))/g, '<a rel="nofollow" target="_blank" href="$1">$1</a> ') );
 });
+
+
 
 function encodeHTML(input) {
     return input.replace(/&/g, "&amp;")
