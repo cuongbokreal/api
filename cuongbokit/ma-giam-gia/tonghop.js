@@ -213,6 +213,7 @@ function popup(htmlContent) {
     popupContent.innerHTML = decodeHTML(htmlContent);
     popupContainer.style.display = 'block';
     overlay.style.display = 'block';
+    popupContainer.focus()
     setTimeout(function() {
       popupContainer.style.opacity = '1';
     }, 10);
