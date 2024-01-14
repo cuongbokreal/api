@@ -159,12 +159,6 @@ document.querySelector('#shopee_space').innerHTML = shopee_content;
 document.querySelector('#lazada_space').innerHTML = lazada_content;
 document.querySelector('#tiki_space').innerHTML = tiki_content;
 
-var api_mgg_content = ghim_content + 
-  `<div data-html="" onclick="popup(document.querySelector('#shopee_space').innerHTML)">Xem mã SHOPEE ${today}</div>
-  <div data-html="" onclick="popup(document.querySelector('#lazada_space').innerHTML)">Xem mã LAZADA ${today}</div>
-  <div data-html="" onclick="popup(document.querySelector('#tiki_space').innerHTML)">Xem mã TIKI ${today}</div>` ; 
-console.log(api_mgg_content)
-
 /*===SETUP NGÀY GIỜ===*/
 var updateTime = new Date(); //updateTime
   var today = `${updateTime.getDate()}/${updateTime.getMonth() + 1}`;
@@ -192,7 +186,11 @@ var updateTime = new Date(); //updateTime
   document.querySelector('#sale_time').innerText = `${saleHour}`;
   document.querySelector('#sale_day').innerText = today;
 
-
+var api_mgg_content = ghim_content + 
+  `<div data-html="" onclick="popup(document.querySelector('#shopee_space').innerHTML)">Xem mã SHOPEE ${today}</div>
+  <div data-html="" onclick="popup(document.querySelector('#lazada_space').innerHTML)">Xem mã LAZADA ${today}</div>
+  <div data-html="" onclick="popup(document.querySelector('#tiki_space').innerHTML)">Xem mã TIKI ${today}</div>` ; 
+console.log(api_mgg_content)
 
 document.getElementById('tonghop').innerHTML = api_mgg_content.replaceAll('\n', '<br/>');
   
