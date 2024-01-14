@@ -209,6 +209,9 @@ function popup(htmlContent) {
     setTimeout(function() {
       popupContainer.style.opacity = '1';
     }, 10);
+    $("#overlay").each(function(){
+     $(this).html( $(this).html().replace(/((http|https|ftp):\/\/[\w?=&.\/-;#~%-]+(?![\w\s?&.\/;#~%"=-]*>))/g, '<a rel="nofollow" target="_blank" href="$1">$1</a> ') );
+    });
   }
 
   function closePopup() {
