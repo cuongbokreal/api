@@ -160,9 +160,9 @@ document.querySelector('#lazada_space').innerHTML = lazada_content;
 document.querySelector('#tiki_space').innerHTML = tiki_content;
 
 var api_mgg_content = ghim_content + 
-  `<div data-html="${(shopee_content)}" onclick="popup(document.querySelector('#shopee_space').innerHTML)">Xem mã SHOPEE ${today}</div>
-  <div data-html="${(lazada_content)}" onclick="popup(document.querySelector('#lazada_space').innerHTML)">Xem mã LAZADA ${today}</div>
-  <div data-html="${(tiki_content)}" onclick="popup(document.querySelector('#tiki_space').innerHTML)">Xem mã TIKI ${today}</div>` ; 
+  `<div data-html="" onclick="popup(document.querySelector('#shopee_space').innerHTML)">Xem mã SHOPEE ${today}</div>
+  <div data-html="" onclick="popup(document.querySelector('#lazada_space').innerHTML)">Xem mã LAZADA ${today}</div>
+  <div data-html="" onclick="popup(document.querySelector('#tiki_space').innerHTML)">Xem mã TIKI ${today}</div>` ; 
 console.log(api_mgg_content)
 
 /*===SETUP NGÀY GIỜ===*/
