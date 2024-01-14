@@ -1,13 +1,12 @@
-var api_mgg_content = `
-HOT: 🙆 Highlands đang tặng Voucher mua 2 tính tiền 1 free (áp dụng tại điểm bán):
+var ghim_content = `HOT: 🙆 Highlands đang tặng Voucher mua 2 tính tiền 1 free (áp dụng tại điểm bán):
 <b>B1</b>: Truy cập trang nhận mã của Highlands tại https://shorten.asia/GFDwSf1s    
 <b>B2</b>: Nhấn "Nhận mã ưu đãi ngay".
 <b>B3</b>: Chụp ảnh màn hình voucher, áp mã tại điểm bán của Highland.
 📌 Mã ưu đãi này không phải là mã cố định, mỗi máy khi nhấp vào sẽ có một mã ưu đãi riêng. Mọi người đến trực tiếp các cửa hàng của Highlands để đưa mã này cho nhân viên và nhận về ưu đãi. Mã có hiệu lực trong thời gian áp dụng ghi tại web.
 <b>👉 Tips lấy không giới hạn mã:</b>
-https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1.html  
+https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1.html  `
 
-<h2><b>SHOPEE</b></h2>
+var shopee_content = `<h2><b>SHOPEE</b></h2>
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
 • 0H: Tặng sẵn 3 mã Freeship 15K/25K trong ví: https://shope.ee/1LGPZOEGn0  (back vào 12H, 18H, 20H)
@@ -83,9 +82,8 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 • 0H: Số gì đây: https://shope.ee/8A6k86sb9I 
 • 0H: Quay mã toàn sàn giảm 100K/100K, 20K/180K cho 0H dùng: https://shope.ee/602FY85WNR 
 .
-⚠️NOTE: Trước khi đặt hàng, bấm vào link này giúp ad đạt đủ KPI, để xin thêm nhiều voucher, ưu đãi xịn cho nhóm nhé: https://shope.ee/8KQAKQ0lNX 
-
-<h2><b>LAZADA</b></h2>
+⚠️NOTE: Trước khi đặt hàng, bấm vào link này giúp ad đạt đủ KPI, để xin thêm nhiều voucher, ưu đãi xịn cho nhóm nhé: https://shope.ee/8KQAKQ0lNX `
+var lazada_content = `<h2><b>LAZADA</b></h2>
 ➖➖➖➖LAZADA➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
 • 0H: Lưu mã Freeship 20K/0Đ, 5K/19K, 15K/49K, 25K/125K, 50K/300K tại: https://s.lazada.vn/s.3i4Ix?cc  + https://s.lazada.vn/s.3i4Iy?cc 
@@ -106,9 +104,8 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 • 0H: Đổi Gems lấy quà 0Đ, mã toàn sàn: https://s.lazada.vn/s.3i4sd?cc  
 • 0H: Đổi sao: https://s.lazada.vn/s.3i4s4?cc  
 • 0H: Đổi xu: https://s.lazada.vn/s.3i4s3?cc 
-
-
-<b>TIKI</b>
+`
+var tiki_content = `<b>TIKI</b>
 ➖➖➖➖TIKI➖➖➖➖
 ✨ Tiki ngon: https://shorten.asia/earBSNjs
 ► Lưu thêm các voucher từ shop bán tại banner.
@@ -147,8 +144,11 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 🔥 Làm đẹp & sức khỏe: https://tinyurl.com/23g755gm 
 🔥 Tổng Hợp DEAL Mẹ&Bé TIKI 8.8: https://www.trumgiamgia.net/2023/08/tong-hop-deal-me-be-tiki.html
 🔥 Tổng Hợp Deal Sức Khỏe & Sắc Đẹp TIKI 8.8: https://www.trumgiamgia.net/2023/08/tong-hop-deal-suc-khoe-sac-dep-tiki.html
-🔥 Các deal ngành hàng khác Ad sẽ cập nhật tiếp tại https://www.trumgiamgia.net/ 
-`
+🔥 Các deal ngành hàng khác Ad sẽ cập nhật tiếp tại https://www.trumgiamgia.net/ `
+
+
+var api_mgg_content = ghim_content + shopee_content + lazada_content + tiki_content 
+
 /*===SETUP NGÀY GIỜ===*/
 var updateTime = new Date(); //updateTime
   var today = `${updateTime.getDate()}/${updateTime.getMonth() + 1}`;
