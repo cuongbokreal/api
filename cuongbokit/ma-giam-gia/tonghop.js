@@ -151,13 +151,13 @@ var overlay = document.getElementById('overlay');
 var popupContainer = document.getElementById('popupContainer');
 var popupContent = document.getElementById('popupContent');
 
-shopee_content = shopee_content.replaceAll('\n','<br>');
-lazada_content = lazada_content.replaceAll('\n','<br>');
-tiki_content = tiki_content.replaceAll('\n','<br>');
+shopee_content = shopee_content;
+lazada_content = lazada_content;
+tiki_content = tiki_content;
 
-document.querySelector('#shopee_space').innerHTML = shopee_content;
-document.querySelector('#lazada_space').innerHTML = lazada_content;
-document.querySelector('#tiki_space').innerHTML = tiki_content;
+document.querySelector('#shopee_space').innerHTML = shopee_content.replaceAll('\n','<br/>');
+document.querySelector('#lazada_space').innerHTML = lazada_content.replaceAll('\n','<br/>');
+document.querySelector('#tiki_space').innerHTML = tiki_content.replaceAll('\n','<br/>');
 
 /*===SETUP NGÀY GIỜ===*/
 var updateTime = new Date(); //updateTime
