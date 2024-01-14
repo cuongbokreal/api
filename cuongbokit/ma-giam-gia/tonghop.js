@@ -151,13 +151,14 @@ var overlay = document.getElementById('overlay');
   var popupContainer = document.getElementById('popupContainer');
   var popupContent = document.getElementById('popupContent');
 
-shopee_content = shopee_content.replaceAll('\n','<br>');
-lazada_content = shopee_content.replaceAll('\n','<br>');
-tiki_content = shopee_content.replaceAll('\n','<br>');
+shopee_content = encodeHTML(shopee_content.replaceAll('\n','<br>'));
+lazada_content = encodeHTML(lazada_content.replaceAll('\n','<br>'));
+tiki_content = encodeHTML(tiki_content.replaceAll('\n','<br>'));
+
 var api_mgg_content = ghim_content + 
-  `<div data-html="${encodeHTML(shopee_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã SHOPEE ${today}</div>
-  <div data-html="${encodeHTML(lazada_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã LAZADA ${today}</div>
-  <div data-html="${encodeHTML(tiki_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã TIKI ${today}</div>` ; 
+  `<div data-html="${(shopee_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã SHOPEE ${today}</div>
+  <div data-html="${(lazada_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã LAZADA ${today}</div>
+  <div data-html="${(tiki_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã TIKI ${today}</div>` ; 
 console.log(api_mgg_content)
 
 /*===SETUP NGÀY GIỜ===*/
