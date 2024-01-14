@@ -147,7 +147,14 @@ var tiki_content = `<b>TIKI</b>
 🔥 Các deal ngành hàng khác Ad sẽ cập nhật tiếp tại https://www.trumgiamgia.net/ `
 
 
-var api_mgg_content = ghim_content + shopee_content + lazada_content + tiki_content 
+var overlay = document.getElementById('overlay');
+  var popupContainer = document.getElementById('popupContainer');
+  var popupContent = document.getElementById('popupContent');
+
+var api_mgg_content = ghim_content + 
+  `<div data-html="${encodeHTML(shopee_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã SHOPEE ${today}</div>` +
+  `<div data-html="${encodeHTML(lazada_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã LAZADA ${today}</div>` +
+  `<div data-html="${encodeHTML(tiki_content)}" onclick="popup(this.getAttribute('data-html'))">Xem mã TIKI ${today}</div>` ; 
 
 /*===SETUP NGÀY GIỜ===*/
 var updateTime = new Date(); //updateTime
@@ -195,3 +202,23 @@ function decodeHTML(input) {
     var doc = new DOMParser().parseFromString(input, "text/html");
     return doc.documentElement.textContent;
 }
+function popup(htmlContent) {
+    popupContent.innerHTML = decodeHTML(htmlContent);
+    popupContainer.style.display = 'block';
+    overlay.style.display = 'block';
+    setTimeout(function() {
+      popupContainer.style.opacity = '1';
+    }, 10);
+  }
+
+  function closePopup() {
+    popupContainer.style.opacity = '0';
+    overlay.style.display = 'none';
+    setTimeout(function() {
+      popupContainer.style.display = 'none';
+    }, 300);
+  }
+
+  overlay.addEventListener('click', function() {
+    closePopup();
+  });
