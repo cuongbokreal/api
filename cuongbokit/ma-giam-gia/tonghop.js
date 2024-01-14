@@ -200,7 +200,7 @@ function encodeHTML(input) {
                 .replace(/</g, "&lt;")
                 .replace(/>/g, "&gt;")
                 .replace(/"/g, "&quot;")
-                .replace(/'/g, "&apos;");
+                .replace(/'/g, "&#39;");
 }
 function decodeHTML(input) {
     var doc = new DOMParser().parseFromString(input, "text/html");
