@@ -151,9 +151,9 @@ var overlay = document.getElementById('overlay');
   var popupContainer = document.getElementById('popupContainer');
   var popupContent = document.getElementById('popupContent');
 
-shopee_content = (shopee_content.replaceAll('\n','<br>'));
-lazada_content = (lazada_content.replaceAll('\n','<br>'));
-tiki_content = (tiki_content.replaceAll('\n','<br>'));
+shopee_content = shopee_content.replaceAll('\n','<br>');
+lazada_content = lazada_content.replaceAll('\n','<br>');
+tiki_content = tiki_content.replaceAll('\n','<br>');
 
 document.querySelector('#shopee_space').innerHTML = shopee_content;
 document.querySelector('#lazada_space').innerHTML = lazada_content;
@@ -210,14 +210,15 @@ function decodeHTML(input) {
     return doc.documentElement.textContent;
 }
 function popup(htmlContent) {
-    popupContent.innerHTML = decodeHTML(htmlContent);
+    popupContent.innerHTML = decodeHTML(htmlContent).replaceAll('\n','<br/>');
     popupContainer.style.display = 'block';
     overlay.style.display = 'block';
     popupContainer.focus()
     setTimeout(function() {
       popupContainer.style.opacity = '1';
     }, 10);
-    $("#overlay").each(function(){
+    
+    $("#popupContent").each(function(){
      $(this).html( $(this).html().replace(/((http|https|ftp):\/\/[\w?=&.\/-;#~%-]+(?![\w\s?&.\/;#~%"=-]*>))/g, '<a rel="nofollow" target="_blank" href="$1">$1</a> ') );
     });
   }
