@@ -9,102 +9,95 @@ https://cuongbokit.blogspot.com/2022/10/cach-nhan-voucher-highlands-mua-2-tinh-1
 var shopee_content = `<h2><b>SHOPEE</b></h2>
 ➖➖➖➖SHOPEE➖➖➖➖
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• 0H: Tặng sẵn 3 mã Freeship 15K/25K trong ví: https://shope.ee/1LGPZOEGn0  (back vào 12H, 18H, 20H)
-• 0H: Lưu mã Freeship Xtra 300K/100K tại: https://shope.ee/7pTy6OKKfu  (back vào 9H, 12H, 18H)
-• Đổi mã Freeship giảm 50% tối đa 40K: https://shope.ee/40HBAQZjeK 
-• Quay mã Freeship xu: https://shope.ee/l2P4tQoa 
+• 18H: Back mã Freeship Xtra 300K/100K tại: https://shope.ee/LODupRFwf 
+• Tặng sẵn 3 mã Freeship 15K/25K trong ví: https://shope.ee/8Ujmt2QDST 
+• Đổi mã Freeship giảm 50% tối đa 40K: https://shope.ee/8KQMgjVBJg 
+• Quay mã Freeship xu: https://shope.ee/8pMdHeXg5D 
 .
-🔥MÃ ÁP SẢN PHẨM CÓ TAG “VOUCHER XTRA”: back vào 9H, 12H, 18H
-• 0H: Mã giảm 20% tối đa 150K/400K, 15% tối đa 100K/100K. Lưu mã tại: https://shope.ee/9pF4sZXKme 
-• 0H: 81VCX500K giảm 15% tối đa 500K đơn từ 1500K. Nếu 0H không nhập tay được thì lưu tại: https://shope.ee/9pF4sZXKme 
+🔥MÃ ÁP SẢN PHẨM CÓ TAG “VOUCHER XTRA”:
+• 18H: Back mã giảm 20% tối đa 150K/400K, 15% tối đa 100K/100K
+=> Lưu mã tại: https://shope.ee/9KIufjS8Gu  
 .
-🔥MÃ TOÀN SÀN - SHOPEEREWARDS: tùy hạng 
-• 0H: Mã giảm 12% tối đa đến 3tr(back vào 9H, 12H, 15H, 18H, 21H)
-• 9H: Back mã giảm 4%-7% tối đa 99K
-=> Lưu mã tại: https://shope.ee/40HBAQZjeK 
+🔥HÀNG QUỐC TẾ: https://shope.ee/6fIIeYvIC8 
+• 21H: CBNUCLEAR giảm 100K đơn từ 300K. List sản phẩm áp mã: https://shope.ee/3L1qgRq7J7  (back)
 .
-🔥MÃ ÁP ĐA SỐ SẢN PHẨM:
-• 0H: AFFCLU2 giảm 30% tối đa 30K đơn từ 99K. List sản phẩm áp mã: https://shope.ee/6KfCi9fzaj 
-• AFFSL36 giảm 20% tối đa 25K đơn từ 50K. List sản phẩm áp mã: https://shope.ee/6ALhhmf7Lw 
-.
-🔥MÃ ÁP SHOPEEMALL: 
-• 0H, 12H: Mã giảm 20% tối đa 45K đơn từ 150K
-=> Lưu mã tại: https://shope.ee/6fI36lnSD6 
+🔥LAMY: https://shope.ee/1AxKuMAsu8 
+• 21H: LAMY100K2 (mã shop) giảm 200K đơn từ 400K
 .
 🔥MÃ LIVE:
-• 0H: Có thể back mã toàn sàn giảm 20% tối đa 60K/250K, 75K/200K + giảm 30K/99K. Lưu mã tại giỏ live: https://shope.ee/2q5Ix8TXE3  
-• 0H: Mã xtra giảm 50% tối đa 25K/0Đ, 30% tối đa 20K/0Đ, 20% tối đa 50K/100K tặng sẵn(back vào 11H, 20H, 22H). Tham khảo list: https://shope.ee/2ApYBRIn69  (chỉ đúng 80-90%, gắn không áp được thì đổi)
-• 0H: Mã áp đa số giảm 20% tối đa 25K/0Đ, 10% tối đa 30K/0Đ tặng sẵn
-• 0H: Mã thời trang giảm 12% tối đa 100K/350K, 15% tối đa 25K/0Đ tặng sẵn
+• 20H, 22H: Back mã xtra giảm 50% tối đa 25K/0Đ, 30% tối đa 20K/0Đ, 20% tối đa 50K/100K tặng sẵn. Tham khảo list: https://shope.ee/5fPbu2pFAG  (chỉ đúng 80-90%, gắn không áp được thì đổi)
+• Mã áp đa số giảm 20% tối đa 25K/0Đ, 10% tối đa 30K/0Đ tặng sẵn
+• Mã thời trang giảm 12% tối đa 100K/350K, 15% tối đa 25K/0Đ tặng sẵn
 . 
 🔥MÃ VIDEO: 
-• 0H: Back mã giảm 30K/99K, 60K/199K, 150K/399K. List sản phẩm áp mã: https://shope.ee/3feNWVpgU3 
-• 0H: Back mã giảm 50% tối đa 25K/49K, 25% tối đa 50K/129K. List sản phẩm áp mã: https://shope.ee/VhNMuzW9x 
-• Mã áp đa số giảm 30K/199K, 15K/69K(lọc bách hóa)
-=> Lưu mã tại: https://shope.ee/qKDlWyJkR  
+• Mã giảm 30K/99K, 60K/199K. List sản phẩm áp mã: https://shope.ee/8KQVRXaOkm 
+• Mã giảm 25% tối đa 50K/129K. List sản phẩm áp mã:  https://shope.ee/4KuLhnSMls 
+• Mã giảm 30K/199K, 15K/69K áp đa số
+=> Lưu mã tại: https://shope.ee/3VLA6jg159 
 .
-🔥MÃ ĐIỆN TỬ: 
-• 0H: Mã giảm 10% tối đa 500K đơn từ 300K
-• Mã điện tử giảm 11K/0Đ, 10% tối đa 1tr, 12% tối đa 200K 
-=> Lưu mã tại: https://shope.ee/1ftN9ZtUnZ 
-.
-🔥SỨC KHỎE & THÚ CƯNG: https://shope.ee/509p7hyPAg 
-• 0H: HEALTH30K8 giảm 10% tối đa 30K đơn từ 150K
-• 0H: HEALTH100K8 giảm 7% tối đa 100K đơn từ 300K
-• 0H: PET20K8 giảm 20K đơn từ 250K
-• 0H: PET50K8 giảm 7% tối đa 50K đơn từ 350K
-• 0H: HC15K8 giảm 10% tối đa 15K đơn từ 99K
-• 0H: HC30K8 giảm 7% tối đa 30K đơn từ 169K
-.
-🔥SHOPEEFOOD: https://shope.ee/8Ujbj5PXzQ   
-• 10H: VANNANG, VANNANG40, VANNANG70, VANNANG100 giảm 130K/130K, 40K/40K, 70K/70K, 100K/100K
-• 14H: VANNANG, VANNANG30, VANNANG60, VANNANG90 giảm 130K/130K, 30K/30K, 60K/60K, 90K/90K
-=> Xem chi tiết: https://shopeefood.vn/bo-suu-tap/deal-van-nang-ve-thang-0d 
-.
-🔥MÃ THỜI TRANG LÀM ĐẸP: 
-• Mã giảm 14% tối đa 100K đơn từ 600K: https://shope.ee/7fAaHgxwQb 
-• Mã giảm 14% tối đa 151K đơn từ 999K: https://shope.ee/8A6qsbwAwI 
-• Mã giảm 14% tối đa 250K đơn từ 1tr599: https://shope.ee/6zutUT4k2T 
-👉 Mở shopee nhanh tại đây giúp ad: https://shope.ee/9KIoHeiJPn 
+🔥MÃ ÁP ĐA SỐ SẢN PHẨM:
+• AFFFB78 giảm 20% tối đa 30K đơn từ 88K. List sản phẩm áp mã: https://shope.ee/Vhe78iMG8 
+• AFFDA01 giảm 30K đơn từ 99K. List sản phẩm áp mã: https://shope.ee/g13L3TC8E 
 .
 🔥MÃ KHÁC: 
-• NSF01P125 giảm 25K đơn từ 70K. List sản phẩm áp mã: https://shope.ee/20W39XUATL  
-• NSF01P1HB giảm 25K đơn từ 55K. List sản phẩm áp mã: https://shope.ee/7pTq6GYMKe 
-• FMCGTTS500K giảm 100K đơn từ 500K. List sản phẩm áp mã: https://shope.ee/6ALeXNAeBw 
-• FMCGTTS50K giảm 15K đơn từ 50K. List sản phẩm áp mã: https://shope.ee/7KXbvWJGe9 
-• FMCGTTS99K giảm 15% tối đa 100K đơn từ 99K. List sản phẩm áp mã: https://shope.ee/7znIik88W1 
-• WCP2412 giảm 15% tối đa 35K đơn từ 200K. List sản phẩm áp mã: https://shope.ee/6Kf7972jOX 
-• Mã shopeepay giảm 8K, 8% tại: https://shope.ee/4VDO89ke3B 
+• NSF01HBRE giảm 25K đơn từ 50K. List sản phẩm áp mã: https://shope.ee/4KuEiYTAF0 
+• FMCGTTS500K giảm 100K đơn từ 500K. List sản phẩm áp mã: https://shope.ee/1qD2tfrh5T 
+• FMCGTTS50K giảm 15K đơn từ 50K. List sản phẩm áp mã: https://shope.ee/20WT5yZb8y 
+• FMCGTTS99K giảm 15% tối đa 100K đơn từ 99K. List sản phẩm áp mã: https://shope.ee/2fm9tCbBWS 
+• WCP2412 giảm 15% tối đa 35K đơn từ 200K. List sản phẩm áp mã: https://shope.ee/4fX4iDEm3f 
+• Mã shopeepay giảm 8K, 8% tại: https://shope.ee/2q5WubnC6Y 
 .
 🔥GAME SHOPEE: 
-• 0H, 9H: Mở hộp quà rewards: https://shope.ee/40HBAQZjeK  hoặc tại: https://shope.ee/2VSNNh5Vbm 
-• 0H: Thử thách Shopee: https://shope.ee/B4SbPIebI 
-• 0H: Số gì đây: https://shope.ee/8A6k86sb9I 
-• 0H: Quay mã toàn sàn giảm 100K/100K, 20K/180K cho 0H dùng: https://shope.ee/602FY85WNR 
+• Mở hộp quà rewards: https://shope.ee/8KQMgjVBJg  hoặc tại: https://shope.ee/4VDe7hIyLw 
+• Thử thách Shopee: https://shope.ee/4fX4K0IPHH 
+• Số gì đây: https://shope.ee/2flzwKPx4l 
+• Quay mã toàn sàn giảm 100K/100K, 20K/180K cho 0H dùng: https://shope.ee/3VL6vrRBAI 
 .
-⚠️NOTE: Trước khi đặt hàng, bấm vào link này giúp ad đạt đủ KPI, để xin thêm nhiều voucher, ưu đãi xịn cho nhóm nhé: https://shope.ee/8KQAKQ0lNX `
-var lazada_content = `<h2><b>LAZADA</b></h2>
-➖➖➖➖LAZADA➖➖➖➖
+⚠️NOTE: Trước khi đặt hàng, bấm vào link này giúp ad đạt đủ KPI, để xin thêm nhiều voucher, ưu đãi xịn cho nhóm nhé: https://shope.ee/3pxxKTPyke 
+`;
+
+var lazada_content = `➖➖➖➖LAZADA➖➖➖➖
+🔥MiniGame độc quyền nhận voucher đến 2tr: https://www.facebook.com/groups/584602429633228/posts/1087549199338546 
+.
 🚛MIỄN PHÍ VẬN CHUYỂN:
-• 0H: Lưu mã Freeship 20K/0Đ, 5K/19K, 15K/49K, 25K/125K, 50K/300K tại: https://s.lazada.vn/s.3i4Ix?cc  + https://s.lazada.vn/s.3i4Iy?cc 
+• Lưu mã Freeship 20K/0Đ, 5K/19K, 15K/49K, 25K/125K, 50K/300K tại: https://s.lazada.vn/s.3PMX1?cc  + https://s.lazada.vn/s.3PMcL?cc 
 .
-🔥12H, 20H: MÃ TOÀN SÀN GIẢM 100K ĐƠN TỪ 500K: có thể lên trễ 1p
-=> Lưu mã tại: https://s.lazada.vn/s.3i4Iz?cc  
+🔥BANNER SĂN MÃ TOÀN SÀN, FREESHIP LAZ: 
+• 18H, 21H: Mã nhập tay giảm 50K đơn từ 200K
+• 19H, 21H: Mã nhập tay giảm 111K đơn từ 300K
+• 20H: Lưu mã giảm 25K đơn từ 99K
+• 20H: Mã nhập tay giảm 50K/99K, 150K/500K
+• 20H30: Lưu mã giảm 50K đơn từ 250K
+• 20H, 21H: Lưu mã Freeship giảm 25K đơn từ 150K
+=> Săn mã tại: https://s.lazada.vn/s.3PMX0?cc 
 .
-🔥9H, 12H: LOẠT MÃ NGâN HÀNG, ZALOPAY, MOMO:
-=> Lưu mã tại: https://s.lazada.vn/s.3i4IB?cc  
+🔥20H: MÃ TOÀN SÀN GIẢM 240K ĐƠN TỪ 800K:
+=> Lưu mã tại: https://s.lazada.vn/s.3PMcn?cc 
+.
+🔥20H: MÃ NHẬP TAY GIẢM 100K ĐƠN TỪ 500K:
+=> Săn mã tại: https://s.lazada.vn/s.3PMcQ?cc 
+.
+🔥LOẠT MÃ GIẢM 100K/500K TRÊN Ô TÌM KIẾM CÒN LƯỢT:
+• https://s.lazada.vn/s.3PMcr?cc  
+• https://s.lazada.vn/s.3PMcO?cc 
+• https://s.lazada.vn/s.3PMcs?cc  
+• https://s.lazada.vn/s.3PMci?cc 
+• https://s.lazada.vn/s.3PMcl?cc  
+• https://s.lazada.vn/s.3PMcD?cc 
+=> Lựa sản phẩm tại: https://s.lazada.vn/s.3PMcQ?cc 
 .
 🔥DEAL TRỢ GIÁ, 1K, 9K, X9K:
-• 0H: Deal hot 1K, 9K, dưới 49K: https://s.lazada.vn/s.3i4sU?cc  
-• 0H, 12H, 20H: Deal trợ giá - flash sale: https://s.lazada.vn/s.3i4s0?cc  
-• Choice: https://s.lazada.vn/s.3i4sb?cc  
-• Deal dùng thử 9K, x9K: https://s.lazada.vn/s.3i4sX?cc  
+• 20H: Deal trợ giá - flash sale: https://s.lazada.vn/s.3PMcy?cc  
+• Deal hot 1K, 9K, dưới 49K: https://s.lazada.vn/s.3PMcA?cc  
+• Choice: https://s.lazada.vn/s.3PMXZ?cc  
+• Deal dùng thử 9K, x9K: https://s.lazada.vn/s.3PMcu?cc  
 .
 🔥LAZGAME: 
-• 0H: Đổi Gems lấy quà 0Đ, mã toàn sàn: https://s.lazada.vn/s.3i4sd?cc  
-• 0H: Đổi sao: https://s.lazada.vn/s.3i4s4?cc  
-• 0H: Đổi xu: https://s.lazada.vn/s.3i4s3?cc 
-`
+• Đổi Gems lấy quà 0Đ, mã toàn sàn: https://s.lazada.vn/s.3PMcH?cc 
+• Đổi sao: https://s.lazada.vn/s.3PMct?cc  
+• Đổi xu: https://s.lazada.vn/s.3PMcE?cc 
+.
+🔥20H: LƯU VOUCHER BONUS GIẢM ĐẾN 800K: https://s.lazada.vn/s.3PMcn?cc `
 var tiki_content = `<b>TIKI</b>
 ➖➖➖➖TIKI➖➖➖➖
 ✨ Tiki ngon: https://shorten.asia/earBSNjs
