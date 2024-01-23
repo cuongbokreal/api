@@ -72,14 +72,17 @@
       max-width: 80px;
       width: auto;
   }
+  .result-container {
+    margin: 120px 0 0 0;
+  }
 }
 @media screen and (max-width: 375px){
   .result-item img {
       max-width: 75px;
       width: auto;
   }
-  #result3 {
-    transform: translate(-55px, 65px);
+  .result-container {
+    margin: 120px 0 0 0;
   }
   #result3 {
     transform: translate(-55px, 65px);
