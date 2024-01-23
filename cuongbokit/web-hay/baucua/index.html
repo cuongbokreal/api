@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Bầu Cua Game - Cuongbok</title>
+  <link rel="preload" href="https://i.imgur.com/AtUA92A.jpg" as="image">
+  <link rel="preload" href="https://i.imgur.com/OuNwS3W.png" as="image">
+  <link rel="preload" href="https://i.imgur.com/mlOjbw6.png" as="image">
+  <link rel="preload" href="https://i.imgur.com/lYgaNdF.png" as="image">
+  <link rel="preload" href="https://i.imgur.com/WFbCNDN.png" as="image">
+  <link rel="preload" href="https://i.imgur.com/bPaBuzH.png" as="image">
+  <link rel="preload" href="https://i.imgur.com/1Ks7ofX.png" as="image">
+  <link rel="preload" href="https://i.imgur.com/MtPVEZG.png" as="image">
+</head>
+<body>
+  <div class="game-container">
+    <h5 style="z-index:999">bau cua tom ca by <a href="https://fb.com/cuongbok">Cuongbok</a>, random 100% uy tin</h5>
+    <div class="setting-container">
+
+    </div>
+    <div class="result-container">
+      <!-- Kết quả 1 -->
+      <div class="result-item" id="result1">
+          <img src="https://i.imgur.com/WFbCNDN.png" alt="Result 1">
+      </div>
+      <!-- Kết quả 2 -->
+      <div class="result-item" id="result2">
+          <img src="https://i.imgur.com/lYgaNdF.png" alt="Result 2">
+      </div>
+      <!-- Kết quả 3 -->
+      <div class="result-item" id="result3">
+          <img src="https://i.imgur.com/1Ks7ofX.png" alt="Result 3">
+      </div>
+    </div>
+    <div class="disc-container">
+        <!-- Hình ảnh của đĩa -->
+        <img src="https://i.imgur.com/AtUA92A.jpg" alt="Disc">
+    </div>
+    <div class="lid-container">
+        <!-- Hình ảnh của nắp -->
+        <img src="https://i.imgur.com/OuNwS3W.png" alt="Disc">
+    </div>
+    <div class="action">
+      <button id="nan" onclick="nan()" class="tool-btn"> Xóc </button>
+      <button id="nap" onclick="nap('close')" data-kq="" class="tool-btn">Đóng nắp</button>  
+    </div>
+    <div class="history">
+      <h2>Lịch sử kết quả:</h2>
+      <textarea id="history" class="tool-input" style="height: 250px;" readonly="true"></textarea>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
