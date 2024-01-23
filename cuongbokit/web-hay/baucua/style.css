@@ -67,6 +67,11 @@
     width: auto;
   }
 }
+@media screen and (max-width: 410px)
+.result-item img {
+    max-width: 80px;
+    width: auto;
+}
 
 
 /*IMPORT*/
