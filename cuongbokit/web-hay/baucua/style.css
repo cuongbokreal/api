@@ -1,0 +1,91 @@
+.game-container {
+  margin: 260px 0 0 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    position: relative;
+}
+
+.result-container {
+  margin: 130px 0 0 0;
+    position: absolute;
+    display: flex;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.result-item {
+    margin: 0 10px;
+    position: relative;
+    z-index: 2; /* Z-index mặc định cho các kết quả */
+}
+
+.result-item img {
+  max-width: 80px;
+    width: 100%; /* Điều chỉnh kích thước ảnh kết quả nếu cần */
+    height: auto;
+}
+
+#result1 { 
+  transform: translate(55px, 75px)
+}
+#result2 { 
+  transform: rotate(0deg); 
+}
+#result3 { 
+  transform: translate(-55px, 75px)
+}
+.lid-container{
+  transform: translate(0px, -300px);
+  transition: transform 1s ease; /* Thêm transition */
+}
+.lid-container img{
+  max-width:400px;
+  width:100%;
+  heith:auto;
+}
+.disc-container {
+  width: 100%;
+    margin-top: 20px;
+    position: absolute;
+    z-index: -1; /* Z-index thấp hơn để nằm dưới các kết quả */
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.disc-container img {
+    width: 400px; /* Điều chỉnh kích thước ảnh đĩa nếu cần */
+    height: 100%;
+}
+
+/* Media query for screens 640px wide or narrower */
+@media screen and (max-width: 640px) {
+  #history{width:100%}
+  .result-item img {
+    max-width: 85px;
+    width: auto;
+  }
+}
+
+
+/*IMPORT*/
+button{
+  cursor:pointer;
+}
+.tool-input {
+    font-family: "Roboto", sans-serif;
+    width: 80%;
+    border: 1px solid;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+.tool-btn{
+  padding: 10px;
+    margin: 5px;
+    color: #fff;
+    background-color: #36bea6;
+    border-color: #36bea6;
+}
