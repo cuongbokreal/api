@@ -40,7 +40,7 @@
   function clickYes() {
   	document.querySelector("#postBody > div > div > center > div.choose").innerHTML = `
   <button id="yes" onclick="clickYes()" class="btn-option">Yes</button>`;
-  	thbao.innerHTML = `Bấm Yes rồi nên không nhấn được nút No nữa đâu nhé:))`;
+  	thbao.innerHTML = `Bấm Yes rồi nên không nhấn được nút No nữa đâu nhé:)) <br/> <a id="refText" href="/2024/02/tao-trang-nhan-li-xi-tu-ban-be-hien-qr-chuyen-khoan.html" target="_blank">Tạo trang nhận lì xì tại đây</a>`;
   	Swal.fire({
   		title: `${upperFistCase(to)} biết ${cau} sẽ chọn Yes mà`,
   		html: `Nhận lì xì cũng ngại lắm nhưng mà STK ${to} <b>${stk}</b> <b>${bank}</b> nhaaa 😘 <img class="img_ck" src="https://img.vietqr.io/image/${bank}-${stk}-qr_only.jpg"/>`,
