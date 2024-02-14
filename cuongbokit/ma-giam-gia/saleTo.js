@@ -37,8 +37,8 @@ var content_dday = `
 • 0H: STAIPR1502CNMSLK giảm 20% tối đa 40K đơn từ 99K
 • 9H: Back mã giảm 6%, 7% tối đa đến 2tr đơn tùy hạng. Lưu mã tại: https://shope.ee/2AqcIOgHUD 
 • Rất nhiều mã giảm 25% tối đa 40K/120K, giảm 20% tối đa 40K/99K, giảm 30K/99K: chờ cập nhật sau trên nhóm zalo, tele vào tối ngày 14/02 và xuyên suốt cả ngày 15/02:
-- Zalo: 
-- Telegram:  (nhanh nhất)
+- Zalo: https://zalo.me/g/fqehfa279
+- Telegram: https://t.me/trumgiamgia (nhanh nhất)
 .
 🔥MÃ ÁP SẢN PHẨM CÓ TAG “VOUCHER XTRA”: back vào 9H, 12H, 15H, 18H, 21H
 • 0H: Mã giảm 15% tối đa 100K đơn từ 120K
@@ -100,8 +100,8 @@ var content_dday = `
 .
 🔥0H: MÃ TOÀN SÀN GIẢM 25% TỐI ĐA 40K ĐƠN TỪ 120K - LƯU TẠI BANNER:
 • Dự kiến có đến 50 link lưu, mỗi link 1 mã khác nhau, dùng rồi vẫn dùng tiếp được: chờ cập nhật sau trên nhóm zalo, tele vào tối ngày 14/02 và xuyên suốt cả ngày 15/02:
-- Zalo: 
-- Telegram:  (nhanh nhất)
+- Zalo: https://zalo.me/g/fqehfa279
+- Telegram: https://t.me/trumgiamgia (nhanh nhất)
 .
 🔥GAME SHOPEE:  
 • 0H, 9H: Mở hộp quà rewards: https://shope.ee/2AqcIOgHUD  hoặc tại: https://shope.ee/4VEX4gg3nP 
