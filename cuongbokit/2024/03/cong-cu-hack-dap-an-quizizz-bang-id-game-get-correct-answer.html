@@ -1,0 +1,207 @@
+<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYrJJzh1N_s6ozu4uUSyRt8720CRxRvb6Z3l0ZMAwlD4kvsPL4wlvZjyFZMAPm_eUnDXmZl_M_ylB5t1B9PyGi3mQjOB7AxMO29wSvHeUQLphsLFh9jBcv8gNgLDi3H369h85LJ4YTMenGCLHql3P6wEToL4ucxVlEJCiZpuqeQpQDYZ9_6V4e7n-1etHJ/s1920/hach-dap-an-quizizz-bang-id-game.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="Công Cụ HACK Đáp Án Quizizz Bằng ID - Get Answer By ID Game - CuongbokIT" border="0" data-original-height="1080" data-original-width="1920" height="360" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYrJJzh1N_s6ozu4uUSyRt8720CRxRvb6Z3l0ZMAwlD4kvsPL4wlvZjyFZMAPm_eUnDXmZl_M_ylB5t1B9PyGi3mQjOB7AxMO29wSvHeUQLphsLFh9jBcv8gNgLDi3H369h85LJ4YTMenGCLHql3P6wEToL4ucxVlEJCiZpuqeQpQDYZ9_6V4e7n-1etHJ/w640-h360/hach-dap-an-quizizz-bang-id-game.jpg" title="Công Cụ HACK Đáp Án Quizizz Bằng ID - Get Answer By ID Game - CuongbokIT" width="640" /></a></div>Công cụ giúp bạn xem đáp án đúng từ mã id game. Chỉ với vài thao tác đơn giản là bạn đã có thể kiểm tra được đáp án <a href="/search?q=Quizizz" target="_blank">Quizizz</a>.<br /><span><!--more--></span>
+
+
+<h4>Công Cụ Hack Đáp Án QUIZIZZ</h4>
+<div id="app">
+  <label style="font-weight:900;font-size:20px;">Nhập ID Game</label>
+  <p>Nhập id và nhấn <b>Xem kết quả</b> sẽ hiển thị ở phía dưới</p>
+  <input class="tool-input" id="idGame" placeholder="id game 6 chữ số, vd: 350411" required type="number"/>
+  <button class="tool-action" id="btnGetAnswer" onclick="getAnswer()">Xem đáp án</button>
+  
+  <div id="kq"><p style="font-weight:900;font-size:15px;">Kết quả hiển thị ở đây:</p></div>
+  
+  <script>
+    var kq = document.querySelector('#kq');
+    
+    function getAnswer(){
+      /*remove event listen tránh spam
+      window.removeEventListener('keydown', getAnswer);
+      document.querySelector('#btnGetAnswer').onclick = '';
+      setTimeout(setEnter,1000);*/
+      
+      kq.innerHTML = '<p style="font-weight:900;font-size:15px;">Kết quả:</p>'; //reset all
+      var idGame = document.querySelector('#idGame').value;
+      
+      var content_html = '';
+      if (idGame.length >= 6){
+        
+        kq.innerHTML = `<center><h4>Đang tìm câu trả lời...</h4><svg class="spinner" height="12" style="text-align: center;" viewbox="-1 0 33 12" width="34">
+    <circle class="loading-dot" cx="4" cy="6" fill="#ee4d2d" r="4"></circle>
+    <circle class="loading-dot" cx="16" cy="6" fill="#ee4d2d" r="4"></circle>
+    <circle class="loading-dot" cx="28" cy="6" fill="#ee4d2d" r="4"></circle></svg></center>`;
+        
+      	fetch(`https://api.quizit.online/quizizz/answers?pin=${idGame}`)
+        .then(cc => cc.json())
+        .then(data => {
+          console.log(data)
+          if(data.message.toLowerCase() == 'ok'){
+            var answers = data.data.answers;
+            answers.forEach(answer => {
+              var thisAnswer = '';
+              answer.answers.forEach(answerChild => {
+                thisAnswer +=  answerChild.text;
+              })
+              content_html += `
+                <div class="kq_space">
+                    <div class="question_space">
+                    ${answer.question.text}
+                    </div>
+                    <div class="answer_space">
+                    ${thisAnswer}
+                    </div>
+                </div>
+              `
+            })
+          }else{
+            content_html = 'Lỗi không tìm thấy id phòng'
+          }
+          document.querySelector('#kq').innerHTML = `<h4>Kết quả:</h4>${content_html}`;
+        })
+      }else{
+        toast({title: 'Lỗi', message: `Vui lòng nhập đúng <b>id game</b> có 6 chữ số`, type: "error", duration: 3000});
+      }
+      
+    }
+    
+    
+    function setEnter(){
+      window.addEventListener('keydown', (event) => {
+        if (event.keyCode === 13) {
+          // Thực hiện function khi nhấn Enter
+          console.log('enter')
+          getAnswer();
+        }
+      });
+    }
+    setEnter();
+    
+  </script>
+</div>
+
+
+<h4>Công Cụ Get Đáp Án Quizizz là gì?</h4>
+<div>Đây là công cụ miễn phí giúp bạn lấy được đáp án chính xác của mỗi câu hỏi trong bài test giúp bạn kiểm tra xem đáp án của mình có đúng hay không. Công cụ này được coi là trợ thủ đắc lực giúp bạn tiến bộ hơn trong học tập nhờ sửa lỗi sai cho bạn, từ đó kiến thức được tiếp thu một cách tự nhiên và nhớ lâu hơn. Chỉ với vài bước đơn giản: nhập id phòng game của bạn => nhấn xem đáp án, vậy là bạn đã biết mình làm đúng hay sai, được bao nhiêu câu, từ đó có thể sửa sai và lĩnh hội kiến thức từ nhân loại cực kì nhanh và dễ hiểu.</div>
+
+<h4>Các bước để xem đáp án Quizizz</h4>
+<div><b>Bước 1:</b> Dán id game có 6 chữ số vào input</div>
+<div><b>Bước 2:</b> Nhấn nút xem đáp án</div>
+<div><b>Bước 3:</b> Sẽ hiện ra đáp án của mỗi câu hỏi</div>
+
+<h4>Lưu ý</h4>
+<div>Không sử dụng công cụ nhằm mục đích không được cho phép</div>
+<div>Sử dụng hợp lý</div>
+Chúc các bạn trải nghiệm vui vẻ!
+<div><br /></div>
+
+
+<style>
+  .postEntry p {
+    margin: 5px;
+  }
+  #app{
+    margin: 20px 0 0 0;
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  #kq{
+    margin:10px 0 0 0;
+    font-family: monospace;
+  }
+  
+  .kq_space{
+  	border: 1px solid pink;
+    border-radius: 10px;
+    margin: 10px 0 0 0;
+    padding: 10px;
+    transition: transform 0.2s ease-in-out;
+    cursor: pointer;
+    background: #fafafa;
+  }
+  .kq_space:hover {
+    transform: scale(1.02);
+    border: 1px solid red;
+    box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.2);
+  }
+  .question_space{
+    font-size: 25px;
+    font-weight: 900;
+    color: black;
+  }
+  
+  .answer_space{
+    font-size: 20px;
+    font-weight: 900;
+    color: #009eff;
+  }
+  
+</style>
+
+<script>
+  //f12
+document.addEventListener('keydown', function(event) {
+  if (event.keyCode === 123 || (event.ctrlKey && event.shiftKey && event.keyCode === 73)) {
+    event.preventDefault();
+    alert('F12 thì chịu dồi!!!');
+  }
+});
+  
+  
+//right mouse
+    var message = "NoRightClicking";
+    function defeatIE() {
+        if (document.all) {
+            alert(message);
+            return false;
+        }
+    }
+    function defeatNS(e) {
+        if (document.layers || (document.getElementById && !document.all)) {
+            if (e.which == 2 || e.which == 3) {
+                alert(message);
+                return false;
+            }
+        }
+    }
+    if (document.layers) {
+        document.captureEvents(Event.MOUSEDOWN);
+        document.onmousedown = defeatNS;
+    } else {
+        document.onmouseup = defeatNS;
+        document.oncontextmenu = defeatIE;
+    }
+    document.oncontextmenu = new Function("return false");
+  
+
+  
+  //Ctrl U
+let checkCtrl = false;
+document.addEventListener('keydown', function(e) {
+    if (e.keyCode === 17) { // Kiểm tra khi phím Ctrl được nhấn
+        checkCtrl = true;
+    }
+});
+
+document.addEventListener('keyup', function(ev) {
+    if (ev.keyCode === 17) { // Kiểm tra khi phím Ctrl được thả ra
+        checkCtrl = false;
+    }
+});
+
+document.addEventListener('keydown', function(event) {
+    if (checkCtrl) { // Kiểm tra nếu đã nhấn Ctrl trước đó
+        if (event.keyCode === 85) { // Kiểm tra khi phím U được nhấn
+            event.preventDefault(); // Ngăn chặn hành vi mặc định của trình duyệt
+          alert('Em xin anh!!!')
+            return false;
+        }
+    }
+});
+
+  
+  setInterval(function(){debugger},100);
+</script>
+
+<!--script>
+  //debugger
+  eval(function(p,a,c,k,e,r){e=String;if(!''.replace(/^/,String)){while(c--)r[c]=k[c]||c;k=[function(e){return r[e]}];e=function(){return'\\w+'};c=100};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('0(2(){3},1);',4,4,'setInterval||function|debugger'.split('|'),0,{}))</script-->
