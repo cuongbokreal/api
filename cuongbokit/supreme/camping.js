@@ -15,8 +15,8 @@
 
 
     /*==== SETTING ====*/
-    var speed = 1000 //số dương, để tầm 20-50 là nhanh nhất, set càng nhỏ càng thao tác nhanh, càng lag
-    var spName = 'Mister Cartoon Work Shirt - Black'; //tên sản phẩm
+    var speed = 200 //số dương, để tầm 20-50 là nhanh nhất, set càng nhỏ càng thao tác nhanh, càng lag
+    var spName = 'Reversible Puffer Jacket - Yellow'; //tên sản phẩm
 
     var firstSize = ["Medium"] //array chứa các size ưu tiên lấy
 
