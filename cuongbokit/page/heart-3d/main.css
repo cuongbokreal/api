@@ -1,0 +1,23 @@
+        canvas {
+            display: block;
+            border-radius: 8px; 
+        }
+        .mobile-controls-info {
+            display: none;
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: #aaa;
+            background-color: rgba(0,0,0,0.7);
+            padding: 10px 15px;
+            border-radius: 5px;
+            font-size: 12px;
+            text-align: center;
+            z-index: 100;
+        }
+        @media (max-width: 768px) {
+            .mobile-controls-info {
+                display: block;
+            }
+        }
