@@ -1,3 +1,4 @@
+
         const videoFeed = document.getElementById('videoFeed');
         const captureButton = document.getElementById('captureButton');
         const combineButton = document.getElementById('combineButton');
