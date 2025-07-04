@@ -627,12 +627,12 @@ planet.position.set(0, 0, 0);
 scene.add(planet);
 
 //text quanh hanh tinh
-const text1 = urlParams.get("text1") && urlParams.get("text1").trim() !== '' ? urlParams.get("text1") : 'Cuongbok';
-const text2 = urlParams.get("text2") && urlParams.get("text2").trim() !== '' ? urlParams.get("text2") : 'Cuongbok';
-const text3 = urlParams.get("text3") && urlParams.get("text3").trim() !== '' ? urlParams.get("text3") : 'Cuongbok';
-text1 = encodeURIComponent(text1)
-text2 = encodeURIComponent(text2)
-text3 = encodeURIComponent(text3)
+var text1 = urlParams.get("text1") && urlParams.get("text1").trim() !== '' ? urlParams.get("text1") : 'Cuongbok';
+var text2 = urlParams.get("text2") && urlParams.get("text2").trim() !== '' ? urlParams.get("text2") : 'Cuongbok';
+var text3 = urlParams.get("text3") && urlParams.get("text3").trim() !== '' ? urlParams.get("text3") : 'Cuongbok';
+text1 = decodeURIComponent(text1)
+text2 = decodeURIComponent(text2)
+text3 = decodeURIComponent(text3)
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
 text1, text2, text3,
