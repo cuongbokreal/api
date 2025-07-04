@@ -613,12 +613,16 @@ const planet = new THREE.Mesh(planetGeometry, planetMaterial);
 planet.position.set(0, 0, 0);
 scene.add(planet);
 
+//url search param 
+var urlParams = new URLSearchParams(window.location.search);
+const text1 = urlParams.get("text1") && urlParams.get("text1").trim() !== '' ? urlParams.get("text1") : 'Cuongbok';
+const text2 = urlParams.get("text2") && urlParams.get("text2").trim() !== '' ? urlParams.get("text2") : 'Cuongbok';
+const text3 = urlParams.get("text3") && urlParams.get("text3").trim() !== '' ? urlParams.get("text3") : 'Cuongbok';
+
+
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
-  'Cuongbok',
-  "ahihi",
-  "ae mình cứ thế thôi hẹ hẹ",
-  "ừ nhỉ",
+text1, text2, text3,
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
