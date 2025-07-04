@@ -85,10 +85,23 @@ const galaxyParameters = {
 };
 
 //const defaultHeartImages = Array.from({ length: 2 }, (_, i) => `images/img${i + 1}.jpg`);
-const defaultHeartImages = ['https://i.postimg.cc/MTYYjQQS/cttt.jpg',
+var defaultHeartImages = [];
+
+//url search param 
+var urlParams = new URLSearchParams(window.location.search);
+// Đọc URL hình ảnh tùy chỉnh
+const imagesParam = urlParams.get('images');
+if (imagesParam) {
+    const parsedImageUrls = imagesParam.split(',').map(url => url.trim()).filter(url => url.length > 0);
+    if (parsedImageUrls.length > 0) {
+        defaultHeartImages = parsedImageUrls;
+    }
+}
+/*
+'https://i.postimg.cc/MTYYjQQS/cttt.jpg',
 'https://i.postimg.cc/Xq7kKYfy/cuongbokit-heart-qrcode-1.png',
 'https://i.postimg.cc/Pf24X1Hb/tao-ma-qr-trai-tim-tinh-yeu-heart-shape.png'
-];
+*/
 
 const heartImages = [
   ...(window.dataCCD?.data?.heartImages || []),
@@ -613,12 +626,10 @@ const planet = new THREE.Mesh(planetGeometry, planetMaterial);
 planet.position.set(0, 0, 0);
 scene.add(planet);
 
-//url search param 
-var urlParams = new URLSearchParams(window.location.search);
+//text quanh hanh tinh
 const text1 = urlParams.get("text1") && urlParams.get("text1").trim() !== '' ? urlParams.get("text1") : 'Cuongbok';
 const text2 = urlParams.get("text2") && urlParams.get("text2").trim() !== '' ? urlParams.get("text2") : 'Cuongbok';
 const text3 = urlParams.get("text3") && urlParams.get("text3").trim() !== '' ? urlParams.get("text3") : 'Cuongbok';
-
 
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
