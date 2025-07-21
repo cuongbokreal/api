@@ -627,9 +627,9 @@ planet.position.set(0, 0, 0);
 scene.add(planet);
 
 //text quanh hanh tinh
-var text1 = urlParams.get("text1") && urlParams.get("text1").trim() !== '' ? urlParams.get("text1") : 'Cuongbok';
-var text2 = urlParams.get("text2") && urlParams.get("text2").trim() !== '' ? urlParams.get("text2") : 'Cuongbok';
-var text3 = urlParams.get("text3") && urlParams.get("text3").trim() !== '' ? urlParams.get("text3") : 'Cuongbok';
+var text1 = urlParams.get("text1") && urlParams.get("text1").trim() !== '' ? urlParams.get("text1") : '';
+var text2 = urlParams.get("text2") && urlParams.get("text2").trim() !== '' ? urlParams.get("text2") : '';
+var text3 = urlParams.get("text3") && urlParams.get("text3").trim() !== '' ? urlParams.get("text3") : '';
 text1 = decodeURIComponent(text1)
 text2 = decodeURIComponent(text2)
 text3 = decodeURIComponent(text3)
