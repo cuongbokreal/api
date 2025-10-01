@@ -1,4 +1,4 @@
-var images = [
+var sliderIMG = [
   'https://i.ibb.co/HDzhpkNR/A-nh-chu-p-ma-n-hi-nh-2025-10-01-172135.jpg',
   'https://i.ibb.co/rKgw4xMv/A-nh-chu-p-ma-n-hi-nh-2025-10-01-172247.jpg',
   'https://i.ibb.co/Jj0BDxvG/A-nh-chu-p-ma-n-hi-nh-2025-10-01-172621.jpg',
