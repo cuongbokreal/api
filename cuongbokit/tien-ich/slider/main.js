@@ -15,15 +15,15 @@ function updateUI(){
   slideNodes.forEach((s,i)=> s.classList.toggle('active', i===current));
   thumbNodes.forEach((t,i)=> t.classList.toggle('active', i===current));
 }
-function next(){ current=(current+1)%images.length; updateUI(); }
-function prev(){ current=(current-1+images.length)%images.length; updateUI(); }
+function next(){ current=(current+1)%sliderIMG.length; updateUI(); }
+function prev(){ current=(current-1+sliderIMG.length)%sliderIMG.length; updateUI(); }
 function goTo(i){ current=i; updateUI(); }
 
 function startTimer(){ stopTimer(); timer=setInterval(next, slideDuration); }
 function stopTimer(){ clearInterval(timer); }
 function resetTimer(){ stopTimer(); startTimer(); }
 
-images.forEach((src,i)=>{
+sliderIMG.forEach((src,i)=>{
   const slide=document.createElement('div');
   slide.className='slide';
   const img=document.createElement('img');
