@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lịch Tập Gym Tương Tác Nâng Cao</title>
+    <style>
+        /* Thiết lập Màu sắc và Font cơ bản */
+        :root {
+            --color-primary: #004e92;      /* Navy Blue - Professional */
+            --color-accent: #00a896;       /* Teal - Highlight/Action */
+            --color-danger: #dc3545;       /* Red - Rest/Warning */
+            --color-background: #f4f4f9;
+            --color-card: #ffffff;
+            --color-dark: #212529;
+            --color-warning: #ffc107;
+            --color-success: #28a745;
+        }
+
+        body { 
+            font-family: 'Inter', Arial, sans-serif; 
+            background-color: var(--color-background); 
+            color: #333; 
+            margin: 0; 
+            padding: 15px; 
+            box-sizing: border-box;
+            line-height: 1.5;
+        }
+        
+        /* Main Container for Responsiveness */
+        .main-container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0;
+        }
+        
+        header { 
+            text-align: center; 
+            margin-bottom: 30px; 
+            background: linear-gradient(135deg, var(--color-primary), #007bff); 
+            color: var(--color-card); 
+            padding: 20px 15px; 
+            border-radius: 12px; 
+            box-shadow: 0 8px 15px rgba(0, 78, 146, 0.2);
+        }
+        h1, h2, h3, h4 { color: var(--color-primary); }
+        
+        /* New Status Card Styling */
+        .user-status-card {
+            background: linear-gradient(45deg, var(--color-primary), #3a7bd5);
+            color: white;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            flex-wrap: wrap;
+            text-align: center;
+            gap: 15px;
+        }
+        .status-item {
+            padding: 5px 10px;
+            min-width: 130px;
+        }
+        .status-value {
+            font-size: 1.8em;
+            font-weight: 800;
+            color: var(--color-warning);
+            margin-top: 5px;
+            text-shadow: 0 0 5px rgba(255, 193, 7, 0.5);
+        }
+        .status-label {
+            font-size: 0.9em;
+            opacity: 0.9;
+        }
+
+        /* Tabs */
+        .tabs { 
+            display: flex; 
+            justify-content: flex-start; 
+            overflow-x: auto; 
+            white-space: nowrap;
+            padding-bottom: 5px;
+            margin-bottom: 25px; 
+            border-bottom: 2px solid #ccc;
+        }
+        .tab-button { 
+            padding: 10px 18px; 
+            margin: 5px 5px 0 0; 
+            border: none; 
+            background-color: #eee; 
+            cursor: pointer; 
+            font-weight: 600; 
+            transition: all 0.3s; 
+            border-radius: 8px 8px 0 0; 
+            flex-shrink: 0; 
+        }
+        .tab-button.active { 
+            background-color: var(--color-primary); 
+            color: var(--color-card); 
+            border-bottom: 2px solid var(--color-primary);
+        }
+        
+        /* Nội dung Lịch tập (Card Design) */
+        .workout-day { 
+            background-color: var(--color-card); 
+            padding: 20px; 
+            border-radius: 16px; 
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08); 
+        }
+        .day-header { 
+            border-bottom: 3px solid var(--color-accent); 
+            padding-bottom: 10px; 
+            margin-bottom: 25px; 
+        }
+        .full-details { 
+            margin-top: 15px; 
+            padding: 15px; 
+            background-color: #e6f7ff; 
+            border-radius: 10px; 
+            border-left: 5px solid var(--color-primary); 
+        }
+        .exercise-list { 
+            list-style: none; 
+            padding: 0; 
+        }
+        .exercise-item { 
+            background-color: var(--color-card); 
+            margin-bottom: 15px; 
+            padding: 15px; 
+            border-radius: 12px;
+            border: 1px solid #e0e7ee;
+            display: flex; 
+            align-items: flex-start; 
+            transition: transform 0.15s, box-shadow 0.2s;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+        .exercise-item:hover {
+            box-shadow: 0 6px 15px rgba(0, 123, 255, 0.1);
+            transform: translateY(-2px);
+        }
+        .exercise-item input[type="checkbox"] { 
+            min-width: 20px;
+            min-height: 20px;
+            margin-right: 15px; 
+            cursor: pointer;
+            margin-top: 5px;
+            accent-color: var(--color-accent);
+        }
+        .exercise-details { 
+            flex-grow: 1; 
+            cursor: pointer;
+            display: flex;
+            flex-direction: column;
+        }
+        .exercise-details strong {
+            font-size: 1.2em;
+            color: var(--color-primary);
+            margin-bottom: 5px;
+            display: flex;
+            align-items: center;
+        }
+        .exercise-details strong svg { margin-right: 8px; }
+
+        .sets-reps, .notes, .rest-time, .muscle-group { 
+            font-size: 0.9em; 
+            color: #555; 
+            margin-top: 5px; 
+        }
+        
+        /* Highlight key parameters */
+        .muscle-group {
+            font-weight: 600;
+            color: var(--color-dark);
+            order: -1; 
+            margin-bottom: 5px;
+            padding: 4px 8px;
+            border-radius: 6px;
+            background-color: var(--color-accent);
+            color: var(--color-card);
+            align-self: flex-start;
+            font-size: 0.9em;
+        }
+        .sets-reps strong {
+            color: var(--color-danger); 
+            font-weight: 800;
+            font-size: 1em;
+        }
+        .rest-time strong {
+            color: var(--color-primary); 
+            font-weight: 800;
+            font-size: 1em;
+        }
+        .notes { font-style: italic; color: #555; margin-top: 8px; }
+
+        /* General Button Styling */
+        .app-button {
+            padding: 14px 30px; 
+            font-size: 1.1em; 
+            border: none; 
+            border-radius: 10px; 
+            cursor: pointer; 
+            transition: all 0.2s ease-in-out; 
+            font-weight: bold;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            text-shadow: 0 1px 1px rgba(0,0,0,0.1);
+        }
+        .app-button svg { width: 20px; height: 20px; fill: currentColor; }
+
+        /* Customize Control Button */
+        .customize-controls { text-align: center; margin: 30px 0; }
+        .customize-controls button { 
+            background: linear-gradient(180deg, var(--color-accent), #008f82);
+            color: var(--color-card); 
+            box-shadow: 0 5px 0 #007064;
+            transform: translateY(0);
+        }
+        .customize-controls button:active { 
+            transform: translateY(2px); 
+            box-shadow: 0 3px 0 #007064;
+        }
+        
+        /* Input metrics */
+        .metrics-input { 
+            background-color: #fffde7; 
+            padding: 20px; 
+            margin-bottom: 25px; 
+            border-radius: 12px; 
+            text-align: center; 
+            border: 1px solid #ffeb3b;
+        }
+        .metrics-input button {
+            background: linear-gradient(180deg, var(--color-primary), #003a68);
+            color: var(--color-card);
+            padding: 10px 20px;
+            border-radius: 8px;
+            box-shadow: 0 3px 0 #003a68;
+            transition: all 0.1s;
+        }
+        .metrics-input button:active { 
+            transform: translateY(1px); 
+            box-shadow: 0 2px 0 #003a68;
+        }
+        .input-group { 
+            display: inline-block; 
+            margin: 0 15px 15px 0; 
+        }
+        .metrics-input input { 
+            padding: 10px; 
+            border-radius: 6px; 
+            border: 1px solid #ccc; 
+            width: 120px;
+            text-align: center;
+        }
+        .suggestion { font-weight: bold; color: #856404; margin-top: 10px; }
+
+        /* Workout Mode Styling (Dark Theme) */
+        #workout-mode { 
+            display: none; 
+            background-color: var(--color-dark); 
+            color: var(--color-card); 
+            min-height: 80vh; 
+            padding: 25px; 
+            border-radius: 16px; 
+            text-align: center; 
+            box-shadow: 0 0 25px rgba(0, 0, 0, 0.7);
+        }
+        #workout-mode h2 { color: var(--color-accent); }
+        .exercise-display { 
+            margin-bottom: 30px; 
+            padding: 20px;
+            background-color: #343a40;
+            border-radius: 12px;
+            border: 1px solid #495057;
+        }
+        .exercise-display h3 { color: var(--color-warning); margin-top: 0; }
+        .rest-timer-display { 
+            font-size: 5em; 
+            color: var(--color-danger); 
+            font-weight: 800; 
+            margin: 30px 0;
+            text-shadow: 0 0 15px rgba(220, 53, 69, 0.8);
+        }
+        .video-container { 
+            margin: 25px auto; 
+            max-width: 100%; 
+            aspect-ratio: 16 / 9; 
+        }
+        .video-container iframe { 
+            width: 100%; 
+            height: 100%; 
+            border-radius: 10px; 
+            border: 4px solid var(--color-accent);
+        }
+        
+        /* Action Buttons */
+        #action-controls {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap; 
+            margin-top: 20px;
+        }
+        .action-button { 
+            /* Inherit general button style */
+            padding: 15px 25px; 
+            font-size: 1.1em; 
+            margin: 8px 5px; 
+            transition: all 0.2s ease-in-out;
+        }
+        .finish-set { 
+            background: linear-gradient(180deg, var(--color-accent), #008f82);
+            color: white; 
+            box-shadow: 0 5px 0 #007064;
+            flex-basis: 100%; 
+        }
+        .finish-set:active { transform: translateY(2px); box-shadow: 0 3px 0 #007064; }
+        
+        .skip-rest { 
+            background: linear-gradient(180deg, #f0ad4e, #eb9316); 
+            color: var(--color-dark);
+            box-shadow: 0 5px 0 #c2880c;
+        }
+        .skip-rest:active { transform: translateY(2px); box-shadow: 0 3px 0 #c2880c; }
+
+        .exit-button {
+            background: linear-gradient(180deg, #6c757d, #545b62);
+            color: white;
+            box-shadow: 0 5px 0 #495057;
+            flex-grow: 1; 
+            min-width: 150px;
+        }
+        .exit-button:active { transform: translateY(2px); box-shadow: 0 3px 0 #495057; }
+        
+        /* Mobile adjustments */
+        @media (max-width: 600px) {
+            body { padding: 10px; }
+            header { padding: 15px 10px; }
+            .tabs { padding-bottom: 10px; }
+            .tab-button { margin: 5px 2px; padding: 10px 12px; font-size: 0.9em; border-radius: 6px 6px 0 0; }
+            
+            .input-group { display: block; margin: 10px 0; }
+            .metrics-input input { width: 90%; max-width: none; }
+            
+            .exercise-item { flex-direction: column; padding: 12px; }
+            .exercise-item input[type="checkbox"] { align-self: flex-start; margin-bottom: 10px; }
+            
+            #action-controls { margin-top: 15px; }
+            .action-button { 
+                width: 100%; 
+                margin: 5px 0; 
+                flex-grow: unset; 
+                padding: 12px 20px;
+            }
+            .finish-set { order: -1; }
+            .rest-timer-display { font-size: 4em; }
+            .status-item { min-width: 100%; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="main-container">
+        <header>
+            <h1>ỨNG DỤNG LỊCH TẬP GYM TƯƠNG TÁC</h1>
+        </header>
+
+        <!-- Khu vực Status Cá nhân (NEW) -->
+        <div id="user-status-card" class="user-status-card">
+            <!-- Content rendered by JS: Streak, Last Workout Date -->
+        </div>
+
+        <!-- Khu vực nhập liệu và Đề xuất -->
+        <div class="metrics-input">
+            <h2>📊 Nhập Thông số Cơ thể</h2>
+            <div class="input-group">
+                <label for="weight">Cân nặng (kg):</label>
+                <input type="number" id="weight" placeholder="70" required>
+            </div>
+            <div class="input-group">
+                <label for="height">Chiều cao (cm):</label>
+                <input type="number" id="height" placeholder="175" required>
+            </div>
+            <button class="app-button" onclick="calculateBMIAndSuggest()">Đề xuất Lịch tập</button>
+            <p id="suggestion-output" class="suggestion"></p>
+        </div>
+
+        <!-- Thanh Tabs chọn Ngày tập -->
+        <div class="tabs" id="day-tabs">
+            <button class="tab-button" data-day="T1" onclick="showDay('T1')">Chủ nhật</button>
+            <button class="tab-button" data-day="T2" onclick="showDay('T2')">Thứ 2</button>
+            <button class="tab-button" data-day="T3" onclick="showDay('T3')">Thứ 3</button>
+            <button class="tab-button" data-day="T4" onclick="showDay('T4')">Thứ 4</button>
+            <button class="tab-button" data-day="T5" onclick="showDay('T5')">Thứ 5</button>
+            <button class="tab-button" data-day="T6" onclick="showDay('T6')">Thứ 6</button>
+            <button class="tab-button" data-day="T7" onclick="showDay('T7')">Thứ 7</button>
+        </div>
+
+        <!-- Nội dung Lịch tập (Hiển thị chi tiết + Checkbox) -->
+        <div id="workout-content" class="workout-content">
+            <!-- Nội dung sẽ được render bởi JavaScript -->
+        </div>
+
+        <!-- KHU VỰC CHẾ ĐỘ TẬP LUYỆN -->
+        <div id="workout-mode" style="display: none;">
+            <h2>CHẾ ĐỘ TẬP LUYỆN HIỆN TẠI</h2>
+            <div class="exercise-display" id="exercise-display">
+                <!-- Thông tin bài tập hiện tại -->
+            </div>
+            
+            <div class="video-container">
+                <iframe id="workout-video-player" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+
+            <div id="rest-mode" style="display: none;">
+                <h3>NGHỈ GIỮA SET</h3>
+                <p style="color: #ccc;">Bài tập tiếp theo: <span id="next-set-info" style="color: var(--color-warning);"></span></p>
+                <div class="rest-timer-display" id="rest-timer">00:00</div>
+                <button class="action-button app-button skip-rest" onclick="skipRest()">
+                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M13.25 12l-5.6-5.6a1 1 0 011.42-1.42L15.3 11.3a1 1 0 010 1.4L9.07 18.62a1 1 0 01-1.42-1.42zM19 5h-1a1 1 0 000 2h1a1 1 0 000-2z" opacity="1"></path></svg>
+                    Bỏ qua Nghỉ
+                </button>
+            </div>
+
+            <div id="action-controls">
+                <button class="action-button app-button finish-set" onclick="finishSet()">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                        <path d="M20.37 6.47l-10 10a1 1 0 01-1.42 0l-5-5a1 1 0 011.42-1.42L9.67 14.3l9.3-9.3a1 1 0 011.4 1.4z"/>
+                    </svg>
+                    Hoàn thành Set <span id="current-set-num">1</span> 
+                </button>
+                <button class="action-button app-button exit-button" onclick="nextExercise()">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                        <path d="M13.25 12l-5.6-5.6a1 1 0 011.42-1.42L15.3 11.3a1 1 0 010 1.4L9.07 18.62a1 1 0 01-1.42-1.42zM19 5h-1a1 1 0 000 2h1a1 1 0 000-2z"/>
+                    </svg>
+                    Bỏ qua Bài tập này
+                </button>
+                <button class="action-button app-button exit-button" onclick="exitWorkoutMode()">
+                    <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                        <path d="M10 20v-4H4V4h16v16h-6v-4H10zM6 6v10h4v-4h4v4h4V6H6z"/>
+                    </svg>
+                    Thoát Chế độ Tập luyện
+                </button>
+            </div>
+            <p id="workout-status" style="margin-top: 20px; font-weight: bold; color: var(--color-accent);"></p>
+        </div>
+    </div>
+
+<script>
+    // Dữ liệu Lịch tập Nâng cao (Data Structure)
+    const workoutData = {
+        // Dữ liệu Chủ nhật: NGHỈ NGƠI HOÀN TOÀN (T1) - NEW
+        "T1": {
+            "title": "CHỦ NHẬT – NGHỈ NGƠI HOÀN TOÀN (ACTIVE RECOVERY)",
+            "duration": "0 phút (Tối đa 30 phút mobility)",
+            "focus": "Phục hồi cơ bắp, Tăng cường tính linh hoạt [64]",
+            "warmup": "Hít thở sâu, Thiền 5 phút, Khởi động nhẹ cổ và vai [64]",
+            "cooldown": "Foam rolling toàn thân 15 phút (Ưu tiên Lưng và Chân), Yoga nhẹ [64]",
+            "exercises": [
+                { id: 0, name: "ACTIVE RECOVERY / FOAM ROLLING", sets_reps: "30 phút", rest: "N/A", notes: "Tập trung vào các nhóm cơ đau nhức. Hạn chế căng thẳng [65].", link: "https://youtube.com/watch?v=kC2D0hT-Gg0", muscle_group: "Mobility, Fascia" }
+            ]
+        },
+        // Dữ liệu Thứ 2: SỨC MẠNH LƯNG
+        "T2": {
+            "title": "THỨ 2 – FULL BACK POWER (SỨC MẠNH + ĐỘ DÀY)",
+            "duration": "100–120 phút",
+            "focus": "Toàn bộ lưng – ưu tiên Deadlift, Bent Row, Pull-Up, T-Bar Row [1]",
+            "warmup": "5 phút rowing machine hoặc jump rope; Band Pull-Apart – 2 x 20; Deadlift 2 hiệp khởi động nhẹ (~40–50% max) [1]",
+            "cooldown": "Cat/Cow Stretch, Lat Stretch, Foam roll nhẹ vùng erector và traps (Tổng 5 phút) [2]",
+            "exercises": [
+                { id: 1, name: "DEADLIFT", sets_reps: "5 x 6", rest: "2 phút", notes: "Không nảy tạ – bắt đầu từ “chết”. Tập trung cảm nhận ở lưng dưới và mông [3].", link: "https://www.youtube.com/watch?v=1F3p84N_6Rk", muscle_group: "Lower Back, Glutes, Hamstrings" },
+                { id: 2, name: "WEIGHTED PULL-UP (Wide Grip)", sets_reps: "4 x max (tối thiểu 6 reps/set)", rest: "90 giây", notes: "Kéo ngực chạm gần xà, gồng nhẹ core [3].", link: "https://www.youtube.com/watch?v=Frs_f2_4V28", muscle_group: "Lats, Upper Back, Biceps" },
+                { id: 3, name: "BENT-OVER BARBELL ROW", sets_reps: "4 x 8–10", rest: "90 giây", notes: "Gập người 45°, kéo tạ về bụng dưới, siết chặt bả vai [4].", link: "https://www.youtube.com/watch?v=gS678c_1w64", muscle_group: "Lats, Mid Back, Rear Delts" },
+                { id: 4, name: "T-BAR ROW (Neutral Grip)", sets_reps: "4 x 10", rest: "90 giây", notes: "Kéo tạ về bụng dưới – dùng xô và rhomboid. Có thể dùng đệm ngực [4, 5].", link: "https://www.youtube.com/watch?v=Fqf8s0N1XvI", muscle_group: "Lats, Rhomboids, Traps" },
+                { id: 5, name: "CHEST-SUPPORTED DUMBBELL ROW", sets_reps: "3 x 12", rest: "60 giây", notes: "Loại bỏ đà, siết chặt 1s ở điểm cao [5].", link: "https://www.youtube.com/watch?v=zoL87h_c72k", muscle_group: "Mid Back, Lats, Rear Delts" },
+                { id: 6, name: "SHRUGS (Barbell or Dumbbell)", sets_reps: "4 x 15", rest: "60 giây", notes: "Chỉ nhún thẳng lên cao, dừng 1s ở đỉnh [2, 5].", link: "https://youtube.com/shorts/T4gexJy6ttc", muscle_group: "Upper Traps" },
+                { id: 7, name: "HYPEREXTENSION", sets_reps: "3 x 20", rest: "45–60 giây", notes: "Nâng người bằng cơ lưng dưới + mông, dừng 1s ở đỉnh [2].", link: "https://www.youtube.com/watch?v=xS5E-uHl0e0", muscle_group: "Lower Back, Glutes, Hamstrings" }
+            ]
+        },
+        // Dữ liệu Thứ 3: NGỰC + VAI TRƯỚC + CORE
+        "T3": {
+            "title": "THỨ 3 – NGỰC + VAI TRƯỚC + CORE (CHEST + FRONT DELT + ABS FOCUS)",
+            "duration": "90–100 phút",
+            "focus": "Ngực trên – giữa, vai trước, phần core chắc khỏe [12]",
+            "warmup": "Dynamic chest opener stretch (2x30s) [6], Cable external rotation (2x15) [6], Incline push-up (2x12) [7]",
+            "cooldown": "Chest doorway stretch, Arm across body stretch, Shoulder rotation with band (Tổng 5 phút) [11]",
+            "exercises": [
+                { id: 8, name: "INCLINE BARBELL PRESS", sets_reps: "4 x 8–10", rest: "90s", notes: "Đặt ghế 30°–45°. Thanh tạ chạm ngực trên [13].", link: "https://youtube.com/shorts/98HWfiRonkE?si=VKU3t-u8-TthR8BM", muscle_group: "Upper Chest, Front Delts" },
+                { id: 9, name: "FLAT DUMBBELL PRESS", sets_reps: "4 x 10", rest: "90s", notes: "Đưa tạ xuống sâu, ép tạ lại gần nhau (squeeze) [14].", link: "https://youtube.com/shorts/aMuWFVDeyYE?si=7IdMmnEt3USUUVu1", muscle_group: "Mid Chest, Front Delts" },
+                { id: 10, name: "CABLE CROSSOVER (High to Low)", sets_reps: "3 x 15", rest: "45–60s", notes: "Kéo dây hình vòng cung, giữ 1s ở giữa [14].", link: "https://youtube.com/shorts/y4RJDSOBEl8?si=uAPG0nG7uiks9S1-", muscle_group: "Chest (Inner/Lower)" },
+                { id: 11, name: "OVERHEAD BARBELL PRESS", sets_reps: "4 x 8", rest: "90–120s", notes: "Siết core để tránh ưỡn lưng. KHÔNG bật người [15].", link: "https://youtube.com/shorts/zoN5EH50Dro?si=IhB-DIK-70jd4UbR", muscle_group: "Front Delts, Triceps, Core" },
+                { id: 12, name: "DUMBBELL FRONT RAISE", sets_reps: "3 x 15", rest: "45–60s", notes: "Nâng đến ngang mặt, giữ cánh tay thẳng [15].", link: "https://youtube.com/shorts/9ThlTL25DH8?si=kGcSSA6B3YT_tqAB", muscle_group: "Front Delts (Isolation)" },
+                { id: 13, name: "WEIGHTED SIT-UP", sets_reps: "3 x 20", rest: "45s", notes: "Cầm đĩa tạ trước ngực. Gập chậm, không bật lưng [16].", link: "https://youtube.com/shorts/T8LffYf0yS8?si=a95AtiqX-f1wuNp5", muscle_group: "Abs, Core Flexors" },
+                { id: 14, name: "HANGING KNEE RAISES", sets_reps: "3 x 15", rest: "45s", notes: "Gồng bụng, không đánh người. Kéo gối lên cao [16].", link: "https://youtube.com/shorts/XQc0WHO90Lk?si=c0IXtKjSH0a3mKx5", muscle_group: "Lower Abs, Core" }
+            ]
+        },
+        // Dữ liệu Thứ 4: ISOLATION XÔ
+        "T4": {
+            "title": "THỨ 4 – LATS DEEP ISOLATION (CHIỀU RỘNG + CHI TIẾT XÔ)",
+            "duration": "90–110 phút",
+            "focus": "Tối ưu chiều rộng xô, siết sâu, sửa lệch [23]",
+            "warmup": "Band Lat Pulldown, Straight-Arm Band Pulldown, Dead Hang Stretch, Scapular Pull-Up (Tổng 10 phút) [17, 18]",
+            "cooldown": "Lat stretch (2x30s), Foam roll vùng xô, Hít thở sâu (Tổng 5 phút) [22, 24]",
+            "exercises": [
+                { id: 15, name: "LAT PULLDOWN (Wide Grip – Pronated)", sets_reps: "4 x 10–12", rest: "60–90s", notes: "Kéo thanh về ngang phần trên ngực (gần xương đòn) [25].", link: "https://youtube.com/shorts/51ql2-2kLfA?si=ld_ZTWIB5_LIswmE", muscle_group: "Lats (Width)" },
+                { id: 16, name: "STRAIGHT-ARM CABLE PULLDOWN", sets_reps: "4 x 12–15", rest: "60s", notes: "Cánh tay luôn duỗi thẳng. Dừng 1s ở vị trí căng xô nhất [25].", link: "https://youtube.com/shorts/qD1WZ5pSuvk?si=BNrNujSeTfyGKpIF", muscle_group: "Lats (Isolation)" },
+                { id: 17, name: "LAT PULLDOWN (Neutral Grip – D-Handle)", sets_reps: "3 x 12", rest: "60s", notes: "Kéo nhẹ về phía dưới ngực. Siết 1 giây [26].", link: "https://youtube.com/shorts/e3S820r53uk?si=Fu5mSL52bGARL0QC", muscle_group: "Lats, Mid Back" },
+                { id: 18, name: "ONE-ARM LAT PULLDOWN (Unilateral Focus)", sets_reps: "3 x 12 mỗi bên", rest: "45–60s", notes: "Ngồi nghiêng nhẹ về bên kéo. KHÔNG dùng biceps [27].", link: "https://youtube.com/shorts/yHqqGd0tXcw?si=d2fW1W2ZVOopkNpd", muscle_group: "Lats (Unilateral)" },
+                { id: 19, name: "CLOSE-GRIP V-BAR PULLDOWN", sets_reps: "3 x 15", rest: "60s", notes: "Tập trung kéo bằng lưng, Thả chậm tối đa [27].", link: "https://youtube.com/shorts/jXRxMJhOCc0?si=wB4fH39jmq8foS1x", muscle_group: "Lats (Thickness)" },
+                { id: 20, name: "KNEELING ROPE LAT PULLDOWN", sets_reps: "3 x 20", rest: "45s", notes: "Quỳ gối, tách 2 tay ra khi kéo xuống – ép sát hông [28].", link: "https://youtube.com/shorts/UGLB-owtdG8?si=aD1kK9VF42zVPZCd", muscle_group: "Lats (Stretch/Contraction)" },
+                { id: 21, name: "DEAD HANG SCAPULAR RETRACTIONS", sets_reps: "2–3 x max", rest: "Active/Stretch", notes: "Treo người, kéo nhẹ bả vai xuống dưới và co lại [28].", link: "https://youtube.com/shorts/nw-FIMwCkLs?si=TeXQLAJrbTS2CfRY", muscle_group: "Scapula/Posture" } // Dùng link Scapular Pull-Up
+            ]
+        },
+        // Dữ liệu Thứ 5: VAI SAU + TRAPS
+        "T5": {
+            "title": "THỨ 5 – REAR DELTS + TRAPS + MID BACK DETAILING",
+            "duration": "90–100 phút",
+            "focus": "Rear delts, Middle/Lower traps, Scapular retraction, Stability control [35]",
+            "warmup": "Band Face Pull, Banded Pull-Apart, Cable Rear Delt Fly (siêu nhẹ), Scapula Push-Up (Tổng 8-10 phút) [29, 30]",
+            "cooldown": "Foam roll traps, scapula, rear delts. Arm across chest stretch (Tổng 5 phút) [34]",
+            "exercises": [
+                { id: 22, name: "INCLINE REVERSE DUMBBELL FLY", sets_reps: "4 x 15", rest: "45–60s", notes: "Cánh tay hình vòng cung, Giữ 1 giây ở đỉnh [36].", link: "https://youtu.be/Zo4Iwb1qgNI?si=BT3ICumlY2OmFyjc", muscle_group: "Rear Delts, Upper Back" },
+                { id: 23, name: "CABLE REAR DELT FLY (CROSS-BODY)", sets_reps: "3 x 15", rest: "45s", notes: "Tập trung kéo bằng khuỷu tay – KHÔNG bắp tay [37].", link: "https://youtube.com/shorts/tF0zKhDqCz8?si=Eon7QNYoZ1Tdpjqt", muscle_group: "Rear Delts (Isolation)" },
+                { id: 24, name: "FACE PULL (ROPE CABLE)", sets_reps: "4 x 15", rest: "60s", notes: "Kéo tay về phía thái dương. Tách dây ra hai bên [37].", link: "https://youtube.com/shorts/4XESS2J75aM?si=QQAfb79tNVt7HGXm", muscle_group: "Rear Delts, Upper/Mid Traps" },
+                { id: 25, name: "DUMBBELL SHRUGS (HEAVY + CONTROLLED)", sets_reps: "4 x 12", rest: "60s", notes: "Dừng 1–2 giây ở đỉnh. Có thể dùng lifting straps [38].", link: "https://youtube.com/shorts/T4gexJy6ttc?si=RNKXBTdixVCG8eyV", muscle_group: "Upper Traps" },
+                { id: 26, name: "MEADOWS ROW (1-ARM BARBELL ROW)", sets_reps: "3 x 10 mỗi bên", rest: "60–75s", notes: "Kéo về hông. Cảm nhận cả xô và scapula [38].", link: "https://youtube.com/shorts/2bjH8LMo6DM?si=NfBZ4cV9ryIAgsvf", muscle_group: "Lats, Mid Back, Traps" },
+                { id: 27, name: "SEAL ROW (CHEST-SUPPORTED)", sets_reps: "3 x 12", rest: "75s", notes: "Không dùng hông – hoàn toàn từ scapula. Dừng nhẹ ở đáy và đỉnh [39].", link: "https://youtube.com/shorts/phVtqawIgbk?si=tJzSiR26VkX13JlI", muscle_group: "Mid/Upper Back (Thickness)" },
+                { id: 28, name: "LAT PRAYER STRETCH + BAND PULL-APART", sets_reps: "2 x 30s/2 x 20", rest: "Active/Stretch", notes: "Tăng linh hoạt scapula – phục hồi rear chain [39].", link: "https://youtube.com/shorts/SuvO4TBwSu4?si=niE4t0Sv59QDKOn9", muscle_group: "Lats, Scapula (Mobility)" } // Dùng link Band Pull-Apart
+            ]
+        },
+        // Dữ liệu Thứ 6: CHÂN SAU + LƯNG DƯỚI
+        "T6": {
+            "title": "THỨ 6 – CHÂN SAU + LƯNG DƯỚI (HINGE POWER FOCUS)",
+            "duration": "90–110 phút",
+            "focus": "Hamstrings, glutes, erector spinae [46]",
+            "warmup": "Glute bridge, Banded Good Morning, Cat-Cow stretch, Hip hinge pattern drill, Romanian DL with empty bar (Tổng 10 phút) [40, 41]",
+            "cooldown": "Hamstring stretch, Glute foam roll, Child’s pose (Tổng 5 phút) [47]",
+            "exercises": [
+                { id: 29, name: "ROMANIAN DEADLIFT (RDL)", sets_reps: "4 x 8", rest: "90s", notes: "Hạ tạ chậm, đẩy hông ra sau. Dừng 1 giây khi hamstrings căng tối đa [48].", link: "https://youtube.com/shorts/Wou9zVQrAfs?si=WLEa7AIdFi6_ym2P", muscle_group: "Hamstrings, Glutes, Lower Back" },
+                { id: 30, name: "GOOD MORNING (BARBELL hoặc BAND)", sets_reps: "3 x 10", rest: "60–75s", notes: "Giữ cột sống trung tính, hông đẩy ra sau. “Siết bụng + ép hông” [49].", link: "https://youtube.com/shorts/7cpldMZjLOs?si=_1dAYlw7csLxzyHp", muscle_group: "Hamstrings, Glutes, Lower Back" },
+                { id: 31, name: "WALKING LUNGES (GLUTE-FOCUSED)", sets_reps: "2 x 20 bước", rest: "90s", notes: "Sải bước dài, thân trên thẳng. Kiểm soát chuyển động [49].", link: "https://youtube.com/shorts/38xlLGfguz4?si=58BiVO2F6Z5ahOAn", muscle_group: "Glutes, Quads, Hamstrings" },
+                { id: 32, name: "GLUTE-HAM RAISE", sets_reps: "3 x 10", rest: "60s", notes: "Isolate hamstrings mạnh mẽ, giữ lưng thẳng [49].", link: "https://youtube.com/shorts/Wpreb69e2fE?si=wcHmoMwmHzZNghg7", muscle_group: "Hamstrings, Glutes" },
+                { id: 33, name: "SEATED BACK EXTENSION", sets_reps: "3 x 15–20", rest: "60s", notes: "Siết cơ dựng sống ở đỉnh – đừng bật người [50].", link: "https://youtube.com/shorts/8rXdAAwm8Rs?si=jbe9wXUgop7eHfTt", muscle_group: "Lower Back, Erector Spinae" },
+                { id: 34, name: "LEG CURL (LYING hoặc SEATED)", sets_reps: "3 x 15", rest: "45–60s", notes: "Thực hiện chậm – giữ 1 giây ở điểm co [50].", link: "https://youtube.com/shorts/ANKSmhT0dTk?si=EzEt4Wgv1i0xMri3", muscle_group: "Hamstrings (Isolation)" },
+                { id: 35, name: "FARMER’S CARRY", sets_reps: "2 x 40 giây đi bộ", rest: "Transition", notes: "Tạ 70–85% sức nắm tay. Gồng bụng – không nghiêng người [51].", link: "https://youtube.com/shorts/6j4mc-3Ze50?si=Vxppof3J3L6r__FY", muscle_group: "Forearms, Traps, Core (Grip)" }
+            ]
+        },
+        // Dữ liệu Thứ 7: MID BACK + LAT ANGLE ROWS
+        "T7": {
+            "title": "THỨ 7 – MID BACK + LAT ANGLE ROWS (SCAPULA CONTROL + SHAPE FOCUS)",
+            "duration": "90–110 phút",
+            "focus": "Lưng giữa (rhomboids, traps giữa), vùng xô giữa [58]",
+            "warmup": "Cable Scapular Pull, Banded Row to Neck, Foam roll nhẹ scapula, Lat band stretch (Tổng 8-10 phút) [52]",
+            "cooldown": "Scapular wall slides, Child’s pose với kéo dây, Deep breathing (Tổng 5 phút) [59]",
+            "exercises": [
+                { id: 36, name: "SEATED CABLE ROW (V-GRIP – CLOSE)", sets_reps: "4 x 10–12", rest: "75s", notes: "Kéo sát bụng dưới. Siết scapula về giữa 1 giây [60].", link: "https://www.youtube.com/shorts/qD1WZ5pSuvk?feature=share", muscle_group: "Lats, Mid Back" },
+                { id: 37, name: "SEATED CABLE ROW (WIDE GRIP)", sets_reps: "4 x 10", rest: "75s", notes: "Cùi chỏ mở 45° ra ngoài. Siết mạnh giữa bả vai [61].", link: "https://youtube.com/shorts/eA6JBY6PV4A?si=FZs19-LPxzUbH3Jm", muscle_group: "Mid Back, Rear Delts" },
+                { id: 38, name: "ROPE CABLE ROW (MID-HIGH ANGLE)", sets_reps: "3 x 15", rest: "60s", notes: "Kéo dây về cổ hoặc ngực trên. Cảm nhận rõ giữa 2 bả vai [61].", link: "https://youtube.com/shorts/LjP2Ut-Rczs?si=gJUbrb2jjQpAL5G1", muscle_group: "Upper Back, Rear Delts" },
+                { id: 39, name: "UNDERHAND BARBELL ROW", sets_reps: "4 x 8–10", rest: "90s", notes: "Kéo tạ về sát bụng dưới. Tay cầm ngửa [61].", link: "https://youtube.com/shorts/vjIkiD5iYkI?si=IjdC8U5eGr_qTupn", muscle_group: "Lats (Lower), Biceps" },
+                { id: 40, name: "CHEST-SUPPORTED MACHINE ROW", sets_reps: "3 x 12", rest: "60s", notes: "Ngồi thẳng ngực áp máy. Loại bỏ đà [62].", link: "https://youtube.com/shorts/FVyVvApcyZY?si=SwKLhYIw0cF3GGrY", muscle_group: "Mid Back, Rhomboids" },
+                { id: 41, name: "ROPE LAT PULLDOWN (KNEELING POSITION)", sets_reps: "3 x 20", rest: "45s", notes: "Quỳ 1 chân, kéo dây xiên ra ngoài. Căng cực đại rồi siết chặt [63].", link: "https://youtube.com/shorts/T5AnFtiZzbY?si=Mu89CmnVJmYFk6qn", muscle_group: "Lats (Lower/Angle)" },
+                { id: 42, name: "HANGING LEG RAISE", sets_reps: "3 x 15", rest: "45s", notes: "Gồng bụng, kéo gối lên sát bụng. Giãn cơ xô cuối buổi [63].", link: "https://youtube.com/shorts/2BWwYkD-z1k?si=bIGRWFYPa1CRPjBC", muscle_group: "Lower Abs, Core"}
+            ]
+        }
+    };
+
+    let currentDayKey = 'T2';
+    let currentWorkout = [];
+    let workoutIndex = 0;
+    let currentSet = 1;
+    let restTimerInterval;
+    let restTimeSeconds = 0;
+    
+    // --- Local Storage User Data (NEW) ---
+    let userData = {
+        lastWorkout: null, // Date object or null
+        workoutStreak: 0,
+    };
+    const STORAGE_KEY = 'gymTrackerUserData';
+
+    // SVG Icons
+    const ICON_FIRE = '<svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 21.5c-1.39-2.06-2.67-3.99-3.79-5.75C6.91 14 6 12.3 6 10c0-3.3 2.7-6 6-6s6 2.7 6 6c0 2.3-.91 4-2.21 5.75-1.12 1.76-2.4 3.69-3.79 5.75z"/></svg>';
+    const ICON_PLAY = '<svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M8 5.14v13.72a1 1 0 001.55.84l9.36-6.86a1 1 0 000-1.68L9.55 4.3a1 1 0 00-1.55.84z"/></svg>';
+    const ICON_CHECK = '<svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M20.37 6.47l-10 10a1 1 0 01-1.42 0l-5-5a1 1 0 011.42-1.42L9.67 14.3l9.3-9.3a1 1 0 011.4 1.4z"/></svg>';
+    const ICON_SKIP = '<svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M13.25 12l-5.6-5.6a1 1 0 011.42-1.42L15.3 11.3a1 1 0 010 1.4L9.07 18.62a1 1 0 01-1.42-1.42zM19 5h-1a1 1 0 000 2h1a1 1 0 000-2z"/></svg>';
+    const ICON_EXIT = '<svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M10 20v-4H4V4h16v16h-6v-4H10zM6 6v10h4v-4h4v4h4V6H6z"/></svg>';
+
+
+    // --- Persistence Functions ---
+    function loadUserData() {
+        try {
+            const storedData = localStorage.getItem(STORAGE_KEY);
+            if (storedData) {
+                const parsedData = JSON.parse(storedData);
+                // Convert ISO string back to Date object
+                if (parsedData.lastWorkout) {
+                    parsedData.lastWorkout = new Date(parsedData.lastWorkout);
+                }
+                userData = { ...userData, ...parsedData };
+            }
+        } catch (e) {
+            console.error("Lỗi khi tải dữ liệu từ Local Storage:", e);
+        }
+        displayUserStatus();
+    }
+
+    function saveUserData() {
+        try {
+            const dataToStore = {
+                ...userData,
+                // Convert Date object to ISO string for storage
+                lastWorkout: userData.lastWorkout ? userData.lastWorkout.toISOString() : null,
+            };
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(dataToStore));
+        } catch (e) {
+            console.error("Lỗi khi lưu dữ liệu vào Local Storage:", e);
+        }
+    }
+
+    function updateStreak() {
+        const now = new Date();
+        const lastWorkout = userData.lastWorkout;
+        
+        // Use DateString comparison for simple day-based streak
+        const todayDateString = now.toDateString();
+
+        if (lastWorkout) {
+            const lastDateString = lastWorkout.toDateString();
+            
+            if (todayDateString === lastDateString) {
+                // Already recorded today, streak count does not change.
+            } else {
+                const yesterday = new Date(now);
+                yesterday.setDate(now.getDate() - 1);
+                const yesterdayDateString = yesterday.toDateString();
+
+                if (lastDateString === yesterdayDateString) {
+                    // Worked out yesterday, continue streak
+                    userData.workoutStreak += 1;
+                } else {
+                    // Missed a day (last workout was before yesterday), reset streak
+                    userData.workoutStreak = 1;
+                }
+            }
+        } else {
+            // First workout ever
+            userData.workoutStreak = 1;
+        }
+
+        userData.lastWorkout = now;
+        saveUserData();
+        displayUserStatus();
+    }
+
+    function displayUserStatus() {
+        const statusCard = document.getElementById('user-status-card');
+        const lastWorkoutDate = userData.lastWorkout;
+        let lastDateDisplay;
+
+        if (lastWorkoutDate) {
+             lastDateDisplay = lastWorkoutDate.toLocaleDateString('vi-VN', { 
+                day: 'numeric', 
+                month: 'numeric', 
+                year: 'numeric' 
+            }); 
+            if (lastWorkoutDate.toDateString() === new Date().toDateString()) {
+                lastDateDisplay = "Hôm nay!";
+            }
+        } else {
+            lastDateDisplay = "Chưa tập";
+        }
+
+        statusCard.innerHTML = `
+            <div class="status-item">
+                <div class="status-value">${userData.workoutStreak}</div>
+                <div class="status-label">Ngày Tập Liên Tục (Streak)</div>
+            </div>
+            <div class="status-item">
+                <div class="status-value">${lastDateDisplay}</div>
+                <div class="status-label">Buổi Tập Gần Nhất</div>
+            </div>
+        `;
+    }
+    // --- End Persistence Functions ---
+
+
+    // --- Utility Functions ---
+    function getSeconds(restString) {
+        if (!restString) return 60;
+        
+        // Xử lý Active/Transition rest time
+        if (restString.toLowerCase().includes('active') || restString.toLowerCase().includes('transition')) return 15; 
+        
+        restString = restString.toLowerCase().replace(' ', '');
+
+        const parseTime = (str) => {
+            let totalSeconds = 0;
+            const minutesMatch = str.match(/(\d+)phút/);
+            const secondsMatch = str.match(/(\d+)(giây|s)/);
+            
+            if (minutesMatch) {
+                totalSeconds += parseInt(minutesMatch[1]) * 60;
+            }
+            if (secondsMatch) {
+                totalSeconds += parseInt(secondsMatch[1]);
+            }
+            return totalSeconds;
+        };
+
+        if (restString.includes('–')) {
+            const parts = restString.split('–');
+            if (parts.length === 2) {
+                const maxPart = parts[1].match(/\d+/g);
+                return maxPart ? parseInt(maxPart[0]) : parseTime(restString);
+            }
+        }
+        
+        const seconds = parseTime(restString);
+        return seconds > 0 ? seconds : 60; 
+    }
+
+    function getSetsCount(setsReps) {
+        const match = setsReps.match(/^(\d+)/);
+        return match ? parseInt(match[1]) : 3; 
+    }
+    
+    function convertLinkToEmbed(link) {
+        if (!link) return '';
+        
+        try {
+            const url = new URL(link);
+            const searchParams = new URLSearchParams(url.search);
+            let videoId = null;
+
+            if (url.hostname.includes('youtu.be')) {
+                videoId = url.pathname.substring(1);
+            } else if (searchParams.has('v')) {
+                videoId = searchParams.get('v');
+            } else if (url.pathname.includes('youtube.com/shorts/')) {
+                videoId = url.pathname.split('/shorts/')[1];
+            } else if (url.hostname.includes('youtube.com') && searchParams.has('v')) {
+                videoId = searchParams.get('v');
+            }
+            
+            if (videoId) {
+                const cleanedVideoId = videoId.split('?')[0].split('&')[0];
+                return `https://www.youtube.com/embed/${cleanedVideoId}?autoplay=1&rel=0`;
+            }
+        } catch (e) {
+            console.error("Invalid link format:", link, e);
+        }
+        return '';
+    }
+    // --- End Utility Functions ---
+
+    // --- UI Control Functions ---
+
+    function showDay(dayKey) {
+        currentDayKey = dayKey;
+        // Cập nhật trạng thái Active cho nút
+        document.querySelectorAll('.tab-button').forEach(btn => {
+            btn.classList.remove('active');
+        });
+        const activeBtn = document.querySelector(`.tab-button[data-day="${dayKey}"]`);
+        if(activeBtn) {
+            activeBtn.classList.add('active');
+        }
+
+        // Render nội dung workout
+        renderWorkout(dayKey);
+        // Ẩn chế độ tập luyện
+        document.getElementById('workout-mode').style.display = 'none';
+        document.getElementById('workout-content').style.display = 'block';
+    }
+
+    // Hàm render chi tiết + Checkbox
+    function renderWorkout(dayKey) {
+        const data = workoutData[dayKey];
+        const contentDiv = document.getElementById('workout-content');
+        let html = '';
+
+        if (!data) {
+            contentDiv.innerHTML = '<p>Dữ liệu cho ngày này đang được cập nhật.</p>';
+            return;
+        }
+
+        html += `
+            <div class="workout-day">
+                <div class="day-header">
+                    <h2>${data.title}</h2>
+                    <p class="focus"><strong>Thời lượng ước tính:</strong> ${data.duration} | <strong>Tập trung:</strong> ${data.focus}</p>
+                </div>
+
+                <div class="full-details">
+                    <h4>* Khởi động (Warm-up):</h4>
+                    <p>${data.warmup}</p>
+                    <h4>* Hồi phục (Cool-down):</h4>
+                    <p>${data.cooldown}</p>
+                </div>
+
+                <h3>📋 Danh sách Bài tập Chính (Tùy chỉnh):</h3>
+                <ul class="exercise-list">
+        `;
+
+        data.exercises.forEach(ex => {
+            html += `
+                <li class="exercise-item">
+                    <input type="checkbox" id="ex-${ex.id}" name="exercise-select" value="${ex.id}" data-day="${dayKey}" ${dayKey === 'T1' ? 'disabled' : 'checked'}>
+                    <label for="ex-${ex.id}" class="exercise-details">
+                        <strong>${ICON_FIRE} ${ex.id}. ${ex.name}</strong>
+                        <div class="muscle-group">Nhóm cơ: ${ex.muscle_group}</div>
+                        <div class="sets-reps">Sets x Reps: <strong>${ex.sets_reps}</strong></div>
+                        <div class="rest-time">Thời gian nghỉ: <strong>${ex.rest}</strong></div>
+                        <div class="notes">Kỹ thuật: ${ex.notes}</div>
+                    </label>
+                </li>
+            `;
+        });
+
+        html += `
+                </ul>
+                <div class="customize-controls">
+                    <button class="app-button" onclick="startWorkout()" ${dayKey === 'T1' ? 'disabled' : ''}>
+                        ${ICON_PLAY} Bắt đầu Tập luyện
+                    </button>
+                    ${dayKey === 'T1' ? '<p style="margin-top: 15px; color: var(--color-danger); font-weight: bold;">Đây là ngày nghỉ. Vui lòng tập trung Phục hồi Tích cực.</p>' : ''}
+                </div>
+            </div>
+        `;
+        contentDiv.innerHTML = html;
+    }
+
+    // --- Workout Mode Logic ---
+
+    function startWorkout() {
+        const selectedCheckboxes = document.querySelectorAll('#workout-content input[name="exercise-select"]:checked');
+        if (selectedCheckboxes.length === 0) {
+            document.getElementById('suggestion-output').textContent = "⚠️ Vui lòng chọn ít nhất một bài tập để bắt đầu!";
+            setTimeout(() => document.getElementById('suggestion-output').textContent = '', 4000);
+            return;
+        }
+
+        currentWorkout = Array.from(selectedCheckboxes).map(checkbox => {
+            const id = parseInt(checkbox.value);
+            return workoutData[currentDayKey].exercises.find(ex => ex.id === id);
+        });
+
+        workoutIndex = 0;
+        currentSet = 1;
+
+        document.getElementById('workout-content').style.display = 'none';
+        document.getElementById('workout-mode').style.display = 'block';
+
+        displayCurrentExercise();
+    }
+
+    function displayCurrentExercise() {
+        if (workoutIndex >= currentWorkout.length) {
+            finishWorkout();
+            return;
+        }
+
+        const ex = currentWorkout[workoutIndex];
+        const totalSets = getSetsCount(ex.sets_reps);
+
+        document.getElementById('rest-mode').style.display = 'none';
+        document.getElementById('action-controls').style.display = 'flex';
+        document.getElementById('action-controls').style.flexWrap = 'wrap';
+        document.getElementById('exercise-display').style.display = 'block';
+        
+        // Cập nhật trạng thái tổng quan
+        document.getElementById('workout-status').textContent = `Bài tập ${workoutIndex + 1} / ${currentWorkout.length} | Tổng Sets: ${totalSets}`;
+        
+        // Sửa lỗi: Cập nhật nút Hoàn thành Set bằng innerHTML
+        const finishButton = document.querySelector('.finish-set');
+        if (finishButton) {
+            finishButton.innerHTML = `${ICON_CHECK} Hoàn thành Set <span id="current-set-num">${currentSet}</span>`;
+        }
+
+        // Hiển thị chi tiết bài tập (trong chế độ tối)
+        const exerciseDisplay = document.getElementById('exercise-display');
+        exerciseDisplay.innerHTML = `
+            <h3>Bài tập hiện tại: ${ex.name}</h3>
+            <p style="color: #ccc;"><strong>Nhóm cơ:</strong> <span style="color: var(--color-accent);">${ex.muscle_group}</span></p>
+            <p style="color: #ccc;"><strong>Sets:</strong> <span style="color: var(--color-warning);">${currentSet}</span> / ${totalSets} | <strong>Reps:</strong> ${ex.sets_reps.split('x')[1].trim()}</p>
+            <p style="color: #ccc;"><strong>Thời gian nghỉ sau set:</strong> <span style="color: var(--color-danger);">${ex.rest}</span></p>
+            <p style="color: #ccc;"><strong>Kỹ thuật:</strong> ${ex.notes}</p>
+        `;
+
+        // Hiển thị Video Hướng dẫn
+        const embedLink = convertLinkToEmbed(ex.link);
+        document.getElementById('workout-video-player').src = embedLink;
+
+        // Lưu thời gian nghỉ cho lần nghỉ tiếp theo
+        restTimeSeconds = getSeconds(ex.rest);
+    }
+
+    function finishSet() {
+        const ex = currentWorkout[workoutIndex];
+        const totalSets = getSetsCount(ex.sets_reps);
+        
+        if (currentSet < totalSets) {
+            // Chuyển sang chế độ nghỉ
+            currentSet++;
+            startRest();
+        } else {
+            // Chuyển sang bài tập tiếp theo
+            workoutIndex++;
+            currentSet = 1;
+            displayCurrentExercise();
+        }
+    }
+
+    function startRest() {
+        if (restTimerInterval) clearInterval(restTimerInterval);
+
+        // Xử lý các bài tập chuyển tiếp/mobility (rest <= 15s)
+        if (restTimeSeconds <= 15) {
+            let miniRest = 5; 
+            document.getElementById('action-controls').style.display = 'none';
+            document.getElementById('exercise-display').style.display = 'none';
+            document.getElementById('rest-mode').style.display = 'block';
+            document.getElementById('rest-timer').textContent = "ĐANG CHUYỂN TIẾP...";
+            
+            // Tự động chuyển sau 5 giây
+            setTimeout(skipRest, miniRest * 1000);
+            return;
+        }
+
+        document.getElementById('action-controls').style.display = 'none';
+        document.getElementById('exercise-display').style.display = 'none';
+        document.getElementById('rest-mode').style.display = 'block';
+        
+        const ex = currentWorkout[workoutIndex];
+        const totalSets = getSetsCount(ex.sets_reps);
+        let nextSetDisplay;
+
+        if (currentSet <= totalSets) {
+             nextSetDisplay = `${ex.name} (Set ${currentSet})`
+        } else {
+            const nextExerciseName = workoutIndex + 1 < currentWorkout.length ? currentWorkout[workoutIndex + 1].name : "Kết thúc buổi tập";
+            nextSetDisplay = `Bài tập tiếp theo: <strong>${nextExerciseName}</strong>`;
+        }
+        document.getElementById('next-set-info').innerHTML = nextSetDisplay;
+
+        let remainingTime = restTimeSeconds;
+        const timerDisplay = document.getElementById('rest-timer');
+        
+        function updateTimer() {
+            const minutes = Math.floor(remainingTime / 60);
+            const seconds = remainingTime % 60;
+            timerDisplay.textContent = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+            
+            if (remainingTime <= 0) {
+                clearInterval(restTimerInterval);
+                finishRest();
+            } else {
+                remainingTime--;
+            }
+        }
+
+        restTimerInterval = setInterval(updateTimer, 1000);
+        updateTimer(); 
+    }
+
+    function skipRest() {
+        if (restTimerInterval) clearInterval(restTimerInterval);
+        finishRest();
+    }
+
+    function finishRest() {
+        document.getElementById('rest-timer').textContent = "BẮT ĐẦU TẬP!";
+        
+        const ex = currentWorkout[workoutIndex];
+        const totalSets = getSetsCount(ex.sets_reps);
+
+        if (currentSet > totalSets) {
+            workoutIndex++;
+            currentSet = 1;
+        } 
+        
+        displayCurrentExercise();
+    }
+    
+    // Khôi phục hàm nextExercise đã bị thiếu
+    function nextExercise() {
+        workoutIndex++;
+        currentSet = 1;
+        displayCurrentExercise();
+    }
+
+    function finishWorkout() {
+        // Cập nhật streak trước khi kết thúc
+        updateStreak();
+        
+        document.getElementById('exercise-display').innerHTML = '<h3>🎉 CHÚC MỪNG! Bạn đã hoàn thành buổi tập hôm nay.</h3><p style="color: var(--color-accent);">Hãy uống Protein và nghỉ ngơi thật tốt!</p>';
+        document.getElementById('workout-video-player').src = "";
+        document.getElementById('action-controls').style.display = 'none';
+        document.getElementById('rest-mode').style.display = 'none';
+        document.getElementById('workout-status').textContent = 'Kết thúc buổi tập.';
+    }
+
+    function exitWorkoutMode() {
+        if (restTimerInterval) clearInterval(restTimerInterval);
+        document.getElementById('workout-mode').style.display = 'none';
+        document.getElementById('workout-content').style.display = 'block';
+        document.getElementById('workout-video-player').src = "";
+    }
+
+
+    // Logic tính BMI 
+    function calculateBMIAndSuggest() {
+        const weight = parseFloat(document.getElementById('weight').value);
+        const heightCm = parseFloat(document.getElementById('height').value);
+        const output = document.getElementById('suggestion-output');
+
+        if (isNaN(weight) || isNaN(heightCm) || heightCm <= 0 || weight <= 0) {
+            output.textContent = 'Vui lòng nhập đầy đủ Cân nặng và Chiều cao hợp lệ.';
+            return;
+        }
+
+        const heightM = heightCm / 100;
+        const bmi = (weight / (heightM * heightM)).toFixed(2);
+        
+        let suggestionText = `Chỉ số BMI của bạn là ${bmi}. `;
+
+        if (bmi < 18.5) {
+            suggestionText += "Bạn đang ở mức nhẹ cân. Lịch tập này yêu cầu dinh dưỡng cao để phục hồi (Bulking).";
+        } else if (bmi >= 18.5 && bmi <= 24.9) {
+            suggestionText += "Bạn đang ở mức cân nặng khỏe mạnh. Lịch tập 6 ngày nâng cao này là tối ưu.";
+        } else {
+            suggestionText += "Bạn đang ở mức thừa cân. Hãy kiểm soát chế độ ăn uống và ưu tiên form chuẩn (form > tạ) [24, 59].";
+        }
+        
+        suggestionText += " Lịch tập này rất chuyên sâu, tập trung vào **Lưng và Chuỗi cơ Sau** [1, 12, 23, 46, 58].";
+
+        output.innerHTML = suggestionText;
+    }
+
+    // --- Auto-select Today's Tab (NEW) ---
+    // Map Day Index (0=Sun, 6=Sat) to Workout Key (T1-T7)
+    function getTodayWorkoutKey() {
+        const today = new Date().getDay(); 
+        const dayMap = {
+            0: 'T1', // Chủ nhật
+            1: 'T2',
+            2: 'T3',
+            3: 'T4',
+            4: 'T5',
+            5: 'T6',
+            6: 'T7'
+        };
+        return dayMap[today];
+    }
+
+
+    // Initial load
+    window.onload = function() {
+        loadUserData(); // Load data from local storage
+        const todayKey = getTodayWorkoutKey();
+        showDay(todayKey); // Auto-select today's tab
+    };
+
+</script>
+</body>
+</html>
