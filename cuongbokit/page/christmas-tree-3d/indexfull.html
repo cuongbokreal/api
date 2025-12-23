@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>Ice Crystal Tree - Configurable URL</title>
+    <style>
+        /* --- BLOGGER FULL SCREEN OVERLAY CSS --- */
+        #christmas-overlay-root {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            z-index: 999999; /* Đảm bảo nằm trên mọi thành phần của Blogger */
+            background: radial-gradient(circle at 30% 50%, #1a2a4a 0%, #050a15 80%, #000000 100%);
+            font-family: 'Arial', sans-serif;
+            touch-action: none;
+            overflow: hidden;
+        }
+
+        #christmas-overlay-root canvas { 
+            display: block; 
+            width: 100%;
+            height: 100%;
+        }
+        
+        #loading-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #ffcc00;
+            font-size: 1.5rem;
+            letter-spacing: 6px;
+            pointer-events: none;
+            opacity: 1;
+            transition: opacity 1s;
+            text-shadow: 0 0 15px rgba(255, 200, 50, 0.8);
+            font-family: 'Times New Roman', serif;
+            z-index: 2;
+            font-weight: bold;
+            text-align: center;
+            width: 100%;
+        }
+
+        #replay-btn {
+            position: absolute;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%);
+            padding: 15px 40px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 200, 100, 0.4);
+            color: #ffeedd;
+            cursor: pointer;
+            border-radius: 50px;
+            font-size: 14px;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            display: none;
+            z-index: 10;
+            transition: all 0.4s ease;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 0 15px rgba(255, 200, 50, 0.2);
+            -webkit-tap-highlight-color: transparent;
+        }
+        #replay-btn:hover {
+            background: rgba(255, 220, 100, 0.25);
+            box-shadow: 0 0 30px rgba(255, 200, 50, 0.5);
+            transform: translateX(-50%) scale(1.05);
+        }
+
+        /* Nút Close để người dùng thoát khỏi chế độ full screen quay về blog */
+        #close-overlay-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            color: rgba(255,255,255,0.5);
+            font-size: 24px;
+            cursor: pointer;
+            z-index: 100;
+            background: none;
+            border: none;
+            font-family: sans-serif;
+            transition: color 0.3s;
+        }
+        #close-overlay-btn:hover {
+            color: rgba(255,255,255,1);
+        }
+        
+        @media (max-width: 600px) {
+            #replay-btn {
+                bottom: 20px;
+                padding: 12px 30px;
+                font-size: 12px;
+            }
+            #loading-text {
+                font-size: 1.2rem;
+                letter-spacing: 3px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- CONTAINER CHÍNH: ID này bao trọn màn hình -->
+    <div id="christmas-overlay-root">
+        <button id="close-overlay-btn" title="Close Animation">✕</button>
+        <div id="loading-text">LOADING MAGIC...</div>
+        <button id="replay-btn">Replay Magic</button>
+        <!-- Canvas sẽ được append vào đây -->
+    </div>
+
+    <!-- Script Import Map -->
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+                "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+            }
+        }
+    </script>
+
+    <script type="module">
+        import * as THREE from 'three';
+        import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+        import { EffectComposer } from 'three/addons/postprocessing/EffectComposer.js';
+        import { RenderPass } from 'three/addons/postprocessing/RenderPass.js';
+        import { UnrealBloomPass } from 'three/addons/postprocessing/UnrealBloomPass.js';
+
+        // ==========================================
+        // --- CONFIGURATION & URL PARAMS ---
+        // ==========================================
+        
+        // Helper lấy param từ URL
+        const params = new URLSearchParams(window.location.search);
+        
+        const getStr = (key, def) => params.get(key) || def;
+        const getInt = (key, def) => params.has(key) ? parseInt(params.get(key)) : def;
+        
+        // Lấy mảng (phân cách bằng dấu phẩy cho photos, dấu gạch đứng | cho text để tránh lỗi dấu phẩy trong câu)
+        const getList = (key, def, separator=',') => {
+            if (!params.has(key)) return def;
+            const val = params.get(key);
+            if (!val) return def;
+            return val.split(separator).map(s => s.trim());
+        };
+
+        const CONFIG = {
+            content: {
+                mainTitle: getStr('title', "Merry Christmas"),
+                // Sử dụng dấu | để ngăn cách các câu chúc: ?subs=Câu 1|Câu 2
+                subtitles: getList('subs', [
+                    "Chúc bạn một năm mới 2025 An Khang Thịnh Vượng - Vạn Sự Như Ý - Tỷ Sự Như Mơ!",
+                    "Wishing you a season full of light, laughter, and love.",
+                    "Sức Khỏe Dồi Dào - Tiền Vô Như Nước - Gia Đình Hạnh Phúc",
+                    "Happy New Year 2025"
+                ], '|'),
+                // Ảnh: URL hoặc từ khóa 'snowman', 'gift', 'tree'
+                photos: getList('photos', [
+                    'https://images.unsplash.com/photo-1543589077-47d81606c1bf?w=500&q=80', 
+                    'snowman', 
+                    'https://images.unsplash.com/photo-1512389142860-9c449e58a543?w=500&q=80',
+                    'gift',
+                    'tree'
+                ])
+            },
+            colors: {
+                fog: getStr('cFog', '#1a2a4a'), 
+                treeBottom: getStr('cTreeBot', '#0044cc'), 
+                treeTop: getStr('cTreeTop', '#ddeeff'),    
+                starColor: getStr('cStar', '#ffdd00'),    
+                starEmissive: getStr('cStarEm', '#ffcc00'), 
+                starLight: getStr('cStarLi', '#ffaa00'),    
+                waveDark: getStr('cWaveD', '#1a3355'),  
+                waveLight: getStr('cWaveL', '#88ccff'), 
+                textTitle: getStr('cTitle', '#d0d0d0'),
+                textSub: getStr('cSub', '#cccccc'),
+                photoFrame: getStr('cFrame', '#081220'),
+                photoBorder: getStr('cBorder', 'rgba(200,200,200,0.5)')
+            },
+            counts: {
+                treeParticles: getInt('cntTree', 4000), 
+                waveParticles: getInt('cntWave', 6000), 
+                bgStars: getInt('cntStar', 3000),       
+                snow: getInt('cntSnow', 2500)           
+            },
+            layout: {
+                treeX: -12,    
+                contentX: 24   
+            },
+            intro: {
+                duration: 5.5,    
+                startHeight: 120, 
+                startRadius: 180,
+                lookAtY: 10,
+                endRadius: 100, 
+                endHeight: 5    
+            }
+        };
+
+        // DOM Elements within the overlay
+        const container = document.getElementById('christmas-overlay-root');
+        const loadingDiv = document.getElementById('loading-text');
+        const replayBtn = document.getElementById('replay-btn');
+        const closeBtn = document.getElementById('close-overlay-btn');
+
+        // Close Button Logic
+        closeBtn.addEventListener('click', () => {
+            container.style.display = 'none';
+            // Optional: Stop animation loop to save battery if hidden
+            // isIntroRunning = false; 
+            // cancelAnimationFrame(rafId);
+        });
+
+        // --- 1. SETUP SCENE ---
+        const scene = new THREE.Scene();
+        scene.fog = new THREE.FogExp2(CONFIG.colors.fog, 0.0012); 
+
+        const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 1000);
+        const finalCameraPos = new THREE.Vector3(0, CONFIG.intro.endHeight, CONFIG.intro.endRadius);
+        camera.position.copy(finalCameraPos);
+
+        const renderer = new THREE.WebGLRenderer({ antialias: true, powerPreference: "high-performance", alpha: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+        renderer.toneMapping = THREE.ACESFilmicToneMapping;
+        renderer.toneMappingExposure = 1.1; 
+        
+        // Append renderer to the overlay container instead of body directly
+        container.appendChild(renderer.domElement);
+
+        // --- CONTROLS ---
+        const controls = new OrbitControls(camera, renderer.domElement);
+        controls.enableDamping = true;
+        controls.dampingFactor = 0.05;
+        controls.zoomSpeed = 0.12; 
+        controls.minDistance = 70;   
+        controls.maxDistance = 200;  
+        controls.autoRotate = false; 
+        controls.maxPolarAngle = Math.PI / 1.8; 
+        controls.target.set(0, CONFIG.intro.lookAtY, 0);
+        controls.enabled = false; 
+
+        // --- 2. POST PROCESSING ---
+        const renderScene = new RenderPass(scene, camera);
+        const bloomPass = new UnrealBloomPass(new THREE.Vector2(window.innerWidth, window.innerHeight), 1.5, 0.4, 0.85);
+        bloomPass.strength = 0.4; 
+        bloomPass.radius = 0.5;
+        bloomPass.threshold = 0.5;
+
+        const composer = new EffectComposer(renderer);
+        composer.addPass(renderScene);
+        composer.addPass(bloomPass);
+
+        // --- 3. TEXTURE LOADER & GENERATORS ---
+        const textureLoader = new THREE.TextureLoader();
+        
+        function createSmartTextTexture(text, style = {}) {
+            let fontSize = style.fontSize || 45;
+            const fontFace = style.fontFace || 'Arial';
+            const color = style.color || '#ffffff';
+            const shadowColor = style.shadowColor || 'rgba(0,0,0,0)';
+            const shadowBlur = style.shadowBlur || 0;
+            const isBold = style.isBold ? 'bold ' : '';
+            const isItalic = style.isItalic ? 'italic ' : '';
+            const maxWidth = style.maxWidth || 800; 
+            
+            const canvas = document.createElement('canvas');
+            const ctx = canvas.getContext('2d');
+
+            function getLines(ctx, text, maxWidth) {
+                const words = text.split(' ');
+                const lines = [];
+                let currentLine = words[0];
+                for (let i = 1; i < words.length; i++) {
+                    const word = words[i];
+                    const width = ctx.measureText(currentLine + " " + word).width;
+                    if (width < maxWidth) currentLine += " " + word;
+                    else { lines.push(currentLine); currentLine = word; }
+                }
+                lines.push(currentLine);
+                return lines;
+            }
+
+            let lines = [];
+            let currentFontStr = "";
+            const maxLines = 5; 
+            
+            do {
+                currentFontStr = `${isItalic}${isBold}${fontSize}px "${fontFace}"`;
+                ctx.font = currentFontStr;
+                lines = getLines(ctx, text, maxWidth);
+                if (lines.length > maxLines) fontSize -= 2; 
+            } while (lines.length > maxLines && fontSize > 20);
+
+            const finalLineHeight = fontSize * 1.3;
+            canvas.width = maxWidth + 40; 
+            canvas.height = lines.length * finalLineHeight + 40; 
+
+            ctx.font = currentFontStr;
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            ctx.shadowColor = shadowColor;
+            ctx.shadowBlur = shadowBlur;
+            ctx.fillStyle = color;
+
+            const startY = (canvas.height - (lines.length - 1) * finalLineHeight) / 2;
+            lines.forEach((line, i) => {
+                ctx.fillText(line, canvas.width / 2, startY + i * finalLineHeight);
+            });
+
+            const texture = new THREE.CanvasTexture(canvas);
+            texture.minFilter = THREE.LinearFilter;
+            return { 
+                texture, 
+                aspectRatio: canvas.width / canvas.height, 
+                width: canvas.width,
+                height: canvas.height 
+            };
+        }
+
+        function createFrameTexture() {
+            const canvas = document.createElement('canvas');
+            canvas.width = 512; canvas.height = 512;
+            const ctx = canvas.getContext('2d');
+            
+            ctx.fillStyle = 'rgba(150, 180, 200, 0.15)'; 
+            ctx.fillRect(0, 0, 512, 512);
+            ctx.strokeStyle = CONFIG.colors.photoBorder; 
+            ctx.lineWidth = 15; 
+            ctx.strokeRect(0,0,512,512);
+            ctx.fillStyle = CONFIG.colors.photoFrame; 
+            ctx.fillRect(20, 20, 472, 472); 
+
+            return new THREE.CanvasTexture(canvas);
+        }
+
+        function createGeneratedContentTexture(type) {
+            const canvas = document.createElement('canvas');
+            canvas.width = 512; canvas.height = 512;
+            const ctx = canvas.getContext('2d');
+            
+            const cx = 256, cy = 256; 
+            if (type === 'snowman') {
+                ctx.fillStyle = '#eef';
+                ctx.beginPath(); ctx.arc(cx, cy+60, 70, 0, Math.PI*2); ctx.fill();
+                ctx.beginPath(); ctx.arc(cx, cy-40, 50, 0, Math.PI*2); ctx.fill();
+                ctx.fillStyle = 'orange'; ctx.beginPath(); ctx.moveTo(cx, cy-40); ctx.lineTo(cx+40, cy-30); ctx.lineTo(cx, cy-20); ctx.fill();
+                ctx.fillStyle = '#333'; ctx.beginPath(); ctx.arc(cx-15, cy-50, 5, 0, Math.PI*2); ctx.arc(cx+15, cy-50, 5, 0, Math.PI*2); ctx.fill();
+            } else if (type === 'gift') {
+                ctx.fillStyle = '#cc0000'; ctx.fillRect(cx-70, cy-50, 140, 140);
+                ctx.fillStyle = '#ffcc00'; ctx.fillRect(cx-20, cy-50, 40, 140); ctx.fillRect(cx-70, cy, 140, 40);
+            } else if (type === 'tree') {
+                ctx.fillStyle = '#228822';
+                ctx.beginPath(); ctx.moveTo(cx, cy-100); ctx.lineTo(cx+70, cy+50); ctx.lineTo(cx-70, cy+50); ctx.fill();
+                ctx.beginPath(); ctx.moveTo(cx, cy-40); ctx.lineTo(cx+90, cy+120); ctx.lineTo(cx-90, cy+120); ctx.fill();
+                ctx.fillStyle = 'yellow'; ctx.beginPath(); ctx.arc(cx, cy-100, 10, 0, Math.PI*2); ctx.fill();
+            } else {
+                ctx.fillStyle = '#aabbcc';
+                ctx.beginPath(); ctx.arc(cx, cy, 80, 0, Math.PI*2); ctx.fill();
+                ctx.fillStyle = '#fff'; ctx.font = '20px Arial'; ctx.textAlign = 'center'; ctx.fillText("Memories", cx, cy);
+            }
+            
+            return new THREE.CanvasTexture(canvas);
+        }
+
+        function getPhotoContentTexture(source, onTextureReady) {
+            if (source.includes('/') || source.includes('.') || source.startsWith('http') || source.startsWith('data:')) {
+                const tex = textureLoader.load(source, (texture) => {
+                    tex.colorSpace = THREE.SRGBColorSpace; 
+                    if (onTextureReady) onTextureReady(texture);
+                });
+                return tex;
+            } else {
+                const tex = createGeneratedContentTexture(source);
+                if (onTextureReady) setTimeout(() => onTextureReady(tex), 0);
+                return tex;
+            }
+        }
+
+        function createSnowTexture() {
+            const canvas = document.createElement('canvas');
+            canvas.width = 64; canvas.height = 64;
+            const ctx = canvas.getContext('2d');
+            const grad = ctx.createRadialGradient(32,32,0, 32,32,32);
+            grad.addColorStop(0, 'rgba(255,255,255,1)');
+            grad.addColorStop(0.4, 'rgba(200,240,255,0.8)');
+            grad.addColorStop(1, 'rgba(0,0,0,0)');
+            ctx.fillStyle = grad; ctx.fillRect(0,0,64,64);
+            return new THREE.CanvasTexture(canvas);
+        }
+        const snowTex = createSnowTexture();
+
+        function createGlowTexture() {
+            const canvas = document.createElement('canvas');
+            canvas.width = 64; canvas.height = 64;
+            const ctx = canvas.getContext('2d');
+            const grad = ctx.createRadialGradient(32,32,0, 32,32,32);
+            grad.addColorStop(0, 'rgba(255,255,255,1)');
+            grad.addColorStop(0.5, 'rgba(180,220,255,0.4)');
+            grad.addColorStop(1, 'rgba(0,0,0,0)');
+            ctx.fillStyle = grad; ctx.fillRect(0,0,64,64);
+            return new THREE.CanvasTexture(canvas);
+        }
+        const glowTex = createGlowTexture();
+
+
+        // --- 4. CÂY THÔNG ---
+        const treeGroup = new THREE.Group();
+        treeGroup.position.set(CONFIG.layout.treeX, 0, 0); 
+        scene.add(treeGroup);
+
+        const spirals = [];
+        const numSpirals = 2; 
+        const maxRadius = 22; 
+        const pointsPerSpiral = CONFIG.counts.treeParticles; 
+
+        function createHelix(index) {
+            const positions = [];
+            const colors = [];
+            const sizes = [];
+            const angleOffset = index * Math.PI; 
+            const colorBottom = new THREE.Color(CONFIG.colors.treeBottom);
+            const colorTop = new THREE.Color(CONFIG.colors.treeTop);
+
+            for (let i = 0; i < pointsPerSpiral; i++) {
+                const t = i / pointsPerSpiral; 
+                const radius = (1 - t) * maxRadius;
+                const rounds = 9; 
+                const angle = t * Math.PI * 2 * rounds + angleOffset;
+                const spreadX = (Math.random() * 2 - 1) * 1.8 * ((Math.random() + Math.random() + Math.random()) / 3 - 0.5); 
+                const spreadY = (Math.random()-0.5) * 1.8; 
+                const spreadZ = (Math.random() * 2 - 1) * 1.8 * ((Math.random() + Math.random() + Math.random()) / 3 - 0.5);
+
+                positions.push(Math.cos(angle) * radius + spreadX, t * 55 - 27.5 + spreadY, Math.sin(angle) * radius + spreadZ);
+                const mixedColor = colorBottom.clone().lerp(colorTop, t * 1.2);
+                colors.push(mixedColor.r, mixedColor.g, mixedColor.b);
+                sizes.push(Math.random() * 0.4 + 0.8); 
+            }
+
+            const geometry = new THREE.BufferGeometry();
+            geometry.setAttribute('position', new THREE.Float32BufferAttribute(positions, 3));
+            geometry.setAttribute('color', new THREE.Float32BufferAttribute(colors, 3));
+            geometry.setAttribute('size', new THREE.Float32BufferAttribute(sizes, 1));
+            geometry.setDrawRange(0, 0);
+
+            const material = new THREE.PointsMaterial({
+                size: 1.0, map: snowTex, vertexColors: true, transparent: true, opacity: 0.9, blending: THREE.AdditiveBlending, depthWrite: false, sizeAttenuation: true
+            });
+            const points = new THREE.Points(geometry, material);
+            treeGroup.add(points);
+            spirals.push({ mesh: points, speed: 40, currentCount: 0, totalCount: pointsPerSpiral });
+        }
+        for(let i=0; i<numSpirals; i++) createHelix(i);
+
+        // --- 5. NỀN & BACKGROUND ---
+        const waveCount = CONFIG.counts.waveParticles; 
+        const waveGeo = new THREE.BufferGeometry();
+        const wavePos = new Float32Array(waveCount * 3);
+        const waveColors = new Float32Array(waveCount * 3);
+        const waveBaseY = -27.5 - 5;
+        
+        const color1 = new THREE.Color(CONFIG.colors.waveDark); 
+        const color2 = new THREE.Color(CONFIG.colors.waveLight);
+
+        for(let i=0; i<waveCount; i++) {
+            const r = Math.sqrt(Math.random()) * 200; 
+            const theta = Math.random() * Math.PI * 2;
+            
+            wavePos[i*3] = r * Math.cos(theta); 
+            wavePos[i*3+1] = waveBaseY; 
+            wavePos[i*3+2] = r * Math.sin(theta);
+            
+            const c = color1.clone().lerp(color2, Math.random() * 0.5 + 0.2); 
+            waveColors[i*3] = c.r; waveColors[i*3+1] = c.g; waveColors[i*3+2] = c.b;
+        }
+        waveGeo.setAttribute('position', new THREE.BufferAttribute(wavePos, 3));
+        waveGeo.setAttribute('color', new THREE.BufferAttribute(waveColors, 3));
+        const waveSystem = new THREE.Points(waveGeo, new THREE.PointsMaterial({
+            size: 0.9, map: snowTex, vertexColors: true, transparent: true, opacity: 0.7, blending: THREE.AdditiveBlending, depthWrite: false
+        }));
+        scene.add(waveSystem);
+
+        const bgStarCount = CONFIG.counts.bgStars;
+        const bgStarGeo = new THREE.BufferGeometry();
+        const bgStarPos = new Float32Array(bgStarCount * 3);
+        for(let i=0; i<bgStarCount; i++) {
+            const r = 200 + Math.random() * 300; 
+            const theta = Math.random() * Math.PI * 2;
+            const phi = Math.acos(2 * Math.random() - 1);
+            bgStarPos[i*3] = r * Math.sin(phi) * Math.cos(theta);
+            bgStarPos[i*3+1] = r * Math.sin(phi) * Math.sin(theta);
+            bgStarPos[i*3+2] = r * Math.cos(phi);
+        }
+        bgStarGeo.setAttribute('position', new THREE.BufferAttribute(bgStarPos, 3));
+        const bgStarMat = new THREE.PointsMaterial({
+            size: 0.5, color: 0x88ccff, transparent: true, opacity: 0.5, blending: THREE.AdditiveBlending, depthWrite: false
+        });
+        const bgStarSystem = new THREE.Points(bgStarGeo, bgStarMat);
+        scene.add(bgStarSystem);
+
+        const snowCount = CONFIG.counts.snow;
+        const snowGeo = new THREE.BufferGeometry();
+        const snowPos = new Float32Array(snowCount * 3);
+        const snowSizes = new Float32Array(snowCount);
+        const snowVelocities = []; 
+        for(let i=0; i<snowCount; i++) {
+            snowPos[i*3] = (Math.random()-0.5) * 250; 
+            snowPos[i*3+1] = (Math.random()-0.5) * 250 + 50; 
+            snowPos[i*3+2] = (Math.random()-0.5) * 250; 
+            snowVelocities.push({ y: -(Math.random() * 0.25 + 0.1), x: (Math.random()-0.5)*0.08, z: (Math.random()-0.5)*0.08 });
+            snowSizes[i] = Math.random() * 0.8 + 0.4;
+        }
+        snowGeo.setAttribute('position', new THREE.BufferAttribute(snowPos, 3));
+        snowGeo.setAttribute('size', new THREE.BufferAttribute(snowSizes, 1));
+        const snowSystem = new THREE.Points(snowGeo, new THREE.PointsMaterial({
+            size: 1.0, map: snowTex, color: 0xffffff, transparent: true, opacity: 0.8, blending: THREE.AdditiveBlending, depthWrite: false, sizeAttenuation: true
+        }));
+        scene.add(snowSystem);
+
+        // --- 6. STAR ---
+        const starGroup = new THREE.Group();
+        starGroup.position.y = 55/2 + 2.5;
+        treeGroup.add(starGroup);
+
+        function createStarShape(outerRadius, innerRadius, points) {
+            const shape = new THREE.Shape();
+            const step = Math.PI / points;
+            for (let i = 0; i < 2 * points; i++) {
+                const r = (i % 2 === 0) ? outerRadius : innerRadius;
+                const a = i * step + Math.PI/2; 
+                if (i === 0) shape.moveTo(r * Math.cos(a), r * Math.sin(a));
+                else shape.lineTo(r * Math.cos(a), r * Math.sin(a));
+            }
+            shape.closePath(); return shape;
+        }
+        const starGeo = new THREE.ExtrudeGeometry(createStarShape(3.0, 1.2, 5), { steps: 2, depth: 1.0, bevelEnabled: true, bevelThickness: 0.3, bevelSize: 0.2, bevelSegments: 4 });
+        starGeo.center(); 
+        const starMat = new THREE.MeshPhysicalMaterial({ 
+            color: CONFIG.colors.starColor, emissive: CONFIG.colors.starEmissive, emissiveIntensity: 0.8, transmission: 0.1, opacity: 1, metalness: 0.6, roughness: 0.1, ior: 1.5, thickness: 2.0, clearcoat: 1.0, side: THREE.DoubleSide
+        });
+        const starMesh = new THREE.Mesh(starGeo, starMat);
+        starMesh.scale.set(0,0,0);
+        starGroup.add(starMesh);
+        const starInnerLight = new THREE.PointLight(CONFIG.colors.starLight, 1.5, 20);
+        starGroup.add(starInnerLight);
+
+
+        // --- 7. CONTENT GROUP ---
+        const contentGroup = new THREE.Group();
+        contentGroup.position.set(CONFIG.layout.contentX, 0, 0); 
+        scene.add(contentGroup);
+        
+        const WORLD_SCALE = 0.04;
+
+        // 7.1 MAIN TITLE
+        const titleData = createSmartTextTexture(CONFIG.content.mainTitle, { 
+            fontSize: 100, fontFace: 'Brush Script MT', isBold: true, color: CONFIG.colors.textTitle, shadowColor: '#88aacc', shadowBlur: 10 
+        });
+        const titleScaleX = titleData.width * WORLD_SCALE;
+        const titleScaleY = titleData.height * WORLD_SCALE;
+        const titleGeo = new THREE.PlaneGeometry(titleScaleX, titleScaleY);
+        const titleMat = new THREE.MeshBasicMaterial({ map: titleData.texture, transparent: true, opacity: 0, color: 0xcccccc, side: THREE.DoubleSide, depthWrite: false });
+        const titleMesh = new THREE.Mesh(titleGeo, titleMat);
+        titleMesh.position.set(0, 18, 0);
+        contentGroup.add(titleMesh);
+
+        // 7.2 SUBTITLE
+        const subMat = new THREE.MeshBasicMaterial({ transparent: true, opacity: 0, color: 0xcccccc, side: THREE.DoubleSide, depthWrite: false });
+        let subMesh = new THREE.Mesh(new THREE.PlaneGeometry(1,1), subMat);
+        contentGroup.add(subMesh);
+
+        // 7.3 PHOTO CONTAINER (FRAME + CONTENT)
+        // Frame Mesh (Cố định, nằm sau)
+        const frameTexture = createFrameTexture();
+        const frameMat = new THREE.MeshBasicMaterial({ map: frameTexture, transparent: true, opacity: 0, side: THREE.DoubleSide, depthWrite: false });
+        
+        const frameMesh = new THREE.Mesh(new THREE.PlaneGeometry(22, 22), frameMat);
+        frameMesh.position.set(0, -8, 0);
+        contentGroup.add(frameMesh);
+
+        // Content Mesh (Nằm trước Frame một chút)
+        const contentMat = new THREE.MeshBasicMaterial({ transparent: true, opacity: 0, side: THREE.DoubleSide, depthWrite: false });
+        const contentMesh = new THREE.Mesh(new THREE.PlaneGeometry(20, 20), contentMat);
+        contentMesh.position.set(0, -8, 0.1); 
+        contentGroup.add(contentMesh);
+
+        const photos = CONFIG.content.photos;
+        const messages = CONFIG.content.subtitles;
+        const enableFadeMsg = messages.length > 1;
+        const enableFadePhoto = photos.length > 1;
+
+        let currentIndex = 0;
+        let displayTimer = 0;
+        let displayDuration = 4.0; 
+        let contentState = 0; 
+        let isContentActive = false;
+
+        function updateContent(index) {
+            const msgIdx = index % messages.length;
+            const photoIdx = index % photos.length;
+
+            const text = messages[msgIdx];
+            const data = createSmartTextTexture(text, {
+                fontSize: 45, fontFace: 'Times New Roman', color: CONFIG.colors.textSub, shadowColor: '#88aacc', shadowBlur: 5, maxWidth: 800
+            });
+            subMesh.material.map = data.texture;
+            subMesh.material.needsUpdate = true;
+            
+            const subScaleX = data.width * WORLD_SCALE;
+            const subScaleY = data.height * WORLD_SCALE;
+            
+            subMesh.geometry.dispose();
+            subMesh.geometry = new THREE.PlaneGeometry(subScaleX, subScaleY);
+            subMesh.position.set(0, 8, 0);
+
+            // Update photo content
+            const source = photos[photoIdx];
+            const onTextureReady = (texture) => {
+                let imgAspect = 1;
+                if (texture.image && texture.image.width && texture.image.height) {
+                    imgAspect = texture.image.width / texture.image.height;
+                }
+                
+                const TARGET_WIDTH = 20;
+                const PADDING = 2; // Viền khung
+                
+                let contentHeight = TARGET_WIDTH / imgAspect;
+                
+                const MAX_HEIGHT = 28; 
+                if (contentHeight > MAX_HEIGHT) {
+                    contentHeight = MAX_HEIGHT;
+                    const correctedWidth = contentHeight * imgAspect;
+                    contentMesh.geometry.dispose();
+                    contentMesh.geometry = new THREE.PlaneGeometry(correctedWidth, contentHeight);
+                    frameMesh.geometry.dispose();
+                    frameMesh.geometry = new THREE.PlaneGeometry(correctedWidth + PADDING, contentHeight + PADDING);
+                } else {
+                    contentMesh.geometry.dispose();
+                    contentMesh.geometry = new THREE.PlaneGeometry(TARGET_WIDTH, contentHeight);
+                    frameMesh.geometry.dispose();
+                    frameMesh.geometry = new THREE.PlaneGeometry(TARGET_WIDTH + PADDING, contentHeight + PADDING);
+                }
+                
+                // Căn chỉnh vị trí: Neo đỉnh trên của ảnh tại Y = 2 (ngay dưới subtitle)
+                const PHOTO_TOP_Y = 2; 
+                const newCenterY = PHOTO_TOP_Y - (contentHeight + PADDING) / 2;
+                
+                frameMesh.position.y = newCenterY;
+                contentMesh.position.y = newCenterY;
+
+                contentMesh.material.map = texture;
+                contentMesh.material.needsUpdate = true;
+            };
+
+            getPhotoContentTexture(source, onTextureReady);
+            
+            displayDuration = Math.max(3.0, 2.0 + text.length * 0.1); 
+        }
+
+        updateContent(0);
+
+        // --- 8. ANIMATION LOOP ---
+        let state = 0; 
+        let rafId; // To allow stopping loop if needed
+        
+        let introTime = 0;
+        const introDuration = CONFIG.intro.duration;
+        let isIntroRunning = true;
+
+        setTimeout(() => { loadingDiv.style.opacity = 0; }, 500);
+
+        function resetAnimation() {
+            state = 0;
+            replayBtn.style.display = 'none';
+            spirals.forEach(s => { s.currentCount = 0; s.mesh.geometry.setDrawRange(0,0); });
+            starMesh.scale.set(0,0,0);
+            titleMesh.material.opacity = 0;
+            subMesh.material.opacity = 0;
+            frameMesh.material.opacity = 0;
+            contentMesh.material.opacity = 0;
+            
+            const currentY = frameMesh.position.y;
+            frameMesh.position.y -= 10; 
+            contentMesh.position.y -= 10;
+            
+            currentIndex = 0;
+            contentState = 0; 
+            isContentActive = false;
+            updateContent(0);
+            
+            introTime = 0;
+            isIntroRunning = true;
+            controls.enabled = false;
+            
+            updateLayout();
+        }
+        replayBtn.addEventListener('click', resetAnimation);
+
+        // --- 9. RESPONSIVE CAMERA LOGIC ---
+        function updateLayout() {
+            const width = window.innerWidth;
+            const height = window.innerHeight;
+            const aspect = width / height;
+            
+            camera.aspect = aspect;
+            camera.updateProjectionMatrix();
+            renderer.setSize(width, height);
+            composer.setSize(width, height);
+
+            const sceneWidth = Math.abs(CONFIG.layout.treeX) + Math.abs(CONFIG.layout.contentX) + 45; 
+            let targetDist = (sceneWidth / 2) / Math.tan(THREE.MathUtils.degToRad(camera.fov / 2));
+            
+            if (aspect < 1) {
+                targetDist = targetDist / aspect; 
+            } else {
+                targetDist = Math.max(100, targetDist);
+            }
+
+            if (!isIntroRunning && !controls.enabled) {
+                 const dir = camera.position.clone().sub(controls.target).normalize();
+                 camera.position.copy(controls.target).add(dir.multiplyScalar(targetDist));
+            }
+            CONFIG.intro.endRadius = targetDist;
+        }
+        
+        window.addEventListener('resize', updateLayout);
+
+        const clock = new THREE.Clock();
+
+        function animate() {
+            rafId = requestAnimationFrame(animate);
+            const delta = clock.getDelta();
+            const time = clock.getElapsedTime();
+
+            if (isIntroRunning) {
+                introTime += delta;
+                const progress = Math.min(introTime / introDuration, 1.0);
+                const t = 1 - Math.pow(1 - progress, 3); 
+
+                const startR = CONFIG.intro.startRadius;
+                const endR = CONFIG.intro.endRadius || 100; 
+                const curR = THREE.MathUtils.lerp(startR, endR, t);
+                
+                const startH = CONFIG.intro.startHeight;
+                const endH = 5;
+                const curH = THREE.MathUtils.lerp(startH, endH, t);
+                
+                const angle = THREE.MathUtils.lerp(Math.PI * 0.5, 0, t); 
+                
+                camera.position.x = curR * Math.sin(angle);
+                camera.position.z = curR * Math.cos(angle);
+                camera.position.y = curH;
+                
+                camera.lookAt(0, CONFIG.intro.lookAtY || 10, 0); 
+
+                if (progress >= 1.0) {
+                    isIntroRunning = false;
+                    controls.enabled = true; 
+                    controls.update(); 
+                }
+            } else {
+                controls.update();
+            }
+
+            if (state === 0) {
+                let finished = 0;
+                spirals.forEach(s => {
+                    if (s.currentCount < s.totalCount) {
+                        s.currentCount += s.speed;
+                        s.mesh.geometry.setDrawRange(0, Math.floor(s.currentCount));
+                    } else { finished++; }
+                });
+                if (finished >= numSpirals) state = 1;
+            }
+
+            if (state === 1) {
+                starMesh.scale.lerp(new THREE.Vector3(1,1,1), 0.08);
+                if (starMesh.scale.x > 0.95) state = 2;
+            }
+
+            if (state >= 2) {
+                if (titleMesh.material.opacity < 1) {
+                     titleMesh.material.opacity += 0.02;
+                }
+                
+                const targetY = -8;
+                frameMesh.position.y = THREE.MathUtils.lerp(frameMesh.position.y, targetY, 0.05);
+                contentMesh.position.y = frameMesh.position.y;
+
+                if (titleMesh.material.opacity > 0.9) {
+                    if (replayBtn.style.display !== 'block') replayBtn.style.display = 'block';
+                    isContentActive = true; 
+                }
+            }
+
+            if (isContentActive) {
+                if (!enableFadeMsg && !enableFadePhoto) {
+                    subMesh.material.opacity = 1;
+                    frameMesh.material.opacity = 1;
+                    contentMesh.material.opacity = 1;
+                } else {
+                    if (contentState === 0) { 
+                        const fadeSpeed = 1.5 * delta;
+                        if (enableFadeMsg) subMesh.material.opacity += fadeSpeed; else subMesh.material.opacity = 1; 
+                        
+                        if (enableFadePhoto) {
+                            frameMesh.material.opacity += fadeSpeed;
+                            contentMesh.material.opacity += fadeSpeed;
+                        } else {
+                            frameMesh.material.opacity = 1;
+                            contentMesh.material.opacity = 1;
+                        }
+
+                        if (subMesh.material.opacity >= 1 && frameMesh.material.opacity >= 1) {
+                            subMesh.material.opacity = 1; 
+                            frameMesh.material.opacity = 1; 
+                            contentMesh.material.opacity = 1;
+                            contentState = 1; 
+                            displayTimer = 0;
+                        }
+                    } else if (contentState === 1) { 
+                        displayTimer += delta;
+                        if (displayTimer >= displayDuration) contentState = 2;
+                    } else if (contentState === 2) { 
+                        const fadeSpeed = 1.5 * delta;
+                        let subDone = true, photoDone = true;
+                        
+                        if (enableFadeMsg) {
+                            subMesh.material.opacity -= fadeSpeed;
+                            if (subMesh.material.opacity > 0) subDone = false;
+                        }
+                        if (enableFadePhoto) {
+                            contentMesh.material.opacity -= fadeSpeed; 
+                            frameMesh.material.opacity -= fadeSpeed;
+                            if (contentMesh.material.opacity > 0) photoDone = false;
+                        }
+
+                        if (subDone && photoDone) {
+                            if (enableFadeMsg) subMesh.material.opacity = 0;
+                            if (enableFadePhoto) { contentMesh.material.opacity = 0; frameMesh.material.opacity = 0; }
+                            
+                            currentIndex++; 
+                            updateContent(currentIndex);
+                            contentState = 0;
+                        }
+                    }
+                }
+            }
+
+            const wPos = waveSystem.geometry.attributes.position.array;
+            for(let i=0; i<waveCount; i++) {
+                const x = wPos[i*3];
+                const z = wPos[i*3+2];
+                wPos[i*3+1] = -27.5 - 5 + Math.sin(x * 0.1 + time) * 1.5 + Math.cos(z * 0.08 + time * 1.2) * 1.5;
+            }
+            waveSystem.geometry.attributes.position.needsUpdate = true;
+
+            const positions = snowSystem.geometry.attributes.position.array;
+            for(let i=0; i<snowCount; i++) {
+                const idx = i*3;
+                positions[idx] += snowVelocities[i].x; positions[idx+1] += snowVelocities[i].y; positions[idx+2] += snowVelocities[i].z; 
+                if (positions[idx+1] < -50) {
+                    positions[idx+1] = 100;
+                    positions[idx] = (Math.random()-0.5) * 250;
+                    positions[idx+2] = (Math.random()-0.5) * 250;
+                }
+            }
+            snowSystem.geometry.attributes.position.needsUpdate = true;
+            snowSystem.rotation.y = time * 0.05;
+
+            starMesh.rotation.y = time * 0.3; 
+            starMesh.rotation.z = Math.sin(time) * 0.15; 
+            
+            treeGroup.rotation.y = time * 0.1;
+
+            if (state >= 2) {
+                 // Float effect skipped
+            }
+
+            if (!isIntroRunning) controls.update();
+            composer.render();
+        }
+
+        // Call updateLayout initially
+        updateLayout();
+        animate();
+        resetAnimation(); 
+
+    </script>
+</body>
+</html>
