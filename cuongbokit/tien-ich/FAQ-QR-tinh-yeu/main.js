@@ -3,7 +3,7 @@
   const faqData = [
     {
       question: "Tạo QR bị lỗi hoặc không hiện tt thành công?",
-      answer: "Đừng lo bạn hãy inbox cho <a href="https://www.facebook.com/cuongbok.dev" rel="nofollow" style="font-weight:900;color: red;" target="_blank">Page: Cuongbokreal</a> gửi billck hoặc donate ID để mình tạo bù cho nha"
+      answer: `Đừng lo bạn hãy inbox cho <a href="https://www.facebook.com/cuongbok.dev" rel="nofollow" style="font-weight:900;color: red;" target="_blank">Page: Cuongbokreal</a> gửi billck hoặc donate ID để mình tạo bù cho nha`
     },
     {
       question: "Quét QR xong không nghe được nhạc?",
