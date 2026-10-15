@@ -7,7 +7,7 @@
 (function (global) {
   'use strict';
 
-  var CONFIG_URL = 'https://raw.githubusercontent.com/cuongbokreal/api/main/cuongbokit/shared/gift-upload-config.v1.json';
+  var CONFIG_URL = 'https://cuongbokreal.github.io/api/cuongbokit/shared/gift-upload-config.v1.json';
   var KEY_PATTERN = /^[a-f0-9]{32}$/i;
   var configPromise;
 
