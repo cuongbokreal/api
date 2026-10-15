@@ -17,7 +17,10 @@
 
   function getConfig() {
     if (configPromise) return configPromise;
-    configPromise = fetch(CONFIG_URL, { cache: 'no-store' })
+    // A unique query string makes CDN/browser caches revalidate this public
+    // configuration whenever a customer starts an upload session. Changing
+    // only gift-upload-config.v1.json is therefore enough to rotate a key.
+    configPromise = fetch(CONFIG_URL + '?cacheBust=' + Date.now(), { cache: 'no-store' })
       .then(function (response) {
         if (!response.ok) throw error('Không tải được cấu hình upload.');
         return response.json();
