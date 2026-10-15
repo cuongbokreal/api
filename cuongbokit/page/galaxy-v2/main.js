@@ -87,12 +87,21 @@ const galaxyParameters = {
 //const defaultHeartImages = Array.from({ length: 2 }, (_, i) => `images/img${i + 1}.jpg`);
 var defaultHeartImages = [];
 
-//url search param 
+// Data from the Gateway is kept in memory. Legacy links still read exactly
+// from their query string, so previously issued URLs remain valid.
 var urlParams = new URLSearchParams(window.location.search);
-// Đọc URL hình ảnh tùy chỉnh
-const imagesParam = urlParams.get('images');
+var gatewayPayload = window.__CUONGBOKIT_GALAXY_V2_PAYLOAD__ || null;
+function getLegacyOrGatewayValue(name) {
+  if (gatewayPayload && Object.prototype.hasOwnProperty.call(gatewayPayload, name)) return gatewayPayload[name];
+  return urlParams.get(name);
+}
+
+// Đọc URL hình ảnh tùy chỉnh hoặc mảng ảnh đã được Gateway kiểm tra.
+const imagesParam = getLegacyOrGatewayValue('images');
 if (imagesParam) {
-    const parsedImageUrls = imagesParam.split(',').map(url => url.trim()).filter(url => url.length > 0);
+    const parsedImageUrls = Array.isArray(imagesParam)
+      ? imagesParam.map(url => String(url || '').trim()).filter(url => url.length > 0)
+      : String(imagesParam).split(',').map(url => url.trim()).filter(url => url.length > 0);
     if (parsedImageUrls.length > 0) {
         defaultHeartImages = parsedImageUrls;
     }
@@ -627,12 +636,16 @@ planet.position.set(0, 0, 0);
 scene.add(planet);
 
 //text quanh hanh tinh
-var text1 = urlParams.get("text1") && urlParams.get("text1").trim() !== '' ? urlParams.get("text1") : '';
-var text2 = urlParams.get("text2") && urlParams.get("text2").trim() !== '' ? urlParams.get("text2") : '';
-var text3 = urlParams.get("text3") && urlParams.get("text3").trim() !== '' ? urlParams.get("text3") : '';
-text1 = decodeURIComponent(text1)
-text2 = decodeURIComponent(text2)
-text3 = decodeURIComponent(text3)
+var gatewayTexts = gatewayPayload && Array.isArray(gatewayPayload.texts) ? gatewayPayload.texts : null;
+function getRingText(index) {
+  if (gatewayTexts) return String(gatewayTexts[index] || '');
+  var value = urlParams.get('text' + (index + 1));
+  if (!value || !value.trim()) return '';
+  try { return decodeURIComponent(value); } catch (error) { return value; }
+}
+var text1 = getRingText(0);
+var text2 = getRingText(1);
+var text3 = getRingText(2);
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
 text1, text2, text3,
