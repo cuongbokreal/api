@@ -1,5 +1,5 @@
 /*
- * CuongbokIT Gift Payment Runtime v1.1.0
+ * CuongbokIT Gift Payment Runtime v1.1.1
  *
  * Browser-only. Payment validity is still decided only by the configured
  * Apps Script endpoint. With manualStart enabled, no transaction request is
@@ -8,7 +8,7 @@
 (function (global) {
   'use strict';
 
-  var VERSION = '1.1.0';
+  var VERSION = '1.1.1';
 
   function copy(value) { return JSON.parse(JSON.stringify(value)); }
 
@@ -112,6 +112,7 @@
           '<input id="gift-payment-amount" min="' + (Number(config.minAmount) || 0) + '" type="number" value="' + amount() + '" ' + (state.status === 'pending' ? '' : 'disabled="disabled"') + ' />' +
           '<div class="gift-payment-qr-wrap"><img alt="Mã QR thanh toán" id="gift-payment-qr" src="' + qrUrl() + '" /></div>' +
           '<p class="gift-payment-summary" id="gift-payment-summary">Nội dung: <b>' + transferContent() + '</b> | <b>' + amount().toLocaleString('vi-VN') + 'đ</b></p>' +
+          '<p class="gift-payment-warning"><strong>Lưu ý:</strong> Không chỉnh sửa nội dung chuyển khoản. Hãy giữ đúng Donate ID và thanh toán ít nhất số tiền trên mã QR; giao dịch thiếu tiền sẽ không tạo được quà.</p>' +
           '<p class="gift-payment-status" id="gift-payment-status"></p>' +
           '<div class="gift-payment-action" id="gift-payment-action"></div>' +
           '<p class="gift-payment-help">Bạn có thể đóng tạm hộp này hoặc quay lại từ app ngân hàng; phiên thanh toán sẽ được khôi phục trong thời hạn còn lại.</p>' +
@@ -202,7 +203,14 @@
         return;
       }
       request(config.statusUrl(state), requestTimeoutMs).then(function (data) {
-        if (!config.isPaid(data, state)) { schedulePoll(pollIntervalMs); return; }
+        if (!config.isPaid(data, state)) {
+          if (typeof config.onUnpaid === 'function') {
+            var message = config.onUnpaid(data, state);
+            if (message) setStatus(String(message), 'gift-payment-status gift-payment-error');
+          }
+          schedulePoll(pollIntervalMs);
+          return;
+        }
         state.status = 'paid';
         persist();
         processPaid();

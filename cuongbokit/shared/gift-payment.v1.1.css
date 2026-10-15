@@ -7,6 +7,7 @@
 .gift-payment-qr-wrap { background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; display: inline-block; margin: 14px 0 8px; padding: 8px; }
 .gift-payment-qr-wrap img { display: block; height: auto; max-width: 200px; width: 200px; }
 .gift-payment-summary { background: #f3f4f6; border-radius: 8px; font-family: monospace; font-size: 12px; line-height: 1.4; margin: 0; padding: 8px; word-break: break-word; }
+.gift-payment-warning { background: #fff7ed; border: 1px solid #fdba74; border-radius: 8px; color: #9a3412; font-size: 12px; line-height: 1.45; margin: 10px 0 0; padding: 8px; text-align: left; }
 .gift-payment-status { color: #ea580c; font-size: 13px; font-weight: 700; margin: 14px 0 0; }
 .gift-payment-success { color: #16a34a; }
 .gift-payment-error { color: #dc2626; }
