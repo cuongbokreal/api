@@ -6,9 +6,9 @@ const { test } = require('node:test');
 const source = readFileSync(require('node:path').join(__dirname, '../cuongbokit/shared/gift-upload.v1.js'), 'utf8');
 const keys = ['a'.repeat(32), 'b'.repeat(32), 'c'.repeat(32)];
 
-function runtime(upload, storage) {
+function runtime(upload, storage, ui = {}) {
   const calls = [];
-  const window = { localStorage: storage };
+  const window = { localStorage: storage, ...ui };
   const fetch = async (url) => {
     if (url.includes('gift-upload-config')) {
       return { ok: true, json: async () => ({ providers: { imgbb: { keys } } }) };
@@ -61,4 +61,34 @@ test('a generic forbidden response does not permanently disable the key', async 
   await api.uploadToImgBb(new Blob(['first']));
   await api.uploadToImgBb(new Blob(['second']));
   assert.deepEqual(calls, [keys[0], keys[1], keys[0]]);
+});
+
+test('popup progress stays below 100 until the link is saved', () => {
+  class Element {
+    constructor(tag = 'div') { this.tag = tag; this.children = []; this.style = {}; }
+    appendChild(child) { this.children.push(child); child.parent = this; }
+    setAttribute() {}
+    insertAdjacentElement(position, child) { this.parent.appendChild(child); }
+    remove() { this.parent.children = this.parent.children.filter(child => child !== this); }
+    querySelector(selector) { return this.children.find(child => selector.startsWith('.') ? child.className === selector.slice(1) : child.tag === selector) || null; }
+  }
+  const root = new Element(), status = new Element();
+  root.appendChild(status);
+  const find = root.querySelector.bind(root);
+  root.querySelector = selector => selector === '#gift-payment-status' ? status : find(selector);
+  const { api } = runtime(() => ok(), undefined, { Swal: { getPopup: () => root }, document: { createElement: tag => new Element(tag) } });
+  api.setCreateProgress(0, 2);
+  const bar = root.querySelector('.gift-create-progress').querySelector('progress');
+  assert.equal(bar.value, 0);
+  api.setCreateProgress(1, 2); assert.equal(bar.value, 45);
+  api.setCreateProgress(2, 2); assert.equal(bar.value, 90);
+  api.finishCreateProgress(); assert.equal(bar.value, 100);
+  api.clearCreateProgress(); assert.equal(root.querySelector('.gift-create-progress'), null);
+});
+
+test('missing or broken popup never interrupts creation', () => {
+  const { api } = runtime(() => ok(), undefined, { Swal: { getPopup: () => { throw new Error('closed'); } } });
+  assert.doesNotThrow(() => api.setCreateProgress(1, 2));
+  assert.doesNotThrow(() => api.finishCreateProgress());
+  assert.doesNotThrow(() => api.clearCreateProgress());
 });

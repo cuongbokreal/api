@@ -34,6 +34,49 @@
     catch (ignored) { /* Still skip the key for this page. */ }
   }
 
+  function renderCreateProgress(percent, label) {
+    try {
+      var root = global.Swal && global.Swal.getPopup && global.Swal.getPopup();
+      var status = root && root.querySelector('#gift-payment-status');
+      if (!status) return;
+      var container = root.querySelector('.gift-create-progress');
+      if (!container) {
+        container = global.document.createElement('div');
+        container.className = 'gift-create-progress';
+        container.style.cssText = 'margin:8px 0;text-align:center';
+        var text = global.document.createElement('div');
+        text.className = 'gift-create-progress-label';
+        text.setAttribute('aria-live', 'polite');
+        text.style.cssText = 'font-size:12px;line-height:1.4;margin-bottom:4px;color:#475467';
+        var bar = global.document.createElement('progress');
+        bar.max = 100;
+        bar.setAttribute('aria-label', 'Tiến trình tạo link');
+        bar.style.cssText = 'display:block;width:100%;height:6px;accent-color:#e83e8c';
+        container.appendChild(text);
+        container.appendChild(bar);
+        status.insertAdjacentElement('afterend', container);
+      }
+      container.querySelector('.gift-create-progress-label').textContent = label + ' · ' + percent + '%';
+      container.querySelector('progress').value = percent;
+    } catch (ignored) { /* Progress must never interrupt gift creation. */ }
+  }
+
+  function setCreateProgress(completed, total) {
+    var count = Math.max(0, Number(total) || 0);
+    var done = Math.max(0, Math.min(count, Number(completed) || 0));
+    var percent = count ? Math.floor(done / count * 90) : 90;
+    renderCreateProgress(percent, done < count ? 'Đang tải ảnh ' + done + '/' + count : 'Đang lưu link');
+  }
+
+  function finishCreateProgress() { renderCreateProgress(100, 'Đã tạo link'); }
+  function clearCreateProgress() {
+    try {
+      var root = global.Swal && global.Swal.getPopup && global.Swal.getPopup();
+      var node = root && root.querySelector('.gift-create-progress');
+      if (node) node.remove();
+    } catch (ignored) {}
+  }
+
   function getConfig() {
     if (configPromise) return configPromise;
     // A unique query string makes CDN/browser caches revalidate this public
@@ -99,6 +142,9 @@
   global.GiftUpload = Object.freeze({
     configUrl: CONFIG_URL,
     getConfig: getConfig,
-    uploadToImgBb: uploadToImgBb
+    uploadToImgBb: uploadToImgBb,
+    setCreateProgress: setCreateProgress,
+    finishCreateProgress: finishCreateProgress,
+    clearCreateProgress: clearCreateProgress
   });
 }(window));
